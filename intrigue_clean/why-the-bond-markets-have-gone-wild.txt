@@ -1,0 +1,232 @@
+URL: https://archives.internationalintrigue.io/p/new-post-d813b344f1490ae6
+Title: 🌍 Why the bond markets have gone wild
+
+IN TODAY’S EDITION
+1️⃣ Bond markets gone wild
+2️⃣ Why folks are googling Chungba Sherpa
+3️⃣ Flag of the day
+Hi {{ First name | Intriguer }}.
+We’re now a month on from Assad’s demise, and Syria’s emoji (
+🇸🇾
+) still shows Assad’s old flag. What gives?
+Emojis are managed by the Unicode Consortium, a Silicon Valley-based non-profit. It actually stopped adding new flags back in 2022,
+explaining
+that despite being the single largest emoji category, flags were also the least used (and prone to controversy).
+But because the Consortium already added a Syrian flag years ago, this isn’t a question of adding a new flag, but just updating an old one. And
+that
+question (how an emoji actually ends up appearing on your device) is up to each tech company.
+Some platforms don’t show country flag emojis at all, which is why many of you just saw Syria’s two-letter code above (‘SY)’, and are wondering what the heck I’m even talking about (I get that a lot). For others, it’ll depend on your device software updates over the months ahead, subject to each tech company’s decision.
+Anyway, let’s talk about the markets.
+Bond markets
+.
+💸
+THE HEADLINES
+TikTok denies rumours of sale to Elon Musk.
+The social media giant has called reports of China potentially allowing the platform’s sale to billionaire Elon Musk
+“
+pure fiction
+”
+. Subject to a Supreme Court appeal, TikTok has a 19 January deadline to divest away from China or face a ban in the US.
+Two US rivals prepare joint bid for US Steel.
+Cleveland-Cliffs and Nucor have reportedly agreed to partner on a bid to
+buy-out their embattled competitor US Steel
+. The news comes just after the White House blocked the sale of US Steel to a Japanese company, citing national security concerns.
+Yoon impeachment trial begins.
+South Korea’s Constitutional Court has held its first hearing on whether to
+remove President Yoon Suk Yeol from office
+— it lasted four minutes due to Yoon’s absence (he’s hiding in his private residence to avoid arrest on separate charges). Six of the eight justices need to vote against Yoon to confirm his earlier impeachment by lawmakers.
+Lebanon names ICJ chief as new PM.
+Just days after appointing military chief Joseph Aoun as president, Lebanese lawmakers have now named ex-diplomat and current president of the International Court of Justice (ICJ), Nawaf Salam, as
+Lebanon’s newest prime minister
+. It’s another blow to Hezbollah, which had wanted the caretaker PM to continue in the role.
+California fires set to pick up again.
+Strong
+winds are expected to intensify
+today (Wednesday), further complicating local firefighting efforts.
+A virtual briefing with Congressman Raja Krishnamoorthi
+Ever wondered what’s really driving US-China competition? Here’s your chance to get the inside scoop from someone who’s actually in the room. Join us for a candid conversation with Congressman Raja Krishnamoorthi, Ranking Member of the Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party and member of the House Permanent Select Committee on Intelligence.
+REGISTER NOW
+TOP STORY
+Why the bond markets have gone wild
+If you imagine New York on any given day, journalists in Midtown are feverishly scribbling the scathing remarks of an ambassador at the UN Security Council. Travel a little farther south to Wall Street and traders are feverishly fixed to their Bloomberg terminals.
+But there’s a world in which these two collide: the bond market.
+While journalists at the UN might be writing about Israel’s war with Hamas, Wall Street bankers are watching the country issue record government debt to finance it.
+And those two worlds are colliding more and more.
+You see, governments worldwide are knee-deep in debt. If we’re being precise, the waterline is now maybe more around the armpits, depending where you are.
+As governments take on more debt (by selling
+bonds
+), their
+yields
+(think interest rates) can rise higher. And in 2025,
+higher
+they are — US treasuries? Almost 5% (10Y). British gilts? Pushing their highest since 2008. German bunds? At a six-month high. That all means costlier borrowing — and tougher choices — for governments.
+So… here are three quick ways these worlds are now colliding —
+(Geo)politics
+As Trump 2.0 ponders whether or how to continue US support for Ukraine’s self-defence against Russia, European capitals are still pledging their solidarity. But those pledges are rippling across capitals in complex ways:
+Germany
+’s
+Scholz fired his finance minister
+, for example, over a disagreement on the need to ease the country’s debt brake, with the chancellor now fighting an uphill battle to retain his own post at next month’s elections.
+Ditto next door in
+France
+, where disputes over spending cuts collapsed
+France’s last government
+in record time.
+So as populists in both capitals push to ease taxes and protect spending programs (though cut Ukraine aid), bond investors are getting a little uneasy about
+government finances
+, and charging them more to borrow — and that just exacerbates the underlying politics, while complicating government efforts to throw their weight around abroad.
+Enter investors
+For years, central banks have prioritised growth by cushioning bond markets and hoovering up their own government debt through
+quantitative easing
+— China just dipped back into its own
+bond market
+again last year, for example. But since around 2022, many central bankers have tapped the bond brakes to tame inflation — that leaves investors to pick up the slack (fun fact: Japan is a top buyer of US bonds).
+But private investors tend to demand higher yields, and are also attracted to safe-havens right now — and that risks
+sucking more funds into the US
+, and out of…
+Emerging markets
+Every case is unique, of course.
+El Salvador
+’s bonds have been a top-performer, for example, as President Bukele has crushed organised crime, stabilised his finances, and seen the value of his Bitcoin holdings soar — so his lenders have done well.
+But there’s a sense that conditions might get tougher for emerging markets ahead —
+Trump 2.0 tariffs
+might not only disrupt top trade partners like Mexico, Canada, and China, but also commodity exporters that help fuel China’s manufacturing machine. That’s why several emerging players (like the Saudis, Mexico, Chile, and Indonesia) are right now rushing to lock in their next borrowing before Trump’s inauguration next week.
+But if US rates stay
+higher for longer
+(a real prospect after Friday’s blowout jobs report), emerging market finances could quickly get tricky, with implications for stability. And while it might not matter to the average New Yorker what happens in (say) Bolivia, costs can filter home via an IMF bailout, or via a rival like Beijing or Moscow filling the void.
+So, next time a capital wobbles, that journalist in Midtown might just be drafting their question for the ambassador while texting their Wall Street chum about the country’s debt.
+INTRIGUE’S TAKE
+The big exception to all this, as ever, is
+China
+— it’s the only major bond market where bonds are headed
+south
+. As we
+wrote
+on Friday, that’s partly because China is facing
+de
+flation, meaning lower yields can still attract haven-seeking investors. Meanwhile, higher
+US
+yields could suggest investors are getting jittery about US finances and/or bracing for more inflation (and higher rates), which brings us to Trump 2.0.
+Maybe
+his tariffs, deregulation, tax-cuts, and migration plans will bring more inflation. Or maybe his cost-cutting pledges will cool it. Maybe it’ll be a mix. Or maybe, just maybe, yields are simply reverting to ‘normal’ after years of Covid-linked cheap money.
+Whatever it is, the world (like our paragraph above) is dripping with
+uncertainty
+, and bond markets might finally be pricing that in.
+Also worth noting:
+The latest US jobs report came out on Friday, exceeding growth expectations and raising doubts around the Fed’s rate cuts this year.
+The next US inflation (CPI) numbers are due out tomorrow (Wednesday).
+Trump’s nominee for treasury secretary (Wall St figure
+Scott Bessent
+) is due to face his senate confirmation hearing on Thursday.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: Embattled leader Yoon Suk Yeol has
+received a scheduled 3% pay rise
+even after being impeached by fellow lawmakers for attempting to impose martial law last month. Yoon remains suspended from duty and holed up in his residence to avoid arrest while a court reviews his impeachment (as above).
+🇪🇺
+EU
+: The European Commission is under fire for apparently hiding President Ursula
+von der Leyen’s week-long hospitalisation
+for severe pneumonia. EU officials have defended their actions, noting they did reveal her diagnosis (if not hospitalisation), and that von der Leyen maintained contact with her team.
+🇹🇭
+Thailand
+: The Thai cabinet has endorsed a draft law to
+legalise gambling and casinos
+in a move aimed at boosting employment, investment, and tourism. Most types of gambling are illegal (though often widespread) in Thailand, where conservatives have resisted previous attempts to legalise the practice.
+🇻🇪
+Venezuela
+: The US has
+increased its narco-terrorism bounty on Venezuelan dictator Nicolás Maduro
+to $25M, putting him on par with (for example) former al-Qaeda boss Ayman al-Zawahiri. We’d like to claim that sweet sweet bounty, and can reveal that Maduro still works at Venezuela’s Miraflores Palace (located at G35J+47F, Av. Nte. 10) after re-inaugurating himself on Friday.
+🇪🇹
+Ethiopia
+: Neighbouring Somalia and Ethiopia have now agreed to
+restore formal ties after a year-long rift
+triggered by Ethiopia’s sea access pact with Somaliland, which Somalia claims as its own. Turkey helped
+broker the truce
+last month, before this week’s unexpected peace-visit to Ethiopia by Somalia’s leader.
+FROM OUR SPONSORS
+Hands Down Some Of The Best Credit Cards For 2025
+Pay off credit card debt interest-free until nearly 2027 with a 0% intro APR card. Our experts found top options to ease the pressure and help you tackle balances without adding more.
+Click to learn more!
+EXTRA INTRIGUE
+Here’s what people around the world are googling
+🇦🇺
+Aussies
+were looking up ‘
+Virgin flight sale
+’ after
+the airline released dirt-cheap tickets
+for destinations like Bali, Fiji, Vanuatu, and beyond.
+Folks in quake-prone
+🇨🇱
+Chile
+googled ‘terremoto Japón’ (‘
+Japan earthquake
+’) after a
+6.9 shock hit south-western Japan
+.
+And
+🇳🇵
+Nepalese
+netizens looked up ‘
+Chungba Sherpa
+’ after news broke of the renowned
+wildlife photographer’s passing
+.
+FLAG OF THE DAY
+We’ve ✌️reviewed✌️ plenty of flags over the years, but none can elicit the warm, chillaxed feelings of this banner of the Federated States of Micronesia (FSM).
+It’s inspired by the flag of the original Trust Territory of the Pacific Islands, a US-administered UN arrangement that included FSM before its 1986 independence.
+The light blue background not only represents the surrounding Pacific Ocean but also the UN flag, while the four white stars represent Micronesia’s island states: Yap, Chuuk, Kosrae, and Pohnpei (where the capital Palikir is located).
+Extra fun fact
+:
+In practice, the term Micronesia can often refer to either the sovereign country (FSM) or the broader Micronesian sub-region which sits alongside others like Melanesia and Polynesia.
+Our
+rating: 9.7/10
+DAILY POLL
+Which market do you think reveals most about our world?
+💼 Bonds
+📈 Stocks
+💎 Commodities
+💸 Foreign exchange
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How worried are you about a foreign power gaining access to your devices?
+🟨
+🟨
+🟨
+⬜️⬜️
+⬜️
+🚨
+Very worried  (30%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💭
+Somewhat worried  (52%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ✌️ Not worried at all   (16%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+🚨
+M.L:
+“I may not personally be of any importance or interest, but who knows how useful my devices could be as a relay station?”
+💭
+R.J:
+“They are more concerned with the data to build a macro picture. Unless you are specifically being targeted you really don’t have much to be worried about.”
+✌️ G.B:
+“What's a foreign power going to do with my Wordle string that Big Tech hasn't already done for an obscene profit?”
+✍️
+J.M:
+“My device? I hardly use it. The companies that manage my savings and state government agencies that manage all my Personal Identifiable Information? Pretty worried.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

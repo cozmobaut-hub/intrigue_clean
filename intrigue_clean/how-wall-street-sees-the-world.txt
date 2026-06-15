@@ -1,0 +1,260 @@
+URL: https://archives.internationalintrigue.io/p/wall-street-sees-world
+Title: 🌍 How Wall Street sees the world
+
+IN TODAY’S EDITION
+1️⃣ How Wall Street sees the world
+2️⃣ What folks are googling in Cameroon
+3️⃣ Flight delay of the day
+Hi {{ First name | Intriguer }}.
+If I
+had
+to choose another job, I’d be the person who comes up with names on Wall Street. You’ve gotta project tradition, stability, prudence, stewardship, and ufff, just a dash of old money: think BlackRock, Oaktree, Blackstone, Stonepeak, Vanguard, Sentinel, Templeton, Prudential.
+They all just beckon you over, don’t they? And they say… now now, don’t be shy, come hither, and we’ll make your wealth as solid as the mountain in the logo on our fleece-vests; as sturdy as the storied oak embossed on our loafers.
+Anyway, we’re delighted that the big funds read Intrigue (hi
+👋
+), and they might nod along as today’s briefing explores how the world’s biggest asset manager now sees the world.
+PS
+- We’ll be taking a
+quick
+break
+this coming Monday
+, but we’ll be back in your inbox from Tuesday September 3rd (how is it September already).
+THE HEADLINES
+Canada to impose tariffs on China-made EVs, steel, aluminium.
+Prime Minister Justin Trudeau has announced tariffs of
+100% on imports of China-made electric vehicles
+and 25% on steel and aluminium. In explaining the move, Trudeau said “
+China is not playing by the same rules
+”, and that Canada is acting “
+in parallel with other economies
+” like the US.
+Russia launches another barrage against Ukraine’s cities.
+The
+overnight strikes
+came just a day after Russia launched one of the most intense missile and drone barrages of the war. Meanwhile, Putin still isn’t having any luck ejecting Ukrainian forces from his own Kursk region.
+China spy plane breaches Japan’s airspace.
+One of China’s intelligence-gathering aircraft has briefly
+entered Japan’s territorial airspace for the first time
+, near the uninhabited islands off Japan’s south coast. Meanwhile, US National Security Advisor Jake Sullivan has now
+landed in China
+for his fifth round of talks with Foreign Minister Wang Yi.
+UN suspends Gaza aid amid Israeli evacuation order.
+The
+temporary suspension of aid operations
+followed Israel’s latest evacuation order, which includes part of an Israeli-designated humanitarian zone where the UN’s Gaza ops centre is based.
+Brazil environment minister declares ‘war’ on wildfires.
+The sudden wildfire spike in the Amazon and rural southeast is still being investigated, though there are fears criminal groups could be involved. Meanwhile, cities like
+Brasília and São Paulo have been cloaked in smoke
+, forcing schools to close, planes to be grounded, and residents to stay inside.
+French charges against Telegram CEO revealed.
+A French public prosecutor has released a
+statement
+outlining 12 charges against Telegram founder Pavel Durov, ranging from complicity in various crimes (like drugs, child exploitation, and fraud), and refusal to cooperate with French authorities, through to unlawfully providing cryptology tools and services.
+TOP STORY
+How Wall Street sees the world
+We’re four months, 18 weeks, 126 days, or roughly 3,000 hours, give or take, until the clock hits midnight, ushering us all into 2025. Remember those New Year’s goals you set? Us neither.
+And remember how you thought the world would look come August? Ooof
+🫣
+. So when the world’s largest asset manager (BlackRock) published a
+midyear geopolitics update
+from atop its cool $10.6T in assets, we took notice.
+Here are what we see as BlackRock’s top five quotes, and why —
+US-China competition
+:
+“Increased working-level dialogue and senior visits should be seen as a tactical exercise and do not structurally alter the competitive dynamics of the relationship.”
+Both the US and China have
+tactical
+reasons to stabilise their ties right now: Xi Jinping must have one of the world’s toughest domestic in-trays, while the White House is already grappling with wars in Europe, the Middle East, and beyond.
+But their
+strategic
+game remains the same:
+Xi Jinping
+wants China to “
+lead the world in composite national strength
+”, while both
+Kamala Harris
+and
+Donald Trump
+promise variations of the US (not China) “
+winning the 21st century
+”.
+Ukraine-Russia war
+:
+“We see a ceasefire or diplomatic solution as unlikely in the near-term with the conflict likely to continue into next year.”
+To understand why this makes sense, just look at the drivers for each party:
+Putin
+has burnt 600,000 casualties and $250B to entrench himself in Ukraine’s east, with no obvious way out that doesn’t risk his own demise
+Zelensky
+has little incentive to negotiate with a guy who’s already broken Russia’s last promises from 1994, 1997, 2003 and beyond
+The West
+has little incentive to acquiesce to Russia’s ill-gotten gains given the precedent it could set elsewhere, and speaking of which…
+Xi
+has little incentive to stop helping Putin, given that sweet sweet status quo (a dependent neighbour and a distracted rival).
+So with Ukraine now playing some kind of reverse
+Uno
+against Russia, which continues to pummel Ukrainian cities, it’s hard to see any deal emerging soon.
+Middle East conflict
+:
+“From the perspective of the markets and the global economy, the situation in Gaza remains fairly contained – although the resulting humanitarian crisis is catastrophic.”
+Notwithstanding the high humanitarian toll, events in Gaza and Israel indeed have limited
+direct
+impact
+on global markets - Gaza is the size of Detroit, Israel is the size of New Jersey, and neither can single-handedly roil the global economy.
+But widen that aperture a little to include
+in
+direct impacts
+, and things get more complicated. Eg, the Houthis are still blaming Israel for Houthi attacks on Red Sea shipping, which is still at the heart of ongoing
+unease across
+global
+shipping
+. And that’s what makes our global economy go ‘round.
+Energy transition
+:
+“Clean energy will increasingly become a source of geopolitical competition, we think, benefiting those who can control and access it.”
+This is already playing out,
+remember
+?
+China
+just deployed more
+new
+green
+energy than the UK’s entire energy output over the same period - and sure, that helps collapse solar and battery prices and accelerate the world’s energy transition. But it’s also deepening the world’s dependence on a single mercantilist supplier, and it risks eroding other tech and industrial bases in the process.
+Cyber attacks
+:
+“Mounting geopolitical competition will likely cause cyber attacks to increase in scope, scale and sophistication.”
+You could divide this into two categories - one is the way
+rival states
+are now openly probing cyber vulnerabilities to erode public confidence and cause havoc in case of a war. The other is the way
+organised crime
+is increasingly exploiting new tech, complacent boardrooms, and distracted governments to make a killing.
+Geopolitical competition drives the first one directly, and the second one indirectly. And either way,
+cyberattacks have now
+doubled
+since the pandemic, while government responses are imposing economy-wide costs. But if you think the cost of action is steep, wait ‘till you see the cost of
+in
+action.
+Anyway, should we open our own fund? We’d welcome any name suggestions, but we’re really vibing with StoneRockSentinalGuard. We’re gonna start mocking up some fleece-vests.
+INTRIGUE’S TAKE
+A smug thing to do at parties is to casually slip into conversation how we’re now in a ‘
+polyfurcated
+’ world. Uffff, feels good just typing that: ‘polyfurcated’.
+The folks at Blackrock coined it in their report, describing a world which is - unlike a
+bi
+furcated world - now hurtling towards a future with
+multiple
+and
+starkly divergent
+possible outcomes: maybe Trump wins, or maybe it’s Harris; maybe Putin prevails, or maybe he gets polonium in his underpants; maybe AI just makes the Amazon help-bots better, or maybe it gets us to Mars.
+And the thing is, while markets have traditionally been pretty good at pricing in financial or economic risks, they’ve often struggled to price in
+geopolitical
+risk - even when it’s a bifurcated risk like an election. So
+poly
+furcated? Ufff.
+But don’t be intimidated by words or parties, dear Intriguer. Just keep taking a clear-eyed view of the risks ahead, and who you trust to help navigate them.
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: Several
+coordinated attacks
+in the southwestern Pakistani province of Baluchistan have left at least 70 dead between Sunday and Monday. Separatist violence is not uncommon in the province, where a low-intensity insurgency has long targeted Pakistan’s security services and beyond.
+🇳🇱
+Netherlands
+: The Dutch privacy watchdog has
+fined Uber $324M
+for transferring personal EU driver data to the US. It’s apparently the biggest fine the Dutch agency has ever dished out, and the biggest fine the ride-hailing app has ever copped globally (it’s vowing to appeal).
+🇦🇺
+Australia
+: Local workers now have the right to
+ignore after-hour work calls
+and texts, according to a new "
+right to disconnect
+" law that entered force yesterday (Monday). Aussies apparently worked an average of ~281 hours of unpaid overtime in 2023.
+🇭🇹
+Haiti
+: The US military has delivered an
+additional 24 armoured vehicles
+to the Kenyan-led peace-keeping police force now in Haiti. The first peacekeepers arrived in June and have re-established order in parts of the capital, though have faced resistance from armed gangs elsewhere.
+🇸🇩
+Sudan
+: A
+dam has failed in eastern Sudan
+due to torrential rains, causing the overflowing waters to submerge at least 20 villages in an area already dealing with a civil war. The dam was the main source of power for Port Sudan, the country’s key Red Sea port and a lifeline for humanitarian aid.
+EXTRA INTRIGUE
+Here’s what people around the world have been googling
+Folks in
+🇳🇿
+New Zealand
+searched for ‘
+larry the cat 10 Downing Street’
+after reports emerged that UK officials are
+drawing up a media plan
+to announce his eventual death (he’s doing fine don’t worry).
+People in
+🇫🇷
+France
+looked up ‘
+magnitude seisme portugal
+’ (
+Portugal earthquake magnitude
+) after a
+5.3 quake
+hit waters off the Portuguese capital of Lisbon.
+And
+🇨🇲
+Cameroonians
+googled ‘
+Sharon Okpamen
+’ as news emerged Nigeria’s popular
+Nollywood actor and producer passed away
+.
+MISSION OF THE DAY
+Butch Wilmore and Suni Williams. Credits: NASA.
+Our former careers stranded us in all kinds of intriguing places for all kinds of intriguing reasons.
+But it’s hard to beat the delay now facing Suni Williams and Butch Wilmore, who arrived at the International Space Station in June for what was meant to be an eight-day mission. Instead, their
+return flight
+to Earth is now
+in February
+.
+They were part of a test flight for Boeing’s Starliner craft which encountered some technical difficulties during docking. So everyone’s now playing it safe.
+While they wait, the two NASA astronauts have been gardening (the ISS is trying to grow its own veggies), and responding to questions from Indonesian students who managed to connect to the right frequency.
+DAILY POLL
+If you were a Wall Street executive, which geopolitical issue would you put at the top of your risk briefing?
+⚡ US-China tensions
+❌ Israel-Hamas war
+🌳 Climate change
+🚢 Trade disruption
+🪆 Russo-Ukraine war
+🧓 Demographic shifts
+🍏 Poverty
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about Durov's arrest in France?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 Good - you can't allow impunity when it comes to child exploitation online (65%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 👎 Bad - it's all a pretext to further restrict speech (29%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (5%)
+Your two cents:
+👍
+D:
+“You create a platform and make a fortune, you're responsible for its consequences if you're not putting in guardrails. Free speech is not a get out of jail card.”
+👎
+T.H:
+“While I agree there is a bunch a shady sh%t on Telegram, there seems to be a push for censorship around the world and that is more concerning. Free speech is essential to actual freedom. This censorship trend in the Western world is very concerning. It's also a bit scary.”
+✍️
+S.B:
+“Social media companies are becoming national security assets, and controlling them is a form of information warfare.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

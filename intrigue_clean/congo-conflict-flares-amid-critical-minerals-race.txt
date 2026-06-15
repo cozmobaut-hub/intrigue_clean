@@ -1,0 +1,229 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-90df
+Title: 🌍 Congo conflict flares amid critical minerals race
+
+IN TODAY’S EDITION
+1️⃣ Why rebels just advanced in the Congo
+2️⃣ Why Danes are googling their PM’s dinner
+3️⃣ Banknote of the day
+Hi {{ First name | Intriguer }}.
+One of the most gripping books I was recommended last year is ‘
+Cobalt Red: How the Blood of the Congo Powers Our Lives
+’ by Siddarth Kara.
+As its title quite succinctly describes, the book is an engrossing deep dive on the geopolitics and human costs behind the critical minerals industry. These minerals power all our common household devices, ranging from iPhones to electric car batteries.
+And as demand for minerals like cobalt has soared, the industry has also worsened the pain for a region that’s already beset with geopolitical complexities. We’ll see some of this play out in our top story today on the tensions unfolding between
+Rwanda, the DR Congo, and M23
+.
+THE HEADLINES
+DeepSeek rocks global markets.
+As we
+foreshadowed yesterday
+, the release of China-based AI startup DeepSeek’s low-cost and high-tech reasoning chatbot ended up triggering a
+17% single day crash in Nvidia shares
+— that’s $600B in market value, the biggest single drop in US stock market history. Meta, Alphabet, Oracle and other tech stocks also took a tumble, prompting President Trump to describe DeepSeek as a “
+wake-up call
+” for the sector.
+Microsoft also in talks to buy TikTok?
+President Trump has suggested that tech giant Microsoft is now also in talks to
+buy China-based social media platform TikTok
+, competing against other bidders like US startup Perplexity AI. Trump says he wants to see a bidding war over the ultra-popular app.
+Trump threatens tariffs on Taiwan chips.
+The US president has used a speech in Miami to flag
+possible tariffs as high as 100% on imported semiconductors
+, plus the removal of Biden-era subsidies that encourage chipmakers to manufacture in the US. Taiwan, a close US partner and home to the world’s largest chipmaker (TSMC), has responded that the current arrangement (US-led design, Taiwan-led manufacturing) is a “
+win-win
+”.
+Trump aid freeze felt around the world.
+Various
+US-funded programs are now on hold
+, ranging from counterterrorism training in Somalia and narcotics interdiction in Colombia, through to prosthetics for those injured in Myanmar’s war. Rather than just pause funding, the Trump order also forbids projects from using unspent US funds they’ve already received — a stop-work order. So aid workers are now flooding the State Department with waiver requests, though it’s unclear which ones might be granted.
+Denmark boosts Arctic security.
+Copenhagen has announced
+a $2B Arctic security partnership
+with its autonomous regions of Greenland and the Faroe Islands, presumably in response to President Trump's talk of gaining control of Greenland.
+China and India resume direct flights.
+Five years after suspending direct flights due to Covid and a series of deadly border skirmishes, the two giant neighbours have now agreed to
+resume direct flights
+in a sign that their frosty ties
+could
+now be thawing.
+TOP STORY
+Congo conflict flares amid critical minerals race
+Pictured: Some of the Congo’s rare materials like cassiterite, coltan, gold ore, and wolframite
+As we foreshadowed yesterday, Rwanda-backed M23 rebels have now seized the eastern Congolese trade hub of Goma in a lightning advance.
+It’s a conflict with ties to Big Tech, world history, and Western unease, so let’s take a look:
+The geography
+A quick glance at a map might make you wonder how Rwanda could possibly be a source of angst for the neighbouring Democratic Republic of the Congo (DRC), which is
+90 times bigger
+. They share a border along Lake Kivu, with DRC’s Goma serving as a vital port city of two million people.
+Traders flock to
+the region’s wealth
+of gold, cassiterite, coltan, cobalt, and diamonds, but these riches have also
+fuelled instability
+since at least the colonial era, while 100+ rival militias have been in a state of intermittent conflict since the 1994 Rwandan genocide.
+The who’s who
+First, there’s the
+main rebel groups
+:
+M23
+(
+March 23 Movement
+, the date of an earlier peace accord) is a Tutsi-led group backed by Rwanda (which
+disputes
+this), and
+The FDLR
+(
+Democratic Forces for the Liberation of Rwanda
+)
+i
+s the rival DRC-linked militia co-founded by exiled Hutus who led Rwanda’s genocide against Tutsis.
+Then there’s their
+regional backers
+:
+Rwanda
+’s leader (Paul Kagame) is part hero for the way he’s restored order and prosperity after the genocide, but he’s also part villain for his autocratic methods. Plus while everyone knows he backs M23, which started out pursuing fleeing genocidaires into DRC, he has lots of friends in the West because of the way he’s a) opposed Russia’s Wagner mercenaries, b) contributed regional peacekeepers, and c) even helped guard France’s $20B gas venture in Mozambique.
+The DRC
+, on the other hand, is still grappling with its own brutal colonial legacy, is fresh off a botched military coup, and hasn’t earned many friends abroad by sentencing three involved Americans to death.
+And then there’s their
+international backers
+:
+Western partners like the
+US
+and
+UK
+have condemned the violence and helped haul some of the perpetrators before international courts, but they remain cautious about using sanctions given the likelihood of targets merely inviting support from
+China
+and
+Russia
+instead
+France
+, blamed by many locals for the West’s slow response to the genocide, has just
+called on the UN Security Council
+to scrutinise Rwanda’s current role, with backing from Uruguay and South Africa (who just lost peacekeepers), and
+Kenya’s
+President Ruto is now seeking to fill the remaining diplomatic void by hosting talks this week, though there’s no confirmation if anyone will actually attend yet.
+And then, dear Intriguer, won’t somebody think of
+the private sector
+?
+As geopolitical competition heats up, industry is now scrambling to secure supplies for
+tech-critical minerals
+like tantalum,
+60%
+of which still comes from the DRC and Rwanda, and
+That’s leading to allegations (plus even
+a lawsuit
+) that giants like Apple are using conflict-sourced minerals in their top products (accusations Apple rejects).
+So why is this flaring up again now?
+Angola’s on-again / off-again peace talks collapsed (again) last month, with Luanda throwing shade at Rwanda’s alleged unwillingness to engage.
+So M23 made its move again and, unlike its last brief seizure of Goma in 2012, this one looks like it could hold, as reports emerge of DRC soldiers surrendering their arms.
+INTRIGUE’S TAKE
+There aren’t a lot of good options here:
+Our more
+multipolar
+world means whatever measures you might propose, your rivals will only be too happy to undermine them for influence, and yet
+So long as the violence continues, it’s tough to
+verify
+where your tantalum comes from, leaving Big Tech and others exposed to reputational and legal risk.
+And yet… with the long-running conflict already displacing seven million people, inaction is hardly a viable option either.
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: Taipei authorities have now blacklisted
+52 China-owned ships
+that use flags of convenience to evade international scrutiny, after one such dilapidated tanker severed an underwater cable this month. They’re part of a broader ‘shadow fleet’ now making up a fifth of the world’s cargo vessels.
+🇪🇺
+EU
+: Tesla is now
+suing the European Union
+over its tariffs on China-made EVs, joining BMW and several local firms manufacturing in China. After an anti-subsidy investigation that wrapped last year, the EU imposed a 7.8% tariff on Tesla, which makes over half of its cars in China.
+🇮🇳
+India
+: India’s central bank has announced a series of measures to
+inject nearly $18B
+of liquidity into the local banking system, after a months-long cash crunch pushed rates up. The bank’s move has also raised hopes of a possible rate cut next month.
+🇨🇺
+Cuba
+: Havana has
+halted the release of political prisoners
+and kicked off military exercises after Donald Trump re-listed the country as a state sponsor of terrorism last week.
+This effectively walks back a deal that the Catholic Church brokered between Cuba and the Biden administration.
+🇸🇩
+Sudan
+: Around 70 people have died in an
+attack on the only functional hospital in Sudan’s besieged city of El Fasher
+, according to the World Health Organisation.
+Locals are blaming the
+Rapid Support Forces
+militia, which US and UN authorities have accused of genocide.
+EXTRA INTRIGUE
+Here’s what people around the world are googling
+Folks in
+🇮🇳
+India
+are looking up ‘
+Motuo
+’, the
+world’s little-known but largest dam
+that China is now building over the border in Tibet.
+🇩🇰
+Danes
+looked up ‘Frederiksen middag’ (
+Frederiksen dinner
+) after PM Frederiksen
+shared a pic of the home dinner
+she hosted for the leaders of Finland, Norway, and Sweden.
+And
+🇦🇷
+Argentinians
+are googling ‘paro de trenes’ (
+train strike
+) as their
+government enters negotiations
+to halt a strike scheduled for today (Tuesday).
+BANKNOTE OF THE DAY
+Credits: De La Rue.
+New year, new banknote.
+At least that’s the case in Belize, which has
+announced
+it’s replacing an image of the late Queen Elizabeth II with two recipients of the country’s Order of the National Hero.
+The Central American / Caribbean country’s independence hero and first prime minister, George Cadle Price, will now star on some bills, while Philip Goldson, a founding member of both main political parties, will feature on others.
+DAILY POLL
+Hollywood's legendary Lion King composer is now in talks with the Saudis to revamp the kingdom's national anthem. Would you consider swapping your national anthem for a Hans Zimmer epic?
+🎺 Yes, it could do with a refresher
+⛔ No, my anthem is good as is
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think DeepSeek means for the US?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🚀
+It'll push the US tech sector to innovate harder (71%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💨
+It'll leave US companies in the dust (13%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤷
+Meh, DeekSeek still leans on US tech (14%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (2%)
+Your two cents:
+🚀
+G.B:
+“Competition breeds innovation, as does (cold) wartime. As this situation precludes both, I foresee US companies using their massive resources to brute force themselves back to the front.”
+💨
+J.G:
+“We have seen way too many ‘too big to fail’ companies actually fail  — resting on a company's laurels will make the company lax. Never underestimate your competition.”
+✍️
+P.C:
+“Someone should ask DeepSeek what it believes its impact on the US will be…”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

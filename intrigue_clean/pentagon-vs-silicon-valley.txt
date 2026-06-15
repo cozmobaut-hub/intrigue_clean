@@ -1,0 +1,241 @@
+URL: https://archives.internationalintrigue.io/p/red-a1d7
+Title: 🌍 Pentagon vs Silicon Valley
+
+Today’s briefing:
+— Pentagon vs Silicon Valley
+— A president gets life
+— A sports league goes back in time
+Good morning {{first_name | Intriguer}}
+. I once sat at a gala table with Buzz Aldrin and noticed three things: a) he wore two ties, b) he wore two watches, and c) when they played the national anthem, he stood to attention with the crispest salute you ever saw.
+My conclusion? This is one sharp, punctual, and patriotic guy.
+Now let’s deploy those same powers of deduction and see what we might glean from this
+big spat between Anthropic and the Pentagon
+, no?
+PS
+- Ahead of a revamp, it’s your last week to
+score sweet perks
+(including access to our exclusive WhatsApp group) by sharing Intrigue with friends using your unique link below!
+Verdict of the day
+Guilty
+That’s how a South Korean court just found former president Yoon Suk Yeol, sentencing him to life imprisonment for insurrection over his failed martial law decree in late 2024.
+The ethics of AI
+News recently broke that the Pentagon had used Anthropic’s
+Claude
+AI tool to capture Venezuela’s Nicolás Maduro. Cue the memes about Secretary Hegseth prompting AI with something like “
+hey Claude, go seize Maduro without US casualties, make no mistakes
+”.
+But this was all apparently news to Anthropic itself, which reportedly sought clarification. The AI firm denies making any such enquiries, but the Pentagon presumably interpreted it all as
+implied disapproval
+and is now
+“reviewing its relationship with Anthropic",
+adding
+“our nation requires that our partners be willing to help our warfighters win in any fight.”
+So how’d we get here?
+Anthropic, the AI pioneer founded by former OpenAI executives, is barely five years old, but bagged
+a massive $200M defence contract
+last July in a deal it
+highlighted
+as proof of the firm’s commitment to US national security.
+From DC’s perspective, it all reflects Anthropic’s reputation as not only capable, but also controllable — a critical feature for any NatSec client.
+But
+reaaaaally
+, Anthropic has had a NatSec role since at least 2024, when
+Palantir
+incorporated the Claude AI model into its systems. You might know Palantir through its colourful chair (Thiel), CEO (Karp),
+public filing paperwork
+, or its clients like
+ICE
+. Turns out Claude’s role in the Maduro operation was also via this older Palantir arrangement.
+Either way, you’ve got Anthropic going deeper in its US national security work at a time when Trump 2.0 is throwing more US weight around, all while Anthropic’s own CEO (
+Dario Amodei
+) is getting more
+publicly antsy
+about the risks around AI.
+So maybe the only surprise here is how long this spat took to blow up.
+Where’s the puck now?
+While the Maduro operation really flicked on the lights, this spat was already brewing in the shadows for months via stalled contract negotiations over that big $200M deal.
+Military planners argue
+any AI tool they buy should remain fully available for
+all
+lawful
+operations
+: arms development, intelligence, battlefield ops, and beyond. They don’t want nerds suddenly refusing tasks or imposing their own ethical guardrails — elected lawmakers are the ones who decide what is and isn’t lawful.
+Anthropic, however, is insisting
+on hard limits against autonomous weapons and mass domestic surveillance. Both red lines could impose tighter limits than what’s strictly lawful — eg, the
+Foreign Intelligence Surveillance Act
+allows eavesdropping on non-citizens abroad, including when they’re contacting Americans, resulting in incidental collection.
+And Amodei is not budging, which seems to be why the Pentagon has now sensationally started warning it could designate Anthropic a
+Supply Chain Risk
+, a label usually reserved for foreign adversaries! In practice, that’d mean not only losing lucrative government contracts, but also contracts with other US government contractors!
+So what happens next?
+Anthropic
+insists (against all evidence) the talks are still productive, but Amodei’s public stance might’ve now painted his own firm into a corner.
+And the Pentagon does have other options: OpenAI’s Sam Altman recently said “
+never say never
+” when asked about building weapons, while Google rolled back its own bans early last year, and Musk’s xAI never really had these kinds of red lines to begin with. All three already have US NatSec contracts, and will gladly take Anthropic’s market share if Amodei doubles down.
+As for the Pentagon
+, there’s probably a broader
+precedent risk
+at play here: they won’t want others imposing guardrails that limit the government’s access to top tech, given the impact this could have on US competitiveness against rivals with no such limits.
+Anyway, regardless how the cards play out, Washington is making sure that the message to Silicon Valley is clear — we make the guardrails, you make the technology.
+Intrigue’s Take
+We’ve seen this kind of spat before, whether Google’s 2018 employee revolt over Project Maven, or Apple’s 2016 refusal to unlock the San Bernardino terrorist’s iPhone for the FBI.
+So what makes this Anthropic fight different?
+First
+,
+tech
+has advanced beyond recognition since then. Anthropic didn’t even exist until 2021.
+Second
+, our
+politics
+have changed, too: Trump 2.0 acts less constrained, places a bigger premium on loyalty, and has shown way more willingness to intervene in the economy.
+And
+third
+,
+US-China
+competition has changed too, escalating from an initial, semi-transactional trade spat to almost a full spectrum tech war.
+But maybe
+China
+is where we wrap, because arguably
+a
+) it’s China that benefits if the US cuts off its own AI nose with this ‘supply chain risk’ designation,
+b
+) it’s really China that comes to mind when Amodei draws the line at AI making us "
+more like our autocratic adversaries
+"; and
+c
+) it’s also China where Google arguably learned a relevant lesson two decades ago, trading its principles for market share only to end up with neither.
+Sound even smarter:
+Anthropic’s Dario Amodei and OpenAI’s Sam Altman are now wrapping an India visit for Prime Minister Modi’s big AI summit. In a fitting snapshot of their well-known rivalry, the two tech leaders avoided holding hands during the group pic.
+Meanwhile, elsewhere…
+🇨🇳
+CHINA
+-
+Halve it, please.
+The IMF has called on China to focus on “
+transitioning to a consumption-led growth model
+“, warning it can’t rely on exports to drive growth in the future. The spicy recommendations include urging Beijing to halve its industrial subsidies. (
+WSJ
+$)
+Comment
+:
+China wouldn’t ordinarily take IMF orders, though this statement seems both timed and framed to encourage what Beijing already says it wants: its current five-year-plan emphasises consumption, and we’re just weeks out from the annual National People’s Congress. But any real shift still seems distant given it means redistributing more resources (and thus power) from the state to households, and back-tracking on President Xi’s own philosophical opposition to the kind of safety net more consumption would demand.
+🇸🇾
+SYRIA
+-
+US pullback.
+The US will reportedly withdraw most of its ~1,000 troops from Syria over coming months, amid Damascus pledges to take the lead in countering ISIS, plus the halting integration of Kurdish-led forces the US long backed against ISIS. (
+BBC
+)
+Comment
+:
+It’s a big story completely reshaping Syria, but is easily overshadowed by the
+massive US military buildup near Iran
+, with reports the US could be ready to strike as early as this Saturday, though Trump reportedly hasn’t yet made a final call. In
+breaking news
+, Poland is now urging its citizens to get out of Iran, warning the prospect of war is now “very, very real”.
+🇨🇳
+CHINA
+-
+Nuclear test?
+A senior US official has doubled down on previous allegations China conducted an underground low-yield nuclear test in 2020, reigniting an international debate. For its part, China denies the claims and is accusing the Trump administration of attempting to construct a pretext to restart US nuclear testing. (
+WP
+)
+🇩🇪
+GERMANY
+-
+More spying!
+Berlin is preparing to remove certain legal restraints on its foreign intelligence service to allow its spies more leeway in carrying out sabotage, cyber, and espionage operations. (
+Politico
+)
+Comment
+:
+These restraints, a legacy of the post-WWII era, mean German spooks have had to watch while the Kremlin wages various forms of hybrid warfare on Germany and its neighbours. It seems Berlin now wants to hit back.
+🇨🇦
+CANADA
+-
+Buy local.
+PM Mark Carney has unveiled a new ~$5B defence procurement plan, aimed at modernising the armed forces while prioritising local firms. He’s emphasising the need never to be “
+hostage
+” to others when it comes to security. (
+GlobalNews
+)
+Comment
+:
+While small, it’s a continued de-risking away from Canada’s wide-ranging reliance on the US. He’s aiming to ramp up the domestic share of defence procurement from 30% to 70%, a pretty ambitious goal.
+🇵🇭
+PHILIPPINES
+-
+Friends to enemies.
+Sara Duterte, daughter of former leader Rodrigo Duterte (of ICC fame) and now the country’s vice president, has announced she intends to run in the 2028 presidential election. (
+Guardian
+)
+Comment
+:
+It’s another escalation in the bitter feud between the country’s two most powerful political dynasties (Marcos and Duterte). President Marcos Jr is termed out, but he’ll see Sara’s run as existential given the role his own administration played in handing her dad over to The Hague on accusations of crimes against humanity.
+🇬🇦
+GABON
+-
+Socials ban.
+Authorities in Gabon have indefinitely suspended social media platforms including TikTok and Facebook, blaming them for stoking divisions in society. We’re sure it all has nothing to do with ongoing anti-government labour strikes. (
+AfricaNews
+)
+Extra Intrigue
+The Intrigue commodities corner is back
+Oil
+: Turkey will soon start
+ultra-deepwater oil drilling
+off the coast of Somalia.
+Copper
+: The world’s largest miner, Australian giant BHP, has
+posted bumper earnings
+driven by copper rather than iron ore.
+Sugar
+: The price of sugar has tumbled to a five-year low amid a
+boom in weight-loss drugs
+that reduce cravings for sweet treats.
+From our friends
+Not just another TL;DR news digest.
+The Pint is the
+world’s only meme-based email newsletter
+, bringing you global news through memes. After failing (spectacularly) to convince traditional media outlets to open a meme desk, they went rogue and created The Pint. They trudge through global news to deliver a weekly digest of the week’s most memeable moments.
+Every Friday. For Free.
+Map of the day
+Courtesy of the NBA
+Notice anything funny about that map of France above?
+The NBA beamed it up on the big screen to highlight France’s Victor Wembanyama making his second NBA All-Star appearance over the weekend.
+But rather than shine a light on the 20-year-old San Antonio Spurs rising star, the NBA ended up shining a light on the fact it mistakenly featured a map that’s almost a thousand years old, and includes territory now belonging to Belgium and the Netherlands!
+Our guess is the NBA isn’t guilty of plotting a return to Capetian-era France, so much as just guilty of getting its maps from AI. At least President Macron saw the funny side,
+tweeting
+, “
+I want to reassure our neighbours that we did not provide the map
+”.
+Today’s poll
+Who do you think will 'win' this standoff?
+(tell us why!)
+🎖️ The Pentagon
+🤖 Anthropic
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think of this RAMageddon?
+💽
+Yikes, I'm stocking up on RAM right now (47%)
+🚫
+Eh, it's overblown (45%)
+✍️ Other (write in!) (11%)
+Your two cents:
+💽
+K.M:
+“RAM is used in all modern electronics. Everything is going to get more expensive, and fast.”
+🚫
+Q.O.F.M.:
+“It's probably down to the usual double and triple ordering. When the demand doesn't justify the orders, they'll be cancelled and the shortage will disappear. Happens regularly in tech land.”
+✍️
+F.G:
+“I'm only worried that this is the beginning of the ‘
+you will own nothing and be happy
+’ future everyone's worried about.”

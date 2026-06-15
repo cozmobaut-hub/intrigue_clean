@@ -1,0 +1,256 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-2688657d377005f2
+Title: 🌍 Putin’s war, four years on
+
+Today’s briefing:
+— Putin’s war, four years on
+— Mexico’s cartel heir?
+— Imagine you got this text
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. One of the wildest memories I have from my time working at Google Search were the events leading up to the 2022 Russian invasion of Ukraine. It was a regular week, until one of my colleagues from Maps flagged that there were increased activities and movement on the Russia-Ukraine border, which signalled military buildup and likely imminent incursion.
+At the time, most folks weren’t able to wrap their heads around why Russia would invade, and speculated that the intel could be wrong. But of course, the data and imagery didn’t lie and what transpired over the next few days was a Russian invasion. Google Maps then had the tough job of figuring out what to display or hide on its platform in order to help civilians and minimise casualties.
+Four years on, the Russo-Ukraine war is still going
+. The battle has since evolved into a theatre for the future of war, while a weary Europe and other global supporters watch on. That’s our top story today, so let’s dive in.
+Number of the day
+13%
+That’s how far IBM shares fell yesterday (Monday), the US tech firm’s largest single-day drop since the dot com bubble. Why? Anthropic announced its latest AI tool capable of modernising COBOL code, a programming language that runs on IBM products.
+Will Putin stop?
+As Ukrainians today mark their fourth year of defending against a Russian invasion — 11 years if you start the timer from Russia’s seizure of Crimea — peace looks no closer.
+Why?
+First, let’s look at the battlefield.
+Putin continues to claim
+marginal gains at staggering cost
+: he’s now averaging ~44,000 casualties a month (and rising) in return for 50-100 sq km per month (and slowing).
+Or to put it other ways, while
+neither side seems near a breakthrough
+, and Ukraine’s situation remains difficult, Putin is now…
+losing as many troops as he can mobilise
+losing as many troops in a month as Moscow lost to Afghanistan in a decade, and
+holding less of Ukraine now than in June 2022 (
+after
+his Kyiv losses).
+That bleak report card is partly why Zelensky keeps warning that any pause now simply means a break for Putin to regroup and try again — he can’t bank those losses.
+Second, let’s look at the negotiations.
+401 days since President Trump returned to the White House vowing he’d end the war in a day, any US mediation efforts are still stalling, with last week’s Geneva talks no exception.
+The main sticking point?
+Putin still insists Zelensky hand over Ukraine’s regions of Luhansk, Donetsk, Kherson, and
+Zaporizhzhia
+, even though Putin hasn’t managed to seize them all after four years of war (he’d need
+another century
+at current rates).
+It’s not a realistic demand, particularly Ukraine surrendering its ultra-fortified ‘Donbas line’ in Donetsk — that’d be handing Putin a springboard to a full conquest.
+But
+‘unrealistic’ is the point
+: by insisting on impossible terms, Putin hopes to frame Zelensky — not himself — as the obstacle to peace. And maybe it’s working, because…
+Third, let’s look at the US role.
+Trump 2.0 has shown flashes of pressure on Russia, whether via secondary sanctions on those keeping Putin’s economy afloat (China and India), or just last week
+extending
+the Obama/Biden-era sanctions regime for another year.
+But in parallel, Trump has also
+cut direct US security assistance
+by ~99%
+, slashed intelligence sharing, and publicly pressured Zelensky to hand more land to Putin.
+The EU’s own ramp-up
+has
+almost
+offset that US collapse, financing US arms sales to Ukraine to keep total security aid relatively stable. But while France is stepping in on the intel front, US battlefield, targeting, and early-warning capabilities are irreplaceable.
+And the net result is
+a little discombobulating
+: per Trump’s years of pushing, Europe is now taking more of the lead in supporting Ukraine’s (and thus Europe’s) self-defence. But by cutting US support, Trump has also cut his own leverage to impose any settlement on Kyiv, not to mention any other European capital mindful of Putin’s broader ambitions.
+And finally, that brings us to…
+Fourth, let’s look at Europe’s role.
+Unsurprisingly-if-semi-cynically, Europe’s
+defence spending
+is directly correlated to Russian proximity: those who’ve survived Moscow’s past attacks and occupation (like Poland, Lithuania, Latvia, and Estonia) now spend 3.5-4.5% of their GDP on defence. Those further away, like Spain, Italy, and Portugal? They’re closer to NATO’s traditional 2% floor.
+We spell that out because it hints at the dynamic still posing the biggest risk to European unity:
+Putin’s invasion hits different
+capitals in different ways, and the tension in how to respond, while natural and even by design, also risks becoming existential.
+Brussels has managed to de-escalate internal spats so far, whether over Ukrainian
+wheat
+or
+refugees
+. But there’s always another spat around the corner, with stakes that just keep getting higher — eg, the latest tiff
+(energy) just took a spectacular turn
+:
+Instead of fixing Russia's pipeline across Ukraine (or else!), Ukraine hit a Russian oil terminal 1,000km upstream, flipping the blame back onto Hungarian-Slovakian decisions to stay hooked on a warzone pipeline and the aggressor who wrecked it.
+But spat or no spat,
+polling
+suggests Europeans now increasingly see Ukraine’s freedom as inseparable from their own.
+Oh, and
+as for Ukraine’s own role?
+Four years ago, Zelensky warned Putin would see Ukrainian faces, not backs. Now fast-forward to today, and Ukraine is manufacturing
+half a million drones per month
+, its home-grown Flamingo cruise missile just hit an arms factory deep inside Russia, and ground troops retook ~300 sq km in a couple of weeks.
+Maybe to ‘win’ this war by now, Zelensky really just needs not to lose.
+Intrigue’s Take
+So that’s a brief reflection on why this war is still raging after four years. It’s also worth a quick reflection on how this war has already shaped our world, starting with…
+First
+, this conflict has revived old-school
+warfare
+(trenches, artillery) in some ways, but revolutionised it in others (drones).
+Second
+, it’s weakened the world’s
+nuclear non-proliferation
+regime, as more capitals (Seoul, Tokyo, Warsaw, and beyond) ponder nukes to avoid Ukraine’s fate.
+Third
+, it’s exacerbated the world’s
+paranoia
+, as spooked capitals rush to secure their own food, energy, critical materials, tech, finance, and beyond.
+Fourth
+, it’s shattered Europe’s post-Cold War
+complacency
+, with key capitals rapidly ditching sacred cows (debt brake, joint debt) to awaken the bloc, and…
+Fifth
+, polls suggest near-majorities of both
+the public
+and
+insiders
+across the West now see
+WW3
+as increasingly likely over the next 5-10 years.
+And it’s hard to make this last point without seeming a tad unkempt, but it’s true: much like us (say) shaking our heads at a 1939 Senator Borah dismissing WWII fears when WWII was already underway, our grandkids might one day marvel at today’s polls fearing some future WW3, given the non-zero chance WW3 is already underway: Putin already needs North Korean troops, China’s industry, and Iranian drone tech to keep his invasion rolling, against a young democracy backed by the free world’s capital, arms, and resolve.
+Today’s newsletter is sponsored by
+Particle for Men
+Looking sharp isn’t luck—it’s maintenance.
+Reduce eye bags, dark spots, and wrinkles with the first-of-its-kind anti-aging solution designed specifically for men. Powered by advanced dermatological research, Particle for Men Face Cream keeps your skin looking healthy, firm, and youthful. No wonder over 1,000,000 men already use Particle daily to look and feel their best.
+Particle Face Cream comes with a 30-day money-back guarantee, plus it's now being exclusively offered to International Intrigue readers for 20% off.
+Just use the promo code INTRIGUE20
+to take advantage of this discount and see results within a few weeks.
+Meanwhile, elsewhere…
+🇲🇽
+MEXICO
+-
+More deets.
+A day since Sunday’s
+spectacular hit
+on drug kingpin El Mencho and his cartel’s mass retaliation, authorities have revealed
+a
+) they found El Mencho by tracking one of his many girlfriends, and
+b
+) they’ve also now killed his deputy (El Tuli), who reportedly orchestrated Sunday’s retaliatory
+bloqueos
+. The total death toll now stands at more than 70. (
+The Straits Times
+)
+Comment:
+If someone pitched Netflix on that plot line (the feds tracking a cartel via paramours), execs would dismiss it as cliché: the same thing happened to Costa Rica’s Picado kingpin just last year, not to mention El Chapo himself in 2016. Meanwhile, there are rumours El Mencho’s stepson (aka ‘03’) is emerging as his successor.
+🇫🇷
+FRANCE
+-
+Goodbye.
+The foreign minister (Barrot) has curbed the US ambassador’s direct access to ministers after Ambassador Kushner ignored a second summons, this time over US comments about the beating death of 23-year-old nationalist-right student activist Quentin Deranque. Paris has described the US comments (like a tweet blaming violent radical leftism) as interference in domestic French affairs. (
+France24
+)
+Comment:
+This measure would ordinarily make an ambassador’s position untenable, though the French have left the door open to reconciliation as soon as Kushner (Jared’s dad) makes himself available. The ambassador can always turn up and defend the tweet (several hard-left figures are already in French custody), but dissing a summons is begging for expulsion.
+🇦🇺
+AUSTRALIA
+-
+Off with him.
+Prime Minister Albanese has written to the UK to confirm his government supports
+Prince
+Andrew’s removal from the royal line of succession (Australia is a Commonwealth realm). Meanwhile, British police have now released on bail Lord Mandelson (former ambassador to the US) amid allegations he shared sensitive information with Jeffrey Epstein while a minister. (
+Guardian
+)
+Comment
+:
+Australia’s succession statement is more symbolic at this point, given Andrew is eighth in line. Still, it all highlights the way more heads have rolled abroad than back in Epstein’s home country — there’ve been a few corporate US scalps (Goldman, Hyatt), but Commerce Secretary Lutnick is holding on despite his post-conviction years of warm Epstein ties, a family island visit, and even co-investments.
+🇳🇱
+NETHERLANDS
+-
+New PM.
+After 117 days of coalition talks, 38-year-old centrist Rob Jetten has emerged as the new Dutch prime minister. His first international call was to Ukraine’s Zelensky, pledging continued support for Ukraine’s self-defence. (
+DW
+)
+Comment
+:
+At the helm of a fragile minority coalition holding just 66 of 150 lower-house seats, it’s a tough gig ahead.
+🇵🇪
+PERU
+-
+Star economist.
+Peru’s freshly appointed president (the country’s 8th in a decade) has tapped renowned pro-market economist Hernando de Soto to lead the interim government as prime minister, at least until elections this April. (
+Andina
+)
+🇰🇵
+NORTH KOREA
+-
+Ain’t no party.
+You’re not going to believe this, but North Korea’s Workers' Party has again unanimously selected Kim Jong Un to lead the hermit state. The first two notes of congratulations came from Kim’s two treaty allies, China and Russia. (
+Al Jazeera
+)
+🇹🇩
+CHAD
+-
+Close it down.
+Chad has closed its eastern border with Sudan after an assault by Sudan’s notorious RSF paramilitary reportedly left five Chadian soldiers dead. (
+AA
+)
+Comment
+:
+It’s a classic example how Sudan’s civil war threatens drawing in the whole region: yes, there’s the violence spilling out over borders, but there are also reports (which Chad denies) of the RSF importing arms in via Chad.
+Extra Intrigue
+Some of the things we’ve marked in our calendars
+🇺🇸
+President Trump delivers his
+State of the Union address
+later today (Tuesday).
+🇮🇷
+The next
+Iran-US talks
+in Geneva are due to kick off from Thursday.
+🇨🇳
+China’s
+annual ‘Two sessions’ (the People’s Congress plus a consultative body) will unveil Beijing’s latest Five-Year Plan from next Wednesday (March 4th).
+🇳🇵
+And
+Nepal
+is due to hold its post-riot elections next Thursday (March 5th).
+Text message of the day
+There’s nothing quite as thrilling as switching your phone to aeroplane mode, powering up that noise-cancelling Bose rig, then boarding that sweet sweet flight to paradise.
+But when Philippine senator Risa Hontiveros touched down on nearby Thitu Island, she and her fellow passengers were a little startled when they switched their phones back on and received a “
+Welcome to China
+” message.
+Manila has controlled the tiny 37-hectare (0.37 sq km) island since 1971, when a typhoon forced the outpost’s Taiwanese troops to withdraw. But in 2009, China
+lodged
+its vast (and
+unlawful
+) ‘nine-dash-line’ claiming almost all the South China Sea, including Thitu.
+So yep, it’s just a text message. But it’s also a reminder how Beijing still uses infrastructure (both military and civilian) to push its territorial claims.
+Today’s poll
+Which development do you think would bring Russo-Ukraine peace soonest?
+☠️ Losses become unsustainable
+🌲 Significant territory lost/gained
+✂️ Allies pull their support
+🔫 Sudden leadership change
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+If you were the president of Mexico, what would you prioritise
+first
+to tackle organised crime?
+👮
+More security (49%)
+📈
+More economic growth (14%)
+🏫
+More social services (7%)
+🇺🇸
+More partnership with the US (25%)
+✍️ Other (write us!) (2%)
+Your two cents:
+👮
+L.E:
+“If people don’t feel secure, they can’t participate in economic growth and social programs.”
+🇺🇸
+T.L:
+“Cooperation with the US right now remains the best option. Not just for continued intelligence but expanding the rate and range of kinetic options. The cartels are not snakes but hydras.”
+✍️
+C.L:
+“Go for the financial tools for money laundering, and other sources of income. Organised crime in Mexico is much more than drug trafficking these days. Extortion of local businesses and takeovers of supply chains are a huge part of their income, and arguably more damaging to everyday economic activity.”
+✍️
+R:
+“More work on rooting out corruption.”

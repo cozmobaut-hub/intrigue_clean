@@ -1,0 +1,250 @@
+URL: https://archives.internationalintrigue.io/p/will-jensen-huang-re-shape-our-world-677249acf7ca3990
+Title: 🌍 Will Jensen Huang re-shape our world?
+
+Today’s briefing:
+— Jensen Huang, the diplomat-CEO
+— 45% now say
+what
+is overpriced?
+— Bring your green flag!
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+.
+Jensen Huang
+, the Nvidia CEO, is surely up there with TSMC and boba tea
+🧋
+as one of Taiwan’s hottest exports. Though raised in the US, the Taiwanese claim him as one of their own, with each visit stirring a phenomenon known as ‘Jensanity’ from street market vendors to national officials.
+In many ways, Jensen has a lot riding on him geopolitically. His company holds over 80% of the market in AI chips, with its GPUs being critical for training large AI models (like ChatGPT) and other advanced AI applications.
+We’ll dive into the company and its broader implications on
+tech and geopolitics
+in our top story today.
+PS — Huge news! Our next Intrigue webinar guests will be legendary journalist and author
+Fareed Zakaria
+on May 28th (
+register here
+), and Pulitzer Prize-winning
+Anne Applebaum
+on June 2nd (
+register here
+). Don’t miss out!
+Number of the day
+$530M
+That’s how much France’s new prison in the French Guianese Amazon will cost, after a series of violent incidents across France led to a crackdown on organised crime.
+Jensen Huang, the diplomat-CEO
+In the upper wings of the Taipei Music Center yesterday, two elderly locals watched as their son, Nvidia’s founder Jensen Huang, announced he’s doubling down on Taiwan.
+And while folks were there for the
+Computex
+trade show, they saw something else:
+Huang emerging as the kind of 21st century CEO with more clout than many world leaders.
+Why?
+Four reasons:
+Taiwan
+Huang dropped the sort of dramatic CGI video Michael Bay would’ve been proud of for his sixth
+Transformers
+film, all to unveil Nvidia’s new…
+“
+Constellation
+” —
+its massive new hub in northern Taipei, as well as a new…
+“
+Giant AI supercomputer
+” in partnership with Taiwan’s chipmaker (TSMC), electronics giant (Foxconn), and the government of Taiwan itself.
+Why?
+For him, Taiwan is the
+“the centre of the computer ecosystem.”
+And that message is not just
+sentimental
+as Huang’s birthplace, or
+commercial
+for Taiwan’s semiconductor dominance. It’s also
+geopolitical
+, given this democracy sits at the heart of the US-China tug-of-war that’ll shape our century.
+In fact, Taiwan openly describes its chip-making sector as a ‘
+silicon shield
+’ that both a)
+deters
+China from invading, and relatedly b)
+incentivises
+the US to help Taiwan (because both depend heavily on Taiwanese chipmaking).
+So Jensen Huang basically just announced he’s bolstering Taiwan’s shield, after…
+Huang’s surprise visit to China
+Just a month ago, Huang showed up unannounced in China, days after President
+Trump effectively banned Nvidia
+from selling H20 chips there — and quick refresh, but the slower H20 only exists because Huang specifically designed it to comply with
+Biden’s
+export rules (it’s all about preventing China from closing this tech gap with the West).
+So basically Biden narrowed Huang’s goalposts, then Trump yoinked them, costing Nvidia a
+million
+H20 sales a year at $12-$15k a pop (so we’re talking a ~
+$15B hit overnight
+)!
+That’s why Huang suddenly appeared in China: after publicly acknowledging he’ll of course comply with US rules, he wanted to privately re-assure local clients.
+But when Washington then starts to get antsy…
+Huang shows up in Congress
+Appearing in DC a couple of weeks ago, he variously told lawmakers that China is “
+right behind
+us
+”, "
+if we step back, others will step in
+", and “
+leadership in AI depends not just on what we restrict - but on what we enable”
+. His point? By cutting China’s access to US chips, DC was just accelerating China’s own self-sufficiency as a serious competitor.
+So Huang also announced a $500B commitment to invest in US-based AI infrastructure over the next four years, not only to back his argument that
+the US should
+compete
+rather than block
+, but also presumably in hopes Trump might reconsider his H20 ban.
+But while Trump still doubled-down on that ban, he offered Huang something else…
+A trip to the Middle East
+Huang was one of the 60 or so other top executives who joined Trump’s whirlwind tour through the Gulf last week, and was with Trump when he made his major announcement in Abu Dhabi:
+the world’s biggest AI campus
+outside the US, featuring Nvidia’s top chips.
+That was a big deal because it meant Trump was unwinding
+Biden’s ‘AI diffusion rules’
+, which regulated who got what US chips. Huang had been dunking on those rules as stifling American innovation (of course, they were also bad for Nvidia’s bottom line).
+Meanwhile, the trip also helped Huang diversify Nvidia away from the US-China tug-of-war and build goodwill with other US-friendly players that
+a)
+have cash and
+b)
+want chips.
+Agree with the guy or not, that is some legit CEO diplomacy, and it’s shaping our world.
+Intrigue’s Take
+CEO-world leader ties are such a wild, symbiotic, and often frenemy vibe:
+Trump
+needs Huang as the world’s AI chip guru, as that gives the US leverage
+But he also needs to avoid Huang’s progress benefiting rivals like China
+Ditto,
+Huang
+needs to play ball with Trump, who can (and just did) burn billions
+But Huang also has his own agency, whether it’s tweaking his chips to fit each US rule, exploring a new R&D hub in Shanghai to signal his commitment (if also rattle DC), or announcing the kind of major US tech investment in Taiwan that
+might
+just nudge cross-Strait calculations a smidge away from war.
+But longer term,
+this looks tough for Huang
+unless the US rethinks its strategy: as Huang offers China slower chips to comply with each new US rule, he just narrows the gap until China’s home-grown alternatives step in and use that revenue to fuel their own R&D. And that’s probably why he’s urging the US to change tack now.
+Today’s newsletter is sponsored by
+Mode Mobile
+#1 Software Company Shares Jump 15%
+Deloitte's 2023 #1 software company just raised
+$45M
+in their pre-IPO offering and their share price jumped to $0.30/share.
+Their offering is almost
+fully subscribed,
+but there’s
+still a time-limited opportunity for investors to buy in at $0.30/share.
+With
+parabolic revenue growth of 32,481%,
+this company is leading a smartphone revolution that has enabled +45M users to earn +$325M from screen time.
+We’ve seen it before when Uber turned cars into income streams and Airbnb turned homes into income-producing assets. Early investors in these companies earned significant returns, and Mode is following their playbook.
+Invest in this breakout Nasdaq candidate at $0.30/share while there is still room.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+President Trump’s latest Putin chat.
+The US president’s two-hour call with his Russian counterpart ended with a tweet that Russia and Ukraine will “
+immediately start negotiations toward a ceasefire and, more importantly bring an end to the war
+”. (
+BBC
+)
+Comment
+: Call us cynical (we’ve heard worse), but Putin’s actions (like ignoring Trump’s two 30-day ceasefire calls) increasingly reveal he has no interest in any meaningful negotiations. He won’t end his war until he’s forced.
+🇮🇱
+ISRAEL
+-
+IDF to take full control of Gaza.
+Following cabinet approval earlier this month, the Israeli military has now moved to seize all of Gaza in what Prime Minister Netanyahu says is a bid to fully defeat Hamas. For the first time, he’s also acknowledged Gazans are approaching starvation, and cites international pressure in easing his 2.5-month blockade. (
+FT
+)
+Comment
+: We wonder whether Trump’s cold shoulder to Israel during last week’s Gulf tour might’ve empowered other Western leaders to scale their scrutiny back up over Israel’s actions, with (for example) the leaders of the UK, Canada, and France now jointly threatening concrete action if Israel doesn’t halt this latest offensive.
+🇭🇰
+HONG KONG
+-
+CATL stocks surge after IPO.
+Shares in the world’s biggest EV battery-maker have surged 13% since listing in Hong Kong today (Tuesday), with the China-based firm raising ~$4.6B in the world’s biggest IPO so far this year. (
+Independent
+)
+Comment:
+We wrote about the hottest IPOs of 2025
+here
+.
+🇰🇷
+SOUTH KOREA
+-
+Presidential candidates go head to head in first debate.
+The opposition frontrunner Lee Jae-myung clashed with the ruling party’s Kim Moon-soo on Sunday’s televised debate, the first of three. (
+Al Jazeera
+)
+Comment
+: Interestingly, Lee (a centre-left pragmatist) warned that Korea “should not go all-in” with its traditional US alliance. That sort of public hedging will remain common while the world watches how Trump 2.0 approaches his allies.
+🇵🇰
+PAKISTAN
+-
+China helped Pakistan during India clash?
+According to a research group linked to India’s defence ministry, China helped Pakistan reorganise its radar and air defence systems earlier this month, suggesting a much closer security partnership than Beijing has let on. (
+Bloomberg
+$)
+🇵🇹
+PORTUGAL
+-
+PM’s party wins election, but no majority.
+Prime Minister Luís Montenegro’s centre-right party has won Portugal’s third snap election in three years, but again fell short of a majority. He called this latest ballot in response to a corruption scandal. (
+Guardian
+)
+🇬🇶
+EQUATORIAL GUINEA
+-
+ICJ sides with EG on island dispute.
+The world’s top court has sided with Equatorial Guinea in a long-running territorial dispute with Gabon, effectively handing it three contested (and oil-rich) uninhabited islands. (
+AfricaNews
+)
+Extra Intrigue
+Intrigue’s commodities corner is back
+Oil
+: Ongoing clashes in Tripoli have forced
+oil tankers to divert
+away.
+Gold
+: 45% of investors believe gold is now an
+overvalued asset
+.
+Lithium
+: British-Australian mining giant Rio Tinto has struck a nearly
+$1B deal to develop a new lithium mine in Chile
+.
+From our friends
+Want to get smarter about financial markets?
+Join 200,000 investors who get Opening Bell Daily in their inbox — it’s packed with Wall Street data and analysis you won’t find anywhere else.
+Subscribe free.
+Flag of the day
+Your internet’s fine, this is fully loaded.
+We’re cheating a little, as this flag isn’t in use anymore, but it
+was
+Libya’s flag until 2011.
+The late Libyan dictator Muammar Gaddafi personally chose that hunk of green as the national banner in 1977. The colour mostly represented Gaddafi’s ‘Third Universal Theory’ of political philosophy, which he summarised in his ‘
+Green Book
+’ (but which critics dismissed as an attempt to justify his entrenched rule).
+Today’s poll
+Do you think the US should ease chip rules on China?
+💽 Yes, restrictions will just end up harming the US
+🙅 No, they're rivals
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think credit ratings are still useful?
+👍 Yes, they're an important risk index (72%)
+👎 No, they've lost all credibility by now (25%)
+✍️ Other (write in!) (3%)
+Your two cents:
+👍 E.K:
+“The established credit ratings have great importance as recognized structural elements in planning and finance. They may or may not be right, but they provide something official you can point to in order to (ahem) CYA.”
+👎
+E.E:
+“Remember the 2008 credit crisis? All the financial ratings agencies gave those mortgage backed securities great ratings - right until those securities went belly up.”
+✍️
+A.A:
+“A ‘credit rating’ is only a rating on how likely you are to repay a loan. Not how good you are with money!”

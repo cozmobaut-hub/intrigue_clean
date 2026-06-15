@@ -1,0 +1,194 @@
+URL: https://archives.internationalintrigue.io/p/2023-asean-summit
+Title: 🌍 The 2023 ASEAN summit
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+When you think of former British leader Theresa May, do the words “
+cool
+” or “
+edgy
+” come to mind? Okay, us neither. But
+her rather hip parliamentary portrait
+just dropped and, honestly, it’s got us questioning everything we thought we knew.
+Today’s briefing is a 4 min read:
+🌏
+Leaders gather in
+Southeast Asia
+.
+🇲🇻
+It’s election time in the
+Maldives
+.
+➕
+Plus:
+A mathematical map, how the papers are covering the Erdoğan-Putin meeting, and something spicy for your ears.
+⏱️ Around the world in sixty seconds
+🇦🇲
+Armenia
+: Prime Minister Nikol Pashinyan has said Armenia’s decision to
+depend on Russia
+for security guarantees was a “
+strategic mistake
+”, given what he said was aggression from neighbouring Azerbaijan. The Kremlin has rejected Pashinyan’s claims.
+🇸🇪
+Sweden
+: Two former oil execs are on trial in Sweden for their
+alleged role in a series of war crimes
+committed in Sudan between 1999 and 2003. Prosecutors say Lundin Oil had asked Khartoum to secure a potential oil field in what is now South Sudan, knowing this would lead to atrocities.
+🇮🇳
+India
+: Narendra Modi’s government could be planning to submit a parliamentary resolution to
+change the country’s name to ‘Bharat’
+, according to local media. Supporters of the move say the name ‘India’ was introduced by British colonialists.
+🇨🇺
+Cuba
+: Havana has reportedly found a
+human trafficking scheme pressuring Cubans to fight for Russia
+in Ukraine. Authorities say they’re working to neutralise the network, and have reiterated their country’s neutral stance in the conflict.
+🇬🇦
+Gabon
+: General Brice Oligui Nguema, who came to power in a coup last week, has
+pledged to return the country to civilian rule
+. He’s not yet offered a timeline.
+🌏
+Southeast Asia | Geopolitics
+ASEAN is having an identity crisis
+The ten-member Association of Southeast Asian Nations (ASEAN) kicked off its annual summit of leaders in Jakarta, Indonesia yesterday (Tuesday).
+The three-day agenda is jam-packed
+, including talks on:
+🇲🇲
+The ongoing violence in Myanmar (an ASEAN member)
+🌊
+China’s expansive claims in the South China Sea, and
+⚔️ Regional tensions between the US and China.
+But the bloc has long struggled to find solutions
+on any of these issues.
+Yesterday, members agreed to strip Myanmar and its ruling junta of the bloc’s rotating leadership role in 2026, and instead designated the Philippines as leader that year.
+But ASEAN’s other punitive measures against the junta in the past - like
+barring its leaders from summits
+- have had little impact so far.
+And if Myanmar seems complicated, US-China competition is a doozy
+.
+Last week,
+Manila suggested
+President Marcos would lead an effort to reprimand China for its newly-published map that seems to expand Beijing’s claims in the South China Sea. But the draft ASEAN statement doing the rounds in Jakarta simply calls for “
+stability in the maritime sphere
+”.
+Intrigue's take:
+If ASEAN can’t agree to push back on a direct outside challenge to members’ own borders, what exactly can it agree on?
+For years, the bloc’s members have looked to China on the economy, and looked to the US on security. And Indonesian President Joko Widodo yesterday urged powers not to
+“turn our ship into an arena for rivalry”.
+But Mr. President, that ship has already sailed.
+Also worth noting:
+Several ASEAN members have called on the bloc to
+rethink its ‘non-interference’
+policy to address the crisis in Myanmar.
+Various ASEAN partners attend each year, including Australia, China, Japan, South Korea, and the US. Both US President Biden and Chinese President Xi have opted to
+skip this year’s summit
+.
+📰
+How newspapers covered…
+The meeting between Turkish President Recep Tayyip Erdoğan and Russian President Vladimir Putin
+Istanbul, Turkey
+“Türkiye believes grain initiative can be revived soon: Erdoğan”
+Doha, Qatar
+“Russia won’t renew grain deal until demands met, Putin tells Erdogan”
+Moscow, Russia
+“Putin-Erdogan meeting successful, all important issues on agenda discussed”
+Today’s newsletter is supported by: Morning Brew
+4 Million People Start the Day with Morning Brew
+This daily email delivers the latest news from Wall Street to Silicon Valley. Business news doesn’t have to be boring…make your mornings more enjoyable, for free.
+Check it out!
+🇲🇻
+Maldives | Politics
+A small but crucial election in the Maldives
+Maldivians will head to the polls on Saturday to choose their next president from a competitive pool of eight candidates, including the incumbent President Ibrahim Mohamed Solih.
+Here’s why we’re watching
+:
+🏝️ The 1200 islands that comprise the Maldives are located in
+the middle of the Indian Ocean
+, near vital shipping lanes
+🇮🇳
+🇨🇳
+This strategic location attracts interest from foreign powers, who’ve long
+competed for influence in the archipelago
+, and
+🗳️ This is the fourth and
+most competitive election
+since the Maldives became a multiparty democracy in 2008
+And while the campaign issues are mostly domestic, the country’s elections have had a broader impact lately:
+🇨🇳
+Former President Yameen (2013-2018) pursued a pro-China line, pulling the country out of the Commonwealth and signing its
+first-ever free trade agreement
+with Beijing, but then
+🇮🇳
+🇺🇸
+President Solih won power in 2018 and pulled a quick U-turn,
+re-joining the Commonwealth
+, pursuing an ‘
+India first
+’ foreign policy, and signing a
+defence agreement
+with Washington
+Intrigue’s take:
+With ~280,000 eligible voters choosing among eight candidates from splintered parties, anything could happen. There’s a decent chance we’ll move to a second round later this month.
+And more than ever, the world will be watching.
+Also worth noting:
+Former President Yameen was sentenced in December to
+11 years in prison
+for money laundering and corruption.
+The head of the Maldivian
+electoral commission was ousted
+in July, raising objections from the opposition.
+Some candidates have
+raised concerns
+around the country’s defence cooperation with India.
+➕
+Extra Intrigue
+Our very own co-founder John Fowler joined our friends over at
+The Merge
+to chat about where our world is headed. Give it a look on
+YouTube
+, or have a listen on
+Apple
+,
+Spotify
+, or wherever you get your podcasts.
+🗳️ Poll time!
+What do you think the future looks like for the ASEAN bloc?
+💪 It represents a fast-growing region and will have heft to match
+🤷 It's too divided to meaningfully shape the world
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+🗺️
+Map of the day
+Credits: Rohan Chabukswar and Kushal Mukherjee
+Ever wondered how far you could drive in a straight line without hitting a major body of water? Well, mathematicians
+Rohan Chabukswa and Kushal Mukherjee
+have got you covered: just start in Sagres, Portugal and keep going until you reach Jinjiang, China. This 11,241km straight line goes through 15 countries (plus presumably quite a few random walls, cliffs, and houses).
+Yesterday’s poll:
+Do you think carbon credits are a viable solution for Africa?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤝
+Yes, they generate environmentally-friendly income (23%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💪
+No, they're a pretext for continued pollution elsewhere (74%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents
+:
+💪
+A.R.F:
+“They’re the white flag of entitled polluting practices, which only alleviate moral obligation in theory vs. the required practice as our climate heads further towards catastrophe.”
+🤝
+J.L:
+“The argument that it eases pollution elsewhere is nonsensical – those emissions are driven and will be stopped by non-financial factors. This at least transfers some wealth to affected areas.”

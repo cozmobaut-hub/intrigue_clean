@@ -1,0 +1,192 @@
+URL: https://archives.internationalintrigue.io/p/eu-discusses-ukraine-marshall-plan
+Title: 🌍 The EU discusses a Ukraine Marshall Plan
+
+Hi there {{ First name | Intriguer }}.
+Global summits can be pretty scripted, but every now and then something epic happens. Like this: in 2007, the Venezuelan president kept interrupting a summit. So eventually, the King of Spain lost his cool and blurted out
+“
+why don’t you shut up?!
+”
+The incident rocked the Spanish-speaking world, spawning ringtones, t-shirts, mugs, and even a TV show.
+Today’s briefing is a 4.2 min read:
+🇪🇺
+The
+EU
+explores long-term support for Ukraine.
+🛢️
+Oil shareholders
+aren’t ready to give up oil.
+➕
+Plus:
+Some good news in Sri Lanka, how the papers are covering rising temperatures across Asia, and… the coldest temperature ever recorded.
+🎧
+Today’s Intrigue Outloud:
+AI is changing the way we fight wars.
+Listen here!
+🗺️ AROUND THE WORLD
+🇯🇵
+Japan
+: Prime Minister Fumio Kishida has sacked his own son from an executive secretary role after
+“inappropriate” images of a party
+in the PM’s official residence went viral. Kishida’s approval rating had just recently broken above 50%.
+🇪🇺
+EU
+: The EU’s tech chief has announced the bloc is working on a
+voluntary AI code of conduct
+, to be finalised within weeks. The optional guidelines are intended to help steer industry practice while the EU’s new AI Act slowly makes its way through the legislative process.
+🇸🇬
+Singapore
+: China and Singapore will
+set up a high-level defence hotline
+in an effort to strengthen crisis comms amid rising tensions in the region. Asia-Pacific security leaders are in Singapore for the annual Shangri-La Dialogue, which runs today (Friday) until Sunday.
+🇺🇸
+US
+: Congress
+passed a bill
+late last night (Thursday) to suspend Washington’s debt ceiling. The bill now goes to President Biden’s desk for signature before the US hits its borrowing limit on Monday.
+🇳🇬
+Nigeria
+: Incoming President Bola Tinubu used his inaugural address this week to announce the end of
+a popular fuel subsidy
+, in an effort to repair Nigeria’s finances. The seemingly off-the-cuff comment caused long lines at gas stations across the country.
+🇪🇺
+EU | GEOPOLITICS
+The EU is working on a Ukraine Marshall Plan
+Briefly:
+The European Commission is reportedly working on a
+four-year financing plan
+worth tens of billions of euros to help Ukraine rebuild.
+Almost a year and a half into Russia’s invasion,
+Ukraine’s needs are massive
+:
+📉
+a
+$38b
+budget deficit this year alone, plus
+🏭
+$14b
+in urgent reconstruction for critical infrastructure just for 2023
+And while international support for Ukraine
+is strong, it’s still pretty ad hoc:
+🇪🇺
+Hungary
+’s PM has often vetoed EU aid for Ukraine, in an attempt at leverage to unblock EU funding for his own country, and
+🇺🇸
+US
+elections next year inject some uncertainty around US assistance
+So that’s why the EU is seeking to put Ukraine’s aid on a longer-term footing. But getting unanimous support across the EU system will be a tough slog.
+And that’s just on the financing.
+In parallel yesterday (Thursday), 47
+leaders from wider Europe
+gathered in a Moldovan castle
+(just 8km from a Russian-controlled separatist enclave) to discuss
+security
+assistance for Ukraine.
+Intrigue’s take:
+World leaders are often better at talking than walking; more comfortable in poetry than prose. But so far, the West’s support for Ukraine has done both: leaders have walked the talk with
+$168B
+in aid already.
+But placing that aid on a longer-term footing means threading it through more needles: elections, budgetary schedules, gamesmanship. And that won’t be easy.
+So at this initial stage, the EU’s long-term aid package looks less like a Marshall Plan and more like a Maybe Plan. And Ukraine will need something firmer.
+Also worth noting:
+The IMF approved a
+$15.6B financing package
+for Ukraine in March.
+Moldova secured EU candidate status in June of last year. Since then, it’s accused Russia of
+planning to overthrow the current Western-aligned government
+.
+📰
+GLOBAL PERSPECTIVES
+How different newspapers covered
+: Rising temperatures across Asia.
+Links
+:
+The Straits Times
+,
+Al Jazeera
+,
+Daily Star
+.
+International Intrigue at 2023 NATO Youth Summit
+Don’t miss Intrigue Co-founder John Fowler next week.
+On June 5, young people from Europe and North America will join a transatlantic conversation at the 2023 NATO Youth Summit, which takes place in Brussels and Washington, D.C.
+Our very own John Fowler will lead an activity on how to be an Open Source Intelligence (OSINT) expert. Other sessions include:
+Countering & Deterring Adversarial Threats: Russian Invasion of Ukraine
+Diplomacy Through Sports: A Conversation With Leaders On and Off the Field
+& more!
+Check it out.
+🛢️ US | CLIMATE & ENERGY
+Chevron is one of the companies keeping its gas tank full
+US oil majors reject climate change proposals
+Briefly:
+Shareholders of ExxonMobil and Chevron, the two largest US oil companies, rejected climate-focussed resolutions at their annual meetings on Wednesday (31 May).
+And the votes weren’t even close.
+Around 10% of both ExxonMobil and Chevron shareholders supported proposals to align emissions targets with the 2015 Paris Agreement. Only one of the dozen proposals at Exxon (on reporting its methane emissions) received more than 20% support.
+And momentum seems to be slipping: last year, 28% and 33% of Exxon and Chevron shareholders (respectively) supported Paris-alignment proposals.
+Intrigue’s take:
+Remember what investing was like in 2020/2021? Meme stocks, crypto, animatronic apes… it was wild. But elsewhere, another approach was booming: environmental, social and governance (ESG) investing.
+This latest news out of Chevron and Exxon
+suggests maybe ESG momentum is fading. And yet, we
+only just wrote
+about how solar investment will surpass oil investment this year for the first time. So… what’s happening?
+Capital is peering into the future: some (like solar investors) see a green future just around the corner; others (like oil and gas shareholders) think it’s still a way off. And either way, their decisions today will shape the future we get.
+Also worth noting:
+A shareholder activist group behind this week’s proposals,
+Follow This
+,
+said
+it was
+“incomprehensible that most investors still accept the US super majors’ refusal to cut emissions this decade.”
+Support for climate-focussed proposals among European shareholders has been marginally higher: in recent weeks,
+around 20% of Shell and BP
+shareholders voted to accelerate transition plans.
+👀
+EXTRA INTRIGUE
+Team Intrigue is back with some weekend recommendations! If you have:
+10 mins:
+Read about how machine learning is helping winemakers identify their
+best vintage champagne
+.
+30 mins:
+Make this
+no-cook gazpacho
+- easy, fragrant and perfect for those of you enjoying spring and summer weather.
+1.5 hour
+: Watch ‘
+The Sound of 007
+’, a documentary about the music behind the world’s beloved spy.
+📊
+CHART OF THE DAY
+Sri Lanka’s interest rate. Credit: TradingEconomics. Source: Central Bank of Sri Lanka.
+Sri Lanka’s Central Bank
+announced
+yesterday (Thursday) it’s lowering interest rates for the first time since the country declared bankruptcy last year. Foreign capital has returned to Sri Lanka since it secured a $3B IMF bailout in March.
+🗳️ QUIZ TIME!
+1) What is the lowest-ever recorded temperature?
+a) -102.0 °C (-151.6 °F)
+b) -89.2 °C (-128.6 °F)
+c) -94.7 °C (-138.5 °F)
+d) -76.2 °C (-105.2 °F)
+Login
+or
+Subscribe
+to participate
+2) Which of the following is the hottest country on earth by average yearly temperature?
+a) Mali
+b) Iran
+c) Spain
+d) Yemen
+Login
+or
+Subscribe
+to participate
+3) Modern thermometers use mercury or electronic components to record temperatures. What did the first thermometer use instead?
+a) Alcohol
+b) Water
+c) Kerosene
+d) Duck fat
+Login
+or
+Subscribe
+to participate
+Answers:
+1-b (at the then Soviet Vostok Station in Antarctica, 1983), 2-a, 3-b.

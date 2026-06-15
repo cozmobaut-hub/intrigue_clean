@@ -1,0 +1,224 @@
+URL: https://archives.internationalintrigue.io/p/the-deadline-you-didn-t-know-was-looming
+Title: 🌎 The deadline you didn’t know was looming
+
+IN TODAY’S EDITION
+1️⃣ The deadline you didn’t know was looming
+2️⃣ Diplomats on the move
+3️⃣ Report of the day
+Hi {{ First name | Intriguer }}.
+I’m currently in the state of Western Australia, which locals argue is Australia’s “
+best
+” coast — and it’s easy to see the merits of that claim with all the white-sand beaches, rolling vineyards, and champion cricket team (allegedly).
+Another thing Western Australia (WA) is famed for is its extractives industry — especially its iron ore and natural gas exports. By some metrics, if WA was its own country, it’d be the world’s third largest exporter of LNG.
+One thing I’ve learned about here is the vast scale of infrastructure supporting the state’s extractives industry, ranging from offshore rigs to pipelines that transport the gas for export. Russia had similarly built up an expansive infrastructure network across Europe for its own extractives industry, which will take another hit in January when its gas exports will no longer be able to run through Ukraine. That’s our top story today.
+PS
+- Monday will be our last daily briefing for the year, but we’ll be back from early 2025!
+THE HEADLINES
+Global markets shudder.
+Investors around the world were rattled when the US Federal Reserve cut rates by a quarter point as expected, but
+signalled more caution than expected
+in 2025. The S&P 500 dropped 3% and the Dow fell by 2.5%, while various Asian currencies plunged.
+US government shutdown looms.
+Donald Trump has called on Republicans to
+reject a bipartisan funding bill
+that’d avert a federal government shutdown on Saturday. Trump instead wants the bill limited to temporary spending and disaster relief. It’s unclear what’s next, but unless Congress can agree, government services like Border Patrol could begin shutting down this weekend.
+Israel hits Yemen in early morning strikes.
+Israeli airstrikes have
+hit a port complex plus energy facilities in Yemen
+, hours after local Houthis launched a missile at Israel.
+El Salvador curbs Bitcoin to secure IMF deal.
+The country has agreed to cut its debt ratio and mitigate Bitcoin-related risks to the economy in
+exchange for a $1.4B IMF loan
+. Bitcoin acceptance in the private sector will now become voluntary, while public sector participation in crypto will be scaled back.
+DRC files “
+blood minerals
+” complaint against Apple.
+The Democratic Republic of the Congo has filed criminal complaints in France and Belgium against several Apple subsidiaries, accusing the US tech giant of
+using minerals from mines involved in the region’s bloody conflict
+. Apple disputes the accusations, saying it regularly audits its suppliers.
+TOP STORY
+The deadline you didn’t know was looming
+Ukraine’s gas pipeline networks. Credit: ENTSOG.
+Nobody likes end-of-year deadlines: yes, diplomats also get mandatory annual online HR training, and yes, we absolutely phone it in. But it’s not every year your deadline also gets sprinkled with a bit of energy insecurity and war.
+We’re talking about the Russia-Ukraine gas transit deal that’s set to expire on January 1 — just days from now — unless the two warring neighbours agree on a renewal.
+Some quick context
+:
+Ukraine’s Soviet-era pipelines connect cheap Russian gas to terminals in Poland, Slovakia, Hungary, Romania, and Moldova, from where the gas is sold onto the wider European market. Moscow and Kyiv signed the current deal in 2019, allowing Russian gas to keep flowing through Ukrainian territory for another five years.
+And yes, despite Russia’s invasion of its smaller neighbour, Russian gas has continued to flow through Ukrainian pipes, though at lower volumes than originally negotiated.
+As odd as that might seem, all sides had reasons to honour the deal:
+Kyiv
+didn’t want to risk the ire of its EU and NATO backers by cutting off their gas cold turkey, plus it needed the transit fees to finance its self-defence, and didn’t want to play into Kremlin propaganda about its own trustworthiness, while
+Moscow
+needed the export revenue, yes, to finance its invasion of Ukraine.
+Unsurprisingly, however, Ukraine says it won’t now
+renew
+the deal.
+And here’s what that means for all
+:
+🇺🇦
+Ukraine
+Kyiv will lose around
+$800M in annual transit fees
+from Russia, which accounts for around 0.5% of its GDP. That’s not chump change for a wartime economy. You could also argue Kyiv might now lose influence over Europe given the continent’s semi-reliance on Ukraine’s pipeline, though that’s fading fast (see below).
+Another argument is that Russia — no longer a beneficiary — might now therefore
+target Ukraine’s gas infrastructure
+, which Ukraine also uses to pump its own gas to its own people. Though it’s not like Russia has been restrained in its targeting to date.
+Anyway, Ukraine has clearly decided that any costs are ultimately worth the benefits of further squeezing and isolating…
+🇷🇺
+Russia
+State-owned gas giant
+Gazprom
+has already rung in its worst loss in at least a quarter century ($6.9B), and losing this pipeline will cost it another $6.5B billion annually. Then even if there’s a peace agreement one day and Western sanctions get lifted, Russia’s EU customers will likely have moved on, signing long-term contracts with other suppliers.
+Meanwhile,
+Russia doesn’t have many other buyers
+: even if its planned new pipeline to China happens (big if), it’d carry only a fraction of what Russia has already lost in Europe — and anyway, China is pausing that project while it stiffs Russia on prices.
+So this all explains why Putin keeps saying he's happy to keep sending gas through Ukraine: he’s directing blame at Ukraine’s decision not to renew, rather than his own decision to invade.
+🇸🇰
+Slovakia /
+🇦🇹
+Austria /
+🇭🇺
+Hungary
+While the EU has cut its reliance on Russian gas, it
+hasn’t kicked its habit
+. Russian pipeline gas has now dropped from 40% of EU pre-war supplies to 8% today, but LNG imports (via ships, trucks, and trains) are up from 14% to 20%.
+And while the EU rushes to cut Russian gas completely by 2027,
+some members have been doubling down
+(not all via Ukraine): last year, Hungary got half its gas from Russia, Slovakia got 89%, and Austria got as much as 97%. This is all due to an interlinked mix of geography (they’re landlocked), commerce (they’re on long-term contracts with Russia), and geopolitics (they’re among the EU’s more Russia-friendly members).
+But importantly, they’re also plugged into the broader European gas network and can use it like everyone else. The issue is it costs more, plus
+Slovakia
+stands to lose $1.5B in annual transit and resale fees.
+🇲🇩
+Moldova
+The situation is a little trickier for neighbouring Moldova, which is in the process of joining the EU. Russian forces actually occupy its breakaway region of
+Transnistria
+. And guess where Moldova gets 80% of its electricity from? Yes, a
+gas
+-fired plant located in…
+🥁
+🥁
+🥁
+Transnistria. So Moldova’s parliament just declared a 60-day state of energy emergency.
+INTRIGUE’S TAKE
+There were three main pre-war routes for Russian gas to reach Europe: one (Nord Stream) got blown up and now sits unused and re-sanctioned. The second (Ukraine) is about to close. So that leaves only the third: TurkStream and its Balkan Stream leg.
+And so now, after years of breathlessly analysing the leverage that gas gives Russia over Europe, it’s now Turkey (Russia’s remaining route) that ends up with leverage over an increasingly squeezed Russia. That’s gotta be one reason why Erdoğan has become so assertive towards Putin lately, including effectively screwing him out of Syria.
+Interestingly, this arrangement also leaves Ukraine with more leverage over Russia in any post-war recovery negotiations: Kyiv could, for example, tax any future resumed Russian gas flows to pay for the vast rebuilding effort that lies ahead.
+Also worth noting:
+Only  5% of the EU’s total gas imports now transit through Ukraine (down from 11% pre-war). Of that, around half flows through Russia’s terminal in Sudzha, which (plot twist) is now controlled by counter-attacking Ukrainian troops.
+There are rumours Ukraine could quietly allow re-badged Russian gas (eg, as “
+Azerbaijani
+” gas) to flow, but Kyiv seems pretty firmly against.
+Trump has promised to remove the moratorium on new US LNG export permits, further expanding US supplies to Europe. A new report from the outgoing Biden administration warns this risks higher emissions and US prices.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+:
+Beijing has
+expanded its visa-free transit policy
+allowing citizens from 54 countries (including the US) to visit China for up to 10 days without a visa. It’s part of an ongoing effort to attract more visitors amid a sputtering economy, though it's only open to travellers heading on to a third country.
+🇺🇦
+Ukraine
+: Visiting Kyiv, Australia’s foreign minister (Penny Wong) has announced the
+reopening of Australia’s embassy
+. Canberra has supported Ukraine with ~US$1B in assistance since Russia’s invasion, but has delayed re-opening its embassy for security reasons, long after many other partners.
+🇸🇬
+Singapore
+: Oatly, the massive Swedish oat milk brand, has announced it’s
+closing its facilities in Singapore
+as part of a shift to a more asset-light supply chain. Instead, it’s aiming to cut costs by supplying the fast-growing Asia Pacific market out of its existing facilities back in Europe.
+🇨🇱
+Chile
+: Walmart has announced it plans to
+invest $1.3B over five years into Chile
+, opening 70 new stores and creating 4,000 new jobs. In line with the American retail giant’s renewable goals, 50 of the new stores will have rooftop solar, making 80% of Walmart’s Chile footprint carbon-free.
+🇱🇷
+Liberia
+: The national parliament building in Monrovia has caught fire as protests
+continue into their second day
+. Opposition protests have flared in recent months after corruption allegations against the house speaker left the parliament deadlocked.
+FROM OUR FRIENDS
+In a world that seems to be growing more connected and more chaotic by the day, it’s more important than ever to keep track of events overseas. That’s where Foreign Exchanges comes in with nightly world news roundups and analysis.
+Check it out here.
+EXTRA INTRIGUE
+Leaders on the move ✈️
+🌍 Europe
+: Donald Trump’s Russo-Ukraine envoy, retired general
+Keith Kellogg
+, will apparently
+travel to Ukraine
+and other European capitals in early January. There are reports he’s also
+open to visiting Moscow
+if invited.
+🌍 Middle East
+: Israeli President Isaac Herzog has met Trump’s nominated
+envoy for hostage affairs
+Adam Boehler
+in Jerusalem, while Biden’s outgoing hostage affairs envoy,
+Roger Carstens
+, travelled to Amman this week.
+🇷🇺
+Russia
+: President
+Vladimir Putin
+is hosting a
+Q&A session today
+(Thursday), which state media claims has yielded 1.7 million questions, processed by AI
+.
+🌏 Asia
+: India’s powerful national security advisor
+Ajit Doval
+just
+met
+China’s foreign minister
+Wang Yi
+in Beijing, a first in five years.
+REPORT OF THE DAY
+Credits: US Pentagon.
+Speaking of deadlines, the Pentagon just met its own latest deadline to Congress, delivering its annual report on China’s military. The
+182-page report
+found that China has been putting in some serious overtime: expanding its operational nuclear warheads from 500 to 600 in one year, and gearing up to reach 1,000 by 2030 (Russia and the US each have ~5,000). But the report also says the country’s recent purge of military leaders could set China’s military modernisation efforts back.
+For China hawks who warn Beijing is gearing up to invade Taiwan, the Pentagon says that while China could have invasion-ready capabilities by 2027, it doesn’t see an attack as imminent.
+DAILY POLL
+Do you think Ukraine and Russia will renew the gas transit agreement?
+👍 Yes, pressure is mounting and the cost is significant
+👎 No, Ukraine holds the cards, and renewal makes no sense
+🤷 It doesn't matter, the war will end soon
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think is the way to win the global auto race?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 🛍️ Mergers and acquisitions (28%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🏛️ State subsidies and incentives (11%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👨‍💻
+More R&D for better products (51%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🚧
+Tariffs and other restrictions (4%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (Write Us!) (6%)
+Your two cents:
+👨‍💻
+E.K.H:
+“First, make a product that people want to buy. Nothing else matters if you can't do that. Getting into other markets is second.”
+🛍️ D.S:
+“I would have said more R&D, but the industry already spends a ton on R&D. Winning the global race is more about companies getting out of their own way internally to make products customers actually want, and can afford.”
+🏛️
+R.L:
+“Subsidies: it's how China has surpassed Japan in this area, and one of the contributors to the US auto industry's survival and initial successes in EVs.”
+✍️ R.T
+: “Make cars people want at a price they are willing to pay. Everything else is auto-destructive.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

@@ -1,0 +1,229 @@
+URL: https://archives.internationalintrigue.io/p/five-things-we-found-out-at-this-year-s-brics-summit
+Title: 🌍 Five things we found out at this year’s BRICS summit
+
+IN TODAY’S EDITION
+1️⃣ 5 things from the BRICS summit
+2️⃣ How Singapore cut airport wait times by 60%
+3️⃣ Event of the day
+Hi {{ First name | Intriguer }}.
+Do you ever yearn? I yearn. And lately, I’ve yearned to coin a new acronym. Like Goldman’s Jim O’Neil, for example, who first coined what became ‘
+BRICS
+’ (Brazil, Russia, India, China, and South Africa) — today’s lead, btw.
+Or then there’s Halifax’s Peter Van Praagh, who coined ‘CRINK’ last year (China, Russia, Iran, and North Korea). That’s a good one. Try saying it with me: ‘CRINK’. See?
+But nothing too edgy, mind you — ‘PIIGS’ (Portugal, Ireland, Italy, Greece, and Spain) was in high rotation for a while there, but it’s now seen as so deeply not-cool, there’ve actually been full academic studies to identify who we should blame for the label (turns out it might’ve first been coined by
+The Wall Street Journal
+back in 1996).
+Anyway, you mark my words, dear Intriguer. I’m gonna coin an acronym. I yearn for it.
+THE HEADLINES
+Ceasefire negotiators to meet again.
+Hamas and Israeli representatives will meet in Doha in the coming days in an attempt to
+restart stalled talks
+and hammer out a ceasefire-hostage deal. The attendees will reportedly include Mossad head David Barnea, and the CIA’s Bill Burns.
+Russia has been giving targeting data to Houthis.
+The Wall Street Journal is reporting that Russia has been providing the Iran-backed Houthis with
+Russian satellite data to help the group target Western cargo ships
+transiting through the Red Sea. Together with Moscow’s budding North Korea ties, it’s likely an attempt to further destabilise two regions (the Middle East and Northeast Asia) and thereby divert US attention away from its invasion of Ukraine.
+Has Musk maintained secret contact with Putin?
+The Wall Street Journal has also just dropped some explosive news that the world’s richest man (Elon Musk) has allegedly
+been in regular secret contact
+with Vladimir Putin since 2022. At one point, the Russian president reportedly even asked Musk to avoid activating his Starlink internet service in Taiwan as a favour to China’s Xi Jinping. The report notes that Musk, who hasn’t yet commented on the allegations, has a US security clearance and is actively campaigning for Donald Trump.
+UK launches antitrust probe into Google’s latest AI partnership.
+Britain’s antitrust watchdog has announced
+a formal investigation
+into Google’s deal with AI startup Anthropic, on concerns the partnership could limit competition. British regulators previously cleared a similar deal between Anthropic and Amazon.
+Japanese voters prepare for election.
+Millions of Japanese citizens will
+head to the polls on Sunday
+to vote in the country’s general election, which comes nearly a year early. The new prime minister (Shigeru Ishiba) called the snap election after seizing the leadership of his ruling Liberal Democratic Party, in an attempt to establish a mandate with the people —  but polls suggest the LDP could now lose its parliamentary majority for the first time in 15 years.
+TOP STORY
+Five things we found out at this year’s BRICS summit
+BRICS leaders pause for the obligatory ‘family photo’. L to R: the leaders of Ethiopia, Egypt, South Africa, China, Russia, India, UAE, and Iran plus the FM of Brazil
+The yearly BRICS summit wrapped up in Russia yesterday (Thursday), ninja-starring dozens of new announcements out into the world before dropping a
+32-page Joint Declaration
+that probably could’ve just been an email.
+But first, some context
+. Starting out as a Goldman Sachs acronym for emerging markets with promise back in 2001, the four originals (Brazil, Russia, India, and China) actually started meeting together in 2009 before South Africa joined in 2010, not unlike how Danny Devito joined
+It’s Always Sunny in Philadelphia
+in season two.
+It all started out as an investment forum, but quickly evolved into more of a geopolitical group claiming to represent the Global South. And as we’ll see below, it continues to evolve into something else.
+Along the way, it’s picked up a few new members, including Iran, Egypt, Ethiopia, and the UAE, while another 10 or so are still in the hazing process. And BRICS members now account for about 35% of the world economy (half of that is China) and 45% of the world’s population (three quarters of that is China + India).
+Anyway, hosting duties fell to Russia’s Vladimir Putin this year, after he had to dial into last year’s summit due to the ICC’s warrant out for his arrest. So let’s get you
+five of the summit’s biggest revelations
+.
+Are India and China friends again?
+‘Friends’ is probably too strong of a word, but
+maybe
+frenemies? That’s because India’s Narendra Modi and China’s Xi Jinping met on the summit sidelines for the first time in over five years. And that’s just days after Beijing and Delhi announced a deal on patrolling their disputed border, potentially thawing years of frostiness after dozens of their soldiers died in a
+brutal 2020 standoff
+involving sticks and clubs.
+And of course, any improvement in ties is worth
+an approving nod
+, but the sheer size of these two players, the complexity of their ties, and the contrast between the futures they want to see, all means that realistically, this relationship is never going to be easy.
+A new payment system?
+One of the more intriguing (though not surprising) ideas getting some airtime at this summit was a Russia-led proposal to build a BRICS payment messaging system to bypass the West’s dominant SWIFT platform (where Russian banks are banned).
+That’s not surprising because the Russians have been hunting for options to settle their trades ever since they became the world’s most sanctioned nation — they don’t want Indian rupees, for example, but Indian buyers don’t want to risk US sanctions by paying in US dollars, either.
+Other BRICS members (like China) will be sympathetic to the need to
+future-proof against Western sanctions
+, such as in the event of a war over Taiwan. And history will judge whether the West’s use of SWIFT to isolate Russia has undermined SWIFT itself.
+But making this proposed new ‘BRICS bridge’ a reality will face some big challenges: for instance, the currencies of the two biggest BRICS economies (China and India) aren’t even fully convertible. Oh, and speaking of currencies —  last year, BRICS leaders also suggested developing a common currency, an idea which has since gone nowhere.
+A BRICS grain exchange?
+Another Russia-led proposal, the idea here is for BRICS countries to barter their respective agricultural commodities directly, without pesky Western sanctions attached to the US dollar. An exchange like this, Russia argues, could then be expanded to other commodities which Russia conveniently also sells, like oil, gas, and metals.
+Interestingly, there are already reports of Russia resorting to this —  eg, one firm just
+settled a trade
+with cash-strapped Pakistan using
+20,000 tonnes of chickpeas
+!
+But signatories to the BRICS declaration merely said they “
+welcomed
+” Russia’s proposal — we’ve negotiated many texts and can confirm this is the equivalent of an
+awkward nod
+.
+Still, the mere suggestion hints at the dire situation facing the world’s largest exporter of wheat, with Putin now reportedly exporting high volumes for low prices while asking buyers to forgo intermediaries.
+A flex from China?
+During his address, President Xi Jinping
+announced
+China will establish several new BRICS bodies, including a deep-sea research centre, a centre dedicated to ‘special economic zones’ in BRICS countries, a digital cooperation centre, and beyond.
+There’s not a lot of detail around the proposals themselves, but
+the
+intended
+message
+seems clear: i) don’t listen to the haters, BRICS is doing real, tangible stuff; ii) if you need help with
+anything
+, call China (we’ll have a centre for that), and that’s because iii) China is in the BRICS driver’s seat.
+A divisive appearance by the UN chief
+And finally, UN Secretary-General Antonio Guterres has drawn fire for attending this BRICS summit. Critics say the guy charged with helping the world avoid “
+the scourge of war
+” shouldn’t be visiting - let alone shaking hands with - the guy now wanted by the International Criminal Court for kidnapping children while invading his neighbour. Particularly after declining to attend Ukraine’s peace summit in Switzerland this June.
+His defenders note he attended last year’s summit too (though not in Russia, and not with Putin), and that the UN chief needs to deal with everyone to fulfil his mandate. On that last point, he
+reportedly
+even told Putin his invasion of Ukraine was illegal. But Putin’s smile suggests he might’ve heard something else: you can invade a neighbour and still get a UN photo opp.
+INTRIGUE’S TAKE
+There’s an unwritten rule in Hollywood that if someone tells you there’s a problem with your script, they’re probably right. But if they then tell you how to fix it, they’re probably wrong.
+The existence, messaging, and evolution of the BRICS group is all evidence of a problem with the international system: it still doesn’t make enough space for the Global South.
+But does BRICS also hold the solution?
+Even some BRICS leaders themselves seem doubtful —  one of the voices consistently tapping the group’s brakes is India’s Modi, whose
+summit remarks
+were pretty direct in cautioning BRICS against “
+trying to replace global institutions
+” or giving off “
+divisive
+” vibes.
+And with that kind of tension between the group’s two key members (China hitting the gas while India taps the brakes), it’s hard to see BRICS making meaningful progress. In the meantime, it offers a low-cost way for new members to signal their autonomy and get more access to world leaders. Though of course, each new member will only further complicate efforts to agree. And there are already disputes over who to even let in (Brazil just vetoed neighbouring Venezuela’s membership bid this week).
+Also worth noting:
+Some 36 states attended this year’s BRICS summit (including various BRICS partners).
+Interestingly, the crown prince of Saudi Arabia, which seems to be hovering somewhere in between BRICS membership and non-membership, skipped the summit in favour of
+a meeting with US Secretary of State Antony Blinken
+.
+THE ULTIMATE TRAVEL GIVEAWAY
+Win an Away bag bundle & an annual subscription to Monocle!
+We teamed up with a couple of our favourite newsletters to offer Intriguers the chance to win the Ultimate Travel Bundle: an Away Carry-On, Away Everywhere Bag, and an annual subscription to Monocle.
+If we could enter ourselves, we would.
+Enter to win!
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: Pakistan’s finance minister has said his country is
+planning to finish privatising its national airline
+plus outsourcing Islamabad’s international airport next month. He said the cash-raising move, first announced in April, has been delayed to ensure
+“macroeconomic stability”
+and
+“due diligence.”
+🇫🇷
+France
+: A conference in Paris has
+raised $800M in humanitarian aid and $200M in security assistance
+for the million or more Lebanese people displaced since Israel began its ground operation against Hezbollah. In his opening speech, President Macron announced France would contribute $108M, while calling for the war to
+“end as soon as possible” .
+🇸🇬
+Singapore
+: The city-state has
+announced it’s successfully rolled out passport-less immigration clearance
+at its Changi Airport, cutting the average clearance time per passenger by 60%. The clearance process, which has been in place at four Changi terminals since September 30, has allowed immigration officers to be redeployed to "
+higher-value
+” roles.
+🇺🇸
+US
+: Speaking of Singapore, the Singaporean owner of the cargo ship that caused the deadly Baltimore Bridge disaster has agreed to
+settle (for $102M) a lawsuit brought by the US Justice Department
+. The state of Maryland has filed its own claim seeking damages for the reconstruction, which could cost $2B.
+🇲🇿
+Mozambique
+: The country’s ruling party (Frelimo) has
+won re-election in a landslide
+, despite large protests against extending its 49-year rule. Even before the official results broke, protests erupted across the country as allegations of election fraud in the resource-rich country emerged.
+EXTRA INTRIGUE
+Four stories we couldn’t shoe-horn into the newsletter this week
+France has granted
+visas to six Russian soldiers
+who deserted their posts rather than fight in Ukraine.
+New research suggests the Earth’s
+carbon sink systems are collapsing
+.
+Another Russian oil executive has
+turned up dead
+in mysterious circumstances.
+And Canada has announced a sharp
+cut to its immigration targets
+in an effort to “
+pause population growth
+”.
+EVENT OF THE DAY
+The State Department’s Liesyl Franz with Intrigue’s co-founder Helen Zhang
+Thanks to everyone who joined our latest Intrigue event! Hosted at Samsung’s DC offices last night (Thursday), our superb line-up of speakers helped a full house make sense of the buzz that is cyber security, in
+Securing Tomorrow—Cyber Threats & Global Defense.
+ICYMI, here’s a brief highlight reel (before the YouTube drop):
+Liesyl Franz
+from State’s Bureau of Cyberspace and Digital Policy shared some juicy insights into how Foggy Bottom is working with US allies to boost cyber capabilities. Fun fact: the audience also included a pitcher from
+Liesyl‘s
+Major League Baseball
+home
+team, the Baltimore Orioles (hello beloved Intriguer!) ⚾️
+Matt Turek
+from DARPA’s Information Innovation Office gave us a peek into his agency’s efforts to maintain a US cyber advantage, including an intriguing analogy to icebergs (the real nitty-gritty is below the surface headlines)
+🧊
+, and
+Brandon Wales
+from SentinelOne, who’s recently switched over to the
+dark side
+private sector after a 20+ year career in government (including heading up the Cybersecurity and Infrastructure Security Agency)
+, reminded us that the first shot fired in the Russo-Ukraine war was actually a cyber attack (Brandon also rocked some great boba-tea socks
+🧦
++
+🧋
+= 👍
+).
+And! Huge shout out to our amazing volunteers Cheryl, Griffin, Ryan, and Sarah for helping make our program seamless, energetic, and Intrigue™️ at its best
+✨
+.
+FRIDAY QUIZ
+In honour of last night’s Intrigue event in DC, here’s a cybersecurity-themed quiz.
+1) Which of the following is *not* an infamous hacker group?
+Fancy Bear
+The Equation Group
+Rocket Kitten
+Sonic Surfers
+Login
+or
+Subscribe
+to participate
+2) How many ransomware attempts were recorded in 2023?
+~ 100 million
+~ 250 million
+~ 300 million
+~ 350 million
+Login
+or
+Subscribe
+to participate
+3) Which of the following is the most impersonated brand in phishing scams?
+Apple
+Microsoft
+Google
+Meta
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

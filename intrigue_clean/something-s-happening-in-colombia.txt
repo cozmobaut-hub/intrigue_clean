@@ -1,0 +1,198 @@
+URL: https://archives.internationalintrigue.io/p/friday-4ef4
+Title: 🌍 Something’s happening in Colombia
+
+IN TODAY’S EDITION
+1️⃣ Something’s up in Colombia
+2️⃣ Intrigue’s weekend tips
+3️⃣ Typo of the day
+Hi {{ First name | Intriguer }}.
+I don't want to trigger an international incident here, but if you ever learn Spanish, there's a good chance your teacher might casually mention that folks speak the best Spanish in Colombia.
+No pronouncing it 'Bar
+th
+elona' like in Spain. No skipping entire sounds like in Chile. No impenetrably rapid phrases like in Argentina. No bewildering galaxy of slang like in Mexico, where there's
+an entire dictionary
+of uses for a single
+vulgar
+versatile verb.
+Nope, and don't ask me why, but in
+Colombia
+, they speak the same Spanish you're learning in the classroom. So it's with Colombia’s crisp accent, conventional conjugation, and precise pronunciation that I invite you to join us there today, for some developments maybe not getting the global attention they deserve.
+THE HEADLINES
+Trump floats possible UK trade deal.
+After discussing
+a possible trade deal with UK leader Keir Starmer
+to spare the Brits from US tariffs, Donald Trump has reiterated his intention to hit Canada and Mexico with 25% levies from 4 March. The US president also announced additional 10% tariffs on China, which he accused of failing to stem the flow of fentanyl into the US.
+Jailed PKK leader calls for disarmament.
+Abdullah Öcalan, a founding member of the Kurdistan Workers’ Party (PKK), has called on the group’s
+members to disarm and disband
+, potentially ending a 40-year conflict with the Turkish state. PKK members haven’t yet responded to the comments from Öcalan, who’s still in prison. If they heed his call (no guarantees), it’d be a big continuation of President Erdoğan’s
+recent winning streak
+.
+Microsoft urges Trump to drop chip controls.
+Brad Smith, Microsoft’s president, has urged the US president to
+review strict export controls on AI chips
+issued by the Biden administration (we wrote about those
+here
+), arguing the curbs will just push US partners and allies to buy chips from China instead.
+Incumbent wins Ontario election with tough-on-Trump message.
+Doug Ford, the leader of Canada’s key Ontario province, has won re-election after calling an early vote to strengthen his position. Ford has
+pledged to stand up for Canada
+and fight back against Trump’s pressure.
+ChatGPT gets another update.
+OpenAI has
+just dropped GPT-4.5
+, a highly anticipated update to its famous AI chatbot. Coming after delays, OpenAI is calling the new version its “
+most knowledgeable model yet
+”, though also warns it might not perform as well as its predecessors in some tasks.
+TOP STORY
+Something’s happening in Colombia
+Somebody fix President Petro’s tie.
+Remember 2016? Bieber’s
+Love Yourself
+was top of the charts,
+Spotlight
+won best picture, and
+Game of Thrones
+won best drama, while the Brits Brexited and Americans Trumped.
+So with all that going on, you might’ve missed something big that happened in Colombia — 2016 was when, after years of negotiations in Havana and elsewhere, Colombia signed a landmark peace deal with its biggest guerrilla group (FARC) in a step many hoped might convince other rebels to follow. Colombia’s then-president (Santos) even won the Nobel Peace Prize.
+But now, eight years and two presidents later, a lightning offensive by the world’s oldest guerrilla movement risks upending that hope completely.
+Here’s what you need to know.
+Gustavo Petro won the presidency in 2022 pledging to bring ‘
+total peace
+’ to the country after decades of conflict involving the military, guerrilla movements, and paramilitaries.
+A
+former leftist guerrilla
+himself, Petro’s plan involved holding direct and parallel talks with several groups at once, using different strategies and legal tools to tackle the specifics in each negotiation and potentially address some of the underlying drivers.
+Petro notched up some early wins, too, signing ceasefires with several groups including the big kahuna known as the
+National Liberation Army (ELN)
+— it’s a rural-based Marxist group that finances itself via drug trafficking and other crimes. But shortly after that 2023 ceasefire expired last August, the ELN attacked a military base and so Bogota ditched the peace talks. Things have been frosty ever since.
+Now fast forward to January, and the ELN launched a surprise attack against rival factions in the Catatumbo border region near Venezuela, leaving 80 dead and displacing thousands more. The group is now on the verge of controlling the entire cocaine-producing region (again).
+And here’s why that matters.
+Regional insecurity
+It’s been a while since Colombia saw this kind of
+large-scale coordinated operation
+, hitting police stations and infrastructure with bombs and displacing 50,000 people (including into already shaky Venezuela) while another 35,000 hunker down at home.
+Regional governments, already grappling with the eight million folks who’ve fled Maduro’s Venezuela (where the ELN also operates), will be watching this ELN resurgence warily.
+Drug trafficking
+As the ELN conquers more turf, it’ll control more coca plantations, cocaine labs, and smuggling routes, all of which will in turn line its pockets, fund its recruitment and rearmament, and
+fuel its influence
+. And that’ll all make it tougher for the government to
+a)
+bring the ELN back to the negotiating table and/or
+b)
+take the group head on.
+In addition, a consolidated supply chain under the ELN could further increase cocaine supply, in turn further complicating Colombia’s ties with the US, where Trump 2.0 has made a crackdown on drugs and unlawful migration a key tenet of his administration.
+Timing
+And of course, Murphy’s Law dictates that this all comes at
+a lousy time for Petro
+, whose government is in quasi-disarray after various twists and turns saw him lambast his own cabinet on live TV for hours before calling on them all to resign — all while Colombia’s erstwhile security partner (the US) just froze much of its help, whether for counter-narcotics or poverty alleviation (the two are interlinked).
+So, what’s next?
+Petro has declared a state of emergency in Catatumbo and deployed thousands of troops there, but absent a military breakthrough, there’s no obvious way forward. This whole saga is a reminder that, any time one group lays down its arms, rivals can quickly fill the vacuum.
+So Petro’s strategy to negotiate directly with
+multiple
+groups at once made sense in theory, but ELN’s resurgence suggests it’s just
+not working in practice
+— and he’s now lacking the political and fiscal clout needed for any meaningful kind of pivot.
+Meanwhile, his term ends next year, and voters are already signalling a return to conservative candidates promising a tougher approach.
+INTRIGUE’S TAKE
+You can almost feel the cyclical exasperation in the way President Petro recently questioned why cocaine is even illegal anymore:
+There’s a cycle between more supply leading to lower prices, which then fuels more demand abroad, in turn incentivising more supply from Colombia again
+There’s a cycle between dismantling or dethroning one group, only to see its turf simply subsumed by another faction or rival, and
+There’s a cycle as weary voters pivot between versions of right-leaning ‘mano dura’ and left-leaning ‘total peace’ — the right-leaning Santos arguably won the Nobel Prize after fusing the two (he backed his peace strategy with force).
+There’s also a cycle in the way this all shapes travel and investment decisions abroad, making growth tougher at home. But Colombia has form here: 15 years ago, it yoinked a quote from a popular French travel guide to tackle foreign fears head-on, jujitsu-ing them into
+a positive motto
+: ‘
+Colombia: where the only risk is wanting to stay
+’.
+Also worth noting:
+The EU and the US remain the world’s largest markets for cocaine.
+Colombia released its
+landmark truth commission report
+in 2022, finding that the conflict had left 450,000 people dead over six decades, and urging the government to end its militarised approach to drug policy.
+MEANWHILE, ELSEWHERE…
+🇹🇯
+Tajikistan
+: Tajikistan has signed a deal with Beijing that’ll see China build the
+longest road bridge in Central Asia
+, spanning 920 meters (~3,000 feet) across Tajikistan’s Surkhob River. It’ll form part of China’s flagship Belt and Road Initiative, years after the Tajiks became one of the first nations to sign on.
+🇮🇹
+Italy
+: Local fashion house Prada’s co-owner has said
+that buying Versace is now “
+on the table
+”
+amid a downturn for the luxury brand sector. Prada is already crunching numbers on a possible deal which, if approved, would see Versace return to Italian ownership after UK-US-based Capri Holdings bought it in 2018.
+🇸🇬
+Singapore
+: A high stakes feud has
+rocked one of Singapore’s richest families
+as property billionaire Kwek Leng Beng accuses his son of a boardroom coup. His son, the CEO of the family firm
+City Developments Limited
+, has denied the allegations but the father (the firm’s chair) is now pushing to fire him.
+🇺🇸
+US
+: South Africa’s Cyril Ramaphosa has accused Afrikaner-linked lobbyists of sowing divisions after they pushed the White House
+for sanctions against South African officials
+implicated in corruption. The lobbyists also alleged there’s been discrimination against Afrikaners, weeks after Donald Trump halted most aid to the country based on similar claims (which South Africa rejects).
+🇸🇴
+Somalia
+: Ethiopia’s Abiy Ahmed has met his Somali counterpart Hassan Sheikh Mohamud in Mogadishu
+for further talks
+over landlocked Ethiopia’s sea access deal with Somalia’s breakaway territory of Somaliland. Turkey brokered a deal last year, but Ethiopia hasn’t yet formally backed out of its pact with Somaliland.
+FROM OUR FRIENDS
+Want to get smarter about financial markets?
+Join 200,000 investors who get
+Opening Bell Daily
+in their inbox — it’s packed with Wall Street data and analysis you won’t find anywhere else.
+Subscribe free.
+EXTRA INTRIGUE
+Intrigue’s weekend recommendations
+Watch
+some of the nominees for
+best international feature
+ahead of Sunday night’s Oscars, including films from Brazil, Germany, Latvia, Denmark, and France.
+Read
+about how Donald Trump’s approach to Canada might’ve
+upended the country’s politics
+, with outgoing Justin Trudeau’s Liberals now making a stunning comeback in the polls.
+Listen
+to
+Radiooooo
+, an app and website where you can pick a country and a decade then get a curated playlist (it’s free, with sign-up required).
+TYPO OF THE DAY
+Everybody makes typos (we know
+🤦
+) though some get you in hotter water than others. In the example above, the White House comms team accidentally omitted ‘Northern’ before Ireland, which is a little spicy when you remember the island of Ireland is split in two: Northern Ireland (part of the UK), and the Republic of Ireland (part of the EU).
+Plus, it all comes amid a fierce debate as some Irish politicians vow not to attend St Patrick’s Day events in the US on March 17th, citing Donald Trump’s stance on Gaza. But Taoiseach (Irish prime minister) Micheál Martin says he still plans to trek to Washington for the celebrations, arguing it’s better to engage.
+FRIDAY QUIZ
+It’s Kalevala Day, or Finnish Culture Day!
+1) Which cartoon character hails from Finland?
+Bluey
+Moomins
+Winnie the Pooh
+Hello Kitty
+Login
+or
+Subscribe
+to participate
+2) What is Finland's national sport?
+Pesäpallo
+Bandy
+Skiing
+Hockey
+Login
+or
+Subscribe
+to participate
+3) For a population of ~5.5M, how many saunas are in Finland?
+5.5M
+150,000
+6.3M
+3.3M
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

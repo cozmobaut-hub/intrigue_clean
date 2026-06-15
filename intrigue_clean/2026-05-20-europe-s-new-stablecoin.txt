@@ -1,0 +1,264 @@
+URL: https://archives.internationalintrigue.io/p/redu-6e30
+Title: 🌍 Europe’s new stablecoin
+Date: 2026-05-20
+
+Today’s briefing:
+— Europe’s new stablecoin
+— Japan’s odd new crime wave
+— Why Modi is handing out candy
+Good morning {{first_name | Intriguer}}
+. I gifted my dad a dog for his 60th birthday back in 2014. He had always wanted a family dog, though my mum had always been more reluctant. I figured that this milestone birthday was as good a time as any, so went ahead and got him a Shiba Inu puppy.
+I chose a Shiba partly because the breed is known for its independence and loyalty, and mostly because it was the face of Dogecoin, which was a decentralized, peer-to-peer cryptocurrency created in 2013. It was touted as a fun, lighthearted alternative to traditional digital assets, and of course inspired by the viral Shiba Inu "Doge" internet meme. It was a much simpler time.
+Since then, cryptocurrencies have evolved into many variants - ranging from those on the more volatile end of the spectrum to those on the more stable end of the spectrum, as we’ll see in today’s top story on
+stablecoins
+(they got real creative with the name there). Anyway, let’s dive in.
+🎧 Prefer to
+listen
+to this briefing
+while commuting to work, or crunching your abs? Get the podcast version as an
+Intrigue Insider
+today!
+Number of the day
+141-8
+That’s how the UN General Assembly just voted to back last year’s International Court of Justice ruling in Vanuatu’s favour, that countries have a legal responsibility to address climate change. Votes against included the US, Saudi Arabia, Russia, Israel, and Iran.
+Stable?
+An Italian, a Finn, and a Dutchman walk into a bar.
+No, it’s not the start of a joke (that we know of?), but rather what just happened this week after that trio and 34 other European banks joined forces to build a euro stablecoin.
+By way of refresh,
+stablecoins
+are a type of cryptocurrency that remain pegged to an asset, usually a fiat currency like the USD or euro. So rather than (say) making you extremely rich or poor like Bitcoin might do depending on your timing, stablecoins promise… stability! Got one USD stablecoin? It’ll be worth $1 today, tomorrow, Toyota.
+Then… what’s the point?
+They’re so hot right now since the US passed a law to normalise stablecoins as a
+method of payment
+, given they’re low-cost, ~instant, and 24/7. That’s why the original Tether stablecoin (USDT, from 2014) often records the biggest daily trading volume of any crypto.
+There are
+two broad types
+of stablecoin:
+Algorithmic
+stablecoins
+maintain their peg via an algorithm that creates or destroys tokens as needed, whereas…
+Fully reserved
+stablecoins
+are backed by actual reserves so users can redeem tokens for underlying assets.
+Unsurprisingly, that second method is the most popular and trusted, including for the reason we’re briefing you on all this: the proposed new euro-stablecoin,
+Qivalis
+, would be backed by 37 commercial banks across Europe, fully reserved with euros.
+Why?
+Check out these numbers…
+The global stablecoin market is already worth
+~$318B
+(and growing),
+99%
+of that market is pegged to the US dollar
+Two US-born firms run
+80%
+: Tether (now in El Salvador) and Circle Internet, and
+US firms even run
+two-thirds
+of the much-smaller euro-stablecoin market!
+So Qivalis wants to fill that euro-shaped gap in the market with a local solution, offering two big if obvious benefits for Europe:
+First
+, it helps boost the euro as a method for digital payment, and
+Second
+, it decreases the continent’s reliance on the US.
+Or to put it another way, as the tokenised economy grows, more countries will want their own rails to get a slice.
+But
+the banks themselves
+will get benefits too:
+i
+) they’ll earn sweet fees from cross-border payments,
+ii
+) their corporate and institutional clients will get early access; and
+iii
+) they’ll
+all
+get early access to whatever on-chain infrastructure follows.
+So…
+why isn’t everyone doing this already?
+Fans might put hands on hips and give a sassy “
+exactly
+”, but
+ECB chief Christine Lagarde herself has just
+flagged
+the risks in her recent address at the LatAm Economic Forum in Spain:
+First, there’s
+financial stability
+: this whole ecosystem tends not to be as regulated as banks, meaning their reserve structures aren’t always as strong. And that means a run on a stablecoin could get messy, with potential knock-on effects for the “
+real
+” economy.
+And second, there’s
+monetary policy transmission
+: the large-scale adoption of stablecoins could make it harder for the ECB to steward the eurozone via interest rate decisions (though fans would list this decentralisation as a plus).
+So sure, Lagarde’s warnings are valid. But right now — in this world of ours — the riskiest move is sometimes standing still.
+Intrigue’s Take
+[
+Heads-up:
+this Take will soon be for
+Insiders only
+, so join us!]
+There are three topics guaranteed to generate hate-mail for us (in amongst the love
+🤗
+): Trump, Israel, and crypto. Something they each have in common? Probably a sense (whether you share it or not) of
+existential stakes
+.
+And when it comes to crypto, we’ve flagged some of the stakes above: early-adopters stand to lock (or lose) generational wealth, so they don’t like a team of ex-diplomats telling 160k+ influential folks across the US and beyond that sure, there might be risks.
+We don’t mention this hate-mail because we care (bring it!) but to casually and stylistically pivot to some other stakes we see here:
+First
+, there’s the
+temporal
+: just like how serfs could never conceive of what we now take for granted (a labour market), we might not have a sense of where crypto lands, but it makes sense to be in the arena and shape it now, particularly when you consider...
+Second
+, the
+geopolitical
+: uncertainty aside, we can still see a future in which whoever controls the dominant digital currency rails might wield a kind of power similar to what the US has now enjoyed for ~80 years: think seigniorage, sanctions, data visibility, standard-setting. So again, it makes sense to be in the arena.
+And
+third
+, there’s the
+centrifugal
+: we’ve long explored Europe’s realisation it might want to stop renting off the US, and start building. But maybe this Qivalis idea points to another, similar force: while we often chuckle at slow-Brussels jokes, this new crypto play is
+private
+-led, and it’s just one of many we’re now seeing across defence and beyond.
+So all that to say sure, Lagarde is right to be cautious. But maybe those 37 banks are also right not to wait.
+Sound even smarter:
+Central Bank Digital Currencies (CBDCs), like the ones already running in Nigeria, Jamaica, and Bahamas (plus the retail CBDC getting slow-walked in the ECB) are considered separate to the stablecoins we’ve explored above.
+From our sponsors
+What does that $70k hire really cost?
+Salary is only part of the equation. Local taxes, benefits, and employment costs add up quickly.
+Use
+Oyster’s calculator
+to estimate the real cost of hiring globally, in seconds.
+Estimate hiring costs
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES  — AI executive order drop?
+The White House could release its new AI and cybersecurity executive order as soon as today (Thurs), formalising a new inter-agency process to review advanced AI models before public release. (
+Politico
+)
+Comment
+:
+It’s a thin line between allowing AI pioneers enough space to innovate, versus inserting enough safeguards to avoid havoc. But the catch here? Drafts suggest the new review process would be completely voluntary.
+🇧🇴
+BOLIVIA — Morales conviction sparks chaos.
+A Bolivian court’s arrest warrant for leftist ex-leader Evo Morales has fuelled mass protests. The court issued the warrant after Morales failed to show for his trial over claims he impregnated a minor while in office. (
+Foreign Policy
+)
+Comment:
+One thing to watch here is how the region responds: Colombia’s Petro has accused Bolivia’s business-friendly government of being a “puppet of the USA”, while the US is likening events to a coup.
+🇮🇱
+ISRAEL — Outrage at Ben-Gvir flotilla stunt.
+Various countries (including Italy, France, Canada, the UK, and the Netherlands) have summoned Israeli ambassadors over a video of natsec minister Itamar Ben-Gvir taunting the prostrated detainees from an international activist flotilla. (
+BBC
+)
+Comment:
+The fact the video has even drawn criticism from a sympathetic US ambassador (Huckabee) plus Netanyahu himself suggests Ben-Gvir could be drumming up ultra-nationalist support ahead of impending snap elections.
+🇮🇷
+IRAN — Who’s in charge here.
+Iran’s IRGC navy has claimed it just coordinated the safe passage of 26 vessels (including tankers and container ships) through Hormuz. Meanwhile, mediators Qatar and Pakistan are now reportedly drafting a
+letter of intent
+to end the US-Iran war then open a 30-day window for nuclear and Hormuz talks. (
+Al Jazeera
+)
+Comment:
+Pending verification, Iran’s Hormuz claim is a flex of its leverage while this reported ‘letter of intent’ takes shape — the draft doesn’t seem to address any of the big issues (nuclear, missiles, proxies, Hormuz), so might just be another can to kick down the road (which in turn might be why President Trump’s latest call
+apparently
+left Israel’s Netanyahu furious). Meanwhile, the fact the US just saw its biggest-ever weekly strategic petroleum reserve drawdown suggests the status quo hurts.
+🇰🇪
+KENYA — AI push kicks off.
+Organisers are touting Africa’s biggest public-private AI summit in Nairobi this week, backed by Kenya (plus Germany), and corporates like Mastercard. (
+The Star
+)
+Comment:
+It reflects Kenya’s concerted play for digital sovereignty, in hopes it can build its own talent pipeline and regulatory edge rather than end up a passive consumer of Western/Chinese models. Nairobi is already a top-3 startup hub on the continent, alongside Lagos and Cape Town.
+🇵🇪
+PERU — Super El Niño on the horizon?
+Peruvian scientists are tracking a massive subsurface Kelvin wave (basically a 14,500km / 9,000mi-long blob of warm water) across the equatorial Pacific, raising the odds of a brutal El Niño hitting later in 2026. (
+Washington Post $
+)
+Comment
+:
+Peru sits right in the bullseye (think floods, landslides, and fishery collapse), but a severe El Niño (*if* that’s what coming) would be regional. One dear Intriguer, who happens to be
+a geological oceanographer
+, told us, “this is truly devastating, and also entirely expected given the exceptionally high sea surface temperatures last year. 2026 is going to be one hell of a ride." Become an Intrigue Insider and
+join the chat
+.
+🇯🇵
+JAPAN — Tokuryu crime surge.
+Police are warning of shady new online
+tokuryu
+networks after arresting four teenagers over a botched home robbery that left a 69-year-old woman dead in Tochigi —they’d just been recruited online for the robbery hours earlier. (
+Nippon
+)
+Comment
+: With traditional yakuza (mafia) membership hitting another record low, Japan’s underworld seems to be filling the vacuum via a kind of ‘gig economy’ — these tokuryu are anonymous, fluid groups that form and dissolve via shady “yami baito” job ads luring unemployed youth.
+🇨🇺
+CUBA — Raúl Castro indicted.
+After a week of rumours, the US justice department has unsealed an indictment charging 94-year-old former leader Raúl Castro and five co-defendants over the 1996 shoot-down of two Cessnas in international airspace helping rafters flee the regime. Meanwhile, leaks continue to flag that the US is ramping up its consideration of military options. (
+The Hill
+)
+Comment:
+Unveiling that indictment right on Cuba’s independence day is a way to maximise the punch of reviving this long-dormant case as fresh leverage over the regime. As for the military leaks? Same as always: for now, these public headlines are aimed at ratcheting up the pressure on Havana until an offramp emerges.
+Extra Intrigue
+In other worlds…
+Business
+: Samsung has just
+reached a tentative deal
+with its trade union to avoid an 18-day strike that was scheduled for today (Thursday).
+Tech:
+SpaceX has filed for its
+long-awaited Nasdaq IPO
+that could make Elon Musk a trillionaire on paper, while legendary Slovak-Canadian AI researcher Andrej Karpathy has
+joined Anthropic
+after key stints at OpenAI and Tesla.
+Finance:
+French lawmakers have
+narrowly approved
+President Macron’s ex-chief of staff as central bank chief, reviving debate over monetary independence.
+Wildlife:
+Japanese-led expeditions have
+announced the discovery
+of 1,121 new marine species as part of Tokyo’s big deep-sea push across the Pacific.
+Gift of the day
+Courtesy of Modi’s Insta
+Gifts among world leaders are usually snooze-fests: a pen, a signed book, maybe a
+$400M pimped-out 747
+fancy tea set if you’re lucky. But India’s Modi just gifted something to Italy’s Meloni that really caught our eye: a packet of India’s classic
+‘Melody’ toffees
+. Why?
+Sure, they’re tasty. “
+Very, very good
+”, in fact (per Meloni’s viral response). But the gift is actually a callback to 2023, when the two first tweeted a selfie with #Melodi (a portmanteau of their two names).
+So okay, a shout-out to India’s diplomats who came up with a cute gift idea (when not
+shouting at journalists
+in Norway). But it also caught our eye for these two reasons:
+First
+, the gift caused a random Mumbai-listed tech-firm called Parle to surge 5%, as traders confused it with the unlisted toffee-maker (also called Parle, lol), and…
+Second
+, it played into India’s febrile politics, with opposition leader Rahul Gandhi going in for the dunk: “
+An economic storm is raging over our heads, and our Prime Minister is busy handing out candies in Italy!
+”
+Today’s poll
+What do you think of stablecoins?
+💸 What's not to like: they're faster, cheaper, better
+🚫 Too risky
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who benefits the most from Sino-Russia ties?
+🇷🇺
+Russia (tell us why!) (36%)
+🇨🇳
+China (tell us why!) (61%)
+✍️ Other (write in!) (3%)
+Your two cents:
+🇨🇳
+J.L:
+“If anything, China has not made enough of the gas, oil, technological know-how, and combat experience benefits they could extract from Russia.”
+🇷🇺
+I:
+“Without China's support, Putin's war would already be over, and he would be out of power.”
+✍️
+T.D:
+“It is mutual, based on need. Neither country can trust the West so working together increases their security.”

@@ -1,0 +1,226 @@
+URL: https://archives.internationalintrigue.io/p/what-s-keeping-blackrock-awake-988c0b228fb9663b
+Title: 🌍 What’s keeping BlackRock awake?
+
+Today’s briefing:
+— What’s keeping BlackRock awake?
+— A very German meme
+— Your weekend quiz
+Good morning {{first_name | Intriguer}}
+. In somewhat surprising news, the UK government announced yesterday that it plans to lower the country’s voting age from 18 to 16, adding roughly 1.6M new voters by the next election.
+Fair’s fair, I say—if Grandma and Grandpa can binge cable infotainment and cast their votes accordingly, and millennials insist we’re so uniquely struck down by ennui that we don’t vote at all, what’s the harm in letting a few young’uns vote the way TikTok’s secret algorithm tells them to? Call it equal-opportunity disinformation; it all comes out in the wash… right?
+Speaking of change, today we’re looking at
+BlackRock’s latest mid-year outlook
+which predictably has a lot to say about AI. Given how few of us actually understand AI—or even computers—handing 16-year-olds the vote might actually be a pretty good idea.
+Number of the day
+308-122
+That’s how the US House voted to pass a bill regulating Stablecoins (cryptocurrencies pegged to an asset such as the USD), clearing the way for their everyday use.
+(Black)Rock n roll
+When the world’s biggest investment fund speaks, you gotta listen. Or not. You do you. But when that fund weighs in on its biggest geopolitical risks? Yes,
+we
+tend to listen.
+So when the $12.5 trillion BlackRock dropped its latest
+Geopolitical Risk Report
+, we dusted off our most cat-shaped sticky notes, pinkest highlighters, and a mechanical pencil that’s so pretentious we got a job offer from Apple.
+Here are the report’s five key quotes:
+🇺🇸
+“Uncertainty and volatility have become fixtures of the geopolitical landscape, with rapidly evolving US policy as an animating force”
+Sometimes in government, things are highly classified not because of what’s being said, but
+who
+’s saying it. And that kinda applies here: it’s not news that Trump 2.0 is upending many of our world’s assumptions. That was his platform! No more business as usual, folks.
+But what
+is
+interesting is
+who’s saying it
+: Wall Street royalty, aka BlackRock.
+The
+so what
+here is interesting, too: after three quarters of a century playing a stabilising role for the very post-WWII system it ushered in, it’s jarring for many capitals to see DC now playing a
+de-
+stabilising role, whether across trade, tech rules, or beyond.
+And of course, the president’s supporters would see this destabilisation as the exact medicine the US (and the broader world) needs, particularly when it comes to ties with…
+🇨🇳
+“Military tensions may be poised to escalate, especially in the event of an accident or miscalculation”
+While many folks focus on the economic fallout of the (ahem)
+conscious uncoupling
+between Beijing and DC, the BlackRock analysts warn that the probability of US-China tensions escalating over Taiwan or the South China Sea is “
+high
+”.
+And they go on to underline the significance of China’s recent deployment of two aircraft carriers (the Liaoning and the Shandong) beyond what national security types call
+the first island chain
+(aka Japan, Taiwan, the Philippines, Malaysia, and Indonesia): it “
+demonstrates China’s posture to deny U.S. access to the region in the event of a conflict
+”.
+But it’s not just the Liaonings and the Shandongs turning heads anymore. It’s also…
+🤖
+“We think AI and its associated hardware, data and tech clusters will increasingly be treated as national security assets”
+We’ve already seen that play out, whether it was the Biden administration’s chip diffusion rules (who gets how many types of what chips), or DC’s evolving export controls.
+We say ‘
+evolving
+’ because, as we
+explored
+on Wednesday, Trump 2.0 just reversed course on banning certain Nvidia chip sales to China, instead embracing the idea that the world needs
+more
+US tech — not less — for the US to stay ahead.
+You can see that same evolving philosophy in the president’s first trip abroad this year, with big tech export deals across the Gulf in a seeming
+reversal
+of Biden’s diffusion rules.
+But as we grapple with the
+national security implications
+of AI (the Pentagon just signed $200M in AI deals), it’ll naturally become a target for adversaries, too. As if capitals didn’t have enough to worry about, like…
+📉
+“Export-dependent economies will face the greatest pressure, we think, with currency realignment likely serving as the primary adjustment mechanism”
+Why export-dependent economies? It’s partly because one of their biggest customers (China) is buying less, but also because capitals everywhere are rushing to protect their own industries by slapping tariffs on stuff from abroad.
+So why might everyone’s
+currencies
+absorb much of the shock? The other options are:
+Try to find
+other buyers
+, but it’s hard to casually replace a ‘China’ or a ‘USA’, especially when everyone else is trying to do the same thing, or you could…
+Stimulate more demand
+at home
+, but few capitals want much more debt.
+Of course, currency depreciation comes with its own costs: anyone buying energy from abroad, for example, will see those bills go right up. So central banks will move to defend their currencies, but then cue the accusations of currency manipulation.
+And speaking of accusations…
+🇰🇵
+“North Korea is emboldened by its stronger relationships with Russia and China as well as its own military advances”
+Somehow, given everything else going on, Kim Jong Un quietly slips down many risk lists these days. Bro is unbothered. Moisturized. Happy. In his lane. Focused. Flourishing.
+But he’s not sneaking past the bespectacled analysts at BlackRock, who think his recent string of diplomatic and military advances will further insulate him from any pressure.
+Intrigue’s Take
+So, what to make of all this?
+First
+, it’s a good day to be an
+emerging player
+: cracks in the system create space you can exploit, whether it’s North Korea evading a distracted spotlight, China expanding the reach of its rapidly growing navy, or some AI engineer getting poached with a $100M signing bonus because everyone fears getting left behind.
+Second
+, whatever line you see between the economy and national security is
+getting blurrier
+every day. And it’s not because tariffs are making your contacts pricier. Those rocks you’re digging up in Nevada? The Pentagon wants them. That cool chip you just invented? Don’t even think about exporting it. That big foreign investor you just signed? We want to know more about them.
+And
+third
+, choices for world leaders just keep
+getting trickier
+: somehow you gotta diversify but secure your trade, stimulate but steward your economy, and deter without destabilising your region.
+Sound even smarter:
+BlackRock just reached a
+record $12.5T of assets
+under management despite a single institutional client withdrawing a cool $52B. The net result? BlackRock shares actually slumped.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+You’ll regret this.
+President Trump has vowed to sue erstwhile ally Rupert Murdoch, whose
+Wall Street Journal
+just reported on a cryptically “
+bawdy
+” letter Trump allegedly sent the late predator Jeffrey Epstein for his 50th birthday in 2003. Trump has directed his attorney general to release the testimonies from Epstein’s grand jury trial. (
+Le Monde
+)
+🇮🇱
+ISRAEL
+-
+Bibi apologises after church hit.
+President Trump has called Benjamin Netanyahu after Israeli fire hit Gaza’s only Catholic Church, leaving three dead. Bibi says his country deeply regrets the incident, which he’s blamed on stray ammunition. (
+BBC
+)
+🇮🇷
+IRAN - Got you.
+NBC is reporting that a recent US assessment has found last month’s US airstrikes “
+mostly destroyed
+” Iran’s nuclear site below Fordo mountain, setting back its enrichment capabilities there by up to two years. US strikes at Natanz and Isfahan, however, might’ve only degraded Iran’s capabilities to the point where it could resume enrichment within months if it wanted. (
+NBC
+)
+Comment:
+The most interesting part of this report is less the way it furthers the debate around your preferred definition of ‘obliterated’, and more in the new details it reveals about Natanz and Isfahan: apparently Iran was already building tunnels deep underground there, precisely to evade America’s purpose-built bunker busters.
+🇮🇳
+INDIA
+-
+All oil’d up.
+India’s energy minister has flagged he’s confident Delhi can find alternative oil sources if the US follows through on its threats to hit Russia with secondary sanctions (ie, sanctioning anyone buying Russian oil). (
+Times of India
+)
+Comment:
+His comments were also interesting in the way he (again) referred to double standards in the West, though the trajectory matters here: the EU’s energy dependence on Russia has collapsed ~85%, while India has ramped up its Russian oil imports 40x (though that number has likely eased in 2025).
+🇬🇧
+UNITED KINGDOM
+-
+Quite the handshake.
+Prime Minister Keir Starmer has welcomed his German counterpart Friedrich Merz to London, pledging mutual defence and a closer partnership on nuclear deterrence and beyond. (
+No. 10
+)
+Comment:
+Huh: first, they both already pledge mutual defence via NATO; and second, only one of the two (the UK) actually has nukes. So what’s going on? The common thread is a fear of the US withdrawing from Europe, prompting Europe’s players to start doubling down on the NATO basics: mutual defence backed by a nuclear umbrella.
+🇮🇩
+INDONESIA
+-
+Don’t bring that up in here.
+Indonesia’s national narcotics agency has warned that Bali has become a key hub for transnational drug trafficking, with syndicates using crypto to evade detection. (
+Strait Times
+)
+Comment:
+Like any hot spot, Bali has always had its dark side, though there’s been a clear uptick in visible underworld activity there lately: meth labs, mob hits, crypto scams etc. It’s re-opened the classic ‘quantity vs quality’ debate around tourism.
+🇧🇷
+BRAZIL
+-
+Is Green still in?
+A polarising environmental bill has now cleared Brazil’s congress, but it’s unclear whether President Lula (who casts himself as an environmentalist) will sign it. The bill’s supporters argue it simplifies environmental bureaucracy, whereas its critics say it weakens environmental protections. (
+AP
+)
+Comment:
+Months out from hosting his big COP climate summit, Lula really seems to be leaning more into immediate economic wins — just last month, he fast-tracked new oil licenses at the mouth of the Amazon. Our sense is in an uncertain and tariff-heavy world, capitals are seizing whatever economic advantage they can get.
+🇨🇲
+CAMEROON
+-
+One more dance?
+The world’s oldest head of state, Cameroon’s Paul Biya (a spritely 92), has promoted several new generals the same week he announced he’ll once again be a candidate at October’s presidential elections. He’s held power since 1982. (
+TRT Global
+)
+Comment:
+It’s an unsubtle attempt to keep the military onside as some of Biya’s longstanding political backers seemingly distance themselves from him.
+Extra Intrigue
+👠
+Three stories we couldn’t shoehorn in this week…
+Tariffs:
+Our friends at The Brazilian Report have shared some intriguing insights into how
+Brasilia is grappling with President Trump’s new tariffs
+.
+Markets:
+There’s chatter about Trump sacking Fed chief Jerome Powell,
+reviving the debate
+around whether that’s even allowed.
+Elections:
+Voters in Japan will head to the
+polls this weekend
+for a crucial upper house election, with the ruling party potentially set for punishment.
+Meme of the day
+Credits: Instagram / @Connimeme
+Seen many German memes in your travels?
+This one features Germany’s adorable ‘Conni’, a beloved kids character, but you’ll note she’s going a bit off brand here, lounging back with a crisp lager under a satirical “
+teamwork
+” caption: if you don’t do the job, somebody else will.
+It’s one of many edgy Conni memes now going so viral in the German-speaking world,  her book publisher has taken note and is even suing some depictions that go too far.
+Friday quiz
+It’s World Chess Day on Sunday!
+1) Chess developed from a game originating in...
+France
+India
+Egypt
+Login
+or
+Subscribe
+to participate
+2) When did a computer beat a reigning world champion for the first time?
+1987
+1997
+2007
+Login
+or
+Subscribe
+to participate
+3) Which is bigger?
+The number of possible chess games
+The total number of atoms in the universe
+Login
+or
+Subscribe
+to participate

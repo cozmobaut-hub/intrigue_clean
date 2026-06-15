@@ -1,0 +1,263 @@
+URL: https://archives.internationalintrigue.io/p/will-worlds-top-chipmaker-defy-sceptics
+Title: 🌍 Will the world’s top chipmaker defy the sceptics?
+
+IN TODAY’S EDITION
+1️⃣ A Taiwan win in Arizona?
+2️⃣ Olympic rings forever?
+3️⃣ Embassy of the day
+Hi {{ First name | Intriguer }}.
+I’ve noted previously how China’s stats agency suddenly stopped publishing youth unemployment data last year while it ‘improved’ the methodology: after peaking at an eye-watering 21.3%, the rate then suddenly reappeared this year at 14.9%, with little explanation.
+Now it’s Russia’s turn: the nation John McCain once famously described as “
+a gas station masquerading as a country
+” is now withholding basic oil production data. I’m gonna go out on a limb and guess this sudden secrecy isn’t because things are looking good.
+Anyway, today’s briefing leads with yet another intriguing metric: reports emerged over the weekend that the world’s top chipmaker (
+TSMC
+)
+might
+be making some surprisingly solid progress in
+Arizona
+. Let’s dive in.
+THE HEADLINES
+Maduro’s challenger seeks asylum in Spain.
+Former Venezuelan diplomat and opposition candidate Edmundo
+González has now landed in Spain
+after a Venezuelan court (loyal to the Maduro regime) issued a warrant for his arrest. González is widely seen as having won last month’s presidential election, but Nicolás Maduro is not letting go.
+Israeli strikes on Syria.
+A series of presumed
+Israeli strikes on central Syria
+appear to have targeted scientific research centres with reported links to chemical weapons and pro-Iran groups. Meanwhile, a Jordanian citizen
+shot and killed three Israeli
+border guards at the Jordan-West Bank border yesterday (Sunday), prompting Israel to close the borders.
+China price data still not calming deflation fears.
+Consumer prices
+rose by 0.6% year-on-year
+in August (0.1% below expectations) while China’s producer price index fell by 1.8%. These results, partly reflecting lacklustre demand since Covid, prompted a former head of China’s central bank to call on Beijing to “
+fight the deflationary pressure.
+”
+Algerian President Tebboune claims second term amid low turnout.
+The incumbent leader has
+claimed 94% of the vote
+, with less than 6 million out of Algeria’s 24 million eligible voters casting their ballots on Sunday. It all raises questions around the popular support for the gas-rich country’s leader.
+Dozens killed as Typhoon Yagi makes landfall in Vietnam.
+The typhoon,
+Vietnam’s strongest
+in decades, killed at least 59 people in the north, plus another 23 casualties across the Philippines and China. It’s also damaged Vietnam’s vast northern rice-fields, left factories without power, and collapsed the walls at a plant run by LG Electronics.
+TOP STORY
+Will the world’s top chipmaker defy the sceptics?
+The Taiwan Semiconductor Manufacturing Company (TSMC) construction site in Arizona.
+There was a short but veeeery intriguing
+piece
+in Bloomberg over the weekend suggesting the world's most advanced chip
+maker
+(Taiwan's ‘TSMC’) is enjoying trial ‘yields’ at its $65B Arizona site that are "
+on par
+" with results back in Taiwan.
+But to recall why this matters,
+let's first set the scene
+: the US and China are now in open competition, and semiconductors (chips) are a key field where that’s playing out - Taiwan makes 90% of the world’s most advanced chips (with US and Dutch inputs), but China continues to claim Taiwan as its own.
+So against that spicy backdrop, the two sides now have duelling strategies…
+China
+has a '
+Made in China
+' strategy to curb its own reliance on Western tech, while
+US
+efforts rest on two pillars: i) using export controls to
+limit China's access
+to top chips (with possible military uses); and ii) using incentives to
+secure America's supply
+by bringing more production back home.
+The thing is,
+both these US pillars have looked a little wobbly
+lately. In terms of
+pillar one
+(limiting China's chip access):
+FT just
+reported
+that top US-designed / Taiwan-made chips are now
+cheaper to rent in China
+than in the US (!), suggesting there’s still plenty of supply despite any US restrictions
+The Wall Street Journal also
+reported
+some China-based firms are
+cloaking their identity
+to rent these same Nvidia chips abroad, and
+We
+wrote
+last year how China’s own chipmakers have seemingly shrugged off another
+US-imposed technical limit
+on chipmaking (by tweaking legacy tech rather than leapfrogging to the cutting edge).
+Then in terms of
+pillar two
+(bringing more chip production back to the US), things have looked wobbly despite the US fire-hosing incentives at producers: eg,
+Intel
+is bumping up against its own
+mistakes
+(like missing the mobile and AI waves), and there's an entire media cottage industry reporting on
+hurdles
+TSMC
+has faced in Arizona, from cultural clashes to union disputes.
+So against those
+stakes
+(winning the 21st century) and
+pillars
+(restricting vs securing chip access), you can see why Bloomberg's article caught our eye.
+But... this is also why we need to grapple with
+some legit caveats
+here: i) these promising TSMC yield claims have come from an
+anonymous
+source; ii) they’ve come just as TSMC is in line for $11.6B in
+US grants and loans
+; and iii) the
+technicals
+are still unclear: eg, can TSMC scale those yields to viable volumes, and at viable costs?
+Anyway, in this era of ours, and for this company of Taiwan’s - key to everything from AI chips to F35 fighter jets - it’s all veeeery intriguing, for three reasons:
+First
+, TSMC’s chips in Arizona are a tiny 4 nanometres, and made with ‘
+extreme
+’ ultraviolet tech that’s well beyond the ‘deep’ UV tech still used in China
+Second
+, there’s a big
+narrative effect
+at stake if TSMC succeeds here, particularly around the extent to which the US can still defend and reassert its own tech leadership, but also
+Third
+, this will stoke questions on whether reducing US dependence on Taiwan-made chips might
+reduce any US commitment
+to defend Taiwan; ditto, whether the US cutting China off from top Taiwan-made chips reduces any
+dis
+incentive for China to take Taiwan by force.
+Anyway, with the stakes so high, and information so low, that’s why a 276-word article in Bloomberg left a few ex-diplomats like us more than a little breathless.
+INTRIGUE’S TAKE
+TSMC’s own story contains seeds of both hope and despair for anyone invested in its success in Arizona.
+First, there’s
+hope
+in the sense that Morris Chang first founded the firm, at the invitation of Taiwan's government, after working for decades abroad at Texas Instruments in the US. I.e., TSMC's very existence is arguably proof that this kind of government strategy
+can
+work.
+But… there’s maybe also
+despair
+in TSMC’s story because it took Taiwan decades, countless billions, and a whole ecosystem of suppliers and educators to succeed, which is probably why this Arizona project has faced delays and cost increases. And that’s probably why Chang himself (now retired)
+described
+the whole Arizona play as a "
+very expensive exercise in futility
+".
+And yet, if you read his 2022 comments in
+context
+, Chang was premising them on an assessment that there'll be no war over Taiwan. But of course, that's kinda the point here - whether to avoid a war or win it, chip strength is key.
+Also worth noting:
+Around half the 2,200 employees now working at TSMC’s Arizona precinct were reportedly flown in from HQ in Taiwan.
+TSMC’s sales to China have continued to grow via older chips, which aren’t blocked by US export controls.
+Check out our Intrigue merch!
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: Beijing has announced it’ll allow the
+establishment of wholly foreign-owned hospitals
+in nine areas of the country. The move probably has two aims: support China’s economy, and help meet the growing healthcare demand from China’s ageing population.
+🇫🇷
+France
+: Paris mayor Anne Hidalgo has announced the Eiffel Tower will
+keep its Olympic rings
+, even though the Paralympics wrapped up yesterday (Sunday). Her rivals say Hidalgo is basically erecting a permanent campaign poster ahead of the 2026 mayoral elections - the great-great-grandson of Gustave Eiffel has also criticised the idea.
+🇹🇻
+Tuvalu
+: World Bank chief Ajay Banga has
+travelled to the Pacific Island nation of Tuvalu
+as part of his mission to visit every region where the bank operates. The first World Bank president to ever visit, his climate focus in Tuvalu has responded both to local concerns (most of the 11,000 residents live at or near sea level), plus criticism that the bank has been relatively slow to pivot to climate finance.
+🇻🇪
+Venezuela
+: Caracas has revoked Brazil’s
+custody of Argentina’s embassy
+in Venezuela, jeopardising the safety of local dissidents holed up in the Argentine ambassador’s residence there. Brazil took on the role after Venezuela booted Argentina’s diplomats out of the country, following Argentina’s criticism of the Maduro regime’s electoral fraud.
+🇸🇦
+Saudi Arabia
+: Russian foreign minister Sergey Lavrov has touched down in Riyadh for meetings with the
+Gulf Cooperation Council (GCC)
+scheduled from later today (Monday). GCC foreign ministers are already meeting in Riyadh, and Russia is one of a few others (like India and Brazil) seeking to tack separate meetings onto the sidelines.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+Flipping the script, a Microsoft executive has said AI could save
+“tons of money”
+if it learns to
+ask humans for help
+.
+Tiny San Marino (landlocked inside Italy) has just
+won its first football match
+in decades.
+An elite Nigerian footballer in the UK has somehow injured himself during a
+“
+hefty sneeze
+”
+.
+Speaking of hefty, Mexico’s state of Oaxaca (famous for its cheese) has created the world’s
+largest-ever string cheese ball
+, weighing in at 630kg (2,200lb).
+And folks in Ireland are blaming a local
+cucumber shortage
+on a viral recipe shared by a TikTok creator in Canada.
+EMBASSY OF THE DAY
+Clockwise from top right:  The embassy’s 1950s dining room; the lounge; the main banquet hall as designed in 1959; and Swedish ambassador Alva Myrdal with Indian leader Jawaharlal Nehru.
+The Swedish embassy in New Delhi recently opened a private exhibition to mark 75 years of diplomatic relations with India, and it features some
+historic photos like the ones above
+. Unveiled in 1959, the embassy features high ceilings, cool pastel walls, and crystal sconces keeping the Delhi heat at bay - all with a dash of Swedish chic long before H&M and IKEA took over the world.
+In her six-year stint as ambassador, Sweden’s first ambassador, Alva Myrdal, is said to have developed a strong friendship with India’s first prime minister, Jawaharlal Nehru.
+DAILY POLL
+What do you think about the US levelling-up its chip-making?
+💽 Costly but worth it
+😩 An exercise in futility
+🛡️ It'll leave Taiwan more vulnerable
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+In the event of an economic meltdown like Lebanon's, where would you keep your savings?
+⬜️⬜️⬜️⬜️⬜️⬜️
+🏦
+The bank  (5%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+📈
+The stock market  (7%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ 🏠 Real estate  (12%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+💸
+Cash  (15%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👑
+Gold (33%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ₿ Crypto (5%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+💱
+Foreign currencies  (22%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents:
+👑
+I.P:
+“Gold, unlike fiat currencies, is the only way to safely store wealth. But it doesn't trade well for crucial, small-scale needs such as food and fuel. Silver is a much more tradable commodity in the face of economic calamity.”
+💱
+H.C:
+“Holding any government's currency is a direct bet on the stability of that government.”
+✍️
+S.C:
+“Diversification! Exposure to a single asset class increases the likelihood of challenges when things go south.”
+✍️ M.K:
+“What savings?”
+[editor’s note: lol]
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

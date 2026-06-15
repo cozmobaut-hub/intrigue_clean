@@ -1,0 +1,270 @@
+URL: https://archives.internationalintrigue.io/p/trump-and-xi-play-chicken9f6f
+Title: 🌍 Trump and Xi play chicken
+
+IN TODAY’S EDITION
+1️⃣ Trump and Xi play chicken
+2️⃣ The Intrigue jobs board
+3️⃣ Flight of the day
+Hi {{ First name | Intriguer }}.
+CS Lewis (
+The Chronicles of Narnia
+) has a line from 1946 when he almost describes the internet before it was born, warning of “
+the evils of rapid diffusion of news that the sorrows of all the world come to us every morning
+”.
+We’re building Intrigue on the premise that folks
+do
+want to stay in the loop, just maybe without all that gratuitous sorrow. So thanks for spreading the word (and if you use your unique referral link down the bottom, you can score some sweet sweet perks).
+Anyway, let’s talk about this historic game of inter-continental chicken now playing out between
+the world’s two largest economies: China and the US
+.
+PS
+— Don’t miss our unfiltered chat on
+the future of democracy in the age of AI
+, with superstar guest
+Audrey Tang
+, Taiwan’s ambassador-at-large for cyber affairs. It’s online next
+Wednesday April 16, 8pm EST
+.
+Register here
+!
+THE HEADLINES
+VP Vance in spat with China.
+Beijing has called JD Vance “
+ignorant and impolite
+” after he remarked that
+America “
+borrow[s] money from Chinese peasants
+to buy the things those Chinese peasants manufacture
+”. More on that fraught US-China relationship below.
+South Korea presents emergency auto measures.
+Seoul’s new
+emergency measures aim to cushion the blow
+of the new US tariffs on foreign-made cars — they include financial support, tax breaks, and subsidies.
+Ukraine captures Chinese nationals fighting for Russia.
+President Zelensky says his forces have
+captured two Chinese nationals
+fighting for Russia in Ukraine’s Donetsk region — he’s asking Beijing for an explanation. The US has called the reports “
+disturbing
+”.
+US to leave Polish NATO hub.
+US troops will
+move out of a Polish military base
+used to facilitate weapons transfers to Ukraine, citing a cost-cutting drive — they’ll relocate to other posts in the country. Meanwhile, the US has
+fired a top military official
+at NATO’s HQ for unclear reasons.
+UK borrowing costs hit highest since 1998.
+Trump’s tariffs have curbed investor confidence, with many preferring short-dated bonds rather than their long-dated peers, a move that’s
+pushed up UK borrowing costs
+.
+TOGETHER WITH GROWTH SCHOOL
+Make 2025 your Best Year With This
+$399
+FREE AI Masterclass
+If you don’t become an AI-enabled professional in 2025, you will:
+Get replaced by a person who uses AI.
+Face slow career growth and income.
+Spend hours on tasks that can be done in 10 minutes.
+Here’s why you can’t miss this:
+✅
+Learn 30+ cutting-edge AI tools to completely transform the way you work, market, and lead.
+✅
+Automate your workflows and reclaim
+20+ hours a week
+✅
+Create an
+AI-powered version of YOU
+—a digital clone that handles the tedious work while you focus on what truly matters.
+This 3 hour workshop will make you a master of prompting & talk about hacks, strategies & secrets that only the top 1% know of. So don’t think twice, you have NOTHING to lose.
+Register here (first 100 people get it for free + $500 bonus)
+🎁
+TOP STORY
+Trump and Xi play chicken
+We’ve
+already explored
+Trump’s tariffs, but it’s worth a quick recap of his rationale before we tour today’s wild ripple effects:
+US trade with China hasn’t made Beijing more capitalist or democratic
+Instead, China has dominated key sectors while eroding US industry, and so
+Trump ran on a platform of using tariffs to tackle that imbalance.
+And while he’s now slapped tariffs on everyone (otherwise he says China just reroutes via third countries),
+the big kahuna tariffs are now really on China
+. Building on earlier tariff rounds during Trump 1.0 and Biden…
+Trump’s 34% tariffs last week have now triggered a 34% response from Xi Jinping, in turn triggering another
+50%
+addition from Trump.
+The cumulative result is that as of today (Wednesday), the world’s largest economy is now slapping the world’s second-largest economy with
+104% tariffs
+. And the second-largest economy is responding with its own historic 52% tariffs.
+But as spicy as this all sounds, it’s worth having a clear picture of what it all means for…
+The big end of town
+For the US
+, one reason the S&P 500 just posted its
+biggest intraday reversal in history
+is that major US firms depend on China, whether as a source of inputs, consumers, or both. Many have
+dual
+dependence, like Apple still manufacturing 90% of its iPhones and generating 17% of its revenue in China, hence the firm’s 20%+ stock crash since last week.
+There are similar stories for China
+, which is (just in numerical terms) about four times more reliant on exports to the US than vice versa: some firms (like Lenovo and ByteDance) have that same double-dependence above. Meanwhile…
+The smaller end of town
+In the US, for example, Virginia’s
+Sarah Wells
+(who makes accessories for moms) has
+paused
+hiring now that Trump’s tariffs have wiped her margins — local suppliers can’t fill her orders, and she still needs Chinese raw materials anyway. There are
+countless other such tales
+, like California’s big machine toolmaker who’s just
+slashed
+production.
+Of course, the argument is
+US suppliers can eventually step in
+, but ‘eventually’ might be years off, by which point some of these same US businesses may no longer be around to click ‘buy’, or not at the higher prices US suppliers will need. And sure, others like commercial shrimpers
+welcome
+Trump’s tariffs after years of battling cheap imports, but shrimp victories will be dwarfed by soy losses, as farmers
+brace
+to lose
+half
+their exports.
+Over in China
+, meanwhile, up to 10 million manufacturing jobs are now at risk as US-dependent exporters crater. And social media is awash with anecdotes, whether it’s the Jiangsu textile worker losing shifts, or the Guangdong assembly line guy bracing for ruin.
+Of course, the argument is that many of these
+jobs were created at US expense
+, though it’s unclear if there are still millions of Americans wanting that factory work, let alone wanting to pay quadruple for a tee (notwithstanding some local cost-effective options).
+So, what’s next?
+Trump is
+assuring everyone
+Xi will make a deal, though it’ll have to be fast while the pain spreads across the US economy.
+And yet while China’s foreign ministry is
+vowing
+to “
+fight to the end
+”, Xi Jinping is in a bind, too: his legitimacy rests partly on a Communist Party promise to keep lifting local living standards, but millions of layoffs will worsen his economic woes, while running cap in hand to Trump could just risk new political woes among his Beijing elites.
+So markets will keep shuddering while the world watches to see who’ll blink first.
+INTRIGUE’S TAKE
+Trump’s 2024 campaign united different US tribes, but they’re now back in conflict:
+Capitalists
+hoped Trump’s pro-business tilt would turbocharge growth, while
+Isolationists
+hoped Trump’s populist-nationalist instincts would help repair some of the disruption left behind by a generation of globalisation.
+By implementing historic new tariffs, Trump has now sided with his isolationists like Navarro, nudging more capitalist voices like Musk to publicly call Navarro a moron. It’s also why we’ve already flagged the possibility that
+Trump might fire Navarro
+.
+Anyway, there’s a quiet sense among many foreign policy types that
+Trump 1.0 was right
+to diagnose the US imbalance with China. The yelling has been more about
+his methods
+: Biden used a scalpel (targeted tariffs, industrial policy), while Trump has now dropped a sledgehammer (the highest US tariffs in a century).
+And will this work?
+The markets are still flashing a big red ‘no’. In addition to record falls in stocks, remember the claims this might all drive yields down to help refinance US debt? We’ve just seen the opposite, with
+US yields spiking
+higher
+, signalling either:
+a) This might just be another big unwinding of the
+basis trade
+(a common hedge fund bet on the price gap between Treasuries and futures)
+b) The US might now be
+losing its safe-haven appeal
+, and/or
+c) The markets might fear
+stagflation
+ahead (slow growth and high inflation).
+If it’s more a combination of b) or c), that’ll prompt fears that Trump might’ve just pulled a Liz Truss.
+Also worth noting:
+Total trade in goods between the US and China amounted to $585B in 2024.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: About 10 North Korean soldiers
+crossed the demarcation line this week
+, prompting warning shots from the South. Seoul is saying this latest encroachment (in a wooded area) seems to have been accidental.
+🇦🇱
+Albania
+: Italy has gifted fellow NATO member Albania an 80s-era warship to help
+beef up its patrolling capabilities
+. Rome previously used the ship to transfer irregular migrants to Albania under a deal Italian courts scrapped last year.
+🇹🇭
+Thailand
+: Authorities have arrested an American academic at Thailand's Naresuan University on charges of
+insulting the Thai monarchy
+. If found guilty, he could face up to 15 years in jail.
+🇩🇴
+Dominican Republic
+: The roof of a nightclub in Santo Domingo has
+collapsed
+, resulting in at least 98 dead and another 150 injured. The club, Jet Set, has long been popular among prominent athletes, artists, and politicians, with several high-profile victims already identified.
+🇪🇹
+Ethiopia
+: Ethiopia has appointed an interim leader in its restive Tigray region in an
+attempt to defuse tensions
+after secessionists there fought a 2020-2022 war. The new guy was a top commander fighting federal troops during the war.
+FROM OUR SPONSORS
+Prepare for a Lifetime of Adventure with Rosetta Stone
+There’s no better gift this spring season than a lifetime of opportunity. Rosetta Stone’s Lifetime Unlimited plan grants forever access to 25 languages, making it the perfect present. Whether it’s for the traveler eager to immerse themselves in local cultures or the lifelong learner ready for a new challenge, this gift stands out as both thoughtful and practical. Normally, it is $399, but this spring sale is available for just $149.
+Claim Lifetime Access for $149.
+EXTRA INTRIGUE
+The Intrigue jobs board
+💼
+Part-time Education Officer
+@
+Guardian Foundation
+in London
+Manager, Investor Relations
+@
+Anduril
+in Costa Mesa, California
+Intern, Programs and Engagement
+@
+Munich Security Conference
+in Berlin
+Manager Marketing, Industry Relations & Partnerships
+@
+Netflix
+in Seoul
+FLIGHT OF THE DAY
+Credits: SAS.
+This past Saturday, passengers arrived at Copenhagen Airport ready to board a flight on SAS, Scandinavia’s leading airline. Nothing unusual about that, except none of them had any idea where they were headed, beyond the
+‘Unknown Location’
+printed on their ticket.
+It’s all part of a promotion the airline offers its members, who can buy these mystery flights using their frequent flyer miles. Last year’s mystery flight (to Athens) was a hit, so another
+1000 registrants signed up
+within minutes of this year’s announcement.
+Their mystery destination? Seville, Spain (folks returned home yesterday).
+DAILY POLL
+Who do you think will blink first?
+🇨🇳 Xi Jinping
+🇺🇸 Donald Trump
+❌ Neither
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How long do you think these next US-Iran talks will last?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🤝
+Until there's a deal (38%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⚔️ Until there's a war  (53%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (9%)
+Your two cents:
+🤝
+J.G:
+“I think Iran would take a deal, but what’s the enforcement mechanism?”
+⚔️ P.F:
+“Both sides believe strongly they are right. Nuclear weapons are an all or nothing thing.”
+✍️ J.C:
+“I don’t know about a war. However I wouldn’t be surprised if they get a couple doses of bunker busting bombs to show the Iranians what an outcome might be like.”
+✍️ O.X:
+“My guess is they're over before they start. Two unreliable negotiating partners don't make for a high chance of success.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

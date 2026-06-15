@@ -1,0 +1,208 @@
+URL: https://archives.internationalintrigue.io/p/usled-group-issues-6g-guidelines
+Title: 🌍 US-led group issues 6G guidelines
+
+Hi {{ First name | Intriguer }}.
+I’m here in Seoul, South Korea where
+AI has been
+the
+talk of the town. Not just because the country is soon hosting the next global AI Safety Summit (the reason for my visit), but because South Korea itself is a geo-tech powerhouse.
+Some other takeaways from Seoul so far:
+Folks here don’t seem as worried about the North Korea threat as some appear to be in Washington, at least not in the short term
+Learning K-Pop routines is a
+lot
+harder than it looks, and
+South Korea has the world’s highest 5G cell penetration rate. In fact, my US buddy brought her 4G phone along and has had zero connectivity.
+She’d better get a move on because, as today’s briefing will show,
+the world is already racing towards the next generation - 6G
+.
+- Helen Zhang, Co-Founder
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Trump and Biden win Michigan primaries.
+Joe Biden and Donald Trump have each comfortably won their party primaries in Michigan, pulling 81% and 68% respectively. A
+Listen to Michigan
+campaign had called on Democrats to vote as ‘uncommitted’ to protest against President Biden’s support for Israel in Gaza; in the end, around 13% (or 101,000 votes) were uncommitted. The last time an incumbent Democratic president sought re-election was in 2012, when Barack Obama saw an uncommitted vote of 11% (or 21,000 votes) in Michigan.
+Russia’s nuclear threshold revealed in leak.
+According to the Financial Times, a trove of 29 secret Russian military files from 2008 to 2014 suggests Russia’s criteria for a potential nuclear response is lower than publicly admitted. Its potential justifications for using tactical nuclear weapons include an enemy invasion, the loss of 20% of its strategic ballistic missile submarines, or the destruction of three airfields.
+US pushes for end of war in Sudan.
+Former diplomat and congressman Tom Perriello has been appointed as the new US special envoy for Sudan to “
+advance [US] efforts to end the hostilities, secure unhindered humanitarian access, and support the Sudanese people
+”. The factional fighting, which started last year, has already displaced eight million people and plunged 95% of the country’s 46 million people into food scarcity.
+Apple gives up on electric cars.
+Apple will reportedly wind down its ambitious multi-billion dollar project to build an electric vehicle after a decade of slow progress. The decision caused Apple investors (and Tesla boss Elon Musk) to celebrate.
+Navalny’s funeral to be held on Friday.
+A service for the late Russian opposition figure will be held later this week in Moscow, after his team struggled to find a funeral home willing to host.
+TOP STORY
+The 6G race is well underway
+Ten Western-aligned countries (including the US, UK, Finland, Sweden, Japan and Korea) just published
+six shared principles
+for 6G telecommunication systems, to try to shape the development and rollout of this emerging technology.
+Barely half the world’s population now has
+access to 5G
+yet we’re already talking about
+6
+G
+, which is still in the research and development phase. It’s shaping up to have:
+Higher and broader frequencies (to send more data)
+Lower latency (reducing the time to send that data), and
+In-built edge computing (processing more data at the edge - near the user - rather than sending it back to the cloud)
+So we’re talking about a tech that’s
+quantitatively
+and
+qualitatively
+different.
+On the one hand, it’ll help us do what we already do, but faster. That’ll help scale up existing and emerging applications like smart homes, smart cities, automated transport, remote health, immersive entertainment, and beyond.
+On the other hand, 6G will also incorporate new and frontier tech (like AI and
+beamforming
+) in ways that open up unknown possibilities over the horizon.
+Of course, some possible downsides are emerging, too. For one, 6G will likely be
+costlier and more energy-hungry
+: the shift from 4G to 5G tripled costs and energy usage, and the upcoming shift to 6G looks even weightier.
+The other risks are around
+security
+. 6G’s sheer scale and complexity means it’ll have a wider attack surface area - that’s more data and applications, more closely integrated into our society, presenting more possible vulnerabilities.
+So then,
+why did these governments just issue a joint 6G statement?
+Well, the 6G race is already on, with R&D teams making progress in Finland, Sweden, China, Japan, Korea, the US, and beyond. Timelines are still hazy, but large-scale 6G deployment could start in the early 2030s.
+So the joint statement is partly to set standards for the relationship between this new
+tech and people
+- eg, it says 6G should be “
+reliable, resilient, safe, and protect the privacy of individuals
+”.
+It’s also partly to set standards for the relationship between
+industry and government
+- eg, it says 6G should be “
+industry-led
+”, but also “
+protective of national security
+”.
+But mostly, this broad statement feels like an attempt to
+avoid a repeat of what happened with 5G
+, which really caught the West flat-footed. China’s sudden
+emergence
+as a 5G pioneer shaped our world:
+Its ability to offer low-cost 5G infrastructure helped boost China’s earnings, brand, access, and influence on just about every continent, and
+Citing security concerns, Western governments then had to scramble to
+curb
+the presence of China-made 5G kit in their own networks.
+That’s why this joint 6G statement (which doesn’t include China) emphasises things like the need to be “
+widely available and accessible to developing nations
+”, while also ensuring there are “
+secure and resilient supply chains
+”.
+Researcher
+Sam Howell
+sums it all up nicely: “
+The country that leads the development and deployment of 6G [...] will control critical infrastructure that is integral to global economic competitiveness, national security, and the functioning of society.”
+INTRIGUE’S TAKE
+Before you ask - yes, there are already researchers working on what comes after 6G. It’s called
+7
+G, though honestly at this point, that feels a little like working on ‘seven-minute abs’, or an amp that can turn
+all the way up to 11
+.
+Those dated movie references not landing? Then allow us to tell you about a serving ambassador we know in Europe who wears a tie with the
+Quantum Hall effect
+emblazoned on it - it’s a phenomenon discovered by German physicist Klaus von Klitzing, earning him the 1985 Nobel Prize in Physics.
+The ambassador explains his tie choice like this:
+von Klitzing
+didn’t really
+know
+what practical applications his research might have one day, but he saw intrinsic value in expanding human knowledge. And it turns out his discovery was hugely practical, even leading to a new international system of units.
+So, all this to say… people will always want to push the frontiers. That’s a given. The question is whether we’re ready to harness and manage the implications. That’s what this week’s joint statement is trying to do. High fives from us.
+Also worth noting:
+Last October, the US, UK, Japan, Australia, and Canada formed the ‘
+Global Coalition on Telecommunications
+’ to cooperate on the development of future technology, including 6G networks.
+Shares in China’s telecom equipment makers
+jumped
+after the 6G joint statement dropped on Monday. The market seems to be pricing in the fact that China is well placed to lead 6G development, building on its existing 5G leadership and its top number of
+6G patents
+.
+SUPPORTED BY ATLANTIC COUNCIL MILLENNIUM LEADERSHIP PROGRAM
+Apply to the Atlantic Council’s Millennium Fellowship Today!
+Applications are closing soon to join the next cohort of Atlantic Council Millennium Fellows.
+Complete a comprehensive, nine-month leadership curriculum, receive executive coaching, and travel to the frontlines of a global challenge.
+The Millennium Fellowship is open to exceptional rising global leaders across all fields and regions who are 25 to 39 years old. Applications close March 1.
+Learn More.
+MEANWHILE, ELSEWHERE…
+🇦🇲
+Armenia
+: One of Russia’s traditional security partners, Armenia, has suspended its participation in
+Russia’s NATO equivalent
+(the CSTO), describing it as “
+ineffective
+”. Armenia called for CSTO help during 2022 border clashes with Azerbaijan, but was left to fend for itself.
+🇷🇺
+Russia
+: A Russian court has sentenced local human rights campaigner Oleg Orlov to
+two and a half years in jail
+for “
+repeatedly discrediting
+” the Russian military. Orlov spent the trial reading a copy of
+The Trial,
+Kafka’s dystopian classic on bureaucracy and injustice.
+🇰🇮
+Kiribati
+: The US has cautioned Pacific Island nations against accepting security aid from China, after Reuters reported China’s police are now
+working in Kiribati
+. Its location and size (spanning the world’s largest exclusive economic zone) have drawn the remote atoll nation into US-China rivalry.
+🇦🇷
+Argentina
+: The governor of an oil-rich province has threatened to cut off energy supplies to the rest of Argentina in a
+dispute over federal / state funding
+. It’s one of several quarrels between provincial leaders and the country’s new libertarian president, Javier Milei, who’s seeking to address Argentina’s economic crisis by cutting public spending.
+🇸🇳
+Senegal
+: The outgoing president, Macky Sall, has announced plans for a general amnesty for recent political demonstrators, seeking to
+lower the temperature
+ahead of upcoming fraught elections. He’s now promising to hold the vote before the rainy season begins in July.
+EXTRA INTRIGUE
+Here’s what we’re reading on mergers and competition
+EU seeks to investigate Apple over cutting off web apps
+US government sues to block largest supermarket merger in history
+Warner Bros. Discovery halts merger talks with Paramount Global, sources say
+Qualcomm’s Autotalks Deal Probed by UK Antitrust Watchdog
+TODAY IN HISTORY
+US Marines during Operation Desert Storm. Credits: Rob Kauder/The Spokesman-Review.
+On this day in 1991, US President George H.W. Bush ordered a ceasefire after a 42-country US-led coalition pushed Iraqi forces out of Kuwait - the ground operation lasted just 100 hours.
+Iraq had invaded Kuwait in August 1990 after accusing it of stealing oil from a cross-border oil field. The UN Security Council then passed a resolution giving Iraq until 15 January 1991 to withdraw from Kuwait, and empowering states to use "
+all necessary means
+" to enforce the resolution thereafter.
+DAILY POLL
+Did you vote in your most recent elections?
+🗳️ Yes, voting is a civic duty
+📜 Yes, but only because it's compulsory here
+🙅 No, I didn't dig any of the options on offer
+🚫 No, there's no voting here
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think is right about the future trajectory of global gas demand?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+📉
+The IEA - the energy transition means demand will soon peak (23%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🛢️ Qatar - like it or not, the world needs more gas (75%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (2%)
+Your two cents:
+🛢️
+J.C:
+“Qatar is projecting that it can sell much more gas for several years to come (it’s a low cost producer and not pipeline or politically constrained), the IEA projections depend on governments following through on policies(!!)”
+📉
+J.G:
+“Modular thorium nuclear reactors are expected to come on line around 2030. There’s also a lot of evidence Global Warming is happening faster than predicted. 2° by 2050 is likely.”
+✍️
+F.F:
+“It's hard to read this and not scream internally at the short-sightedness of governments worldwide who would rather continue to kick the proverbial can down the road.”
+Share the Intrigue

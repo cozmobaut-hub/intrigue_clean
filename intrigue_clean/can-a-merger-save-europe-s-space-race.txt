@@ -1,0 +1,206 @@
+URL: https://archives.internationalintrigue.io/p/redu-74fa
+Title: 🌍 Can a merger save Europe’s space race?
+
+Today’s briefing:
+— Can a merger save Europe’s space race?
+— Why
+KPop Demon Hunters
+merch is late
+— This country just got its first mosquito
+Good morning {{first_name | Intriguer}}
+. One of my worst performances on social media was when I attempted to launch Intrigue’s TikTok account back in 2021 with an enthusiastic story about “
+the race for space
+” (incidentally the topic of our deep dive today).
+The clip was undeniably cringeworthy, with each sentence beginning on a ‘millennial pause’ and ending with a finger point towards a blank corner that was meant to be filled with floating captions.
+It was so bad that the Intrigue social media team (wisely) decided to quietly retire the clip. Thankfully, Intrigue’s social media content has been
+🔥
+lately with pros now at the helm, so it’s safe to follow us again (we’re on
+Bluesky
+,
+X
+,
+LinkedIn
+,
+Instagram
+, and
+YouTube
+).
+Number of the day
+5,700
+That’s how many Americans applied to become US diplomats in the State Department’s October 2025 recruitment cycle, a ten-year high according to Foggy Bottom. Officials had cancelled an earlier application round while State revamped the process.
+Merge to survive?
+‘Bromo’.
+It sounds like some new brand of masculine-scented laundry powder, but it’s actually the codename for a satellite-making joint venture, merging the space divisions of Europe’s aerospace heavyweights
+Airbus
+,
+Thales
+, and
+Leonardo
+.
+This planned new French-headquartered company’s 25,000 employees will be spread across 30 European sites, bringing in an estimated $7.5B a year.
+But why?
+First
+, Europe’s space industry has been
+getting
+creamed
+lately
+.
+Musk’s
+SpaceX
+alone blasted 84% of all the world’s new satellite mass into orbit last year. Europe’s Ariane? Maybe ~5%.
+Ditto, Musk’s
+Starlink
+internet satellites alone now occupy 65% of all active orbital slots up above. Europe’s entire fleet? Barely 10%.
+So Europe’s space players are feeling the burn: Airbus recently axed 2,000 space jobs!
+Meanwhile,
+China
+is hustling hard to catch up to the US — it just doubled its entire 2024 payloads to orbit by May!
+So this European merger is about building scale and efficiencies to survive and compete.
+Second
+, Europe is still figuring out how much it can — or wants to —
+rely on the US
+.
+When you take Putin’s latest invasion, America’s varying response, Trump’s alliance scepticism, and DC’s
+America First
+approach to tariffs and tech regulation, you get European leaders racing towards a more sovereign stance on just about every issue.
+And space is no exception, with Putin’s invasion offering an example of what’s at stake when you lose independence: European players have mostly watched from the sidelines while Starlink has enabled (and occasionally curbed) Ukraine’s self-defence comms.
+But… can this euro space-merger work?
+There are reasons to wonder — sure, it could give us the best of both (say) Italian industry and French ingenuity. Or it could give us the worst of both Italian red tape and French overruns. And of course, whether this joint venture (JV) is even allowed depends on EU antitrust officials in Brussels, who’ve scuttled previous satellite mergers (after lengthy reviews,
+naturalmente
+).
+But there are also reasons for hope, too: this entire Project Bromo is inspired by MBDA, the European missile-maker born out of a big 2001 merger. It’s now got a multi-billion dollar order portfolio.
+Intrigue’s Take
+There are some interesting common threads here.
+First
+, both Europe and the US have a relatively
+splintered space strategy
+, whether between (say) France, Italy, and Germany in Europe, or (say) NASA, SpaceX, and Space Force in the US. Meanwhile China keeps grinding with its centralised, top-down strategy.
+Second
+, both Europe and the US are dealing with an urge to de-risk away from
+overreliance on a single guy: Elon Musk
+. For Europe, that looks like Bromo consolidation for scale to compete. But for the US, it’s almost the opposite — propping up struggling NASA-led programs to diversify.
+And
+third
+, all three powers offer lessons on
+how quickly things can change
+:
+Europe
+’s earlier focus on pricier, higher-orbit satellites has now been lapped by a boom in cheaper, lower-orbit constellations. For its part,
+America
+’s lead is looking wobbly as it gets tangled in politics and complacency. And as for
+China
+? It’s doubling down on its state-run space complex and continues to catch up, but low diversification carries its own risks.
+Sound even smarter:
+The proposed new JV reportedly excludes space launch capabilities, given the European Space Agency is already developing its own Ariane 6 expendable launch system (plus the JV presumably wants to mitigate EU antitrust risks).
+Meanwhile, elsewhere…
+🇮🇱
+ISRAEL — World Court weighs in.
+Following a UN General Assembly request in December, the International Court of Justice (ICJ) has issued a non-binding opinion declaring Israel has a legal obligation to facilitate aid into Palestinian territories, and rejecting Israel’s reports that the main UN agency (UNRWA) is compromised. Israel says it’s already meeting its aid obligations, and has dismissed the court’s UNRWA ruling as political. (
+BBC
+)
+🇷🇺
+RUSSIA  — Finally.
+Hours after President Trump postponed his summit with Putin (who wasn’t showing any new flexibility), DC has now followed London’s move in slapping new sanctions on Russia’s top two oil producers, Rosneft and Lukoil. The EU just adopted its 19th sanctions package on Russia too. (
+AFP
+)
+Comment
+: Trump is denying a WSJ
+report
+that he’s also lifted restrictions on Ukrainian deep-strikes in Russia — but interestingly, there’s been at least one such strike this week, which makes us wonder if Trump’s public denials are just preserving space for dialogue with Putin
+.
+Anyway
+,
+the immediate 3% spike in oil prices reflects (among other things) industry assessments that these new US sanctions will gut India’s imports of Russian crude, only weeks after Modi pledged to double down. Money talks.
+🇰🇵
+NORTH KOREA — Welcome fireworks.
+Pyongyang has tested a series of ballistic missiles, its first such move since May. (
+EuroNews
+)
+Comment
+: Why now? We’re just days out from South Korea’s big Asia-Pacific Economic Cooperation (APEC) summit, with Trump, Xi, and other regional leaders all due in town. So it’s a flex of Kim’s latest capabilities, a bit of posturing to steal South Korea’s thunder, and a push for leverage to get recognition as a nuclear state.
+🇭🇹
+HAITI — Security Council wants elections.
+UN Security Council members are pushing Haiti’s transitional government to make good on its promise to hold an election by February 2026. (
+AP
+)
+Comment
+: It’ll be difficult to pull off, given ~90% of the capital is still controlled by armed gangs.
+🇸🇬
+SINGAPORE
+— Drone mothership.
+The Singaporean navy has launched its biggest warship to date, a kind of multirole drone mothership supporting a broader fleet of drones. (
+The War Zone
+)
+Comment
+: There are some impressively Singaporean things about this new Victory class warship: first, with a bit of design input from Sweden and Denmark, it only took 12 months to build (a timely rebuke to Western overruns); and second, it only needs 100 crew (critical given Singapore’s small population).
+🇺🇸
+UNITED STATES — More strikes.
+US forces have hit another alleged narco-boat, but this time in international waters off Colombia’s Pacific (rather than Venezuela’s Caribbean) coast. (
+Independent
+)
+Comment
+: Obvious legal and ethical questions aside, the geography at least makes more sense given most US-bound drugs go via Pacific rather than Caribbean routes. But it might also be a flex aimed at Colombia given President Petro’s increasingly rancorous ties with Trump.
+🇹🇷
+TURKEY — Second-hand jets.
+President Erdogan is on a charm offensive to convince Eurofighter members Britain, Germany, Italy, and Spain to approve him buying 24 pre-loved Typhoon jets from Qatar and Oman (where he’s visiting this week). It’s part of Turkey’s efforts to beef up its air power after Israel’s recent flexes against Iran, Qatar, and Syria. (
+Reuters
+)
+Comment
+: Turkey is already taking export orders for its own home-grown fifth-generation fighter jet (the Kaan), which is due for mass production in 2028 — so this sudden interim Eurofighter proposal suggests a sense of strategic urgency in Ankara.
+Extra Intrigue
+In other worlds…
+Tech:
+Meta has
+cut 600 AI jobs
+as part of a reorganisation effort.
+Business:
+US subprime lender PrimaLend Capital Partners has
+filed for bankruptcy
+after missing interest rate payments.
+Toys:
+Fans (and parents of small fans) of the Netflix blockbuster
+KPop Demon Hunters
+will have to
+wait until after Christmas
+to get their hands on official merch, because toy giants Mattel and Hasbro waited to gauge the film’s reception before committing.
+Discovery of the day
+There used to be two places on Earth you could go for relief from the constant high-pitched buzzing of mosquitoes. First, there’s Antarctica, which has some interesting fauna but is a hassle to get to. The other was Iceland.
+And, yes, we used the
+past
+tense because researchers recently found
+mosquitoes in Iceland for the first time ever
+. This past spring’s record high temperatures might’ve helped create an environment where a particularly well-adjusted species of mosquito — probably brought in via cargo ship — could survive.
+Today’s poll
+Who do you think will be winning the space race in 2040?
+🇺🇸 US
+🇨🇳 China
+🇯🇵 Japan
+🇪🇺 Europe
+🇮🇳 India
+🇷🇺 Russia
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think wins most from this new Arctic shipping route?
+🇨🇳
+China (63%)
+🇷🇺
+Russia (22%)
+🇺🇸
+The US (4%)
+🇪🇺
+Europe (6%)
+✍️ Other (write us!) (5%)
+Your two cents:
+🇨🇳
+X.D.B:
+“China has the boats, the ice breakers, the boat workers and captains as well as the low-priced goods that other countries want on the other side of the ice.”
+🇷🇺
+E.K.H:
+“That's an awful lot of territorial waters to go through. How much is Russia charging for access, or escorts? What kind of intelligence are they gathering? And what are they going to do once the world is hooked on it?”
+✍️
+T.P:
+“Canada! They have the second-largest Arctic EEZ behind Russia. If PM Carney continues his push for stronger Arctic sovereignty (i.e new ports etc.), this could be a big boost to them economically.”

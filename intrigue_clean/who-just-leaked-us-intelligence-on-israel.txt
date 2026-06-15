@@ -1,0 +1,238 @@
+URL: https://archives.internationalintrigue.io/p/who-just-leaked-us-intelligence-on-israel
+Title: 🌍 Who just leaked US intelligence on Israel?
+
+IN TODAY’S EDITION
+1️⃣ Who just leaked US intelligence on Israel?
+2️⃣ Italy and France bust an international wine scam
+3️⃣ Chart of the day
+Hi {{ First name | Intriguer }}.
+Let’s kick this week off with a quick international movie recommendation, shall we? There’s a classic Danish-Swedish-Dutch film called
+Another Round
+. Its quirky premise is that a few middle-aged school teachers decide to test a supposed theory by Norwegian ex-psychiatrist Finn Skårderud, that maybe a
+little
+bit of booze throughout the day actually helps humans achieve peak performance.
+And you know what? The result is a surprisingly life-affirming, heart-breaking, and hilarious story that actually won the Oscar for best foreign film a few years back.
+Anyway, today’s briefing looks at
+who might’ve just leaked two highly classified US intelligence documents on Israel to a pro-Iran site
+. And why.
+P.S.
+- We teamed up with a few of our favourite newsletters to give our readers a
+chance to win an Away suitcase bundle and Monocle subscription
+.
+THE HEADLINES
+Israel targets Hezbollah-linked banks in Lebanon.
+Israel has struck US-sanctioned
+Al-Qard Al-Hassan bank branches
+overnight, alleging the institution helps finance Hezbollah. Lebanese media outlets report that airstrikes hit 16 of the bank’s 34 branches, a majority in south Beirut (a Hezbollah stronghold). Meanwhile, a
+drone deployed
+from Lebanon hit a building near the private residence of Israeli leader Benjamin Netanyahu over the weekend in an apparent assassination attempt. He wasn’t home, and no injuries were reported.
+Moldovan EU referendum too close to call.
+Authorities have said the result of a referendum on whether to amend Moldova’s constitution
+in favour of joining the EU
+is too close to call, though the ‘yes’ vote is slightly ahead. Pro-EU leader Maia Sandu, who’s also now facing an unexpected run-off for re-election, has suggested foreign interference played a role.
+China cuts key interest rates.
+The People’s Bank of China has announced it will (again)
+slash key interest rates
+to help revive China’s economy. The bank is expected to continue to lower rates next year, though the cost of money doesn’t seem to be the problem — it’s more the low demand.
+Indonesia inaugurates new president.
+Former general Prabowo Subianto has become
+Indonesia’s eighth president
+, taking the reins from Joko Widodo in a ceremony yesterday (Sunday). Prabowo has sworn in a marvellously large cabinet with 109 members, after suggesting this would help “
+unite our multicultural society and diverse political interests
+”.
+Cuba in the dark as hurricane hits.
+Hurricane Oscar made landfall in Cuba overnight, just after one of the island’s major power plants had repeatedly failed and
+plunged millions into darkness
+.
+TOP STORY
+Who just leaked US intelligence on Israel?
+A screenshot of the US intelligence that emerged on a pro-Iran site on Friday
+A couple of highly classified US intelligence documents somehow landed in the media over the weekend, with a pro-Iran site first
+highlighting
+them on Friday.
+What happened?
+Some of the coverage has breathlessly described the leaked docs as Israel's "
+plans
+" to attack Iran, so you'd be forgiven for thinking maybe they were some kind of Looney Tunes map with a big arrow pointing at Iran.
+And as pictured above, the leaked documents are absolutely swimming in an alphabet soup of
+US intelligence acronyms
+:
+TS
+(top secret);
+TK
+(images captured from satellites); and
+NOFORN
+(no foreign nationals get to see this juicy juicy intel)… unless they’re from
+FVEY
+(the 'Five Eyes' intelligence sharing pact between
+🇦🇺
+,
+🇨🇦
+,
+🇳🇿
+,
+🇬🇧
+, and
+🇺🇸
+).
+But once you push past some of the coverage and acronyms, the reality is kinda complicated.
+What do the intelligence documents actually say?
+Dated last week (Oct. 15 and 16), they basically describe activity at Israel's Ramata David air base in the Jezreel Valley and Ovda naval base in Haifa: transferring munitions in preparation for an attack on Iran, dispersing naval assets in preparation for an Iranian response, etc. And some of the specific details are interesting, including references to:
+Known weapons
+, like the Israeli-made '
+Rock
+'
+Unknown weapons
+, like a mysterious 'Golden Horizon' missile, plus
+One of the docs says "
+we have not observed indications that Israel intends to use a nuclear weapon
+". Ie, that's just interesting because everyone already knows the Israelis have
+nukes
+, but nobody confirms it publicly.
+So how serious are these leaks?
+From a
+legal standpoint
+, enough to land someone in the slammer.
+But from a
+military standpoint
+? You can boil these leaks down to two things we already knew: Israel is preparing to hit Iran, and that’ll presumably involve the air force. Even Israel’s element of surprise is unscathed here — we still don't know any targets or timing.
+So then, from a
+diplomatic standpoint
+, again, how much is
+really
+new? Yes, these leaks might erode US-Israeli trust, and media attention will fan that suspicion across both publics, but inside government? The limits around international trust have long been priced in.
+Okay, so then...
+whodunnit?
+Here are just
+some
+of the theories:
+An unauthorised US leak?
+Unlike last year's Discord leaks, there's nothing here to suggest this was some junior-burger bragging to his buddies online. Rather, it’s no secret there've been some US officials opposed to US policy on Israel — so (the theory goes) maybe rather than resign, one has leaked these docs to disrupt US-Israel ties or discredit the White House before election day.
+An
+authorised
+US leak?
+The fact these leaks don't
+really
+reveal anything new suggests they could've been chosen carefully to send a signal without doing damage. The signal? The US has been trying to strike a balance between deterring Iran without emboldening Israel, in order to avoid another war. So, the theory goes, perhaps this leak could be part of a US effort to close that
+deter vs embolden
+gap, by making Israel second-guess the extent of US support.
+An Iranian hack?
+Iran has solid cyber capabilities, but there's a big difference between getting a campaign advisor to click a Gmail link, versus penetrating an air-gapped and encrypted US system. Still, there are other ways Iran could theoretically get its hands on this material, whether via a US official's security slip-up, or actively recruiting a source on the inside. But then the question is, why would Iran compromise such juicy access with such a low-impact leak? Either way, the theory is that maybe Iran is trying to forestall any Israeli decision to attack.
+An allied leak?
+As flagged above, a handful of allies might’ve had access to this material, but they’d typically treat this stuff hyper-cautiously lest their access get cut off. Still, the theory here is that, authorised or not, such a leak could reflect allied frustration that the US isn't doing enough to rein in its own Israeli allies. That'd be unprecedented, though not impossible.
+Israel?
+And really getting into 7D chess territory here, there's another theory that Israel itself could've leaked this material, perhaps to fake-out Iran, which would then presumably rush to prepare for an Israeli air force attack until
+bam
+— Israel hits it some other way.
+So which one is it?
+We'd ordinarily stick to Occam's razor: the simplest explanation is usually the best. But while some of the above theories are simpler than others, none are particularly simple. And meanwhile, there's the risk that if someone is already willing to leak two highly classified US docs, they might be willing to leak more.
+INTRIGUE’S TAKE
+There's something very ‘2024’ about these two foes taking weeks or months to line up each shot, rather than hitting in the moment. One way to interpret this is that, yes, while there’s big talk and bigger speculation, neither side is rushing to push this to an all-out war. Rather, despite all the fireworks, we're still arguably in an era of slow, methodical, telegraphed, and performative - though increasingly massive - volleys of fire.
+Anyway, our sense is that, whatever the intent of this leak, it's unlikely to shape Israel's next move. And what will that be? Our sense is it'll be less than what the Israeli public wants, but still more than what the US needs right now.
+Also worth noting:
+Before boarding Air Force One home from Germany on Friday, reporters asked President Biden if he knew how and when Israel will hit Iran next. Without elaborating, Biden
+answered
+"
+yes and yes
+".
+Some have drawn comparisons with the 2012 leaks of US intel on Israel’s reported plans to hit Iran’s nuclear capabilities, which many Israelis concluded was a US attempt to deter Israel.
+A MESSAGE FROM INCOGNI
+Keep Your SSN Off The Dark Web
+Every day, data brokers profit from your sensitive info—phone number, DOB, SSN—selling it to the highest bidder. And who’s buying it? Best case: companies target you with ads. Worst case: scammers and identity thieves.
+It's time you check out Incogni. It scrubs your personal data from the web, confronting the world’s data brokers on your behalf. And unlike other services, Incogni helps remove your sensitive information from all broker types, including those tricky People Search Sites.
+Help protect yourself from identity theft, spam calls, and health insurers raising your rates with
+Incogni
+.
+Get 50% Off.
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: Local authorities have arrested a man after he attacked the headquarters of Japan’s
+ruling party with firebombs
+then crashed his car into the outer fencing of the prime minister’s residence. His motive remains unclear, though he had vented on social media about how costly it is to run for office in Japan.
+🇷🇺
+Russia
+: Moscow has
+paused imports of fruit and vegetables from Kazakhstan
+, citing “
+the phytosanitary safety of the territory of Russia
+”. The decision comes days after Kazakhstan reiterated its intention not to join the BRICS grouping, for which Russia currently holds the rotating presidency.
+🇧🇩
+Bangladesh
+: The country’s agriculture minister has revealed that heavy monsoon rains in August and October have
+destroyed 1.1 million metric tons of rice
+this year. As a result, the government will now import some 500,000 tons and has flagged it’ll loosen import rules for the private sector too.
+🇲🇽
+Mexico
+: A US court has sentenced Mexico’s former security chief and cabinet minister Genaro García Luna
+to more than 38 years
+in prison. A court had already convicted him last year of taking vast bribes from the Sinaloa Cartel in exchange for shielding various cartel members from investigation.
+🇰🇪
+Kenya
+: Lawmakers impeached Kenya’s deputy president Rigathi Gachagua
+on Thursday
+on charges including gross violation of the constitution. But then in a dramatic turn of events, Kenya’s high court blocked his replacement and vowed to look into supposed irregularities in Gachagua’s impeachment process.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+British singer James Blunt will
+not
+legally change his name to ‘
+Blunty McBluntface
+’, after his re-released album failed to hit #1 in the charts.
+A brand-new
+fire station in Germany has burned down
+because it wasn’t equipped with a fire alarm.
+Controversy has hit the World Conker Championships in the UK, after officials found a
+steel conker in the pocket of the 82-year-old champion
+(conkers are apparently meant to come from the horse chestnut tree).
+A joint French and Italian police operation has disrupted an international gang
+selling cheap wine disguised as $16k vintage bottles
+.
+And police in Oregon have seized a bag labelled ‘
+definitely not a bag full of drugs
+’, and it turns out the bag was definitely full of drugs.
+CHART OF THE DAY
+Data: Global Innovation Index 2024, WIPO.
+When it comes to Switzerland leading the world in something, you might imagine we’re talking about chocolate or watches or charmingly humble tennis legends.
+But according to the World Intellectual Property Organization (a specialised UN agency), the small landlocked country of Switzerland is the world’s most innovative nation, followed by Sweden and the US.
+Interestingly, WIPO’s annual
+Global Innovation Index
+not only incorporates familiar metrics like education spending and market cap, but also some more novel benchmarks like the number of mobile apps, and even the number of feature films released per capita.
+DAILY POLL
+Who do you think is responsible for these US intelligence documents going public?
+🚨 A rogue US official
+🇺🇸 The US (an authorised leak)
+👁️ A US 'Five Eyes' ally
+🇮🇷 Iran
+🇮🇱 Israel
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+What do you think about nuclear energy?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 It's a low-emissions and reliable energy source  (72%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ☢️ It's dangerous, expensive, and leaves toxic waste (18%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ It's complicated (write in!) (10%)
+Your two cents:
+👍
+C.G:
+“So much great nuclear research has been done over the past couple decades… Nuclear and solar are the future of energy.”
+☢️
+V.B:
+“No one seems to want to focus on the hazardous waste… talk about leaving a nightmare for the next generation(s) to deal with.”
+✍️
+D.L.M:
+“There are only a handful of companies that actually build nuclear reactors and produce the necessary parts. They can charge what they want. I'll be curious to see if this new fervor will survive the crazy costs of nuclear.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

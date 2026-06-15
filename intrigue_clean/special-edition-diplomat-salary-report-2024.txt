@@ -1,0 +1,219 @@
+URL: https://archives.internationalintrigue.io/p/special-edition-diplomat-salary-report-2024
+Title: 🕵️ Special Edition: Diplomat salary report 2024
+
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+Hi {{ First name | Intriguer }}.
+Nobody gets into diplomacy for the money. At least, they
+shouldn’t
+. Or at least,
+we
+didn’t.
+Most pursue a career in diplomacy because they want to serve their country, see the world, and do meaningful work. And you can’t put a price on that, right? Wrong. We’ve just compiled the first-ever comparison of diplomat salaries across the G20.
+Why? Mostly for the LoLs. But also, the world is getting a little crazy, so it’s worth asking the question: are our diplomatic services still attracting and retaining the best talent, to help us avert disaster?
+Let’s dig right in.
+How’d we do this?
+Let’s be clear, this inaugural diplomat salary index needs caveats big enough to squeeze an ambassador’s ego through. Here are a few:
+Conditions, hierarchies, taxes, perks, and living costs vary wildly
+Diplomat salaries are often just pegged to government salaries, and
+While you can leave Goldman to go work for a rival like JPMorgan, you can’t leave your foreign ministry to go work for a rival like Russia (unless you want to go to jail).
+So, to draw comparisons across the G20’s varied systems and economies, we’re comparing diplomat salaries that are:
+Ranked counsellor or equivalent (that’s mid-management)
+Recently promoted (rather than years in the role)
+At HQ (rather than abroad on a posting), and
+Adjusted for purchasing power parity (PPP).
+We can already hear the scoffs and tisk-tisks from Brussels to Riyadh and Canberra to Ottawa, asking how we could
+possibly
+compare an AD9 to an EL2 or an A15 (these are just some of the random ranks foreign ministries use). So we’ve leveraged all kinds of sources, and have also met people in parking basements wearing trench-coats while smoking cigarettes. We don’t smoke or own trench-coats, but picked up some supplies at Costco.
+Oh, and a final caveat. High inflation in Argentina and Turkey means pinpointing the value of those particular diplomat salaries is a little like nailing caviar to the embassy wall. Inflation is also heating up in Russia, though Russian diplomats should really just consider defecting.
+[
+update
+: friends in Argentina have helped us semi-nail that caviar to the embassy wall, so Argentina is now included below]
+Why’d
+we do this?
+As big as the above caveats are, diplomat salaries are still worth investigating, particularly as our world heats up. Here are three quick reasons why they matter:
+Folks don’t join for the money, but that’s a big reason why they leave
+Diplomacy is no longer the only (or even the best) path to an international career, and
+Low pay combined with access to classified material presents a vulnerability willingly exploited by foreign intelligence services.
+So, let’s dive in.
+Which G20 country pays its diplomats the worst?
+🇮🇩
+Indonesia - USD34k per annum
+Yep,
+Indonesia
+, the world’s fourth-most populous country, doesn’t pay well. Counsellor salaries at Jakarta’s foreign ministry (‘Kemlu’) start at around $10k (not a typo) per annum, which still works out at only $34k when you adjust for PPP.
+For anyone who’s served in Indonesia, this may not be a surprise. Junior embassy staffers in Jakarta often earn more than very senior local officials, which can be awkward. But it also arguably reflects the low priority that Indonesia has typically afforded to diplomacy: the country is still a relatively quiet player given its size.
+Indonesia’s president-elect (Prabowo) has shown more interest in the world and Indonesia’s role, but his region is getting spicy, and he’ll need to up his country’s diplomatic firepower if he wants to start shaping it a little more in Indonesia’s favour.
+Which G20 country pays its diplomats the best?
+🇺🇸
+The US - USD140K per annum
+That’s right,
+the US
+pays counsellor-equivalents in DC a cool $140k base salary. Though that’s still a fraction what they can earn by leaving Foggy Bottom and strolling 15 minutes down the road for a
+lobbying
+consultancy gig on K Street. It’s becoming an increasingly well-trodden path.
+And the other burning question is whether even that cool $140k is still enough to:
+a) attract and retain the top talent capable of the full court press needed to manage the major challenges to US interests around the world, and
+b) address the department’s serious retention struggle, as budget cuts leave many staff stretched and
+13%
+of positions unfilled.
+Which G20 country is giving its diplomats the best pay rise?
+🇨🇳
+China - USD12k (pay rise)
+Beijing doesn’t release pay scales for its officials, though a counsellor-equivalent at HQ earns around $24k, which works out at around $41k in PPP terms.
+But here’s the thing: while Beijing has told most other agencies to rein in spending, the party chiefs have largely quarantined
+China
+’s foreign ministry, which has kept growing in recent years.
+To boot,
+word
+has also emerged that all of China’s diplomats abroad just got a pay-rise of $12k, regardless of location or rank. So the message seems clear, right? This is a government function that China’s leadership is prioritising.
+Which G20 country is giving its diplomats the
+worst
+pay rise?
+🇲🇽
+Mexico - Zero nominal rise abroad since 2000
+The outgoing president (‘AMLO’) has hardly touched his passport, so it’s any wonder his administration has placed little emphasis on sustaining
+Mexico
+’s storied diplomatic service (a Mexican diplomat won the 1982 Nobel Peace Prize for negotiating the Treaty of Tlatelolco after the Cuban missile crisis).
+AMLO has left key positions unfilled, and career progression has stagnated, but some of the issues go well beyond AMLO - Mexico’s foreign ministry hasn’t updated conditions for Mexico’s diplomats abroad
+in 24 years
+. In practice, this means there are countries where Mexico’s diplomats simply can’t afford to serve.
+The government has
+said
+it’s aware of the issue, but nothing seems to change. Will AMLO’s Berkeley-educated successor (Claudia Sheinbaum) change tac?
+Which G20 country pays its diplomats surprisingly little?
+🇬🇧
+The UK - USD48,000
+The
+UK
+’s foreign office has long been known to pay among the worst salaries for British civil servants. And it turns out they also pay among the worst salaries compared to their G20 peers: a counsellor’s £60k in London works out at around $48k in PPP terms.
+Of course, salaries in the UK are often lower than their equivalents across the pond in the US. But still…
+That’s not a lot to attract and retain top diplomats representing a Western nuclear power with a permanent seat on the UN Security Council.
+And… which G20 country pays its diplomats surprisingly well?
+🇧🇷
+Brazil - USD126k
+Yep,
+Brazil
+’s foreign ministry (‘Itamaraty’) pays counsellors around $59k, and the real value is double that when you factor in purchasing power. But Brazil is an emerging power with an ambitious president driving an ambitious foreign policy. Brazil even wants a permanent seat on the UN security council, and is hosting the G20 this year. That’s probably why its diplomats are (on a PPP basis) the second-best paid in the G20.
+[
+update
+: Brazil’s diplomats are now on strike, citing in part the erosion of their salary’s real value by ongoing inflation]
+What about the rest?
+(Counsellor @ HQ, PPP - exc. Argentina, Russia, Turkey)
+$140k
+🇺🇸
+United States
+$126k
+🇧🇷
+Brazil
+$105k
+🇿🇦
+South Africa
+$103k
+🇫🇷
+France
+$101k
+🇩🇪
+Germany
+$97k
+🇦🇺
+Australia
+$92k
+🇮🇹
+Italy
+$88k
+🇸🇦
+Saudi Arabia
+$87k
+🇨🇦
+Canada
+$78k
+🇮🇳
+India
+$77k
+🇯🇵
+Japan
+$64k
+🇰🇷
+South Korea
+$54k
+🇲🇽
+Mexico
+$48k
+🇬🇧
+United Kingdom
+$41k
+🇨🇳
+China
+$35k
+🇦🇷
+Argentina
+(nominal)
+$34k
+🇮🇩
+Indonesia
+(Re-ranked by how much counsellor salaries differ from local median salary)
++450%
+🇮🇳
+India
++210%
+🇧🇷
+Brazil
++140%
+🇦🇷
+Argentina
++133%
+🇺🇸
+United States
++131%
+🇿🇦
+South Africa
++122%
+🇯🇵
+Japan
++115%
+🇫🇷
+France
++108%
+🇦🇺
+Australia
++71%
+🇬🇧
+United Kingdom
++70%
+🇩🇪
+Germany
++62%
+🇨🇦
+Canada
++55%
+🇲🇽
+Mexico
++53%
+🇨🇳
+China
++50%
+🇮🇹
+Italy
++29%
+🇰🇷
+South Korea
++28%
+🇸🇦
+Saudi Arabia
+On par
+🇮🇩
+Indonesia
+International / regional
+(Counsellor @ HQ, PPP)
+$141k
+🇪🇺
+European Union
+$137k
+🇺🇳
+United Nations
+$125k
+🌍 African Union
+Oh, and are you a diplomat - or someone else in-the-know - who’s convinced we’ve got something wrong above?
+Or would you like to see your country added to the above study? Be sure to reach out! We’re very happy to protect your anonymity 🕵️

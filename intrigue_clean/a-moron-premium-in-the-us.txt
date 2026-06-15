@@ -1,0 +1,229 @@
+URL: https://archives.internationalintrigue.io/p/a-moron-premium-in-the-us-acd3
+Title: 🌍 A moron premium in the US?
+
+IN TODAY’S EDITION
+1️⃣ A moron premium in the US?
+2️⃣ India’s big new drills
+3️⃣ Expo of the day
+Hi {{ First name | Intriguer }}.
+Someone joked over the weekend that watching bond traders panic is a bit like seeing your parents cry: you don’t understand why, but you know it’s bad.
+So maybe we should dive into some
+strange market behaviour
+and see what’s what?
+PS
+- A heads-up, we’ll be
+taking a break
+this coming Friday 18th and Monday 21st!
+THE HEADLINES
+Russian missiles kill dozens on Palm Sunday.
+Two Russian
+ballistic missiles have hit a Sumy street
+as folks headed to church for Palm Sunday. In response, Germany’s incoming chancellor (Merz) has reiterated his willingness to send Kyiv long-range Taurus missiles.
+Israel hits Gaza hospital.
+An Israeli
+airstrike has hit the last fully functioning hospital
+in Gaza City, reportedly 20 minutes after the military issued a warning to evacuate. Hamas, which published another US-Israeli hostage proof-of-life video over the weekend, has denied Israeli allegations it was using the hospital as a command-and-control centre.
+US clarifies China chip, phone tariffs.
+Following a Friday notice indicating various high-tech goods from China would get a broad tariff exemption, the White House has now clarified that
+consumer electronics
+are still subject to Trump’s earlier 20% tariffs linked to fentanyl — plus there’s now a new round of US levies on China-made semiconductors to be announced separately.
+Meta antitrust trial kicks off.
+A landmark US antitrust trial against Meta and its CEO Mark Zuckerberg begins today, with the FTC arguing Meta’s acquisitions of Instagram and WhatsApp were driven by a desire to eliminate competition (something Meta denies). If the suit is successful, Zuckerberg could potentially be
+forced to sell Instagram and WhatsApp
+.
+Noboa re-elected as Ecuador president.
+Conservative incumbent Daniel
+Noboa has won re-election
+in Sunday’s runoff, seen by many as a referendum on his tough approach to Ecuador’s worsening security situation.
+Trump to decide on Iran “
+very quickly
+”.
+The US president says he expects to make a decision on a possible Iran nuclear deal soon, after the two sides
+held “
+constructive
+” talks
+in Oman on Saturday and agreed to reconvene this week.
+IN CONVERSATION WITH AUDREY TANG
+Taiwan’s ambassador-at-large talks the AI revolution
+What does the future of democracy and trust in institutions look like in the age of AI and the digital era? Tune in to an exclusive deep dive on this topic and more with Audrey Tang, a civic-hacker-turned-Digital Minister who spearheaded policies on these issues for Taiwan.
+Register here!
+TOP STORY
+A moron premium in the US?
+US 10-year treasury yields over the past month (top) and since the 1980s (bottom)
+We’ve been
+writing about bonds
+before they were the flavour of the week. And events now dictate that we revisit bonds again. Who are we to argue with events, dear Intriguer?
+Typically if US stocks tank, spooked investors will shift their cash over into bonds — the ultimate safe-haven.
+Why?
+When you buy bonds (loan the US government money), you're trusting Uncle Sam will pay you back with interest. It's a safe bet because it all rests on:
+a)
+The world's largest military
+b)
+The world’s oldest modern democracy, and
+c)
+The world's deepest, most liquid market (the $29T market for US treasuries).
+Uncle Sam could even repay you with dollar bills printed out of thin air if he wanted — all part of what Valéry Giscard d'Estaing famously described as the “
+exorbitant privilege
+” of having the world's reserve currency (though there's
+a fierce and nerdy debate
+there).
+But since Trump's big
+liberation day
+tariff reveal and
+partial walk-back
+, something weird has happened: investors have not only been selling US stocks, but also US bonds, and even the US dollar. It suggests folks aren't just doing the usual cyclical rotation from one US asset class to another, but are actually moving their cash out of US assets altogether.
+So what's going on?
+Trump's supporters variously argue:
+It's just a
+temporary
+market spasm
+It's just a
+reversion
+to the mean (eg, bond yields are the same as a year ago)
+It's
+Biden
+'s fault (yields have been rising as US debt grows), and/or
+It's just part of
+the plan
+: when you use tariffs to block imports from China and unwind America's trade deficit, your trade partners no longer accumulate dollars, naturally leading to weaker demand for US bonds and other US assets.
+But markets are pricing in
+other theories you should know about
+, including...
+‘The triple yasu’
+This is not a delicate gym routine or a tasty three-layered tempura. Rather, Japan's Nikkei newspaper used the term 'triple yasu' last week in
+a throw-back
+to Tokyo's own 1990s experience when investors pulled the same triple sell-off: stocks, bonds, and the yen.
+For a major Japanese financial paper (the world’s biggest) to lob that term at the US is remarkable to the extent they're implying (and they are) that
+investors have doubts
+about America’s trajectory. Why? Some market players now partly blame…
+‘The moron premium’
+To be clear, we're not calling anyone a moron. Rather, this brutal diss was coined by a London macro analyst to describe the fact that, even after former UK leader
+Liz Truss
+reversed her disastrous 2022 UK mini-budget, fired her finance minister, and then got fired herself, investors are still demanding higher interest to loan the UK money.
+Why?
+You can hit
+ctrl-z
+on a mistake, but you can't force markets to forget the fact you made it.
+And the argument here is that even though Trump has now partly hit ctrl-z, he can't pull some Obi-Wan trick to
+make the markets forget
+("
+these aren't the yields you're looking for
+"). Markets, who don't care about left or right, or MAGA or pronouns, are calculating that if he shocked us once (the biggest tariffs in a century), he might shock us again.
+So does any of this matter?
+Unless we see US yields drop again (entirely possible), we’ll all feel the impacts:
+US bonds are linked to US
+mortgages
+and other household and business debt, so any higher borrowing costs risk washing over US families and firms, plus
+The US is due to
+refinance $6T in debt
+this June — if that auction locks in higher rates, it’ll mean tougher spending and tax choices for the US government ahead (tariff revenues won't close the gap).
+Oh, and lest you Intriguers abroad think this is just a US problem, remember that higher borrowing costs in the US can flow through to just about everywhere else.
+INTRIGUE’S TAKE
+There's lots of breathlessness around all this, sometimes for valid reasons (America copping
+a triple yasu is weird
+). But it's also worth taking a deep breath and recalling there's still no market anywhere near as deep and liquid as US treasuries. And there's no currency anywhere near as dominant as the US dollar.
+But still, there’s evidence the last week of market chaos has gnawed away at both US pillars. And that'll accelerate the world's thirst for viable alternatives over the years ahead, if only to hedge risk. Spooked capitals spook capital.
+Also worth noting:
+Most US bond-holders are actually in the US (pension funds, social security, the Fed etc). Outside the US, the biggest holders of US debt are Japan ($1080B), China ($760B), and the UK ($740B).
+US government interest payments on debt are now the
+third-largest budget line item
+($882B) after social security ($1.5T) and healthcare ($912B).
+MEANWHILE, ELSEWHERE…
+🇭🇰
+Hong Kong
+: In a reported first, the city’s border authorities have
+denied a British MP entry to Hong Kong
+. Wera Hobhouse has long been vocal on China human rights issues, and was on a family visit.
+🇩🇰
+Denmark
+: Lawmakers have taken a step towards ratifying a
+defence pact with the US
+despite tensions over Trump’s Greenland moves. The deal, signed back in 2023, grants the US access to three Danish bases for 10 years.
+🇮🇳
+India
+: Delhi has launched its
+biggest-ever joint naval drills in Africa
+with Tanzania, Kenya, Madagascar, Mauritius, and South Africa. With hopes to make this regular, it’s an attempt to close the regional influence gap with China.
+🇨🇱
+Chile
+: The world’s largest copper miner (state-owned Codelco) saw output
+decline 6% in February
+, with investors blaming missteps and under-investment. The world’s top copper
+mine
+(BHP’s Escondida) lifted output 16% the same month.
+🇬🇦
+Gabon
+: Junta chief Brice Oligui Nguema has
+won the presidential election
+in a landslide, according to provisional results. It’s the first vote since his 2023 coup ousted the Bongo family, who’d ruled Gabon for more than half a century.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+US tech giant Google is reportedly
+paying AI experts to do nothing
+for a year rather than join rivals.
+A Brazilian judge apparently used a
+fake British-sounding name
+to practice law. That name? Edward Albert Lancelot Dodd Canterbury Caterham Wickfield.
+Match officials have had to delay a French rugby game after the
+parachutist delivering the ball got snagged
+on the stadium roof.
+A Belgian prince has
+lost a court case to get social security
+in addition to his royal allowance.
+And a Nevada man has told authorities his seven tigers were
+emotional support animals
+.
+EXPO OF THE DAY
+The Grand Ring at the heart of the 2025 Japan Expo. Credits: @expo2025czechia via X
+The
+World Expo 2025
+opened in Japan over the weekend, with 160 countries showing off their tech, culture, and food around the theme, ‘
+Designing Future Society for Our Lives
+’.
+Some of the many attractions include: a 135m (443ft) sushi conveyor belt, a beating heart grown from stem cells, a meteorite from Mars, and the world’s largest wooden architectural structure — the above giant wooden ring with a 2km (1.2mi) circumference.
+DAILY POLL
+What do you think is going on with this 'triple yasu' in US assets?
+😎 Chill, it'll blow over
+💥 Something's broken
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+What do you think just happened with the tariffs?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤝
+Art of the deal - everybody's come to negotiate (12%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇨🇳
+Art of the trap - China's now isolated (14%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💸
+Art of the bond - the markets forced his hand (69%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (6%)
+Your two cents:
+💸
+R.C.O:
+“There were hints of 2008, and the Wikipedia entry for ‘
+The Trump Recession
+’ was already queued up.”
+🤝
+E.C:
+“Don’t bet against Trump.”
+✍️ G.C:
+“Art of noise: it's just chaos.”
+💸
+J.C.D:
+“The bond market forced his hand. That explains the timing. His goal all along was to make governments come grovelling looking to negotiate one-on-one deals, so no doubt he's getting a lot of what he wanted. But he's done permanent damage to the United States in the process and, in the long run, done China a huge favor. The same people looking for deals with Trump now are also looking to hedge AWAY from the United States.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

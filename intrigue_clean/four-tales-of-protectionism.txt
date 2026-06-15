@@ -1,0 +1,234 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-318c
+Title: 🌍 Four tales of protectionism
+
+IN TODAY’S EDITION
+1️⃣ 4 tales of protectionism
+2️⃣ Why folks in Cyprus just googled ‘28 October’
+3️⃣ Tweet of the day
+Hi {{ First name | Intriguer }}.
+I’m a real Chinese history nerd, and reckon that one of the most enigmatic characters in Chinese history is the Empress Dowager Cixi. She ruled as regent for nearly 50 years (from 1861 to 1908) during the Qing Dynasty, China’s last imperial dynasty.
+She’s got a mixed legacy. On the one hand, she’s credited with modernising China through policies like pushing to end foot binding for women, building railroads and public utilities, and reforming the military.
+But some of her more controversial moves (of which there were many) involved supporting protectionist trade measures, like protecting Chinese domestic industries from foreign goods, and prioritising Chinese jobs.
+Sound familiar? That’s because the age-old issues of protectionism haven’t really changed much in over a century. And as we’ll see in today's top story on the rise of protectionism globally, history loves to rhyme.
+THE HEADLINES
+Israel passes law banning UN Palestinian agency.
+The Israeli Knesset has passed laws
+banning the main UN aid agency for Palestinians (UNRWA)
+from operating in areas under Israel’s control, while stripping its staff of legal immunities. Israeli leader Benjamin Netanyahu said any UNRWA workers involved in terrorist activities against Israel would be held accountable. The US, France, Japan and others have criticised the move.
+Iran executes German-Iranian dissident who lived in the US.
+Iran has executed Jamshid Sharmahd
+on
+charges of “
+leading terror operations
+”
+, due to his alleged involvement with a US-based pro-monarchist group. Iranian agents kidnapped Sharmahd from Dubai back in 2020 then forcibly took him to Iran. Germany has warned Iran that his execution will have “
+dire consequences
+”.
+Microsoft accuses Google of undermining its cloud services.
+The tech company has accused Google of
+orchestrating “
+shadow campaigns
+”
+to undermine Microsoft’s cloud business in Europe, alleging Google is trying to “
+distract from the intense regulatory scrutiny Google is facing around the world by discrediting Microsoft
+”.
+Boeing raises $21B.
+The crisis-hit US aerospace player has raised around $21B in one of the
+biggest-ever extended share sales
+for a public company. The move is aimed at beefing up its balance sheet and avoiding a credit downgrade.
+China has lost a third of its billionaires.
+The number of China’s dollar billionaires has
+declined by over a third
+in the last three years, according to research group Hurun. The decline likely reflects government crackdowns, a sputtering economy, and weak equity markets.
+Georgians attend pro-EU protests.
+Yesterday’s briefing ended on a cliff-hanger: would the people of Georgia answer their president’s call and
+take to the streets in protest
+after she accused Russia of stealing the weekend’s election? Well, kinda. In the end, tens of thousands turned up, though the crowds were smaller than the mass protests (against new Russian-style legislation) that rocked Georgia over the summer.
+TOP STORY
+Four tales of protectionism
+In a world where everyone's clutching their resources like a squirrel with its last acorn, countries and companies are doubling down on the
+“mine, not yours”
+strategy. Trade wars? Check. Tech bans? Of course. Tariffs? Getting handed out like Halloween candy.
+That’s because protectionism, like the mullet, is somehow now back in vogue. And that’s spooked top IMF economists enough to
+warn
+last week that a swift unravelling of economic connectivity could do more harm than good.
+So, sit back, perhaps grab an acorn or some Halloween candy, and enjoy these four quick illustrative stories of how this is all now playing out around the world —
+Indonesia blocks the iPhone 16
+Jakarta just
+confirmed
+on Friday that, because US tech giant Apple isn’t hitting Indonesia’s 40% local-made requirement, Apple isn’t allowed to sell the new iPhone 16 in Indonesia’s fast-growing market.
+Now, funnily enough, when Indonesia’s industry minister (Agus) first pitched his country to Apple, he emphasised its value as an
+export
+hub. What Argus might’ve left off the pitch deck is that he’d cut
+imports
+if Apple didn’t invest enough.
+Vintage carrot and sticks
+.
+Anyway, Indonesia has long imposed local content thresholds, often with success (its nickel rules famously forced foreign firms to invest in local processing plants). But as protectionism comes back in vogue, Indonesia’s local content bar seems to be getting higher - in the case of smartphone components, from 30% in 2017 to 40% today.
+Justification
+: To boost investment, lift domestic production, and move up the value chain
+Finland, Germany, and Spain block asset sales
+While
+many Intriguers will already be familiar with
+US plans to block
+Nippon Steel's $14.9B acquisition of US Steel on national security grounds, the White House isn’t alone —
+Finland has
+just
+blocked
+six real estate transactions by foreign buyers (whose passports were from
+🇨🇭
+,
+🇷🇺
+, and
+🇺🇦
+)
+Germany’s cabinet has
+blocked
+Volkswagen from selling a sensitive gas turbine subsidiary to a state-owned company in China, and
+Spain
+has
+blocked
+the sale of train producer Talgo to a part state-owned firm in Hungary (a fellow EU member!) due to the firm’s Russian links.
+Most capitals now have some kind of mechanism to play the national security card - like the secretive Committee on Foreign Investment in the United States (CFIUS) - but many governments now seem to be playing that card more often as perceived threats expand. The trick, however, is not to dissuade much-needed (legitimate) investment along the way. That’s why Australia just
+streamlined
+its rules after years of investor frustration.
+Justification
+: National security
+Brazil and South Africa tax low-cost deliveries
+A day before China-based online retailer Temu launched in Brazil, the Brazilian senate
+imposed a 20% tariff
+on goods purchased from overseas platforms valued at less than $50. Coincidence? Of course not. Temu made the initial decision to enter Brazil back when <$50 items were still exempt, and local competitors soon got spooked. Why?
+The same reason locals have been spooked in South Africa, the EU,
+the US
+, and beyond: bricks-and-mortar retailers and suppliers say they can’t compete with ultra low-cost foreign players like
+Temu and Shein
+, especially when they pay no local taxes.
+Justification
+: Closing a tax loophole to prevent unfair competition
+Kenyan and French workers oppose foreign investors
+In early September, Kenyan airport workers walked off the job after news broke that the country's largest airport, Jomo Kenyatta International, was getting an upgrade from India’s Adani Group on a Kenyan government contract worth a cool $1.85B.
+But Kenyan workers wanted guarantees that their union would be involved in the decision-making and that jobs wouldn’t get axed as Adani took over operations. So they staged a one-day strike shouting
+"
+Adani must go
+”,
+disrupting hundreds of passenger flights until the government agreed to include the union in leasing talks.
+And this isn’t just a developing economy issue, mind you: French workers felt the same way when US private equity firm CD&R moved to acquire a subsidiary of French pharma-giant Sanofi — Paris only gave the green light after attaching penalties if the Americans outsourced jobs.
+Justification
+: Worker rights
+INTRIGUE’S TAKE
+Can you guess what the best-selling non-fiction book in the US was exactly 40 years ago? It was the autobiography of Lee Iacocca, one of the few auto executives to lead two of America’s ‘big three’ automakers (Ford and Chrysler). Of course, the world has changed since then (Chrysler is now even European-owned).
+But one of Iacocca’s famous lines reflects on
+a timeless question
+: “
+Where do you get good judgement? From experience, of course. And where do you get experience? From
+bad
+judgement.”
+Many of the above players - whether governments, businesses, or unions - would argue they’re now course-correcting after getting burnt on some bad judgement calls during the heyday of globalisation: whether trusting that China would play by the WTO rules, or trusting that a multinational would see a local market as more than a pot of gold, or trusting that a foreign investor would add value not just for their shareholders.
+The missing ingredient in each case here is trust. And in this 2024 of ours, that’s hard to build; easy to lose. But for most economies out there, there’s still just not enough demand at home to sustain and lift living standards alone — that’s why the IMF is warning that, whatever the reason, a retreat inwards ultimately risks harming us all.
+TOGETHER WITH BABBEL
+The Season of Learning
+Through award-winning lessons, addictive games, and more bonus content, you can start speaking a new language in 3 weeks with Babbel— just in time for fall adventure! International Intrigue readers can use this exclusive link to get up to 55% off today!
+Get up to 55% off today!
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: The US has approved a
+$2B arms sale package to Taiwan
+, which includes for the first time an advanced ‘Nasams’ air defence missile system tested in Ukraine. Unsurprisingly, China (which claims Taiwan as its own) has responded with a pledge to take unspecified “
+countermeasures
+” to protect its sovereignty.
+🇩🇪
+Germany
+: Auto giant Volkswagen is seeking to
+close at least three plants
+in Germany and downsize all remaining factories, according to the firm’s work council. The company has been hit by rising costs plus a 20% drop in sales in its largest market, China.
+🇵🇭
+Philippines
+: Former leader Rodrigo Duterte has told a senate inquiry he offers “
+no apologies, no excuses
+” for his
+war against drugs
+, which left at least 6,000 dead and is now being investigated by the International Criminal Court (ICC). His successor and the current president (Marcos Jr) previously declined to cooperate with the ICC, though he’s now apparently allowed ICC investigators into the country.
+🇧🇴
+Bolivia
+: Former Bolivian leader Evo Morales has accused the current
+government of attempting to kill him
+after his car was hit by gunfire. President Luis Arce, a former ally turned rival, has promised an investigation, though his interior minister is claiming Morales staged the incident after his car tried to run a police checkpoint.
+🇲🇦
+Morocco
+: French President Emmanuel
+Macron is in Morocco
+this week for talks on trade, climate change, and immigration. His visit comes months after France revised its official position on Western Sahara, joining a small group of others like the US and Spain who now back Morocco’s claims to the disputed territory.
+EXTRA INTRIGUE
+Here’s what people around the world are googling:
+Folks in
+🇨🇾
+Cyprus
+googled ‘
+28 October
+’ as the Greek portion of the Island
+celebrated ‘No Day’
+, to commemorate Greece’s resistance to Italian dictator Benito Mussolini.
+🇶🇦
+Qatari
+fans searched ‘
+Ballon d'Or 2024
+’ to check on the
+winners
+of the prestigious annual football awards presented by a French magazine: this year it was Spain’s Rodrigo Hernández Cascante and Aitana Bonmatí.
+And
+🇮🇪
+Irish
+folks looked up ‘
+Aer Lingus job cuts
+’ after the national airline announced it would make
+staff cuts
+to help with lagging profitability.
+TWEET OF THE DAY
+Bear Grylls has braved unforgiving rainforests, deserts, and mountains in his TV adventures, but he’s now added another frontier to his list: a visit to the UK Embassy in DC.
+Why?
+The certified hardass is a former British commando and now an Officer of the Order of the British Empire (OBE), a title conferred by the late Queen for Bear’s service to young people and charities. So he’s probably on a few embassy invite lists.
+But also, he’s a celebrity, and believe us when we tell you that embassies absolutely froth at the chance to attract some attention in a competitive town like DC.
+DAILY POLL
+Which industry do you think governments should protect most?
+📈 Manufacturing
+✈️ Defense
+📚 Education
+🛢️ Energy
+🤖 Tech
+☄️ Mining
+💼 Professional
+🚫 None
+✍️ Other (Write It!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+US newspapers like the Washington Post and the LA Times have caused a stir for declining to endorse a candidate in this year's elections. What do you think about that?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍
+Newspapers should report the news, not endorse candidates (62%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 👎 Endorsing candidates is a long-standing tradition, and they're cowardly to abandon it (36%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+👍
+E.K.M:
+“Goodness knows the last thing this election needs is more polarized and polarizing coverage.”
+👎 R.T
+: “If these newspapers had announced this policy months ago, it would have looked a lot more like journalistic integrity than their billionaire owner's fears that a possible Trump administration would punish their other businesses in retaliation for an unfavorable endorsement.”
+✍️ P.F:
+“Allowing newspaper owners to dictate the editorial terms of newspapers limits the power of the press. This demands people who care about the issue push back against these newspapers as the businesses they are.”
+✍️ F.I.M:
+“Editorial boards are entitled to their opinions - our bigger issue is that there are, what, 5 major newspapers in the United States? The death of print media has made endorsements into an issue.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

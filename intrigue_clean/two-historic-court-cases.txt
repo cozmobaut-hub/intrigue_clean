@@ -1,0 +1,234 @@
+URL: https://archives.internationalintrigue.io/p/two-historic-court-cases
+Title: 🌍 Two historic court cases
+
+Today’s briefing:
+— Two historic court cases
+— A vibe-shift on Iran?
+— How to waste champagne in Brazil
+Good morning {{first_name | Intriguer}}
+. Baseball's back! Which means longer, warmer days are just round the corner here in Northeast US.
+I love baseball mostly because it pipes delicious nostalgia right into my brain. Harmless nostalgia for the hazy summer days and hazy beers that create pleasantly hazy memories, not the fake nostalgia that's the last refuge of the modern political scoundrel.
+To quote the hilarious Jim Brockmire
+(IYKYK but warning, NSFW): "
+baseball was invented by a god who demands all his churches are parks. The kind of god that forces you to play outside on a nice day. He doesn't keep time because our actions should determine our fate, not some stupid clock. A god who keeps us humble by making us play a game that's steeped in failure.
+"
+(Can you tell it's been a long winter?)
+Anyway, enough self-indulgence, you're here for geopolitics and we've got a doozy today: what the
+remarkable rulings against Meta and YouTube
+mean for the rest of the world.
+Number of the day
+36%
+That’s now the approval rating for Argentina’s Javier Milei, his lowest since taking office in December 2023. The souring sentiment comes as Milei delivers Argentina’s lowest inflation (~30%) and highest growth (~4.4%) in ~eight years.
+Tech off!
+Think you had a rough week? Imagine being a top lawyer at Meta or Google, who got their meditation session in the team offsite mindfulness pod interrupted by news that US juries just handed down
+two
+landmark rulings with global implications.
+First, a
+New Mexico
+jury just
+ordered
+Meta (Instagram, Facebook, WhatsApp) to pay $375M for misleading users on safety, and exploiting childhood vulnerabilities for profit.
+And second, a
+California
+jury has
+ordered
+Meta and Google (YouTube) to pay a 20-year-old woman $6M in damages after holding both tech giants responsible for her mental health struggles, finding they intentionally made social platforms addictive.
+And… what about others like Snapchat and TikTok? These two might feel good about their decision to reach a quiet settlement earlier this year, though they’ll still feel the heat. Why?
+Five quick things jump out about the immediate significance:
+First
+, that California verdict just
+dodged the Section 230 immunity shield
+that’s protected Big Tech since the 1990s: tech tycoons always argued that holding Insta responsible for user content is like (say) holding Ford responsible for a hit n’ run. But this case has now said
+nice try, nerds,
+but we’re targeting
+your
+algorithms, not
+user
+content.
+Second
+, that New Mexico verdict around
+negligent safety warnings
+smells a lot like the kinds of cases that eventually brought down Big Tobacco: you knew your products were harmful, but still opted to protect your profits rather than the people driving them.
+Third
+, on both fronts (addictive design + negligent safety),
+the precedent is now set
+*
+for thousands more lawsuits already in the waiting room: think states, schools, parents, kids.
+Fourth
+, won’t
+someone
+think of
+the money
+! Meta alone earned a cool $200B in ~ad revenue last year, which is all realistically downstream of user screen-hours, now all seemingly downstream of an algorithm that just got dunked on in a US court. This likely explains why each firm just shed $100B in market cap within hours of these rulings.
+Then
+fifth
+, while defenders argue Big Tech is just getting scapegoated for bigger, messier societal ills, it’s still all broader evidence of
+a mood souring
+against Big Tech, devolving from garage-born pioneers to reckless profiteers.
+Ok, that’s very interesting we hear you say, but I distinctly recall signing up for a
+geopolitics
+newsletter, so
+where’s the Intrigue™?
+Right now we see it via three big angles.
+First
+, these decisions arguably
+erode US tech supremacy
+: reaching ~half the world’s population, they’re realistically now US strategic assets. And you can bet their lobbyists will now be warning DC that any court-ordered payouts and/or redesigns could weaken their competitive edge against foreign rivals (eg TikTok). Oh, and tighter profits will potentially mean tighter AI research and a slower data-centre rollout for the US.
+Second
+, this is not just a precedent
+*
+for US court cases, but also
+global regulators
+across the EU, UK, Australia, India, Brazil and beyond, who’ve been awaiting more political cover to rein in Big Tech without fear of US retaliation. Australia’s world-first social media ban for under-16s is already inspiring everyone from Spain to Indonesia, and any US retaliation only gets trickier if they’re now tracking the slipstream of America’s own courts.
+And
+third
+, it all risks hastening the ‘
+splinternet
+’: ie, more and more capitals demanding more local moderation, more local servers, and even more local alternatives, accelerating the patchwork of national rules in the name of reasserting national sovereignty online. Tougher for any global tech giant to thrive in a splintered world.
+Now of course, no lawsuit will crumble Instagram or YouTube’s monopoly overnight. But maybe that’s what makes the Big Tobacco comparison so arresting: tobacco’s downfall happened not overnight, but lawsuit by lawsuit, regulation by regulation. Is that ahead?
+*
+Anyway, given the stakes, both Meta and Google will inevitably now move to appeal it all.
+Intrigue’s Take
+Two bigger-picture points come to mind here.
+First
+, long-gone are the days when
+what’s good for US corporates was thus good for the US
+. Globalisation has already shifted the consensus, as voters conclude this particular era just poured rocket fuel over capital while roundhouse-kicking labour. There’s a similar wedge now emerging here with tech: it’s been a great asset for shareholders, but is it proving to be a liability for families? DC might eventually have to pick a side. And maybe consumers will ultimately prefer a platform with balanced, democratic oversight?
+But
+second
+, while that Big Tobacco comparison is grim, it’s also more nuanced than it seems: those
+firms adapted
+to a souring mood and hostile courts by jacking up prices, shifting marketing overseas, and diversifying into other products. The result? They’re now
+more
+profitable (by ROIC) today than in the late 1990s, even if they seem less popular.
+So, bottom line?
+These two cases are a big deal, but it might be best to see them as the starter gun for years of appeals, lobbying, and pivots ahead, rather than the official finish line for any Silicon Valley era of ‘move fast and break things’.
+Sound even smarter:
+Talking of Big Tech, a US judge has just temporarily blocked Trump 2.0 from blacklisting AI firm Anthropic, calling it a “
+classic First Amendment retaliation
+”. We wrote about the ongoing split
+here
+.
+Today’s briefing is presented by…
+What 200K+ Engineers Read to Stay Ahead
+Your GitHub stars won't save you if you're behind on tech trends.
+That's why over 200K engineers read
+The Code
+to spot what's coming next.
+Get curated tech news, tools, and insights twice a week
+Learn about emerging trends you can leverage at work in just 5 mins a day
+Become the engineer who always knows what's next
+Join 200k+ engineers
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — Day 29.
+As the
+will-he-won’t-he
+debate continues around a possible US ground operation, President Trump has announced he’s extending Iran’s deal
+deadline
+by another 10 days; his White House is now briefing journalists it might
+deploy
+another 10,000 troops; and Israel has now
+assassinated
+the head of Iran’s IRGC navy (a central figure in the Hormuz shutdown). Brent crude is now back up around ~$110 a barrel. (
+CNBC
+)
+Comment:
+Next steps are still anyone’s guess, but the ‘vibe’ (whether actual or diversionary) is clearly shifting towards an operation to take a strategic island like Kharg (90% of Iran’s crude exports) or Larak / Abu Musa / Tunbs (strategic for controlling Hormuz). The term ‘knockout blow’ is doing the rounds, but we’ve
+explored
+the ways this thinking can spiral into a quagmire.
+🇲🇽
+MEXICO — Cuba aid flotilla missing.
+Mexico’s navy has launched a full search and rescue operation after the final two sailboats in a grassroots aid flotilla failed to reach Cuba as scheduled. With mostly Europeans and Americans on board, the ships haven’t made contact since leaving Mexico a week ago. (
+BBC
+)
+Comment:
+Rough weather delayed a larger ship in the convoy by around three days.
+🇵🇰
+PAKISTAN — War resumes.
+Following a brief Eid-linked ceasefire, Pakistan has now resumed its military campaign against Taliban-led Afghanistan, vowing it’ll continue until Kabul reconsiders its alleged support for militant groups. (
+Arab News
+)
+🇩🇪
+GERMANY — Piece of the pie.
+A German frigate captain is under investigation for allegedly sharing a classified $390B list of 150 planned defence purchases with a defence lobbyist. (
+Euronews
+)
+Comment:
+Any whiff of insecurity or corruption risks undermining public and allied confidence just as Berlin embarks on its historic re-armament amid Putin’s aggression.
+🇲🇾
+MALAYSIA
+— Feeling the crunch.
+Prime Minister Anwar has revealed Malaysian vessels can now transit the Strait of Hormuz after diplomatic outreach, but he’s still easing fuel quotas at home. (
+The Straits Times
+)
+Comment:
+His quota moves are unlikely to help most Malaysians in the near term. Meanwhile, the French finance minister (Lescure) is now ringing alarm bells, declaring a major oil crisis now that Iran has damaged 30-40% of the Gulf refining capacity, requiring three years to repair.
+🇺🇸
+UNITED STATES — Be our guest.
+Four members of Russia’s rubber-stamp legislature are now on the first Duma visit to DC since Putin’s invasion, thanks to a State Department sanctions waiver issued at the request of a pro-rapprochement congresswoman. Moscow says it’s a
+“test meeting”
+with no fixed agenda, though Putin briefed them pre-departure. (
+NYT
+)
+Comment:
+You may see reports these lawmakers are from “opposition” parties, but that word is doing a *lot* of heavy lifting — Putin has long erased any meaningful opposition, and all visiting parties still back his disastrous invasion of Ukraine. Meanwhile, Putin
+reportedly
+just met with oligarchs, personally urging them to make ‘voluntary’ contributions to Russia’s struggling wartime budget.
+🇨🇩
+DR CONGO — Diversified assets.
+It turns out the UAE has quietly secured effective control over several key mining licences across the Congo’s copper-cobalt heartland (Katanga). (
+Africa Intelligence
+)
+Comment:
+For the UAE, it’s part of a broader strategy to leverage its deep pockets and elite networks to build resource security for a longer-term diversification away from petrostate status. And for the Congo, combined with recent West-friendly mining licenses, it all seems part of a strategy to rebalance away from China, which controls ~80% of Congolese critical minerals.
+Extra Intrigue
+Three stories we couldn’t shoehorn in this week
+🥾
+Tourism:
+Japan’s Nara park is famous for its deer, but it seems new green spaces have now encouraged some to
+migrate
+as far as Osaka, 40km (25mi) away.
+Space:
+NASA is preparing for its first astronaut mission around (not to) the
+moon
+since 1972, with Artemis II set to launch next Wed evening, at 6:24pm EDT.
+Sports:
+Irish broadcaster RTÉ has cut its
+live broadcast
+ahead of a FIFA qualifier game, after pro-IRA chants erupted in the background.
+From our friends
+Insights delivered at the pace of China’s global rise.
+China’s reach extends from boardrooms to trade blocs, steering investment, innovation, and strategic alliances across the globe. Authored by Pulitzer Prize-winning journalist Andy Browne, Semafor China brings sharp analysis on how Beijing’s power is reshaping the new world economy.
+Subscribe for free.
+Jet of the day
+Credits: Youtube / CanalGov
+For those not steeped in the tradition of unveiling ships or planes
+, you may be wondering why Brazil’s Lula is pouring perfectly good champagne all over a fighter jet.
+Performing the old tradition to christen new kit for good luck, Lula here is honouring Brazil’s first domestically assembled supersonic fighter aircraft, the F-39E Gripen.
+Sure, Brazil co-developed this single-engine multirole jet with Sweden’s Saab, but it’s now Latin America’s first nation to build a supersonic combat jet, with 35 more to come.
+Friday Quiz
+Which world leader paid a visit to Pyongyang this week?
+🇧🇾 Alexander Lukashenko
+🇻🇳 Tô Lâm
+🇹🇲 Serdar Berdimuhamedow
+Login
+or
+Subscribe
+to participate
+Which country signed a defence pact with the EU this week?
+🇸🇬 Singapore
+🇬🇭 Ghana
+🇩🇿 Algeria
+Login
+or
+Subscribe
+to participate
+Which country cancelled a military parade citing the oil crisis?
+🇧🇴 Bolivia
+🇨🇿 Czech Republic
+🇵🇰 Pakistan
+Login
+or
+Subscribe
+to participate

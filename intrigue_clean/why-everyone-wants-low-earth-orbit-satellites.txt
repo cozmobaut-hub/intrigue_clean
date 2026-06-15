@@ -1,0 +1,197 @@
+URL: https://archives.internationalintrigue.io/p/friday-7449
+Title: 🌍 Why everyone wants low earth orbit satellites
+
+IN TODAY’S EDITION
+1️⃣ Governments are turning to satellites
+2️⃣ The animated movie that took China by storm
+3️⃣ Goose vs Eagle
+Hi {{ First name | Intriguer }}.
+I don’t know about you, but I’m addicted to watching the daily rollercoaster that is world news through my tiny iPhone screen. It’s gotten to the point where I now
+almost
+exclusively communicate with some of my best friends through memes and/or videos.
+That’s why it was so refreshing last night to have hosted a mixer with real live people from the DC Intrigue network with our friends at Right Proper Brewing. Some folks there had recently lost their jobs in the humanitarian space, some were there to wonk out on foreign aid policy, and others were just there for a sense of community.
+Either way, it provided a fantastic break for me before launching back into the doomscrolling, which brings us to today’s top story on
+low Earth orbit satellites.
+THE HEADLINES
+Ukraine, US officials to meet for peace talks.
+A Ukrainian delegation will travel to Saudi Arabia next week to meet with US officials and
+discuss a peace framework
+to end the Russo-Ukraine war. The Trump administration had suspended military aid and intelligence sharing with Ukraine this week.
+Trump expands Canada and Mexico tariff exemptions.
+A day after granting automakers a carve-out, the US administration announced that goods shipped under the US-Mexico-Canada Agreement (USMCA) would
+also be granted a one-month exemption from the 25% tariffs
+. But ~50% of imports from Mexico and ~60% from Canada may still be subjected to the import levies.
+EU leaders agree to plan to boost defence.
+European leaders greenlit a
+substantial hike in defence spending
+on Thursday, following an emergency meeting in Brussels. Two crucial points in EU chief
+von der Leyen’s
+rearmament plan include a provision to relax deficit rules and a $160B fund for defence loans.
+Dozens dead in clashes between Syrian forces and Assad loyalists.
+The clashes, amongst the
+deadliest attacks against Syria’s new leadership
+, show the difficulties President Ahmed al-Sharaa is facing in uniting the country.
+Canadian Liberals to elect new leader.
+Liberal party members will select a
+replacement for Justin Trudeau
+this Sunday after the Prime Minister announced his decision to step down earlier this year. Mark Carney, a former central banker, is leading the race.
+Paris trains halted after WW2 bomb found.
+All trains from Paris’ Gare du Nord have been suspended after an
+unexploded WW2 bomb was found
+near the train tracks on Friday (today).
+TOGETHER WITH MODE MOBILE
+Apple’s Starlink Update Sparks Huge Earning Opportunity
+Apple just secretly added Starlink satellite support to iPhones through iOS 18.3.
+One of the biggest potential winners?
+Mode Mobile.
+Mode’s EarnPhone already reaches +45M users that have earned over $325M, and that’s before global satellite coverage. With SpaceX eliminating "dead zones" worldwide, Mode's earning technology can now reach billions more in unbanked and rural populations worldwide.
+Their global expansion is perfectly timed, and you still have a chance to
+invest in their pre-IPO offering at just $0.26/share
+.
+Mode’s recent 32,481% revenue growth and their newly reserved Nasdaq ticker $MODE puts them one step closer to a potential IPO.
+Invest in Mode’s pre-IPO offering at $0.26/share and earn up to 100% bonus shares
+TOP STORY
+The Low Earth Orbit (LEO) satellite frenzy is here
+We’re not a finance newsletter (we don’t own enough
+Patagucci
+vests to qualify), but we do enjoy scrolling through stock tickers.
+That’s how we noticed some recent movements around Eutelsat, a Franco-British Low Earth orbit (LEO) satellite operator that’s in talks with the EU to ramp up its presence in Ukraine.
+Over the past four days, the company’s stock prices have skyrocketed an eye-watering 650%. This is shortly after Moody’s had downgraded the company’s stocks into ‘junk’ territory as recently as January — so we were thoroughly intrigued.
+Wait, why is this happening?
+Primarily, it’s because Eutelsat is in the right place at the right time. Europe is increasingly looking to boost support for local strategic and defence companies (including LEO satellite companies) as it shoulders more of its own security burden.
+Suggestions that Eutelsat could even potentially replace Elon Musk’s Starlink network in Ukraine then piqued the interest of retail investors, who bought the stock en masse, leading to a week of stellar growth for the company.
+But while we’re not specifically interested in Eutelsat (it's far from being an industry leader or innovator) we
+are
+very interested in the
+larger trend at play here
+: governments investing in LEO satellite constellations as a security
+need
+rather than a connectivity
+want
+.
+But first, let’s spin back a minute.
+LEO satellite constellations are dense networks of small satellites offering high-speed internet to anyone with a terminal. Their lower orbit (anywhere within an altitude of 2,000 km/ 1240 mi) means faster internet speeds and better communication, although a large number of satellites are needed to achieve widespread coverage.
+And they offer a key security advantage.
+Your normie internet mainly relies on global cable connections, whereas a satellite connection bypasses terrestrial infrastructure (like undersea cables), which is liable to
+accidental damage and sabotage
+. Plus, LEO satellite internet services are more easily deployable in remote areas.
+Of course, LEO satellites aren’t without their own security challenges. For one, they can get hacked (in 2022, a cyber-security researcher hacked into one of Starlink’s dishes using
+gear worth $25
+). And secondly, they operate in an overcrowded and therefore sometimes accident-prone orbit space.
+Regardless, it’s easy to see why some governments are increasingly interested in scalable and easily-deployable connectivity that offer alternatives to traditional networks during crises, both man-made and natural (e.g. last year’s
+Tonga
+earthquake).
+But don’t take it from us:
+Starlink satellites have been crucial in
+Ukraine
+, both for the military (which uses it to livestream drone footage and direct strikes) and civilians (who depend on the service for their daily lives). In fact, Kyiv has grown so reliant on Starlink that it now fears the Trump administration could limit access to the satellites as leverage in future negotiations.
+And Kyiv’s not alone:
+Russia
+has also smuggled thousands of Starlink terminals onto the battlefield to boost its communications.
+Taiwan
+, which recently detained a Chinese ship over suspicions of sabotaging an undersea telecoms cable, has pledged to spend over $1B to develop its own home-grown satellite internet network by 2026.
+Several
+Chinese
+companies are also racing to launch their own mega-constellations of satellites, which China believes will benefit Beijing’s security and geopolitical influence.
+And, as we orbit back to the start of this story, the
+EU
+is now in talks with its own LEO satellite dealer in an effort to secure future connectivity for itself.
+INTRIGUE’S TAKE
+The words ‘strategic assets’ get thrown around a lot these days. We increasingly see them in the form of countries ensuring they get unfettered access to the critical minerals and raw materials that are key to their supply chains, or militaries positioning themselves to protect important shipping routes and port infrastructure.
+LEO satellite connectivity is now up there (
+sorry…
+) for governments as a strategic asset. It allows countries to have freedom of connectivity, which is increasingly vital for countries’ economic and military activities. Having access to LEO satellites from trusted providers is one of many challenges countries are quickly confronting in the space frontier.
+Ultimately, there are still huge bottlenecks for entities looking to establish their own LEO satellite networks (including how to get them into orbit). It’s not cheap, so they’ll either need a space program — or have friends who are willing to let them use theirs.
+Also worth noting:
+Starlink is by far the industry leader with over 7,000 operational satellites and over five million subscribers.
+Eutelsat and Starlink are amongst the companies competing for a secure satellite deal with the
+Italian government
+.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: Seoul has signed a
+security cooperation agreement with Poland
+. Poland is one of the largest recipients of South Korean military equipment worldwide, and the two countries share a common interest in Ukraine.
+🇬🇧
+UK
+: The UK has removed
+24 Syrian entities from its sanctions
+list and unfrozen their assets, including the Central Bank of Syria and Syria’s Petroleum Company. The US and EU still maintain sanctions on Syria’s central bank.
+🇲🇾
+Malaysia
+: Kuala Lumpur has invested over $1.1B into reservoirs and water treatment plants with the hopes of
+becoming self-sufficient on water treatment
+by 2030. Malaysia currently buys treated water from Singapore.
+🇺🇸
+US
+: The US State Department plans to work with the departments of justice and homeland security to launch an
+AI-backed campaign to cancel visas for foreign nationals
+who appear to support Hamas or other listed terrorist groups.
+🇸🇩
+Sudan
+: Sudan is taking the United Arab Emirates to the International Court of Justice (ICJ),
+accusing Abu Dhabi of supporting paramilitary Rapid Support Forces
+in the country’s civil war. Sudan argues the UAE is complicit in genocide, an accusation Abu Dhabi has immediately denied.
+EXTRA INTRIGUE
+Intrigue’s Weekend Recommendations
+Read
+the FT’s interview with
+Turkish Foreign Minister Hakan Fidan
+outlining the ex-spychief’s thoughts on European security and Ankara’s role in Syria.
+Listen
+to California Governor Gavin Newsom’s
+new podcast
+, which has sparked controversy after he invited conservative pundit Charlie Kirk as the first guest.
+Use
+Martha Stewart’s
+spring cleaning check list
+to refresh your home before inviting guests over when temperatures *
+finally*
+start to rise.
+Watch
+Ne Zha 2
+, an animated film which has smashed box office records in China and lifted Chinese consumer confidence.
+PHOTO OF THE DAY
+Credits: Mervyn Sequeira.
+Just as Ottawa and Washington are going head to head politically, a Canada Goose and Bald Eagle were spotted duking it out on the bay in Burlington, Ontario. Photographer Mervyn Sequeira saw the fight unfolding during his hike and snapped the shots.
+Spoiler alert
+— the Canadian icon managed to fend off the Bald Eagle despite appearing to have been injured.
+FRIDAY QUIZ
+Tomorrow, March 8th, is International Women’s Day (IWD)
+1) What colour is often associated with IWD?
+Purple
+Pink
+Red
+Yellow
+Login
+or
+Subscribe
+to participate
+2) When did the United Nations first recognise IWD?
+1956
+1919
+1977
+2008
+Login
+or
+Subscribe
+to participate
+3) Which country first enshrined universal women's suffrage?
+United States
+Switzerland
+Rwanda
+New Zealand
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.
+Mode Mobile recently received their ticker reservation with Nasdaq ($MODE), indicating an intent to IPO in the next 24 months. An intent to IPO is no guarantee that an actual IPO will occur.
+The Deloitte rankings are based on submitted applications and public company database research, with winners selected based on their fiscal-year revenue growth percentage over a three-year period.
+A minimum investment of $1,950 is required to receive bonus shares. 100% bonus shares are offered on investments of $9,950+.
+Please read the offering circular at
+invest.modemobile.com
+. This is a paid advertisement for Mode Mobile’s Regulation A Offering.

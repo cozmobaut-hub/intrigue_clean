@@ -1,0 +1,284 @@
+URL: https://archives.internationalintrigue.io/p/the-hantavirus-cruise
+Title: 🌍 The hantavirus cruise
+Date: 2026-05-11
+
+Today’s briefing:
+— The hantavirus cruise headache
+— Why Jamaicans are googling Dybantsa
+— A foreign minister’s mic-drop
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. There’s a long literary tradition of sending our finest writers to dunk on cruise ships: the late David Foster Wallace immortalised the sub-genre in Harper’s Magazine, describing how he felt like “
+a toddler who has been given total authority over a floating kingdom of adults.
+”
+Gary Shteyngart then did it for The Atlantic
+,
+labelling his vast ship “
+a hodgepodge of domes and minarets, tubes and canopies, like Istanbul had it been designed by idiots.
+”
+Then Sweden’s Ruben Östlund somehow weaponised a fictional cruise’s spectacular septic collapse into high art via his
+Triangle of Sadness
+film, winning the 2022 Palme d’Or!
+So maybe it was inevitable that when another real-life cruise snafu hit, headlines would go bonkers with that same voyeuristic blend of bourgeois schadenfreude. So join us, Intriguer, as we journey through
+the geopolitics of this hantavirus cruise outbreak
+.
+Number of the day
+7,310
+That’s how many new troops Canada’s military recruited in the year ending March 31, the most in over 30 years; applications nearly
+doubled
+year on year! It likely all reflects better pay, sharper marketing, and a deteriorating world order (including souring US ties).
+Medical diplomacy.
+There’s something about a virus-stricken luxury cruise floating around the Atlantic Ocean that just grabs people’s attention. We’re not immune, so slap on some PPE and join us for a quick look at the fascinating geopolitical inflections in this ongoing hantavirus saga.
+But first,
+a quick recap
+: passengers first boarded the Hondius in Argentina back on April 1, expecting a 35-day luxury expedition via Antarctica to Cape Verde. That odd itinerary is because this was
+a repositioning cruise
+: a one-way trip to the ship’s new home port, selling longer cruises at big discounts to passengers open to an unusual journey en route.
+But
+five days in
+, the first passenger (a 70-year-old Dutch man) showed symptoms of hantavirus: a rare, rodent-borne illness with a fatality rate of up to 40%. Sadly, he then became the first of three deaths, the news went viral, and the World Health Organisation (WHO) mobilised, which brings us to…
+The four geopolitical angles to watch
+:
+The WHO
+The UN’s health arm first found out about the outbreak on May 2nd, via the UK! That’s because London helped medevac a British passenger to South Africa, where he later tested positive, triggering a legal obligation for the UK to notify the WHO immediately.
+The WHO has since been
+notably vocal and active
+, with the boss himself (Tedros) even jetting to Tenerife (Spain’s Canary Islands) to personally oversee the op.
+Why?
+The WHO is treating this as
+a reputational redemption opportunity
+after it copped heavy criticism over its Covid-era competence, agility, and transparency
+It’s been one of the
+first major tests
+of the WHO’s post-Covid reforms, and
+It’s been a chance to
+remind 192 member states
+why a UN health body matters.
+But Tedros is also in town because of…
+The politics
+No country realistically
+volunteers
+to welcome a ship riddled with a rare and deadly virus.
+The Hondius initially dropped anchor at
+Cape Verde
+off West Africa, where authorities medevacked three onboard. But the nation of 530,000 folks (smaller area than Delaware) insisted it wasn’t resourced to test, process, disembark, and repatriate the remaining ~150.
+And that’s where the politics got intriguing:
+who takes this ship?
+Given its Dutch flag, the Netherlands bears overall responsibility, but it’s ~5,000km (two weeks) from Cape Verde!
+Meanwhile,
+Morocco reportedly
+denied a stopover for the medevac plane from Cape Verde, instead diverting it to Spain’s Tenerife before it reached its final Dutch destination.
+So Dutch, Spanish, EU, and WHO authorities huddled for three days until the WHO came out and announced Spain’s Canary Islands would take the cruise.
+And of course, that triggered
+a spat
+between Spain’s left-leaning Madrid and conservative Tenerife, until they compromised by anchoring the Hondius away from residential areas.
+Anyway, it’s another reason why Tedros himself has made this big Canary Islands cameo: to reframe the whole rescue as international
+solidarity
+rather than Spain getting shafted.
+Meanwhile, Spain has come out looking like the level-headed adult in all this, though
+a
+) the PM is telling Spaniards they had a legal obligation, and
+b
+) it’s not
+quite
+over yet…
+The evacuations
+With ~23 nationalities aboard, ~23 capitals then got a call from the WHO to politely come get their citizens at their earliest convenience.
+There’s generally
+no legal obligation
+for governments to jet their own citizens, but in high-profile emergencies, there’s often strong political and reputational pressure to act rather than leave it to the patchwork of private travel insurers and a voracious press.
+But that’s where the
+logistical and consular nightmare starts
+, from coordinating special medical jets and biocontainment measures, to flyover permissions and even quarantine facilities. The Brits even parachuted army medics into the remote British Overseas Territory of Tristan da Cunha, to help an ill passenger who’d previously disembarked there.
+Governments sometimes do deals, too: London, for example, offered a Japanese national a seat on a British evacuation flight via a
+mutual assistance
+pact they’d just signed! This kind of thing builds genuine rapport and leverage across borders, as opposed to…
+The origins
+In addition to helping limit the hantavirus spread, treat the ill, and paper over cross-border rifts, the WHO is also now investigating
+how this rare rodent-borne disease reached humans in the first place
+, a task complicated by a 1-8 week incubation period.
+The leading theory is the original Dutch casualty might’ve inhaled aerosolized particles from infected rodent droppings at a landfill outside Argentina’s Ushuaia.
+Why visit a dump?
+He and his wife were birdwatchers, and the landfill attracts rare Patagonian birds.
+But locals in Ushuaia, where tourism is a fast-growing industry, are understandably worried by that insinuation, while neighbours like Chile and Uruguay have been quick to deny the couple ever caught the virus on their own turf.
+Anyway, a shout-out to the many stressed-out diplomats now helping resolve this mess.
+Intrigue’s Take
+Zooming out here with two quick thoughts:
+First
+, the WHO has
+performed pretty well
+: rapid notification, clear risk assessments, visible leadership from Tedros, and walking the talk with a cameo to show that he’s safe, and so is the broader public. But his main audience here is really the WHO’s hitherto single-largest financier (the US), which left the WHO in January — Tedros is not so much targeting Trump 2.0, but Trump’s eventual replacement, in hopes of possible US reconsideration. Or at least discouraging any domino effect elsewhere.
+And that leads us to…
+Second
+, this is the perfect case study that while
+hard
+international law might seem toothless (impunity for wars and war crimes),
+soft
+international law still works
+: our postcards still reach home, our long-haul flights still cross some rival airspace, our passports still get recognised by regimes that hate us, and we can (some of us, at least) still follow agreed protocols to solve a problem like where to dock the poor Hondius.
+Today’s newsletter is sponsored by
+Hear.com
+Still asking people to repeat themselves?
+You track every word in a geopolitical briefing. You shouldn't have to strain to follow a dinner conversation.
+Horizon IX hearing aids use AI to lock onto individual speakers and filter background noise in real time. No manual adjustments, ever. It adapts instantly whether you're in a packed conference room or a busy street. Nearly invisible. Rechargeable. Bluetooth-connected.
+hear.com
+builds every trial around your specific hearing profile — not a generic fit. 670,000 people already trust it.
+See for yourself with a 45 day, no-risk trial.
+Claim your trial.
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — The latest.
+President Trump has flagged that the US-Iran ceasefire is on “
+life support
+”, after again dismissing Tehran’s weekend peace counterproposal as “
+garbage
+”. (
+CNN
+)
+Comment
+:
+It’s hard to see any quick offramp here: Iran knows the longer Hormuz remains closed, the higher the economic and political costs imposed on the US; and Trump can’t accept a worse-than-pre-war balance of power then still expect to survive the midterms. And yet, it’s hard to see the US president restarting the war until at least after this week’s big trip to China (see below), though Trump did once famously bomb Syria during a dinner with Xi, so who knows.
+🇬🇧
+UNITED KINGDOM — Starmer under siege.
+We sound like Yogi Berra feeling deja vu all over again, but PM Starmer is (again) facing mounting pressure, with a reported 70 of his own lawmakers (~17% of the parliamentary party) now publicly calling for him to resign. (
+BBC
+)
+Comment:
+There are jokes that Starmer’s tenure was over the moment the British tabloids snapped that quintessential pic of him bolting in the back of a Range Rover, his flustered face all flash-lit like some Victorian ghost. But it does feel more real this time, shifting debate back to who might replace him. And the answer depends on timeline: if a challenge happens soon, his former deputy (Rayner) and current health secretary (Streeting) seem best placed. But if it takes longer, the popular mayor of Manchester (Burnham) is generating some buzz — he’d first need someone to resign their safe seat so he can parachute into parliament via a quick by-election.
+🇺🇿
+UZBEKISTAN — Trip to Italy?
+Italian authorities have arrested Italy’s former ambassador to Uzbekistan, gloriously named Piergabriele Papadia de Bottini di Sant’Agnese, on selling EU visas to non-eligible Russians. (
+Times of Central Asia
+)
+🇨🇭
+SWITZERLAND — Non-dollar debt dash.
+Two of the world’s biggest tech firms are tapping foreign bond markets this week, with Amazon launching its debut in Swiss francs, while Alphabet is preparing for its first-ever yen-denominated issuance. (
+Yahoo
+)
+Comment
+: On top of recent euro and Canadian dollar raises, it points to
+a
+) Big Tech’s voracious capital appetite as the hyperscalers race to fund massive AI infrastructure, but also
+b
+) a diversification play to lock in lower yields abroad while spreading repayment risk away from the dollar.
+🇺🇸
+UNITED STATES — Room for 16 more?
+It turns out President Trump will be flanked in China this week by a select group of 16 or so heavyweight CEOs, including the heads of Apple, Boeing, Blackstone, Goldman, and Tesla. (
+Independent
+)
+Comment
+: It hints at Trump’s transactional approach, but also the sheer range of US interests in China, ranging from consumers and manufacturing (Apple, Tesla) to epic orders (Boeing) and even deal-flow (Blackstone, Goldman). But Nvidia’s reported absence from the guest-list suggests Trump is still keeping the most valuable US tech asset off the table. And either way, any trillion-dollar-headline seems unlikely to dent the deeper structural tensions between the US and China, like overcapacity, tech entanglement, and strategic competition — in neat timing, the mayor of Arcadia (LA-area) just pleaded guilty to acting as an illegal agent for China.
+🇯🇵
+JAPAN — Mercosur mineral play.
+Tokyo is accelerating talks on a new economic partnership with Mercosur (Brazil, Argentina, Uruguay, Paraguay, Bolivia), with formal negotiations possibly launching as soon as this month. (
+Nikkei Asia
+)
+Comment
+: Traditionally getting 90% of its crude from the Middle East, and 75% of its critical minerals from China, the diversification and de-risking strategy behind this new LatAm push is pretty clear. But Japan is no Johnny-come-lately: decades of investment and partnership mean it’s consistently ranked favourably across the region.
+🇫🇷
+FRANCE — Macron’s Africa reset.
+On his broader Egypt → Kenya → Ethiopia tour, President Macron is now in Nairobi pushing a rebranded “
+partnership of equals
+” at the inaugural
+Africa Forward Summit
+, replete with infrastructure deals, digital pacts, and a very Macron moment of shushing a noisy audience mid-speech. (
+EuroNews
+)
+Comment:
+He’s trying to move past France’s old Françafrique playbook in hopes of sustaining a French footprint on the continent after major losses in the Sahel — the itinerary suggests Paris now sees hope in English-speaking and East Africa.
+Extra Intrigue
+What people around the world are googling…
+🇮🇳
+Folks in
+India
+are searching for ‘
+Rahu Gochar
+’ amid fresh warnings of massive global and personal upheavals tied to the
+Vedic planetary transit
+.
+🇯🇲
+Proud fans in
+Jamaica
+looked up ‘
+AJ Dybantsa
+’ amid
+NBA draft buzz
+over the BYU star, who has dual Jamaican citizenship via his mother.
+🇮🇩
+And netizens in
+Indonesia
+googled ‘
+Dukono
+’ as word broke the
+Maluku Island volcano erupted
+, leaving at least three hikers dead.
+From our friends
+You deserve more than rage-bait and gloomy news.
+That's why The Pint sends out a free news digest made up of funny memes and cheeky commentary.
+Join over 19k others getting their weekly dose of politics and international business through their weekly newsletter. It's completely free and goes out every Friday.
+Subscribe
+here
+with one click.
+Mic-drop of the day
+Pic of Singapore’s FM, by Jeremy Long. We obvs added the shades and mic.
+While the rest of us were still Ctrl+F-ing our
+own
+brains, Singapore’s Vivian Balakrishnan (foreign minister) went ahead and built himself a
+second
+brain!
+Using a ‘NanoClaw’ Claude-powered setup, the envoy’s new ‘AI brain’ slurps up his messages, speeches, and emails, then helps him draft replies, summarise briefings, and just generally become terrifyingly efficient. Keep an eye on whether he starts talking in cheesy AI-written antithesis lines like “
+it’s not diplomacy, it’s delivery
+”.
+But still, in a world where most diplomats are fuelled by filtered coffee and raw ambition, Balakrishnan might’ve just dropped the mic, not only by developing this new AI brain, but by
+sharing
+his open-source blueprint like it’s nbd! Word is he’ll reveal more at a big
+AI Engineers
+conference in Singapore later this week.
+Of course, there are endless questions around where this all goes, but while others continue to
+debate
+AI, Singapore is out there quietly installing it in its foreign ministry.
+Efficiency level: Singaporean.
+Today’s poll
+What do you think it would take for countries to *really* work together?
+🦠 Another pandemic
+🌊 A natural disaster
+🧑‍💼 A new generation of leaders
+👽 A threat from Mars
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the Russo-Ukraine war is coming to an end as Putin suggested?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🤝
+Yes, this isn't sustainable (33%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🚫
+No, it was a throwaway comment (64%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+🤝
+J.F:
+“Putin is looking for anything he can call a ‘
+win
+’ to manage optics back home. Anyone who's worked with governments would know: no government project ever fails; the outcome is simply redefined.”
+🚫
+J.L:
+“‘
+This war will be over soon
+’ is typically a preamble to ‘
+as soon as my enemies accept my terms.
+’”
+🤝
+C:
+“Eventually, enough people will have died.”

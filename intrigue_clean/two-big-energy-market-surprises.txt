@@ -1,0 +1,243 @@
+URL: https://archives.internationalintrigue.io/p/two-big-energy-market-surprises
+Title: 🌍 Two big energy market surprises
+
+Today’s briefing:
+— Two big energy surprises
+— Another museum robbed!
+— Beer of the day
+Good morning {{first_name | Intriguer}}
+. Amid the debate about whether we’re in an AI bubble and what will happen when it breaks, I’ve been reading British-Venezuelan Carlota Perez’s seminal work on bubbles, “
+Technological Revolutions and Financial Capital
+”.
+Okay… would you believe I’m skimming through it, hoping to find the key takeaways?
+….what about reading
+a blog post about the book
+I found via a Google search?
+That last one is true and, jokes aside, I recommend it if you’re interested in how bubbles can have big positives in the long term (as well as the obvious negatives). For example, the fibre network that underpins the internet in America was built by private companies at enormous and otherwise prohibitive cost during the telecom bubble of the ‘90s.
+So if this is an AI bubble, one of the huge benefits might turn out to be rapid and much-needed investment in energy generation. Food for thought at least, as are the key takeaways of
+the IEA’s latest energy report
+in today’s main story.
+P.S
+: Don’t miss your
+last chance to register
+for our soirée at the Australian Embassy in DC next Thursday, November 20th!
+Number of the day
+43
+That’s how many days the longest US government shutdown in history just lasted, finally coming to an end Wednesday after President Trump signed a semi-compromise funding bill passed by Congress to keep the show on the road until 30 January.
+Ohm my!
+With the world now gathered for the COP climate talks in Brazil, prices for Brent (the oil, not some guy) dropped ~4% Wednesday as traders reacted to two surprising signals from:
+The oil-friendly
+Organization of the Petroleum Exporting Countries
+(
+OPEC
+) in Vienna, with 12 petrostates like the Saudis, the UAE, and Venezuela, and…
+The more renewable-forward
+International Energy Agency
+(
+IEA
+) in Paris, with 31 advanced energy consumers like the US, Europe, and Japan.
+First
+,
+OPEC
+wound back its 2026
+projections
+, from sounding the oil deficit alarm to seeing calmer
+“
+balanced
+”
+markets for the year ahead. And balance sounds good, right? You gotta balance that budget, diet, checkbook, opinion section, tyre-set, and/or work-life.
+So where’s the OPEC surprise?
+After months of deficit narratives, a sudden flip to surplus (driven mostly by faster-than-forecast jumps in oil production, particularly in the US) really caught markets off-guard.
+Second
+, the
+IEA
+’s latest
+World Energy Outlook
+laid out three possible scenarios ahead:
+Its
+Current Policies Scenario
+(ie, if there’s no change) argues emerging markets and slow clean tech adoption will see our oil demand keep growing through 2050
+Its
+Stated Policies Scenario
+(ie, if we do what we’ve already tabled) argues we’ll hit ‘peak oil’ around 2030 thanks to proposed pro-renewable and EV policies, and
+Its
+Net Zero Emissions Scenario
+(ie, if we do whatever it takes) argues a quicker transition could trigger an even earlier peak oil, and limit global warming to 1.5°C.
+So where’s the IEA surprise?
+The IEA’s
+supporters
+say it’s returning to reality (reintroducing the above ‘no changes’ scenario) after years of renewable cheerleading. Even OPEC smugly says its IEA rivals have had a “
+rendezvous with reality
+”. But
+critics
+say the IEA has caved to US and oil pressure, thus eroding the world’s Paris goals, emboldening denialists, and risking our future.
+So… why does all this matter to geopolitics nerds like us (and by extension, you)?
+Here are
+the three quick IEA quotes you should know
+:
+“
+Energy is at the heart of today’s geopolitical tensions, with traditional risks to fuel supply now accompanied by restrictions affecting supplies of critical minerals
+”
+To really paint you a picture, the agency notes that “
+a single country [
+China
+] is the dominant refiner for 19 out of 20 energy-related strategic minerals
+”. And it warns
+“more than half of these strategic minerals are now subject to some form of export controls.”
+Ie, we might be watching live as Guangdong cobalt processors become this century’s Malacca oil chokepoints, with China’s historic renewables rollout now helping it break one chokepoint (oil) and establish the other (renewables).
+Meanwhile…
+“
+Energy market dynamics are increasingly shaped by a group of emerging economies, led by India and Southeast Asia and joined by countries in the Middle East, Latin America and Africa
+”
+Our world’s industrialisation catch-up will pull energy flows south and east, but each blackout (it was the Dominican Republic’s turn this week) re-ups the same question: how many economies are ready for an electricity demand the IEA says will surge 40% by 2035?
+And speaking of surging electricity demand…
+“
+Those who say that ‘data is the new oil’ will note that [data centre investment] surpasses the USD540B being spent on global oil supply
+”
+It’s elliptically observing that our world’s AI and energy races are two sides of the same coin — in fact, the AI race sits
+atop
+an energy race. And who’s winning the energy race?
+China’s electricity production (~half via coal, btw) surpassed the US in 2011, and is now more than double America’s, extending its lead every year (by roughly a Canada).
+Intrigue’s Take
+Some takeaways?
+First
+, history suggests
+cheap power begets political power
+, whether it was coal empowering the Brits, or oil empowering the Americans. And a lot of the next century depends on how much China’s emergence as an electrostate carries this rule forward.
+And second
+, while we often explore how a multipolar future might look (former US trade rep Mike Froman has lately been dubbing it “
+polyamorous
+” btw), energy is an example of how much the exact shape is still up for grabs. While 85% of our world’s AI investment over the next decade is destined for the US, China, and the EU, the associated surge in electricity demand is still only 10% of the world’s total projected demand growth.
+So maybe it’s a reminder that while the US-China AI race is a big story, it’s not the only story.
+Sound even smarter:
+One area that forecasts repeatedly get wrong is solar, with actual growth consistently exceeding even the most optimistic projections.
+OPEC’s full cohort (including OPEC+ members like Russia) will next meet on November 30.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Epstein.
+House Democrats have released another batch of Epstein emails, including ones claiming he "
+knew about the girls
+" and even “
+spent hours at my
+[Epstein's]
+house
+” with one of them. Trump’s supporters argue this particular Epstein victim subsequently told lawyers she never witnessed any wrongdoing by Trump. (
+ABC
+)
+🇵🇰
+PAKISTAN
+-
+Power trip.
+Parliament has voted to give ascendant army chief Field Marshal Asim Munir more power, including oversight of both Pakistan’s navy and air force, plus even lifetime immunity. (
+Independent
+)
+Comment
+: Tell us who’s really in charge, without telling us who’s really in charge.
+🇨🇳
+CHINA
+-
+Playing by the rules?
+According to
+Bloomberg
+, China is now building its own shadow fleet to import sanctioned Russian LNG. Meanwhile, China’s US soybean purchases appear to have stalled just as the US-China truce was meant to revive them — China is already sitting on record stocks of cheaper Brazilian beans. (
+Farmers’ Advance
+)
+Comment
+: What do these two stories have in common? As China gets more powerful, it gets harder for anyone to shape its choices.
+🇺🇦
+UKRAINE
+-
+Scandal up top.
+Ukraine’s energy and justice ministers have now resigned amid widespread outrage over their alleged participation in a huge energy corruption scheme. (
+Euractiv
+)
+Comment
+: The Kremlin is citing this case — involving two close Zelensky allies — as a reason for the West to stop helping Ukraine’s self-defence. Another reading is that this active investigation — reported by a free press — is evidence of the very kind of democracy Putin himself fears.
+🇦🇺
+AUSTRALIA
+-
+Toughen up.
+Australia’s counter-intelligence chief has (again) accused Beijing-linked hackers of trying to crack into the country’s critical infrastructure networks. (
+Guardian
+)
+Comment
+: The interesting bit is Australia’s chief spycatcher made the accusation at a major business conference, and backed it up with other examples of alleged espionage against Australian firms, whether to manipulate contract negotiations or steal Aussie innovations. It’s an example of spooks trying to thwart foreign spies not just by catching them, but by boosting national resilience against them.
+🇧🇷
+BRAZIL
+-
+COP chaos.
+Indigenous protesters have clashed with security after forcing their way into the COP summit venue, demanding better climate and Amazon protection. (
+Folha de S. Paulo
+)
+Comment
+: Brazil chose the city of Belem for the optics of hosting climate talks amid Earth’s lungs, but that also makes it easier for Amazon locals to vent their dismay.
+🇪🇬
+EGYPT
+-
+Election marathon.
+Egypt has just concluded the first phase of its parliamentary elections, likely to further cement President El Sisi’s grip on power amid continued crackdowns on a divided opposition. (
+Al-Monitor
+)
+🇰🇪
+KENYA
+-
+Congrats, your honour.
+After four rounds of UN voting, Kenyan law professor Phoebe Okawa will now fill a vacancy on the International Court of Justice following the unexplained resignation of top Somali judge, Abdulqawi Yusuf. (
+AA
+)
+Extra Intrigue
+In other worlds…
+Climate:
+Iceland has declared
+the potential collapse of a major Atlantic Ocean current
+a national security risk, enabling the government to strategize for worst-case scenarios.
+Music:
+Sung in 13 languages, Spanish singer-songwriter
+Rosalia’s new album ‘
+Lux
+’
+has critics, classical music fans, and linguists in a trance.
+History:
+Museum heists are officially back in vogue, now that
+someone has pinched historic artefacts
+from Syria’s National Museum of Damascus.
+Beer of the day
+Credits: @innisandgunn via Twitter/X.
+Next time Barry from accounts or Jenny from HR smugly mentions their small-batch IPA with notes of artisanal kale, you can one-up them by casually mentioning you actually prefer
+Arctic Ale
+— it was purpose-brewed for the crew aboard the 1875 North Pole expedition, both to resist freezing temperatures and to nourish the sailors with six times the calories of a normal brew.
+Then when Jenny says “
+what?
+”, you can be like oh, you didn’t hear that Scotland-based brewery Innis & Gunn has recovered the original recipe and issued a limited-edition 150th anniversary release exclusively via
+this ballot
+? Shame! Tootles.
+Then tell both Barry and Jenny to subscribe to Intrigue.
+Today’s poll
+What do you think is the biggest issue facing energy markets today?
+💲 Price
+⚡️ Supply
+🌤️ Reliability
+🏭 Emissions
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which would you rather for your own natural resource project?
+⛏️ Faster builds, higher risks (17%)
+👷
+Slower builds, higher standards (82%)
+✍️ Other (write in!)  (1%)
+Your two cents:
+👷
+M.B:
+“Throwing money behind fast, cheap things guarantees failure and loss of credibility.”
+⛏️
+G.G:
+“Natural resource projects typically fail anyway so why pay more for an extended duration that uses standards that are highly subjective.”
+✍️
+M.M:
+“In the end, regardless of speed or standards, it’s mostly about profitability. If you can’t sell it for more than it costs to dig out of the ground then don’t bother!”

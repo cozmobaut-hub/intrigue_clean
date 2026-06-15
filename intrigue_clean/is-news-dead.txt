@@ -1,0 +1,206 @@
+URL: https://archives.internationalintrigue.io/p/is-news-dead-3b0d3e32a97063aa
+Title: 🌍 Is news dead?
+
+Today’s briefing:
+— Is news dead?
+— Insights into Fordow
+— Manhunt of the day
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. I was invited to a dinner in New York on Tuesday with folks who make their (very substantial) livings from predicting what’s about to happen in the world.
+We couldn’t agree on what’s coming next in Iran—someone even said they’d heard the Ayatollah had fled to Moscow, which seems to have been off the mark. But one point of furious agreement was that “
+the media
+” is unreliable and untrustworthy, and so is social media.
+When I asked where they actually got their information from (plugging Intrigue all the while, naturally), there were no good answers. Most just pined nostalgically for an age when “
+facts were facts
+”.
+With that in mind, today’s main story looks at the
+Reuters Institute’s 2025 Digital News Report
+—not to navel gaze, but because information quality and how it is interpreted is the single most important shaper of geopolitics.
+Spoiler alert: there’s some worrying findings, but I see plenty of green shoots as we transition from the old media environment into whatever comes next…
+Insight of the day
+From Wes J. Bryant
+(former US special operations joint terminal attack controller)
+Now that the US president has indicated he’ll allow another two weeks for negotiations with Iran to continue, we can also reflect a little more on some of the underlying assumptions at play: eg,
+can the US actually punch through Iran’s Fordow mountain?
+So with thanks to an anonymous Intriguer, we connected with one of the few folks in the world who might actually know the answer, given his years as a senior US targeting professional in (eg) the fight against ISIS —
+Wes J. Bryant
+. Here are some excerpts from our exchange with Wes (who says he does not support US strikes in this context):
+Using
+Massive Ordnance Penetrators
+(MOPs) is “
+not a viable strategy
+if we’re talking about complete destruction of the facility. Unless maybe we use every MOP in inventory… and it becomes a bit of a spray and pray strategy
+.”
+But “
+we could feasibly neutralize its capability at least temporarily and prevent use of the facility for X amount of time, and at the same time produce the
+desired psychological effect
+on the enemy.
+”
+“
+We could even do
+escalation
+– just hit one entrance, see if that brings Iran to the table in regard to their nuclear program
+”.
+“
+Daisy chaining
+2-3 bombs each on the same points of impact but set at different depths of detonation is the most likely application targeteers would pursue to cause the most damage to the site (if logistics permit).
+”
+Wes also noted, “
+intel is not always complete
+. So, for any of us to assume we actually have the full picture of this facility might be naïve. Even on the classified side. And… the application of this to the Fordo site really would be a bit of luck mixed with physics, and I imagine that the targeteers planning this, as well as our munitions effects analysts and engineers, are all wondering the same things.
+”
+Thanks Wes for sharing your insights with the Intrigue community
+🙏
+New media, news media
+Folks are changing the way they consume news — shocker, that’s partly why a bunch of diplomats quit their jobs to build Intrigue.
+But exactly
+how
+that’s playing out will have real implications for our world. So we chewed thoughtfully on our thick-rimmed glasses while reading all 171 pages of the latest Reuters Institute
+Digital News Report 2025
+, all so you don’t have to.
+Here are four of the most interesting stats from the report:
+34%
+That’s how many Americans now use social media as their
+main
+source of news, second only to Brazilians at 35%. And while younger folks are driving that shift, all age groups are leaning more into social media at the expense of traditional website and TV news.
+17%
+That’s the global proportion of folks now using TikTok for news each week, up 4% in just a year. The China-owned platform’s role is soaring in Southeast Asia, with (for example)
+half
+of Thailand using it for news (up 10% in a year), while Africa hovers around 30%.
+These numbers are way above what we’re seeing in the US (12%) and Europe 11%). But even more intriguingly, 48% of respondents still consider TikTok a major source of BS.
+15%
+That’s the percentage of under-25s using AI to access the news each week — that still feels pretty low, and it’s even lower when averaged across all ages (7%). But it’s growing.
+And interestingly, respondents offered mixed views on what this means for the news: folks expect AI will make the news cheaper, more accessible, and more up-to-date, but also less transparent, less accurate, and less trustworthy.
+40%
+That’s the number of people who now say they just avoid the news. Their top reasons? It’s a buzz-kill (39%), it’s overwhelming (31%), it’s war-obsessed (30%), and (for 14% of under-35s) it’s also just too hard to understand.
+If only there was some kind of free daily briefing that gets you what you need to know, with ohhhh just a light sprinkling of mixed-quality jokes and melancholic optimism
+🤔
+Intrigue’s Take
+Long-time Intriguers will already be familiar with the ways this broader information space is now intersecting with some big geopolitical shifts. Here are two examples:
+First
+, and following Biden’s
+sell-or-ban
+move against TikTok, Trump 2.0 has now granted the app three rolling stays of execution. Maybe it’s
+a
+) to preserve a bit of leverage over Beijing, or
+b
+) unpick the tensions in an authoritarian rival controlling an ultra-popular platform, or
+c
+) just kicking the can down the road. But while the US makes up its mind, the above stats are a reminder that, whichever way the White House goes, it’ll still be dealing with a
+very
+TikTok-shaped world.
+And
+second
+, while there’s often support for cutting costs, many DOGE casualties will hurt. For example,
+Voice of America
+was broadcasting uncensored news in 49 languages across repressive regimes everywhere, and was (according to Lowy’s latest Asia Power Index) the single top radio broadcaster across the Indo-Pacific. But with VOA now on mute to potentially save a few bucks (pending lawsuits), guess who’s the region’s next-top broadcaster? Yeah, Putin’s state-run
+Sputnik
+.
+So while there are always valid debates around US cost-cutting and even news credibility, let’s not pretend this world doesn’t keep turning in the meantime.
+Today’s newsletter is sponsored by
+BOXABL
+Most car factories, like Ford or Tesla, reportedly build one car per minute. Isn't it time we do that for houses?
+BOXABL believes they have the potential to disrupt a massive and outdated trillion-dollar building construction market by bringing assembly line automation to the home industry.
+They aim to transform home construction, much like how Henry Ford automated car manufacturing – bringing assembly line efficiency and mass production to an artisanal, slow industry.
+They delivered an initial prototype order delivered to SpaceX in 2020 and a subsequent project order of 156 homes from the Department of Defense completed in 2021. Now, they are actively delivering to developers and consumers.
+You have a chance to invest in BOXABL’s offering at just $0.80/share. All BOXABL crowdfunding will close on June 24th. This includes all accredited and non-accredited offerings.
+Invest today before it's too late!
+Meanwhile, elsewhere…
+🇫🇷
+FRANCE
+-
+UK, Germany, France to meet Iran's foreign minister.
+The E3 foreign ministers are set to sit down with their Iranian counterpart in Geneva today (Friday) to discuss a negotiated end to the ongoing Israel-Iran war. (
+ABC
+)
+Comment:
+President Trump’s two-week deadline will obviously be front of mind, but these three European players have also repeatedly threatened to reinstate their own pre-deal sanctions if Iran doesn’t lift its cooperation with the UN nuclear watchdog.
+🇪🇸
+SPAIN
+-
+PM refuses NATO spending target.
+Spain’s shockingly handsome leader Pedro Sanchez has dismissed the idea of raising NATO defence spending to 5% of GDP, calling it “
+unreasonable
+”. (
+AP
+)
+Comment:
+It’s a speed bump ahead of next week’s NATO summit in The Hague.
+🇦🇲
+ARMENIA
+-
+Power spat.
+A spectacular row has erupted, with PM Nikol Pashinyan threatening to nationalise the electricity firm owned by an Armenian-Russian billionaire, who is (with support from Kremlin propagandists) now increasingly critical of the PM. (
+Eurasianet
+)
+Comment:
+Armenia has long straddled the East-West divide, but after Putin abandoned Armenia in its long-running stoush with Azerbaijan in 2023, Armenia has been leaning West. So you can expect to see more Kremlin destabilisation in response.
+🇦🇷
+ARGENTINA
+-
+Spies foiled?
+Argentine authorities say they’ve uncovered a disinformation network run by a Russian couple promoting “
+links with local collaborators
+”. (
+Moscow Times
+)
+Comment:
+It’s been interesting watching Moscow’s focus on the Americas — Brazil’s own counterintelligence is still dismantling the Kremlin’s network that’s been building fake Brazilian identities for use against other targets abroad.
+🇦🇺
+AUSTRALIA
+-
+Defence tech hiring spree.
+Even as the Pentagon reviews the big AUKUS (
+🇦🇺
+🇬🇧
+🇺🇸
+) defence tech pact, California-based defence unicorn Anduril is now on a hiring spree Down Under, looking for software engineers, supply chain wonks, and field technicians. (
+Capital Brief
+)
+🇨🇦
+CANADA
+-
+Let’s be friends (or else).
+As Washington and Ottawa continue their trade talks, Canada’s Mark Carney has come out with a deadline of his own, warning he could hike counter-tariffs on US goods if the two neighbours and allies can’t agree new terms by July 21. (
+CBC
+)
+🇮🇱
+ISRAEL
+-
+Oslo’s ambassador targeted?
+Someone has lobbed a grenade at the Norwegian ambassador’s residence near Tel Aviv. There’ve been no injuries, but it’s stirred alarm within a foreign ministry long focused on Israel-Palestinian issues (eg, the Oslo Accords). (
+Times of Israel
+)
+Manhunt of the day
+Credits: A CCTV snap shared with Lithuanian outlet LRT
+One minute you’re wandering through the wrong part of town, the next there’s a bounty on your head. At least, that’s what happened to a brown bear who triggered a full-blown urban
+man
+bear-hunt when she strutted into the Lithuanian capital of Vilnius last week.
+Authorities approved a shoot-to-kill response, but local hunters objected given these creatures are vulnerable. Eventually, after a few days of meandering through the Baltic capital, she padded back out, corn snack in paw, seemingly on her own terms.
+Friday Quiz
+Today, 20 June, is World Refugee Day.
+Roughly how many folks worldwide are now forcefully displaced?
+50M
+120M
+200M
+Login
+or
+Subscribe
+to participate
+More than half of today's refugees come from which three countries?
+Myanmar, Somalia, South Sudan
+Afghanistan, Sudan, and Syria
+Venezuela, Congo, and Eritrea
+Login
+or
+Subscribe
+to participate
+How many of the world's refugees are now hosted by low and middle-income countries?
+12%
+35%
+76%
+Login
+or
+Subscribe
+to participate

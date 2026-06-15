@@ -1,0 +1,237 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-4f6c36cf0bd2f395
+Title: 🌍 Trump’s State of the Union
+
+Today’s briefing:
+— Trump’s State of the Union
+— A prime ministerial rapper?
+— This major airport’s new name
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Washington DC was lit last night. The motorcade sirens were blaring, the helicopters were buzzing overhead, and every self-identifying DC “insider” claimed to have an invite to the best watch party in town.
+That’s right, Intriguers, it was
+the State of the Union address
+— aka the Super Bowl of this incredibly nerdy political town. This year’s event featured a cameo appearance from the USA Men’s Ice Hockey team, fresh off the Olympic ice in Milan.
+Anything else worth mentioning? Yeah, plenty actually, so let’s dive in.
+Number of the day
+$112B
+That’s the gap between what China said it exported to the US last year, and what US customs authorities say arrived. It suggests plenty of trade has evaded tariffs.
+State of the Union
+President Trump just broke the record for the modern era's longest State of the Union address, beating Clinton's 88-minute valedictory with a 108-minute victory lap targeting this year's critical mid-term elections.
+Focusing more on hip-pocket issues like rent and eggs, and vote-winning wedges like crime and immigration, he still devoted a relatively high ~30% of his address to America's role in the world. So let's get you the five key lines you should know, starting with...
+"
+Our enemies are scared. Our military and police are stacked and America is respected again, perhaps like never before.
+"
+That's not just a solid distillation of the speech's overall vibe, but also a vintage articulation of the way Trump 2.0 is reviving
+a classic realist worldview
+: by linking fear to respect, he's emphasising the way
+power
+deters, in contrast to predecessors who leaned more into America’s internationalist strengths like alliances, values, and soft power.
+Sure, it's red meat for home, but (and don't shoot the messenger here) when you upend that
+fear-respect balance
+, you can also wobble those same traditional US strengths: after a year of Greenland and Canada threats, ~64% of Canucks now view the US unfavourably (even before Sunday's hockey final), and ~60% of Danes see the US as an adversary!
+"
+But the good news is that almost all countries and corporations want to keep the deal that they already made.
+"
+Trump's speech-writers had to rewrite this
+tariffs section
+over the weekend after the supreme court kicked the chair from under much of his trade strategy on Friday — turns out the president's use of emergency economic powers was unlawful.
+So... what now?
+Trump used his address to send a couple of messages to trade partners:
+First
+, he warned “
+the legal power that I as president have to make a new deal could be far worse for them
+”. I.e., just
+stick to the deals
+we've already done (leveraging tariffs the supreme court just voided), or else. And...
+Second
+, he argued his tariffs “
+will
+remain in place
+under fully approved and tested alternative legal statutes
+”. The court already voided his
+emergency
+tariffs, so this seems a reference to the remainder imposed under sections 232 (
+natsec
+) and 301 (
+unfairness
+) — ie, his natsec tariffs still hit
+strategic sectors
+like steel, aluminum, and chips, while his unfairness tariffs still mostly hit
+China
+(think EVs, batteries, solar panels, and machinery, but also lots of low-cost goods).
+So he's still got some leverage up his sleeve (particularly with China), but for almost everyone else, the message here is: okay, but try me.
+"
+We brought him over to celebrate his freedom with you in person. Enrique, please come down.
+"
+It's all about the cameo, and interestingly, Trump used two related to
+Venezuela
+. His
+first
+was opposition figure
+Enrique Márquez
+who, after a year in Maduro's notorious Helicoide prison, made a surprise Maury Povich-style cameo in the chamber to embrace his US-based niece, who's long been campaigning for his release.
+It was part of a section that leaned much more into a pro-freedom justification for ending Maduro's reign — this not only plays better with US voters, but also explains why (and we're not joking) there will now be
+lots
+of little Donald Trumps born in Venezuela.
+The
+second
+Venezuela cameo came from Eric Slover, the Chinook pilot who took several bullets during the Maduro mission. The intriguing thing here was Trump’s new details of how close it all seemingly came to becoming a modern Eagle Claw or Mogadishu, potentially sending a very different message about US power.
+"
+They want to make a deal, but we haven't heard those secret words: 'we will never have a nuclear weapon'.
+"
+It's possible to read too much into election-year messages, but this line might be big: after months of demanding
+zero uranium enrichment
+(even for any legit purposes), the president is perhaps now lowering the bar to
+just no nukes
+.
+So maybe (a massive maybe given the US armada still offshore), that tiny Venn offramp we
+highlighted
+last week is still within sight: ie, a deal that allows limited civilian enrichment under strict verification, plus tougher terms around ballistics and proxies. The talks resume in Geneva tomorrow (Thursday).
+And finally...
+"
+We're working very hard to end the ninth war, the killing and slaughter between Russia and Ukraine
+"
+The interesting thing here is it was Ukraine’s only mention beyond the fact America's NATO partners are now financing Ukraine’s US arms purchases. We can only guess at the reasons, but this brevity is most likely because…
+a
+) the talks aren’t going well (for reasons we
+explored
+yesterday), and
+b
+) Trump's stance on Ukraine isn't popular among voters.
+But you know the country that got even less airtime than Ukraine?
+China!
+It escaped with a single passing reference to its air defences that failed to help Maduro. Why so fleeting? The president is probably still de-escalating to maximise any manoeuvrability ahead of his big Xi summit planned for April. And pending what (if anything) happens in April, there’s just no clear prime-time 'win' here to highlight in an election year.
+Intrigue’s Take
+You can bet every foreign embassy in DC will be writing breathless cables back to their HQ parsing the president’s speech, and those paying attention will have highlighted one other line in particular: “
+I think he’ll go down as the best ever.
+”
+The president was referring here to his top diplomat,
+Marco Rubio
+, who got a major shout-out, even remarking that other envoys like Steve Witkoff and Jared Kushner report to him. Why would foreign embassies care about this kind of palace intrigue?
+They’re all looking for clues not only around who holds the president’s ear now, but also (and relatedly)
+who’ll get his blessing for 2028
+. And while it’s still early days, it’s shaping up as a race between VP Vance’s more
+America First
+approach to the world, and Rubio’s neo-Reaganism.
+Vance only got a brief, factual reference to him running a new anti-fraud initiative in the wake of the big Somalia-linked scandal engulfing Minnesota. Compare that to Rubio’s standing ovation, and embassies will now be betting more on a Rubio candidacy for 2028.
+Today’s newsletter is sponsored by
+The Daily Upside
+Join over 1M+ investors who choose clarity over clickbait
+Curious about the latest in finance, economics, and global business? We’ve got the answer: The Daily Upside.
+This fresh, insightful newsletter, created by a team of Wall Street insiders and bankers, delivers deeply valuable insights that go beyond the headlines.
+The best part? It’s completely free. We read it every morning, and
+you should too
+.
+Meanwhile, elsewhere…
+🇯🇵
+JAPAN — Jailed journalist.
+Tokyo has demanded Tehran release a Japanese national detained last month — it’s reportedly the Tehran bureau chief for a Japanese public broadcaster. (
+Japan Times
+)
+Comment
+:
+The details are still emerging, but Iran has a history of arresting journalists on espionage charges, including if they’ve engaged in a bit of unfavourable reporting. Still, Japan and Iran have relatively functional ties, so a negotiated release seems more likely than a prolonged detention at this stage.
+🇺🇦
+UKRAINE — US abstains.
+Marking yesterday’s four years since Putin attempted his full-scale invasion, the UN General Assembly passed a resolution reiterating its commitment to Ukraine’s unity and calling for an immediate ceasefire. 107 countries approved, 12 opposed, and 51 abstained. The US abstention came after DC’s failed effort to shift ‘territorial integrity’ references to a separate vote, arguing otherwise the resolution could jeopardise peace talks. (
+F24
+)
+🇨🇳
+CHINA — Friend or foe.
+According to a Reuters report, Tehran is finalising a deal to buy supersonic anti-ship missiles from China. Any sale would breach the UN embargo re-imposed on Iran last September. (
+Reuters
+)
+Comment:
+These are China’s famed ‘carrier killer’ missiles, built to travel low and fast to evade US shipborne defences. The fact these talks have reportedly lasted two years, even as pressure on Iran has skyrocketed, is a reminder of China’s transactional approach even with supposed partners (the two signed a big pact in 2021).
+🇩🇰
+DENMARK — Good for business.
+Copenhagen is looking to entice Ukrainian drone maker Skyfall to start production in Denmark, and boost supplies for both countries. (
+The Straits Times
+)
+Comment:
+It’s a win-win-win: Ukraine gets to boost its export revenue and diversify its production base away from Russian strikes, while the Danes get to embed the world’s best military drone tech into Europe’s longer-term supply chains.
+🇰🇭
+CAMBODIA
+— Home sick.
+More than 600 Kenyans trafficked to work in Cambodia’s local scam centres just asked Kenya’s top court to compel their home government to repatriate them after Cambodian authorities freed everyone via a raid. (
+Capital FM
+)
+Comment:
+Capitals always wrestle with the right balance in helping citizens abroad, but this case stands out for its sheer scale (600 saying they can’t afford flights home), and methods (a lawsuit). The legalities seem like a Hail Mary (citing constitutional protections against torture), but might still get the job done via media attention.
+🇳🇬
+NIGERIA — Just good negotiators here.
+Nigeria is denying reports it paid a massive ransom (delivered via chopper!) to free hundreds of Catholic schoolkids abducted by Boko Haram jihadis in November. (
+BBC
+)
+Comment:
+These reports are so detailed, and the facts so surprising (rescuing all kids without a casualty?), the government’s denials are likely just a way to
+a
+) skirt Nigeria’s ban on ransom payments,
+b
+) preserve the military’s image, and
+c
+) curb the scandal of Nigeria seemingly funding and incentivising its own Islamist insurgency. But Nigeria is hardly alone: Western capitals infamously paid Sahel jihadis ~$125M from 2008 to 2014, and the Emiratis alone paid $25M to free a royal last year!
+🇺🇸
+UNITED STATES — Third time’s the charm.
+The US military has boarded a third sanctioned oil tanker somewhere in the Indian Ocean. The vessel’s ownership is murky, but it has a history of receiving Iranian crude from other ships for on-delivery to China. It’s the last of the dozen or so that fled Venezuela’s coast after the US took Maduro, with most others seized in the Caribbean or North Atlantic. (
+AP
+)
+Extra Intrigue
+Here’s what folks are forecasting, according to the latest prediction markets
+🇮🇷
+There are now 50% odds of a
+US
+strike on
+Iran
+by 30 March.
+🇳🇵
+There’s a 53% chance rapper-turned-politician Balendra ‘Balen’ Shah will be
+Nepal’s
+next prime minister (elections are next week).
+🇮🇱
+And we’re seeing 52% odds
+Somaliland
+(which Israel recognises but the US doesn’t) will join the Abraham Accords before 2027.
+Change of the day
+Out with the old. Credits: Sm105
+New year, new me. Or at least, new name?
+That’s what just happened to Ghana’s main airport in the capital (Accra), after the government switched it back to the original name
+🥁
+🥁
+🥁
+‘Accra International Airport’.
+What’s wrong with Kotoka? He was among a group of military officers who deposed Ghanaian founding father Kwame Nkrumah in 1966, before getting shot dead himself at that very same airport during an attempted counter-coup a year later.
+A military government eventually renamed the airport in his honour, but six decades on, locals feel maybe the name is no longer fit for one of Africa’s most enduring democracies.
+Today’s poll
+Which past world leader do you think gave the best speeches?
+🇬🇧 Winston Churchill
+🇹🇼 Tsai Ing Wen
+🇿🇦 Nelson Mandela
+🇺🇸 Franklin D. Roosevelt
+🇵🇰 Benazir Bhutto
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which development do you think would bring Russo-Ukraine peace soonest?
+☠️ Losses become unsustainable (33%)
+🌲
+Significant territory lost/gained (12%)
+✂️ Allies pull their support (19%)
+🔫
+Sudden leadership change (32%)
+✍️ Other (write in!) (3%)
+Your two cents:
+🔫
+P.M:
+“Lose Putin, and his successor can claim to be following ‘
+the will of the people
+’ in ending this incursion. If (and that's a big if) reports of Russian citizen disenchantment with losses are accurate, that could work.”
+✂️
+T:
+“If China and North Korea pull their support from Russia, Putin would be forced to cave.”
+✍️
+B.H:
+“It can end when the Ukrainian air campaign against Russian oil and gas reduces funding to the point that war is financially unsustainable.”

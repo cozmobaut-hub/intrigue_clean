@@ -1,0 +1,232 @@
+URL: https://archives.internationalintrigue.io/p/mpox-outbreak-tests-global-health-system
+Title: 🌍 Mpox outbreak tests global health system
+
+IN TODAY’S EDITION
+1️⃣ Should we be worried about mpox?
+2️⃣ Record ‘tropical nights’ in Korea
+3️⃣ Inspiration of the day
+Hi {{ First name | Intriguer }}.
+There’s a viral meme out there commenting on the exhausting lives which Millennials have lived through, and it really hits close to home.
+It’s a photo of a frazzled Matthew McConaughey taking a long drag of his cigarette, with a caption which reads: “
+Millennials living through Y2K, 9/11, a plague, two economic recessions, and a possible WW3 before they hit 40.
+”
+I couldn’t help but think of this meme and the various crises we've all gone through these last few years as we wrote our top story today. It's on the resurgence of mpox (formerly monkeypox) as a global health emergency. Brace yourselves.
+THE HEADLINES
+Paetongtarn Shinawatra elected Thailand’s new PM.
+Days after a court ousted Thailand’s last leader on ethics violations, parliament has now
+replaced him with the 37-year old daughter
+of a polarising former prime minister, Thaksin Shinawatra. Paetongtarn has never held elected office, but she leads her father’s party, which heads Thailand’s ruling coalition. Her family’s populist brand has often clashed with Thailand’s royalist establishment, but they’ve lately formed an uneasy pact to keep reformists out of power.
+British and French foreign ministers on peace mission to Israel.
+The two foreign ministers made
+a joint visit to Israel earlier today
+(Friday), as part of efforts to avoid a broader regional war. Meanwhile, peace talks in Qatar are set to enter their second day today (Friday), with mediators from the US, Egypt, Qatar, and Israel (but not Hamas) all present. Hamas authorities say the war has now left more than 40,000 Palestinians dead, while Israel disputes that figure, and says 17,000 of the casualties have been Hamas members.
+More grim economic data out of China.
+July figures suggest industrial output slowed, unemployment rose, export and investment growth dipped, and new home prices fell at their fastest pace in nine years. It all paints
+a worrying picture of China’s economy
+, and puts more pressure on China’s policymakers to loosen the spigot and hit the ruling Communist Party’s 5% growth target.
+Russia urgently hiring trench diggers in Kursk.
+Moscow is offering labourers $2.5k a month to help
+build defences and halt Ukraine’s surprise incursion
+into Russian territory - satellite images suggest they’re trying to fortify a line 16km from Ukraine’s troops in Russia’s Kursk region. Meanwhile, The Wall Street Journal
+reports
+that Ukraine’s forces remain outmanned and outgunned along the vast frontline in Ukraine’s east.
+TOP STORY
+Mpox outbreak tests global health system
+World Health Organisation (WHO) chief Dr Tedros Adhanom Ghebreyesus found himself back in the headlines on Wednesday when he raised some alarm bells — mpox (or monkeypox as it was once known) is surging in parts of Africa, enough to classify it as a
+“
+public health emergency of international concern
+”
+(PHEIC).
+Health. Emergency. International. Three words which, combined, induce winces in anyone recalling Covid’s lingering health and socio-political footprint.
+So what’s mpox?
+Scientists first identified it back in 1958 as an illness found predominantly in monkeys. Until recently, most cases in humans occurred in parts of central and west Africa where folks run a greater risk of close contact with infected animals.
+The WHO
+describes
+the symptoms as including a skin rash or lesions, often accompanied by fever, headache, muscle aches, and swollen lymph nodes. And Africa’s regional CDC
+says
+mpox cases and deaths are up 160% and 19% respectively in a year. To put it another way, that means —
+There’ve been 14,000+ known cases this year
+And 524+ deaths
+Across at least a dozen African countries
+There are a few strains of mpox
+— it was the
+clade 2
+variant that figured out a rapid new way to spread: via sexual contact. That’s largely why mpox then appeared in 70+ countries in 2022, leading the WHO to declare a PHEIC then lift it in 2023 citing
+“steady progress in controlling the outbreak.”
+So, our world
+has
+managed an mpox outbreak before
+✅
+Though the Ivory Coast and South Africa are now
+reporting
+another surge of those
+older
+strains, as are places as far away as
+Australia
+❌
+So then, how’d we reach another global health emergency
+this week?
+The newer
+clade 1b
+strain emerged last September out of the Democratic Republic of the Congo (DRC) mining town of Kamituga, 273km from Rwanda.
+It seems deadlier and more virulent (including through routine contact), and has spread rapidly to Burundi, Kenya, Rwanda, and Uganda, all reporting mpox cases for the first time.
+So that’s why the WHO issued its latest alert on Wednesday. The next day, Sweden
+reported
+its first case, and Pakistan has reported another case today (Friday), though it’s conducting sequencing to confirm exactly which strain.
+So now what?
+Africa’s CDC has put out a call to mobilise two million mpox vaccines, but there’s only one
+widely
+approved dose and it’s
+made by a single company in Denmark
+: Bavarian Nordic. As you can imagine, its shares are up 50% this week.
+Each shot costs $100, which is
+relatively expensive
+. By way of comparison, the DRC’s GDP per capita is only $700. So it’s unclear who’s going to pick up the tab, though Bavarian Nordic has
+donated
+an initial 40,000 doses, while the EU is
+buying and donating
+another 175,420.
+But in parallel,
+governments are scrambling
+to bolster their own supplies, and Bavarian Nordic says it’s only got 300,000 shots ready to go - it’s scaling up to another two million by the end of this year, plus another eight million in 2025.
+Meanwhile, Africa’s CDC has
+said
+there’s
+no need for travel restrictions
+, though at least one government is already
+beefing up
+its border screening: China.
+INTRIGUE’S TAKE
+Covid clearly taught the world some lessons, but there are still widespread differences in interpretation, execution, and prioritisation, not to mention government budget and bandwidth. Also, trust in government spiked in some societies, and crashed in others, depending on how they fared.
+But one big lesson, backed up by
+research
+, is that
+prevention is generally cheaper
+than the disease. Reducing the transmission of new diseases costs an estimated $22-$31B annually. A global pandemic like Covid? A cool
+500 times more,
+at between $8T and $16T. So that partly explains the current scramble.
+Another lesson? Whoever controls the treatment ends up with a
+lot
+of global
+influence
+, but also a massive
+responsibility
+. So all eyes are now on Denmark and the EU. We’ll also be tracking what
+China’s new border measures
+mean for its reputation in Africa. Mexico still hasn’t
+forgotten
+China’s restrictions on Mexican nationals when H1N1 hit, and that was all the way back in 2009.
+Also worth noting:
+Other firms with approved
+smallpox
+vaccines have also seen a bump in their shares because smallpox vaccines are thought to be effective against mpox, too.
+Intrigue’s very own John Fowler just chatted about the geopolitics of mpox (plus the week’s other big developments) with Jacob Shapiro from Cognitive Investments. It’s free to
+watch
+and
+listen
+!
+FRIENDS OF INTRIGUE
+Ready to take your curiosity to new heights?
+The Flyby is the only newsletter that makes aerospace and defense as thrilling as a rocket launch. Packed with bite-sized insights, fascinating stories, and the latest innovations, The Flyby keeps you up to speed every Monday morning.
+Click here to subscribe with one click.
+MEANWHILE, ELSEWHERE…
+🇳🇿
+New Zealand
+: The NZ government has signed an extradition order for controversial German-born internet figure
+Kim Dotcom to face trial in the US
+, where he’s wanted for copyright infringement, money laundering, and racketeering. At its peak, his ‘Megaupload’ file-sharing platform accounted for 4% of all online traffic worldwide.
+🇸🇪
+Sweden
+: Nordic countries have announced
+a new joint police hub
+in Stockholm to boost cooperation against the spread of Sweden-based gang violence. Norway, Denmark, and Finland have all seen a spike in crime linked to Sweden’s gangs, which officials have linked to Sweden’s immigration and legal policies.
+🇰🇷
+South Korea
+: A century-old weather record fell in Seoul overnight (Thurs-Friday), as Korea’s capital notched up
+its 26th ‘tropical night’ in a row
+- when the temperature stays above 25°C (77°F). It comes after UN chief Antonio Guterres warned of an “
+extreme heat epidemic
+” and called for urgent efforts to curb the impacts of climate change.
+🇦🇷
+Argentina
+: The country has been rocked by prosecutor allegations that
+former president Alberto Fernández was violent
+against the former first lady during his term in office (2019-2023)
+. Authorities found photos of her injuries while searching his former secretary’s phone, as part of a separate embezzlement investigation involving Fernández.
+🇨🇲
+Cameroon
+: President Paul Biya and five other African leaders have joined French President Macron in southern France to mark
+the 80th anniversary of the Allied landings in Provence
+. Sometimes known as the ‘forgotten D-day’, soldiers from what are now several independent African countries fought for France to help recapture the ports of Marseille and Toulon, key to the WWII endgame in Europe.
+EXTRA INTRIGUE
+Some weekend recommendations from the team at Intrigue!
+Read
+: Deep dive into this
+incredible interactive map
+which charts the fast-evolving genealogy of technology and power since 1950.
+Listen
+: Check out the
+audiobook
+of Politico and Axios founder Jim Vandehei's '
+Just the Good Stuff
+' for some unfiltered takes on leadership and building media companies.
+Watch
+: Look for
+Champions of the Golden Valley
+, one of the best
+films
+we've seen in years, reflecting on Afghanistan’s recent history through the eyes of Afghan ski enthusiasts.
+INSPIRATION OF THE DAY
+Being an informed global citizen often means consuming more than your fair share of bad news, which can take its toll (though hopefully, we weave enough witticisms and palate cleansers into International Intrigue to keep you coming back!).
+We want to send you off into your weekend with some inspiration courtesy of the remarkable musician, artist, writer, actor, and poet, Nick Cave. Nick has suffered more tragedy and loss in one life than you’d wish on 100 of your enemies, and yet he remains one of the most powerful communicators on the importance of hope.
+The whole interview is worth spending 22 minutes of your weekend watching, but if nothing else, take a beat out of your day to hear Nick read out loud a letter he wrote in reply to a Swedish person struggling with cynicism and hopelessness.
+Dammit, who’s cutting onions in here?
+VACATION ON MY MIND…
+How do you decide where your next trip will be?
+Social media
+Family or friend recommendations
+Travel books or guides
+Other
+Login
+or
+Subscribe
+to participate
+How do you typically travel for a holiday?
+By car
+By train
+By plane
+Other
+Login
+or
+Subscribe
+to participate
+How do you book your travel?
+Directly with the provider
+Through booking websites (e.g. booking.com, kayak, expedia)
+Through my credit card company
+Other
+Login
+or
+Subscribe
+to participate
+When you arrive at your destination, where do you stay?
+A hotel
+An apartment/home (e.g. Airbnb, VRBO, etc)
+With family or friends
+Other
+Login
+or
+Subscribe
+to participate
+How often do you travel per year, on average?
+0
+1-5
+6-10
+>10
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

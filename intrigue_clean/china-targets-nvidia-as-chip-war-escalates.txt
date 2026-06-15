@@ -1,0 +1,204 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-516c
+Title: 🌎 China targets Nvidia as chip war escalates
+
+IN TODAY’S EDITION
+1️⃣ China targets Nvidia
+2️⃣ Why Cambodians are googling Indonesia
+3️⃣ Embassy of the day
+Hi {{ First name | Intriguer }}.
+Back when I served in Mexico City, the ritzy diplomatic neighbourhood of Polanco had two main Indian restaurants. And curiously,
+both
+had signs in the front window claiming to be “
+the Indian ambassador’s favourite
+”.
+Now, it’s just not in my DNA to let this kind of Schrödinger's restaurant situation go un-resolved. Surely one of the restaurants was lying?! Well I got my answer soon enough by sidling up to the Indian ambassador at a cocktail reception and asking him myself. And you know what? There was a twinkle in his eye: he’d been waiting for this exact moment. But his answer surprised me. His favourite restaurant? It was neither of them.
+So then…
+both
+restaurants were lying?! Nope. Rather, previous Indian ambassadors had endorsed different restaurants over the years, but this just triggered a messy feud as rival eateries started to compete vigorously for each newly-arrived ambassador’s coveted endorsement. So the embassy just stayed out of it.
+Could this lesson help us understand today’s briefing on
+the US-China chip wars
+? No.
+THE HEADLINES
+The latest from Syria.
+Syria’s leading faction (‘HTS’) has appointed its own Mohammed Al Bashir to
+form a transitional government
+. Meanwhile,
+Israel has denied claims
+that its troops moved beyond a buffer zone into Syria, while describing its own widespread airstrikes on Assad’s remaining army assets as “
+limited and temporary measures
+” to protect its security.
+Zelensky open to negotiated end to war.
+Ukrainian President Volodymyr Zelensky has
+shifted his rhetoric in recent weeks
+, telling journalists yesterday (Monday), “
+a diplomatic resolution would save more lives. We do seek it.
+” Zelensky was also clear that any agreement would have to include substantial security guarantees for Ukraine, including the deployment of Western troops.
+China’s politburo hints at looser monetary policy.
+A statement from the Communist Party’s politburo, chaired by Xi Jinping, suggests the country is
+shifting from a “
+prudent
+” to a “
+moderately loose
+” monetary policy
+for the first time in 14 years. The news sent stocks and bonds higher as investors bet it means the authorities are taking China’s economic woes more seriously.
+South Korean opposition passes budget bill.
+The opposition-drafted
+2025 budget will cut the president’s proposed spending
+, and that’s juicy because President Yoon cited the contested bill as a reason for his short-lived martial law last week — the budget is one of the few bills the president can’t veto.
+UnitedHealth CEO shooting suspect arrested.
+The suspect, 26-year-old Luigi Mangione, was
+arrested after someone spotted him at a McDonalds
+in Pennsylvania. Police say Mangione had written a manifesto expressing “
+ill will toward corporate America
+”.
+TOP STORY
+China targets Nvidia as chip war escalates
+In the US-China chip war, it’s become an endless game of tag (you’re it). And yesterday (Monday), Beijing tagged Washington right where it hurts — its shining chip star, Nvidia.
+Specifically, China’s State Administration for Market Regulation announced an investigation into Nvidia’s 2020 acquisition of Israeli chip company, Mellanox. The timing isn’t random – it's a week after the US
+tightened
+chip export controls on China, which then
+fired back
+with an export ban on critical minerals like gallium and germanium.
+So, does Beijing have legal grounds for this probe?
+Grounds or not, it has
+plausible deniability: both the DoJ and France have already opened antitrust probes into Nvidia. And that’s enough to fend off questions while China hits back at the US chips industry, which is already grappling with
+turmoil at Nvidia’s top rival
+,
+Intel
+.
+This isn’t China’s first shot at Nvidia, either:
+In March, its regulators tried to convince local car-markers to avoid Nvidia, and
+In September, its regulators urged more local firms not to use some Nvidia chips.
+So why hasn’t Beijing launched an antitrust probe until now, or just banned Nvidia chips outright? Two reasons:
+first
+, China often leaves options open for further escalation as its tit-for-tat with the US progresses; but
+second
+, it mostly can’t compete with Nvidia, so needs to give its own local producers time to catch up.
+Now of course, lots of companies produce chips, but Nvidia is years ahead when it comes to the most advanced chips — we’re talking AI chips, with applications in the military, intelligence, and beyond. And the US uses export bans to preserve this US advantage, though some end-users in China have found loopholes to maintain access.
+So then, what’s the mood at Nvidia HQ?
+Given they’re one of only four companies in the world now worth over $2T (hello Apple, Saudi Aramco, and Microsoft), they’re throwing a lot of cash and brain power at this.
+In the short term
+,
+their stock dropped 3.7% on the news, though hold your tears: Nvidia’s stock is still up 188% this year. These moves reflect the fact that while Nvidia isn’t allowed to sell its top chips to China, it still sells enough of everything else there to call China its second-largest market after the US.
+In the medium term
+,
+Nvidia will be war-rooming ahead of Donald Trump’s proposed 60% tariffs on Chinese goods, and whatever China might then do in response. But just like Beijing has avoided an outright Nvidia ban for fear of harming its own companies, Washington will be mindful of its own tech champion losing its second-largest market. So you can bet DC lobbyists will be busy.
+And in the long term
+, Nvidia has managed to continue selling into China by tweaking its products to comply with
+US export controls
+. But Nvidia executives keep offering nothing-burger answers when analysts ask how sustainable this strategy will be if the chip war keeps escalating: “
+We guide one quarter at a time.
+”
+INTRIGUE’S TAKE
+One of the reasons the US has been able to ratchet up this pressure on China’s chip sector is because of its dominance over one of three sector
+bottlenecks
+: chip design (where Nvidia leads). The other two bottlenecks are conveniently controlled by US partners: Taiwan’s TSMC dominates advanced manufacturing, and Dutch company ASML dominates the extreme ultraviolet radiation tech that underpins it all.
+This arrangement offers the US a lot of
+leverage
+in a critical sector. But one of the reasons US partners have gone along with US export controls (and forgone sales to China) is that, while their China revenues have dropped, they can still make a tonne of cash there by selling lower-tech chips. And yet as the China-US tit for tat escalates, tighter US controls risk further eating into revenues from ASML, Nvidia, and beyond.
+So while the US and its partners are presenting a
+united
+front for now, that unity will come under more pressure as the stakes rise and the export controls continue to bite.
+Also worth noting:
+China’s regulators have already threatened Intel with a separate cybersecurity probe, though nothing seems to have happened yet. A similar cybersecurity probe resulted in a ban on Micron chips last year.
+In response to last week’s expanded US export controls, ASML says it’s not expecting much additional direct impact on its bottom line: it’s still projecting 20% of its sales to come from China next year — down from 50% last year.
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: The self-ruled island’s military is on high alert after spotting dozens of
+Chinese naval ships conducting drills nearby
+. China’s predictable show of force comes shortly after Taiwan’s democratically-elected leader Lai Ching-te visited various diplomatic allies in the Pacific, with a stopover in the US (Hawaii).
+🇦🇹
+Austria
+: Vienna is dropping a long-held
+veto on Romania and Bulgaria joining Europe’s
+border-free Schengen zone, citing their progress in tackling undocumented migration. Both countries are EU and NATO members, and got partial access to the Schengen area earlier this year after securing an initial agreement with Austria.
+🇧🇩
+Bangladesh
+: Top diplomats from Bangladesh and India have met to
+smooth over recent tensions
+triggered by the arrest of a Hindu priest in Muslim-majority Bangladesh. Delhi lost a key partner next door when mass protests ousted long-time Bangladeshi leader Sheikh Hasina in August.
+🇭🇹
+Haiti
+: The UN is reporting that armed gangs killed more than
+180 people in one of Haiti’s poorest neighbours
+over the weekend, after a gang leader accused locals of using witchcraft to cause his own child’s death. Tight gang control, including restrictions on mobile phones, has limited visibility into the incident.
+🇿🇦
+South Africa
+: Incoming G20 host South Africa has clarified it
+won’t be working with consultancy group McKinsey
+to organise next year’s summit, after word emerged the firm is helping with a business-hosted side event. The news comes after the consultancy paid $122M to settle criminal allegations in connection to a corruption scheme in the country.
+A message from our sponsor
+Call for International Affairs Experts
+Join a study exploring how features of foreign aid for peace and conflict resolution influence its appeal. Designed for international affairs experts, the survey presents hypothetical aid offers to assess decision-making. Participants include diplomats and senior researchers.
+Register your interest here.
+EXTRA INTRIGUE
+Here’s what the world’s been googling
+Music fans in
+🇨🇷
+Costa Rica
+searched for ‘
+Simon Dawson
+’ after the metal band Iron Maiden announced he’ll
+replace retiring drummer Nicko McBrain
+.
+🇰🇭
+Cambodians
+looked up the latest updates from ‘
+Indonesia
+’ after a
+flash flood in Java
+killed at least 10 people.
+And
+🇮🇪
+Irish
+film fans googled ‘
+Golden Globe Nominations 2025
+’ to see whether their favourite actors and movies made the
+shortlist
+.
+EMBASSY OF THE DAY
+Italy’s embassy in Brasilia looks less like a diplomatic hub and more like a stadium. Considering both countries are football crazy, surely this isn’t a coincidence?
+The brutalist structure was designed by civil engineer Pier Luigi Nervi and officially opened for business in 1977. The building’s standout feature is its predominant use of concrete and rigorous straight lines, while the surrounding green gardens offer a softer, more organic contrast.
+DAILY POLL
+Who do you think the US-China tit for tat will hurt most?
+🇺🇸 The US
+🇨🇳 China
+💼 Multinationals
+🌎 The world at large
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think 2025 will bring about the fall of more long-time autocrats?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🌬️ Yes, the currents are shifting (56%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🤜
+No, in times of upheaval they'll cling harder to power (37%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (7%)
+Your two cents:
+🌬️
+E.K.M:
+“Yes, but we have to be careful now more than ever that democracy doesn't fall apart as well.”
+🤜
+L.H.D:
+“No, whoever's left will consolidate whatever they have left to remain in power. It's the survival of the fittest.”
+✍️ D.D:
+“Regimes aren’t eternal, some will fall, others may get started. ”
+🌬️  M.A:
+“The world is really unstable, so change is expected, which doesn't mean that we won't see the rise of new autocrats replacing the old ones.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

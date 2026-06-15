@@ -1,0 +1,201 @@
+URL: https://archives.internationalintrigue.io/p/just-happened-hezbollah
+Title: 🌍 What just happened to Hezbollah?
+
+IN TODAY’S EDITION
+1️⃣ Israel hits Hezbollah
+2️⃣ Guerrillas attack in Colombia
+3️⃣ Embassy of the day
+Hi {{ First name | Intriguer }}.
+When I served in Israel, its intelligence and information operations were going all in on digital capabilities. Clandestine cyber units like ‘The 8200’ attracted top talent from across the country, because Israel (and its neighbours) were betting on digital operations being the foundation of future wars.
+But as we’ve seen in recent years, many have been surprised by the return of analogue technology in wartime. This has included communicating via walkie-talkies and pagers instead of smartphones, precisely to avoid interception and surveillance by adversaries.
+As we’ll see in today’s top story, Hezbollah has just suffered a sweeping hit on its analogue communication devices. So let’s dive in.
+THE HEADLINES
+Russian region orders evacuation after Ukrainian drone attack.
+Authorities in Russia’s northwestern region of Tver have ordered a partial evacuation after a “
+massive
+” Ukrainian
+drone attack sparked a blaze
+that’s still raging. The drone reportedly hit a vast Russian weapons depot 470km north of Ukraine.
+Netanyahu reportedly planning to fire his defence minister.
+Israeli media outlets are reporting that Prime Minister Benjamin Netanyahu is
+preparing to fire Defence Minister Yoav Gallant
+, a former general and periodic critic of Netanyahu’s handling of the war. The word is Netanyahu wants to replace Gallant with Gideon Saar, whose own small party could help pass a bill to exempt ultra-Orthodox Israelis from military service, and thereby help stabilise Netanyahu’s ruling coalition.
+Microsoft and BlackRock launch $30B AI fund.
+The tech giant and the world’s biggest asset manager are launching a fund to
+invest in AI infrastructure
+such as data centres. A UAE-backed investment fund, MGX, will be a general partner, while Nvidia has agreed to provide expertise.
+Canadian ruling party loses once-safe seat.
+Justin Trudeau’s Liberal Party has
+lost an election
+to replace an outgoing Montreal representative. It puts more pressure on the Canadian PM, whose popularity has declined notably after nine years in office.
+TOP STORY
+What just happened to Hezbollah?
+An image of an exploded pager, sent to L'Orient Today by a witness in Tyre, Lebanon.
+Folks at Mossad HQ will be cracking open the arak after pulling off what appears to be the most brazen intelligence operation against Hezbollah in history.
+Here’s what we ✌️know✌️
+At around 3.30pm Tuesday local time (10.30am NYC time), thousands of Hezbollah members across Lebanon and Syria received an urgent message purportedly from top leaders. The message arrived via their old-school pagers, which don’t rely on cell networks so are seen as harder to penetrate, notwithstanding their 1990s medical drama vibes.
+Those pagers beeped for a few seconds before exploding simultaneously, killing a dozen Hezbollah members and injuring
+thousands
+more. Lebanon’s health minister says hundreds of those are now in a critical condition, and various hospitals are overwhelmed.
+Who else got hit?
+Iran’s ambassador to Lebanon
+has also been injured. Incidentally, it’s hard to think of clearer proof of Iran’s support for Hezbollah than an Iranian ambassador joining Hezbollah’s pager group chat.
+There are also reports the
+eight-year-old daughter
+of a Hezbollah lawmaker has died, while two sons of other Hezbollah lawmakers were reportedly wounded (the group’s political wing has a big presence in Lebanon’s legislature).
+Who did it?
+Israel has a policy of not confirming this stuff, but…
+it was Israel
+. Specifically, it seems to have been a joint venture between its Mossad intelligence service and the Israeli military.
+How’d Israel do it?
+The most prominent and credible theory - backed up by
+leaks
+to outlets like The New York Times - suggests Israeli intelligence got word Hezbollah was trying to improve its comms security with these new-old pagers.
+So Israeli operatives
+intercepted
+the
+Taiwan-branded and Hungarian-made
+devices at some point before delivery, inserted tiny explosives, issued the fake urgent message from Hezbollah leadership, then remotely detonated the pagers.
+There’s
+also a theory
+that a doctored code emitted from a compromised radio network could’ve caused the devices’ lithium batteries to heat up and explode, though footage  suggests this was bigger than just a lithium explosion. It’s possible the truth is a combination of the two theories (heating the battery to trigger the explosive).
+So what does this mean?
+For Hezbollah
+, this is another humiliation after months of regular Israeli assassinations of top Hezbollah and Hamas commanders. Hezbollah has now seemingly lost battle effectiveness for
+thousands
+of its combatants, not to mention credibility among its own members, backers, peers, recruits, and wider Lebanon.
+The authority of Hezbollah leader
+Hassan Nasrallah
+himself will take a hit too, because it was his personal
+order
+for everyone to ditch their phones for pagers. And this in turn all hits Hezbollah’s manpower, morale, and effectiveness.
+For Israel
+, it’s a coup:
+It’ll now be collecting a vast amount of intelligence via CCTV, media, hospitals, phones and beyond to map out Hezbollah’s presence, systems and responses
+It’s eroded the group’s ability (and even willingness) to communicate internally
+It’s stoked paranoia within other groups opposing Israel
+It’s restored some of the credibility Israel’s security services lost on October 7th, and
+This in turn all boosts Israel’s deterrence, which has long been key to its survival in a hostile neighbourhood: ie, mess with Israel, and this is what happens.
+Given the above reports of civilian casualties, Israel is also facing accusations the operation was reckless or criminal, while Israel’s supporters say it’s one of the most precise counterterrorist operations in history.
+So what next?
+Hezbollah
+is
+vowing
+a “
+fair punishment
+”, while
+Israel’s
+military put out a
+statement
+overnight offering no comment on the exploding pagers, but confirming its generals are now "
+focusing on readiness in both offence and defence in all arenas
+". It’s really a signal to both domestic and foreign audiences that Israel is ready for any retaliation.
+And on the topic of
+retaliation
+, these pager attacks come just weeks after Israeli jets hit thousands of Hezbollah rocket launchers, and just hours after Israel
+announced
+its war goals now include returning 60,000 displaced Israeli citizens to their homes near the Lebanon border. So in retrospect, it all looks calibrated to defang and dissuade any Hezbollah retaliation today.
+Speaking of which… there doesn’t appear to be any unusual military build-up on either side of the Israeli-Lebanon border right now.
+INTRIGUE’S TAKE
+Operationally, intelligence types are stunned Israel was able to pull off such a brazen and complex plan, seemingly incorporating cyber, human intelligence, and technical capabilities. But zooming out a little, what does it all mean strategically? We have a few initial thoughts:
+First
+, it suggests Israel has no intention of going back to the October 6th status quo with hostile groups along its border. Rather, it’s using its October 7th response to degrade those groups and secure its borders longer-term.
+Second
+, no amount of reputational damage, ICC arrest warrants, or ICJ injunctions seem likely to curb Israel’s determination under point one above.
+And
+third
+, this operation will bolster Benjamin Netanyahu’s grip on power in Israel, which in turn will only reinforce points one and two above.
+If you wanted to zoom out even further, there’ll also be a debate around whether this all sets a dangerous new precedent in warfare.
+Also worth noting:
+The US says it played no role and got no heads-up.
+Hezbollah is widely listed as a terrorist organisation, in whole or in part. The elimination of Israel has long been one of Hezbollah’s core goals.
+Fellow Intriguers have traded insights on these events via the Intrigue WhatsApp group, which is open to anyone who’s shared Intrigue with a few friends or colleagues using your unique link right here below 👇
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: China has announced it
+sent warplanes to tail a US P-8A Poseidon
+patrol and reconnaissance aircraft flying through the Taiwan Strait yesterday (Tuesday). The P-8A is capable of anti-submarine warfare and was (like two German warships last week) passing through international waters, though China bristles at these crossings given its claims over Taiwan.
+🇮🇹
+Italy
+: During an official visit to Rome, Prime Minister Keir Starmer has commended his Italian counterpart and host Giorgia Meloni on her
+“remarkable progress”
+in curbing irregular migration. He stopped short of endorsing Meloni’s plan to send sea-rescued irregular migrants to Albania for processing, but his words still spooked some of the progressives in his party.
+🇦🇺
+Australia
+: Canberra has announced a new trade deal with the UAE, paving the way for the Emiratis to
+remove tariffs on about 99% of Australian products
+. The deal, set to go into force later this year, will also see more Emirati investment into Australia’s critical minerals sector.
+🇨🇴
+Colombia
+: Marxist-Leninist guerrilla group the National Liberation Army (ELN) has
+attacked a military base in eastern Colombia
+, killing two soldiers and injuring at least 21 more. Bogota has held on-again-off-again peace talks with the group for decades, though President Petro has suggested this latest attack means the talks are realistically now over.
+🇲🇱
+Mali
+: An al-Qaeda-linked group has
+carried out a deadly attack
+on a military training school in Mali’s capital city of Bamako. Mali’s military seized power in a coup back in 2021, expelling French troops and UN peacekeepers to instead enlist Russia's Wagner mercenaries to help fight the jihadists, who aren’t looking any weaker.
+EXTRA INTRIGUE
+Just a few jobs we thought you might like…
+Sous Chef @ the
+German Ambassador’s Residence
+in Washington
+International Arbitration Clerk @
+Arnold & Porter
+in London
+Policy and Advocacy Manager @
+GSM Association
+in Nairobi
+Project Leader, Travel Cities and Infrastructure @
+BCG
+in Peru, Colombia and Chile
+Friends of Intrigue
+Daily News for Curious Minds
+Be the smartest person in the room by reading 1440! Dive into 1440, where 4 million Americans find their daily, fact-based news fix. We navigate through 100+ sources to deliver a comprehensive roundup from every corner of the internet – politics, global events, business, and culture, all in a quick, 5-minute newsletter. It's completely free and devoid of bias or political influence, ensuring you get the facts straight. Subscribe to 1440 today.
+Sign up now!
+EMBASSY OF THE DAY
+The Swiss embassy in Iraq, 2001. Credits: Keystone.
+Switzerland
+officially reopened
+its embassy in Iraq at the beginning of the month after 33 years of diplomatic absence. The Swiss closed their previous mission back in 1991 due to the Gulf War, and then left it vacant due to a see-sawing security outlook including the 2003 US-led invasion, civil war, and the ISIS insurgency.
+But now Switzerland says Iraq is “
+entering a phase of economic development while simultaneously playing an increasingly important role as a regional mediator and bridge-builder
+”, so the Swiss are looking to get in on the action.
+DAILY POLL
+What do you think this Israeli operation against Hezbollah means?
+🔥 Another regional escalation with no real gain
+📉 Another crack in the eventual demise of Hezbollah
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think is the biggest risk for the Fed right now?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ ✂️ Cutting too fast (44%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⌛ Cutting too slow (52%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (4%)
+Your two cents:
+⌛
+E.K.H:
+“Cutting by 0.5% now seems like an acknowledgement that they should've cut it back in June. I worry they waited too long and are overcorrecting.”
+✂️
+R. L:
+“Rates were too low for too long before the Fed began increasing them. I agree it's time to reduce the rate, but I worry the old mentality will return.”
+✍️
+R.H:
+“The greatest risk to the Fed is political interference. They are always in a difficult balancing act.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

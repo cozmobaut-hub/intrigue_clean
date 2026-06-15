@@ -1,0 +1,263 @@
+URL: https://archives.internationalintrigue.io/p/is-private-credit-about-to-blow
+Title: 🌍 Is private credit about to blow?
+
+Today’s briefing:
+— Is private credit about to blow?
+— Trump’s Iran ultimatum nears
+— This tortoise is fine, actually
+Good morning {{first_name | Intriguer}}
+. Not too long ago, a keen young diplomat I knew dusted off his tux for what’s often the hottest invite on any embassy cocktail circuit: America’s big, black-tie Marine Ball.
+But this underpaid envoy quickly got a bit carried away at the open bar, slurring his words and stumbling his steps until a chiselled Marine came over and politely suggested it might be time to call it a night. And that’s the moment this tux-clad chap made precisely the wrong call: rather than take the hint, he got a bit defensive, prompting the Marine to hoist him up onto his shoulder for a quick escort out to the taxi rank.
+We’ll never know if it was the impact of that military-grade shoulder on this diplomat’s guts, or if those guts were already a bit vulnerable from the notorious local cuisine, or (my personal theory) perhaps some unfortunate combination of the two, but that young diplomat promptly and loudly soiled his tux right there, on a Marine’s shoulder, in the middle of the most prestigious event of the year. I never saw him again.
+Anyway, please accept this true story as a segue to today’s briefing on the
+rumbles in US private credit
+— are we now witnessing a quiet, orderly exit out to the taxi rank, or is this the beginning of something much, much messier?
+Intrigue Insight - Iran war, day 39
+Hours before President Trump’s latest
+reopen-Hormuz-or-get-bombed-harder
+ultimatum
+expires at
+8pm ET tonight (Tues)
+, Iran’s regime has conveyed its own
+10-point-plan
+back to DC via Pakistani intermediaries, including…
+i
+) No future attacks
+ii
+) Permanent end to this war
+iii
+) End to the Israel-Hezbollah war
+iv
+) End to all related regional conflicts with Iranian proxies
+v
+) Lifting all US and international sanctions on Iran
+vi
+) Reconstruction support
+vii
+) Reopen the Strait of Hormuz
+viii
+) A new $2M fee per vessel via Hormuz  (earmarked for reconstruction)
+ix
+) Iran to split that fee with Oman, and
+x
+) A new formal protocol for safe passage via Hormuz
+Trump has suggested it’s a “
+significant step but not good enough
+”, flagging this latest wartime deadline (his ~fifth by our count) is final.
+Meanwhile, Iran has hit a major petrochemical complex in Saudi Arabia’s city of Jubail, while Israel has claimed hits on a petrochemical plant in Iran, and is warning Iranians not to travel by train.
+Comment
+: This latest 10-point-plan is Iran’s biggest concession to date (re-opening Hormuz), though it’ll be tough for Trump to swallow given its ~silence on nukes, missiles, and proxies, not to mention the idea of endorsing a new Hormuz arrangement that could line the regime’s pockets with ~$50B in annual transit fees — that’d expand the regime’s entire budget by 50%! But even as a deal *potentially* inches closer (with VP Vance reportedly pushing for an offramp), oil has edged back above $115 a barrel — it’s a reminder that, with a chunk of the region’s energy assets now in pieces, no single tweet or even peace pact can untangle the supply mess ahead.
+Saving Private
+Ryan
+Credit
+"
+When you see one cockroach, there's probably more.
+" Remember who said that?
+Long-time Intriguers will recall it was JP Morgan's billionaire boss, Jamie Dimon, referring to
+some of the jitters around private credit
+late last year. And... maybe it's just the cat, but we're hearing some scratching and scurrying sounds under the couch again.
+What's going on?
+Recall after the 2008 crisis, banks tightened their lending, meaning rivers of cash instead flowed into the high-yield, high-risk, and low-regulation world of direct lending — that's companies quietly negotiating loans directly between themselves, rather than from a bank.
+This
+private credit
+has theoretically been
+a win-win
+: lenders earn higher interest, and in return, borrowers get more loan speed, certainty, and flexibility.
+But we say '
+theoretically
+' because several of the big-name funds in private credit are now facing
+redemption waves
+— too many investors suddenly saying they want their money back, forcing delays and/or denials from Wall Street desks like…
+A $26B
+BlackRock
+fund
+An $8B
+Morgan Stanley
+fund
+A $25B
+Apollo
+fund, and
+An $11B
+Ares
+fund.
+Plus news broke over the Easter weekend that a $5B fund out of Barings just joined this
+redemption cap
+list, curbing withdrawals at 5% after investors tried to yoink 11%.
+So... what's going on?
+There are
+three main theories
+.
+The
+first
+(promoted by private credit folks) is this is
+all working exactly as intended
+: these 5% quarterly redemption gates are a feature, not a bug. The whole idea is to give investors
+some
+liquidity in case they need a bit of cash, while protecting the longer-term health of the fund and the remaining shareholders. Otherwise, funds have to fire-sell loans to return cash to investors, delivering unnecessarily crappy returns to everyone.
+Under this theory, jittery investors are trying to pull up the drawbridge in our wild world, but it's got nothing to do with the actual health of these funds or their underlying loans.
+A
+second
+theory is it's part of the ongoing SaaSpocalypse (we prefer '
+SaaSacre
+'). With new AI tools now enabling tech-illiterate randoms to casually recreate entire multi-billion-dollar software-as-a-service (SaaS) giants, markets are scanning for any exposure to (say) a resulting collapse in tech revenues and/or spike in defaults. And can you guess who's been writing big loans to Silicon Valley lately? Yes! Private credit funds.
+The most spectacular example has been
+Blue Owl
+, with investors trying to yank 22% out of its flagship $36B fund, and 41% out of its more tech-focused fund. But those other big-name funds above are also exposed, with tech firms featuring heavily in their ledgers.
+A
+third
+theory is these private credit headlines reflect
+real, broader economic stress
+. Key
+default indicators
+already hit their highest-ever rates in January (roughly double the 2025 average), but reality could be even worse — remember how private credit has great flexibility? This also means that rather than defaulting, stressed borrowers might resort to quieter options like 'payment-in-kind' (adding their missed interest payments to the loan principal), or temporarily relaxing their loan maturity and covenant terms.
+And that gets to some of the downsides around private credit: it's pretty
+opaque
+, with valuations updated quarterly by fund managers themselves, rather than constantly by markets. The result is investors might fear a sudden quarterly write-down, like BlackRock just delivered via one of its smaller funds, which recorded two hero-to-zero wipeouts in as many quarters (defaults from a home remodelling roll-up then Amazon aggregator).
+So… we might need more roach-spray?
+Intrigue’s Take
+Welcome to Intrigue’s Take, where you’re going to want our view on two obvious questions:
+First, which theory do we buy?
+Don’t get mad, but it’s a bit of all three: the SaaSacre is real, and those rising default rates are real, too. But yes, the funds are also now working as intended — those 5% redemption gates prevent a few cockroaches from needlessly infecting the whole house. The thing is, those same gates also hide our visibility of how many other cockroaches are even there, so it’s possible this is bigger than a few over-leveraged, AI-exposed tech firms.
+Second, how bad could this get?
+The whole private credit sector is worth maybe $1.8T, aka an Australia, a Mexico, or a South Korea. Or in company terms, we’re talking the entire market cap of Taiwan’s TSMC semiconductor giant. So we’re clearly dealing with meaningful numbers here. But if you want to put it all in context, consider (per Dimon’s own
+shareholder letter
+yesterday), the entire US residential mortgage sector is now worth ~$13T, hence his line that, “
+in the great scheme of things, private credit probably does not present a systemic risk.
+”
+But that’s not the same as concluding we can or should shrug this all off — there’s now real capital trapped behind those gates, unavailable for redeployment to hose other fires or seize other opportunities. So that liquidity mismatch means we’re still looking at a risk of (say) slower deal-flow, higher borrowing costs, and/or bigger market swings ahead.
+Today’s briefing is presented by…
+Go from AI overwhelmed to AI savvy professional
+AI will eliminate 300 million jobs in the next 5 years.
+Yours doesn't have to be one of them.
+Here's how to future-proof your career:
+Join the
+Superhuman AI
+newsletter - read by 1M+ professionals
+Learn AI skills in 3 mins a day
+Become the AI expert on your team
+Start learning AI now
+Meanwhile, elsewhere…
+🇭🇺
+HUNGARY — Explosive accusations.
+Kyiv has rejected Prime Minister Orbán’s claims Ukraine was behind the bombs Serbian authorities found near the TurkStream pipeline, potentially threatening Russian gas supplies to Hungary. (
+CNN
+)
+Comment:
+Some big context: first, Serbia’s own security services are pushing back on Orbán’s claims; second, the claims come just as Orbán braces for possible electoral wipeout this coming weekend; and third, Hungarian opposition figures plus Ukraine itself say Orbán is just milking it all for a polling boost.
+🇻🇳
+VIETNAM — One and the same.
+Vietnamese lawmakers have unanimously elected Communist Party boss To Lam as the country’s new president. While expected, it’s a shift away from a tradition which avoided any single person holding both top jobs (state and party). (
+Independent
+)
+Comment:
+Echoing Xi’s power grab in China next door, Vietnam seems to be hoping a stronger, more centralised leader can turbocharge the country’s growth, though foreign investors will grimace at the further weakening of any checks and balances.
+🇦🇺
+AUSTRALIA — Star soldier arrested.
+Eight years after explosive media reports triggered a lengthy defamation case, authorities have now arrested Australia’s most decorated living soldier on 2009-2012 war crime charges from his deployment to Afghanistan. Ben Roberts-Smith continues to deny the murder allegations, though civil courts ultimately dismissed his earlier defamation lawsuit, finding the media reports were truthful on balance. (
+BBC
+)
+🇨🇳
+CHINA — That spot’s reserved.
+China’s air force has quietly reserved vast swathes of offshore airspace for 40 days. Covering an area roughly the size of South Korea, this latest ‘Notice to Air Mission’ (Notam) stretches from the Yellow Sea (off Korea) to the East China Sea (off Japan), and will run until May 6th. (
+Defence Security Asia
+)
+Comment
+:
+What’s notable here is both
+a
+) the 40-day duration (a Notam typically stretches 1-5 days), and
+b
+) the absence of any particular explanation. Civil aviation is largely unaffected but still needs to route around the Notam, which could relate to extended military activity, a shift to a more sustained operational posture, and/or some new strategy to project power across the region. In the meantime, neighbours are left guessing at this latest opaque signal in an increasingly tense region.
+🇨🇺
+CUBA
+— Prisoners freed.
+Havana marked Easter by announcing the release of over 2,000 non-violent prisoners as part of a mass-clemency event. (
+France24
+)
+Comment
+:
+The announcement makes no reference to US pressure, nor any of the communist regime’s 1,000+ political prisoners, though the move realistically helps
+a
+) release pressure on Cuba’s state services, and
+b
+) portray a more sympathetic image abroad, including with the US. We recently explored this Cuba situation
+here
+.
+🇹🇭
+THAILAND — Tap the brakes.
+Continuing a global trend we
+explored
+last month, Bangkok is now calling on citizens to work from home or — if that’s not an option — carpool to the office in an effort to curb oil usage across the Hormuz-dependent economy. (
+Guardian
+)
+🇧🇫
+BURKINA FASO — All sides?
+Regime and allied forces in Burkina Faso are allegedly responsible for more than twice the civilian deaths caused by jihadist groups, according to a new Human Rights Watch report. (
+Reuters
+)
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news…
+The governor of St Helena off the coast of Africa has
+issued an official statement
+confirming the two-century-old giant tortoise known as Johnathan is alive and well, contrary to reports being circulated as part of a crypto scam.
+Delivery robots have started
+crashing through Chicago bus shelters
+.
+Amid lagging birth-rates, Japan has hosted its centuries-old
+annual fertility festival
+, parading all manner of giant phallic objects through the streets.
+British police are on the hunt for a mystery woman who (ahem)
+took a dump on a store shelf
+then casually fled the shopping centre.
+And Australia has added the (in)famous
+‘succulent Chinese meal’ speech to its official national sound and film collection
+.
+Car of the day
+Credits: Aurus
+Our most viral
+joke
+(283,800 likes
+🤩
+) simply took Putin’s own footage of his Pyongyang joyride with BFF and fellow dictator Kim Jong-Un, and put it to… the
+Top Gear
+theme song.
+We bask in our own glory here because the particular car featured in that 2024 joyride was a Russia-built Aurus Senat armoured limousine. Unveiled during Putin’s fourth inauguration back in 2018, it was meant to be a great symbol of Russian self-reliance and prestige. When not giving these beasts away to North Korea’s Kim, he was taking other leaders for a spin, like India’s Modi at a regional summit in Tianjin last year.
+With Aurus even taking over a Toyota plant in St Petersburg to ramp up production last year, it all burnished the image of an unstoppable Putin until… it all stopped. Putin’s own state media now
+reports
+the project’s big plans are on ice due to budget constraints!
+So if the good ol’ days were all about Russia’s relentless self-reliance, maybe the Senat’s near-collapse is now a reminder of Russia’s underreported, wartime weakness.
+Today’s poll
+Do you think this private credit news is concerning?
+🤢 Yes, the signs are all there
+🥱 No, the system is working amid market jitters
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last week’s poll:
+Do you think space exploration is worth its hefty price tag?
+🚀
+Yes, human progress is priceless (53%)
+🌎 No, there are more pressing concerns (45%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🚀
+R.H:
+“It’s proved its worth in the past — keep on shooting for the stars
+😎
+”
+🌎
+T.B:
+“Mostly a boondoggle for a select few companies. Fix the roads first.”
+✍️
+D.W.R:
+“I'd prefer to see more collaboration amongst countries, rather than individual countries spending billions on the same things.”
+🚀
+D.M
+: “I worked on the Apollo project as a lowly semantic updater. It was the job of a lifetime. I was so disappointed that we dropped our efforts to colonize the Moon. It could have been ours.”
+✏️
+Corrections Corner
+Thanks to those Intriguers who pointed out an edition last week wrongly dropped a France map pin on Germany!
+🤦

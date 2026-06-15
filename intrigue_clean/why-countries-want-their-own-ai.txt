@@ -1,0 +1,240 @@
+URL: https://archives.internationalintrigue.io/p/why-countries-want-their-own-ai
+Title: 🌍 Why countries want their own AI
+
+Today’s briefing:
+— Why countries want their own AI
+— Guess who’s in Venezuela
+— Another assassination attempt in…
+Good morning {{first_name | Intriguer}}
+. Latin America is really having a “
+moment
+” this week. Fresh off the high of Bad Bunny’s Super Bowl halftime spectacular, the region also just got its very own
+LatAm-GPT
+. Founded by Chile and supported by other regional countries, it’s the first open-source artificial intelligence language model that’s specifically trained on Latin American data.
+You might be wondering why we at Intrigue are writing about this for our top story today. It’s because we’ve believed since our inception that tech and geopolitics are increasingly inseparable — especially when it comes to AI. And as AI juggernauts US and China pull ahead with their frontier models, the rest of the world risks falling behind.
+Number of the day
+10 million
+That’s Switzerland’s proposed new population cap, subject to a national referendum in June. If passed (it’s polling ~50/50), the government could move to limit immigration and review Switzerland’s Schengen agreements (free movement for EU citizens). The country’s population is currently around nine million.
+The world of AI
+While you might know beautiful Chile for its copper, its wines, its pisco-fight with Peru, or its ridiculously long and skinny profile like it’s spooning Argentina (
+nena,
+wake up), there’s now a new reason: Chile just launched Latin America’s own large language model.
+Creatively named
+LatAm-GPT
+, the idea is to
+“develop capabilities in the region to
+have independence
+and make decisions about how this technology impacts society.”
+It took the
+mateos
+(slang for nerds) over at the National Center of Artificial Intelligence of Chile two years and two dozen partnerships to develop, but you only need its opening sentence above to see the bigger debate on AI independence.
+The buzzword in AI circles is ‘
+sovereign AI
+’, and it’s rapidly evolving from a niche idea to a strategic must, as the world grapples with what’s really at stake with generative AI (beyond market share):
+First
+, there’s the
+loss of jobs
+(though a new
+study
+argues AI could be
+intensifying
+work, not replacing it)
+Second
+, there’s the
+loss of human agency and connection
+(though again
+a recent study
+argues AI helps more than it harms)
+Third
+, there’s the
+loss of democratic control
+(though Taiwan has shown how AI could help de-polarise societies), and
+Fourth
+, there’s the
+loss of technological control
+over super-intelligent systems (though there’s rare US-China agreement on humans controlling nukes, for example).
+So with a growing governmental fear of getting stuck in a dependence loop as China and US-based hyperscalers duke it out for dominance, plus a growing
+user
+fear of foreign-trained AI erasing folks’ socio-linguistic roots, responses like LatAm-GPT feel inevitable.
+And in fact, we’re already seeing them around the world, starting in…
+The Middle East
+When you have Scrooge M
+c
+Duck piles of cash you can go early — the Emiratis launched
+Falcon
+way back in 2023, and their Saudi rivals launched
+ALLaM
+the following year.
+The multilingual Emirati model performs well against global benchmarks, whereas
+The Arabic-first Saudi model prioritises regional dialects and cultural nuances.
+But they’re both regional sovereignty plays emphasizing Arabic excellence, curbing their foreign dependencies, and all still built on open-source foundations.
+Then at the other end of the ‘go early’ spectrum, there’s (ahem)…
+Europe
+It’s easy to blame the EU’s slower AI approach on its famed AI Act, a kind of ‘
+sovereignty by standards
+’ play that emphasises consumer and citizen protections. But while that law might’ve tapped the brakes, Europe’s gentler AI pace predates its regulation for various reasons — think limits around (say) compute, capital concentration, and energy.
+Anyway, Europe’s frontrunner is
+France’s Mistral
+, founded back in 2023 by ex-DeepMind and Meta researchers. Seen as Europe’s OpenAI, its efficient, open-weight offerings have become popular among European firms wanting to de-risk abroad.
+And just yesterday, Mistral announced its first major infrastructure outside France with a new data centre in
+Sweden
+, popular for its cheap renewable energy and cooler climes.
+Then at the other end of the ‘cooler climes’ spectrum, let’s finish in…
+Asia
+Singapore’s government-backed
+SEA-LION
+model is on-brand for the region’s long-time hub — it’s both multilingual (Bahasa, Thai, Vietnamese, Tamil, Khmer, Lao, et al) and multimodal (text + image, with video and audio en route).
+By promising more accurate, localised responses, it’s giving neighbours a way to avoid going full-US or full-China, enticing them full-Singapore instead. Again, very on-brand.
+But while Japan’s
+Rakuten
+is wowing locals with its cultural-linguistic depth, and India’s
+Sarvam
+is really flexing its
+breadth
+(20,000 dialects!), the region’s top-performer on sheer metrics might be South Korea’s
+Naver
+, now enjoying viral adoption, government-backed scale, and legit real world performance.
+And with that, maybe go touch some grass while we reflect on what this all means.
+Intrigue’s Take
+So many big questions flow from all this, but here are two.
+First
+,
+should every country now develop its own AI?
+Maybe that depends on how you want to define success, but the presence of so many early, state-backed LLMs suggests many capitals would rather not wait for the answer, or already
+know
+the answer: ie, perhaps success here is simply any competent model not dominated by China or the US.
+And that leads us to the
+second
+question, whose best answer might’ve just been articulated by one of AI’s chief architects, Dario Amodei (CEO of Anthropic):
+why
+are so many capitals already charging ahead?
+Amodei’s
+latest essay
+poses a gloomy thought experiment now doing the rounds: imagine a new country appears overnight, populated by 50 million people each way smarter than any Nobel laureate, capable of making ten moves for every one step we take. How should we respond?
+Amodei answers his own question like this: “
+a report from a competent national security official to a head of state would probably contain words like ‘
+the single most serious national security threat
+we’ve faced in a century, possibly ever.’
+”
+Now sure, maybe that’s just classic capitalism — there’s a fun
+parody
+likening Amodei to a hot-dog CEO warning your only survival option is… buy more hot-dogs.
+But enough capitals are seeing something over the horizon or inside the wire, it reminds us of that
+Oppenheimer
+line as the world realises the power of nuclear weapons: “
+I don't know if we can be trusted with such a weapon. But I know they can't.
+”
+Today’s briefing is presented by…
+Better input, better output
+Voice-first prompts capture details you forget to type. Wispr Flow turns speech into clean prompts you can paste into your AI tools for faster, more useful results. Try Wispr Flow for AI.
+Start flowing free
+Meanwhile, elsewhere…
+🇲🇾
+MALAYSIA
+-
+Who’s watching the watchdog?
+A damning Bloomberg investigation suggests Malaysia’s anti-corruption agency has been helping a local “
+corporate mafia
+” oust founders and seize companies. (
+Bloomberg
+$)
+Comment:
+The agency chief denies the allegations and is threatening Bloomberg with legal letters, but the outlet has now hit his organisation three days in a row, publicly thwarting Prime Minister Anwar’s efforts to attract foreign investment. The easy way out for Anwar is to just let the graft-buster’s contract expire in May.
+🇻🇪
+VENEZUELA
+-
+Welcome back.
+US energy secretary Chris Wright has had an upbeat meeting with interim leader Rodriguez, a day after the US authorised more US tech, goods, and services for use in Venezuela’s oil & gas sector. It might be the most senior US visit to Venezuela in decades, with Wright urging Caracas to do more to facilitate investment. (
+Al Jazeera
+)
+Comment:
+There are still mixed views on where to next: the main US energy stats agency just foreshadowed a possible 20% crude output bump in the coming months, presumably in response to low-hanging fruit like the above new US license. But just hours ago, France’s TotalEnergies joined the list of energy majors warning Venezuela’s energy sector is still basically uninvestable. Meanwhile back in DC, word is “nothing definitive” came from the
+Trump-Netanyahu
+chat on Iran.
+🇺🇦
+UKRAINE
+-
+Vote or bust.
+There are claims President Zelensky plans to announce on February 24 (the war’s four-year anniversary) both a presidential election and referendum on a prospective peace plan. The Financial Times says the White House has pushed Kyiv to hold both votes by May 15 or risk losing proposed US security guarantees. (
+FT
+$)
+Comment
+:
+Zelensky is denying the FT reports, reiterating Ukraine realistically needs a ceasefire and security guarantees to run any vote. We explored the various difficulties
+here
+.
+🇰🇷
+SOUTH KOREA
+-
+You can’t say that!
+Vietnam has lodged a formal protest after a county-level official from South Korea’s ruling party suggested Seoul should “
+import young women
+” from Southeast Asia to help tackle the world’s lowest birth rate. (
+BBC
+)
+🇮🇩
+INDONESIA
+-
+Troops for Gaza.
+Local outlets are again reporting Indonesia’s military is preparing for a potential deployment to Gaza as part of President Trump’s peace plan, though it’s unclear if Jakarta is still envisaging health and reconstruction roles only. President Prabowo just confirmed he’ll attend Trump’s first
+Board of Peace
+meeting later this month. (
+MEE
+)
+🇧🇫
+BURKINA FASO
+-
+You’re banned.
+Burkina Faso’s transitional parliament has approved a bill banning all political parties, with the junta arguing it’s necessary to curb polarisation. (
+AfricaNews
+)
+Comment
+:
+It reminds us of that classic Homer moment when he covers his car’s dash warning then declares, “problem solved!” But of course, the real objective here is just for the junta to further consolidate control.
+🇨🇴
+COLOMBIA
+-
+Assassination attempt.
+President Petro says he’s averted another assassination attempt, telling his cabinet his helicopter had to divert out to sea because unspecified people were planning to shoot once he approached his Caribbean coast destination. (
+France24
+)
+Comment
+:
+Colombia has had no shortage of political assassinations over the years, but Petro has had no shortage of hyperbole, either. With Petro termed-out, the bigger picture here is what’s at stake as violence rises ahead of May’s elections.
+Extra Intrigue
+Today, 12 February, the world marks…
+International Day Against the Use of Child Soldiers
+International Darwin Day
+(for the birthday and legacy of Charles himself), and
+International Day for the Prevention of Violent Extremism as and when Conducive to Terrorism
+(some vintage UN bureaucrateese right there).
+Election of the day
+Most countries set their voting age at 18, with some youthful exceptions like Argentina, Austria, and Cuba leaning as low as 16, at least for local ballots.
+But Portugal just opted to let
+children
+vote in last Sunday’s presidential election.
+Well, sort of. Children accompanying their parents in a Lisbon district received their own ✌️official✌️ ballots to vote for their favourite fictional character, featuring candidates such as Super Mario and Elsa. It sounds like a win-win: parents get 0.2 seconds to themselves in the voting booth, while children learn about civic responsibility.
+Rumi, from Korea’s hit animated
+K-pop Demon Hunters
+, took home the most votes but will be forced to head a coalition government after falling short of an outright majority.
+Today’s poll
+How do you chose an AI model?
+🌎 Location
+👾 Power
+💼 Ownership
+👀 Privacy
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think we'll see full conflict back in Ethiopia before the end of the year?
+🔥
+Yes, there's too much kindling (81%)
+🕊️ No, the costs are too high (18%)
+✍️ Other (write in!) (1%)
+Your two cents:
+🔥
+B.B:
+“I sincerely hope not, but the cast of malevolent actors just gets longer and longer leaving the good people of the region with ever-fewer options.”

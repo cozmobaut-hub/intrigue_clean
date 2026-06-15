@@ -1,0 +1,235 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-bbcd
+Title: 🌍 Chipping away
+
+IN TODAY’S EDITION
+1️⃣ What’s going on with Intel
+2️⃣ Why Singaporeans are googling ‘Nissan collapse’
+3️⃣ Conspiracy of the day
+Hi {{ First name | Intriguer }}.
+How do you know when the US government takes a policy initiative seriously? When they build out a special office dedicated to the cause, fill it with the country’s best and brightest, and - most importantly - give it a wicked good logo.
+Take the ‘Chips For America’ initiative, for example. Partly nestled within the Department of Commerce, that office houses some of the smartest folks from across policy, academia, and industry to singularly focus on solving the chips issue for the US. And yes, they also have a
+pretty cool logo
+.
+I’m thinking of my acquaintances there today, who’ll likely be closely watching the latest news of
+Intel CEO Pat Gelsinger’s resignation
+over the weekend, and wondering what it might mean for the US domestic chips industry. That’s our top story for today.
+THE HEADLINES
+French government on brink of collapse.
+Prime Minister Michel Barnier’s government
+risks collapsing
+after Marine Le Pen seemingly withdrew her right-leaning party’s support over a 2025 budget dispute. Her
+National Rally
+has, together with a leftist coalition, already filed no-confidence votes and they have the numbers to topple Barnier’s government as soon as tomorrow (Wednesday). President Macron would then have to restart talks to appoint another government, as he can’t call fresh elections until next summer.
+Israel and Hezbollah trade fire as ceasefire wobbles.
+Hezbollah and Israel have both
+fired missiles
+after exchanging blame for breaching their nascent ceasefire deal. US officials maintain the hard-won truce has not yet broken down.
+Syria’s civil war.
+Syria’s opposition forces, led by the Islamist group Hayat Tahrir al-Sham (HTS), have maintained their advance, capturing several towns near Syria’s fourth-largest city, Hama. Check out
+our take
+on the rebels’ surprise offensive from yesterday.
+Trump reiterates he’ll block Nippon takeover of US Steel.
+Donald Trump has reiterated via social media
+that he’ll
+block Japanese steelmaker
+Nippon Steel's proposed $15B takeover of US
+Steel, arguing tax incentives and tariffs can help get the US company back on its feet. Despite opposition from President Biden and unions, Nippon Steel hopes to close the deal before January 20. Trump has also
+announced
+he’ll be in Paris this weekend for Notre Dame Cathedral’s reopening.
+Musk’s record pay package shot down (again).
+A Delaware judge has
+rejected Elon Musk’s $56B Tesla pay package
+(now worth over $100B thanks to soaring Tesla shares) for the second time, despite shareholder approval. In her ruling, the judge reconfirmed her earlier decision, stating that Tesla’s board members were too close to Musk. The company has vowed to appeal.
+Vietnamese billionaire loses death sentence appeal.
+Truong My Lan, a Vietnamese property tycoon, has lost her appeal to overturn her death sentence for
+embezzling $12B
+from one of the country’s biggest banks. Her remaining options include getting her sentence commuted by returning $9B, or seeking clemency.
+In Focus: Global Plastics Treaty (Sponsored)
+A Treaty may be on hold, but our health can’t wait
+The future of the Global Plastics Treaty may be uncertain, but the health risks from toxic chemicals in plastics are undeniable. Over 16,000 chemicals are used in plastics, with at least 4,200 deemed hazardous to human health. These toxins leach from everyday products into our bodies, affecting every stage of life—from prenatal development to childhood and beyond. While a legally binding treaty remains under discussion, we can take steps to reduce exposure to these harmful substances.
+Download the eBook
+TOP STORY
+Intel chief resigns as chips race heats up
+There’s nothing like working on a plan for years only to be blindsided, pieces shuffled, strategies upended, and suddenly, you’re the one asked to leave. Aside from being quite a neat summary of life as a diplomat, it’s also what happened to Intel CEO Pat Gelsinger first thing Sunday morning.
+Just before Thanksgiving, Gelsinger had officially secured a
+$7.9B grant
+from the Commerce Department to
+“supercharge American innovation”
+and
+“revitalise the US semiconductor industry
+,” a lift for the 56-year-old chipmaker that’s struggled in the face of fierce competition from Taiwan’s
+TSMC
+, America’s Nvidia, and Korea’s Samsung.
+But then Gelsinger
+announced
+his resignation, leaving many asking an important question:
+huh?
+When Gelsinger secured the top job in 2021, he laid out an ambitious five-year turnaround plan for Intel, including building new factories across the US and Europe to manufacture chips for other brands (not just Intel).
+But five years is a long time in the stock market, and an eternity in the fast-moving semiconductor sector. So
+Intel’s board and investors grew impatient
+as — this year alone — Intel’s shares dropped 40% while rival Nvidia’s soared 200%. A post-Covid crash in the PC market had complicated Pat’s plans, and an $18B restructure to clear the decks didn’t seem to lift spirits — meanwhile, key board member Lip-Bu Tan’s resignation in August (just two years after being brought in to help) rattled markets further.
+So the board gave Gelsinger a choice: retire or be removed. He went with option a.
+Is this all Gelsinger’s fault?
+The 68-year-old executive secured billions to set his plan in motion and placed his company at the heart of Washington’s efforts to revive America’s chipmaking capabilities (see below). But he was always working against two factors: i) time, and ii) politics.
+First
+,
+this stuff is complicated and
+takes time
+: back in 2006, Intel was the first to make 45 nanometre chips (smaller = better), but it then got stuck trying to break past the 10nm barrier before hitting today’s 5nm. Meanwhile, TSMC is already pushing past the 2nm threshold - these gaps are physically infinitesimal, but they reflect
+years
+-long gaps in R&D.
+And that all reflects just one of several poor decisions made years before Gelsinger even arrived — Intel was late to use ultra-advanced machines made by ASML in the Netherlands; late to pivot to smartphones; and then late to pivot to AI. And Pat’s chipmaker-for-hire play has racked up some serious losses as it’s struggled to close the gap.
+Second
+,
+Gelsinger’s ability to play
+catch-up depended heavily on financing from the CHIPS Act, Biden’s effort to revitalise domestic semiconductor manufacturing. But that legislation could be at risk under Trump 2.0, with House Speaker Mike Johnson already flagging that Republicans could try to “
+streamline
+” it (he walked back earlier remarks about repealing it)
+.
+So does any of this really matter?
+There’s a reason why the markets and Intel’s boardroom wanted Gelsinger to move faster, and why Washington was willing to hand him billions to help: the semiconductor industry will shape the 21st century — it helps power advances in just about every field of human endeavour, including defence and intelligence. And Intel is America’s main chip manufacturer (Nvidia, AMD, and Qualcomm lead in design but outsource manufacturing).
+So what do Intel’s struggles mean for the US?
+Well, the CHIPS Act’s
+three biggest bets
+were that America’s
+Intel
+, Korea’s
+Samsung
+, and/or Taiwan’s
+TSMC
+could help revive domestic chip-making in the US. But only one of the three is looking really promising at this stage: after a bumpy start with unions and other curveballs,
+TSMC
+’s vast and growing Arizona compound is now producing better results - and at a tiny 4nm - than back at HQ in Taiwan. And that’s surprised just about everyone, giving the whole venture a chance of surviving any curveballs under Trump 2.0.
+So overall, the message seems to be that yes, the US can revive its ability to manufacture chips at home. But it’s going to involve a) some serious cash, b) some serious risk, and c) some serious (non-US) partners.
+INTRIGUE’S TAKE
+Intel’s story is gripping in part because of its role in
+US business mythology
+: its co-founder (
+Gordon Moore
+) just passed away last year, capping a life that not only coined Moore’s Law (the projection that transistor density would double every two years), but also ushered in Silicon Valley’s role as
+the
+innovation hub.
+So when that company falls from a $250B market cap in 2020 to perhaps $100B today, it’s going to generate some reflection on America’s trajectory.
+But there’s another side to the US business mythology, and you can see it in the guy who Intel opted
+not
+to buy out two decades ago, but who’s now
+personally
+worth more than all of Intel: that’s Jensen Huang, the founder of Nvidia. And his side of the US business mythology — the one the world is still figuring out how to emulate — is about America’s
+unusual capacity for continual regeneration
+.
+Also worth noting:
+Intel is now worth ~$104B, while Nvidia is worth 30+ times more (~$3.4T).
+The Intel board has temporarily replaced Gelsinger with two co-CEOs: chief finance officer David Zinsner and executive vice president Michelle Johnston Holthaus. Intel shares jumped 3% on news of Gelsinger’s departure.
+Yesterday (Monday), Washington
+further tightened US export controls
+aimed at preventing China’s ability to produce advanced chips for its military.
+There’ve been
+rumours
+that Qualcomm (the US chipmaker more focused on cell-phones) is now exploring a possible purchase of Intel.
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: China has reacted angrily after Taiwanese President Lai Ching-te
+made a stopover in the US (Hawaii)
+as part of his tour through Taiwan’s three remaining Pacific Island diplomatic partners. These US stopovers are a low-key way for Lai to reassert Taiwan’s autonomy without the heat of a mainland US visit.
+🇳🇴
+Norway
+: Oslo has said it’s
+pausing its plans to allow deep-sea mining
+within its waters, after its Socialist Left Party threatened to tank the government’s budget. Norway became the first country in the world to greenlight commercial deep-sea mining earlier this year as a way to boost the supply of critical elements for the green transition, but it’s triggered criticism from environmental groups.
+🇹🇭
+Thailand
+: Bangkok has protested after the
+Myanmar military fired on Thai fishing boats
+it said were encroaching on Myanmar’s territorial waters. The incident left at least one fisherman dead, several injured, and dozens detained.
+🇻🇪
+Venezuela
+: Local lawmakers have passed a bill codifying
+economic sanctions as crimes against humanity
+, paving the way for the prosecution of anyone who expresses support for them. Critics say it’s a way to go after opposition leaders who’ve backed US sanctions as a way to oust long-time strongman Nicolás Maduro.
+🇦🇴
+Angola
+:
+Joe Biden has landed in Angola
+for a two-day state visit, fulfilling his 2022 promise to travel to the continent during his presidency. Coming amid closer China-Africa ties, it’s the first-ever visit to Angola by a sitting US president, and the first US presidential visit to Africa since the Obama administration.
+EXTRA INTRIGUE
+Here’s what people around the world are googling:
+🇳🇿
+Kiwis
+searched for
+‘XRP’
+after the cryptocurrency reached a
+six-year high
+.
+🇸🇬
+Singaporeans
+looked up
+‘Nissan collapse’
+as
+the Japanese carmaker’s ongoing management turmoil
+saw the CFO step down.
+And
+🇩🇪
+German
+music fans googled ‘
+Michael Jackson musical
+’ after the stage production made its
+local debut in Hamburg
+to rave reviews.
+CONSPIRACY OF THE DAY
+Who is David Mayer? Not even ChatGPT can help you answer that question. In fact, ChatGPT can’t even utter the guy’s name!
+Why? Over the weekend, some users realised that the famous AI chatbot crashes whenever asked to repeat the name ‘David Mayer’. No matter how creative you get in trying to get ol’ ChatGPT to repeat this name, you just get a wall of error messages or unhelpful comments like “
+I am unable to produce a response
+”.
+What’s going on? The theories are wild, ranging from a vast conspiracy (could it be the work of David Mayer de Rothschild, heir to the Rothschild fortune?) to the geopolitical (a blacklisted Chechen terrorist once went by the
+alias David Mayer
+, so might’ve been blocked from ChatGPT).
+But the leading theory is that David Mayer is an extra-zealous European citizen who used the EU’s
+Right to be Forgotten
+laws to have his personal information scrubbed from ChatGPT training data which, ironically, seems to have now propelled him into fame instead! A very modern rendition of the Streisand effect.
+DAILY POLL
+Do you think the semiconductor industry should ever be subsidised?
+💪 Yes, if it's critical to national security
+⚖️ No, let the market decide
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think will benefit most from this weekend's upset against Assad, beyond Syrian opposition groups?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇹🇷
+Turkey  (65%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇺🇦
+Ukraine (6%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇮🇱
+Israel  (17%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇺🇸
+The broader West  (9%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents:
+🇹🇷
+S.L:
+“Given that Turkish Intelligence is directing things, it stands to reason that Turkey expects to benefit.”
+🇮🇱
+R.L:
+“Israel will enjoy seeing its adversaries occupied in other regional conflicts and, therefore, become even weaker and distracted.”
+✍️
+O:
+“There is no benefit to anyone; it's going to be a complete mess for some time.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✏️ Corrections Corner
+Thanks to those Intriguers who pointed out that yesterday’s labyrinthine map of the current situation in Syria somehow mislabelled Lebanon as Israel!
+🤦

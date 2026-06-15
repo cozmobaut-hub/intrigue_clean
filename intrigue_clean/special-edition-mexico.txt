@@ -1,0 +1,164 @@
+URL: https://archives.internationalintrigue.io/p/special-edition-mexico
+Title: 🕵️ Special edition: Mexico
+
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+Hi {{ First name | Intriguer }}.
+Mexico has produced some remarkable poets and writers over the years. My favourite, Octavio Paz, actually wrote one of his great works (
+Ladera Este
+, or
+Eastern Slope
+) while serving as ambassador to India in the 60s, and it features the kind of beautiful line that eventually earned him the Nobel Prize for Literature in 1990:
+“
+Beyond myself, somewhere, I wait for my arrival.
+”
+Many a turtle-necked critic will have explored the meaning of this line, but it’s on my mind today as we take a quick peek at
+US-Mexico ties ahead of Trump 2.0
+: it captures something that’s a perpetual work in progress, with a dreamed end state always just over the horizon.
+Wishing you a bright 2025 ahead, we’ll be back in your inbox resuming our regular daily briefings from Monday.
+PS
+- Ever wondered what's really driving US-China competition? Join us for
+a candid conversation with Congressman Raja Krishnamoorthi
+, Ranking Member of the
+Select Committee on Strategic Competition Between the United States and the Chinese Communist Party
+. It’ll be
+online, 10am ET on Tuesday 21 January
+. Don’t miss our daily edition from next week for your chance to register.
+Claudia Sheinbaum
+— the Berkeley-trained environmental engineer and former Mexico City mayor — has now taken Mexico’s presidency at a tricky time. While she’s inherited the political dominance of her mentor and predecessor (Andrés Manuel López Obrador, or ‘AMLO’) and his left-leaning Morena party, she also inherits his
+unwieldy balancing act
+:
+Between Morena’s own various competing internal
+factions
+Between AMLO’s ‘
+hugs not bullets
+’ policy and
+cartels
+still duking it out
+Between Mexico’s vibrant democracy and AMLO’s
+weaker checks and balances
+, and
+Between AMLO’s popular defence of Mexican
+dignity and independence
+, and the reality of US demands on drugs, commerce, and migration.
+But even with these challenges, Mexico has
+several strengths
+that give it serious punch:
+It’s the
+second-largest economy
+in Latin America, the most
+populous
+Spanish-speaking country in the world, and the third-most populous country in the Western Hemisphere (128 million people), and
+It’s got an enviable geography both in terms of
+location
+(see below) but also
+wealth
+(it’s a top producer of silver, copper, petroleum, gold, fluorite, bismuth, celestite, sodium, sulphate, wollastonite, lead, molybdenum, diatomite, cadmium, graphite, baryte, salt, gypsum, manganese, zinc, and lithium – got all that?).
+And the way Sheinbaum navigates those challenges and opportunities has the potential to shape things not only for the US, but the broader region and the world.
+So let’s dive in, shall we?
+Mexico’s new president, Claudia Sheinbaum
+Trade and investment
+One of the most important (yet underappreciated) stories in US-Mexico ties has been on the trade front. Some quick stats to paint you a picture:
+Mexico is now America’s
+top goods trading partner
+, ahead of Canada and China
+It’s likely just become only the second country (after China) to ever do more than
+$800B
+in two-way goods trade with the US, and
+More than
+80% of Mexico’s exports
+are destined for the US, across everything from energy and vehicle parts to electronic components and chemicals.
+And… here’s a picture to paint you a picture:
+Much of the credit (or blame for some) comes from the pact that’s governed US-Mexico (and Canada) trade since the 1990s, starting out as the Clinton-era North American Free Trade Agreement (
+NAFTA
+), then replaced by the Trump-driven US-Mexico-Canada Agreement (
+USMCA
+).
+Investment
+is the other key part of the equation, with the US holding the largest stock of foreign direct investment in Mexico by far ($130B in 2022, the latest year available), while Mexico held around $54B in the US the same year (it was only $4B in the late 1990s).
+When you overlay both trade and investment, you’ll see
+supply chains
+: complex business ties straddling the border, with millions of components crisscrossing each day until they reach final assembly. These supply chains are an asset in many ways, particularly while US firms hustle to de-risk away from China and near-shore their operations closer to home.
+The San Ysidro border crossing is the world’s busiest.
+But they’re also potentially a liability for some. For example, there’s concern
+China could be using Mexico to avoid US tariffs
+: it’s still a touchy subject, though the recent increase in Mexican exports to the US has roughly tracked a simultaneous increase in Mexican
+imports
+from China, with container ship patterns also suggesting China is investing heavily in manufacturing in Mexico. Either way, the US is concerned:
+For example, the Biden administration has now used tariffs to differentiate between Mexican-generated
+steel
+versus products originating out of China, and
+US-China competition is also playing out in Mexico’s
+auto industry
+: both Tesla and its top China-based competitor (BYD) have announced major new footprints in Mexico, where EV investments get an 86% tax deduction (Trump has pledged to slap a 100% tariff on Chinese cars made in Mexico).
+❝
+There’s concern China could be using Mexico
+to avoid US tariffs
+Anyway, the USMCA is next up for review in 2026, and ironing out the above issues will be top of the agenda (Trump’s 25% tariff
+threat
+suggests negotiations have started early).
+Location, location
+One of the other key advantages we mentioned above is Mexico’s location: sharing a land border with the world’s largest economy, with access to both the Pacific and Atlantic oceans potentially helping it avoid maritime chokepoints like the Panama Canal.
+Yet even with that sweet sweet geography, Mexico’s
+infrastructure can’t meet demand
+, and it needs significant investment to do so. You can see that in the periodic warnings from shipping giants like Hapag Lloyd about delays through the key Mexican port of Lazaro Cardenas, for example.
+Beyond the ports, Mexico also continues to face a severe
+shortage of truck drivers
+, while its freight rail system remains a major bottleneck (more on this below):
+rail costs
+in Mexico are around $0.70 per ton-kilometre, compared to $0.30 in the US.
+Oh, and Mexico’s cost advantages are already under pressure more broadly:
+The near-shoring scramble has spiked
+costs
+for land and industrial space
+And that’s also driven
+wages
+up, with workers in Mexico’s free trade border zone now earning roughly triple the US federal wage, while
+The
+peso
+(the world’s best-performing major currency since 2019) has also eroded some of Mexico’s cost advantages.
+Of course, Mexico’s political leaders are keenly aware of all this, and have begun work (under the last president, AMLO) on a massive project known as the Trans-Isthmus Corridor (TIC) along the Isthmus of Tehuantepec in the southern portion of Mexico.
+The $5B TIC will include a 308km (191mi) railway between renovated ports at Salina Cruz and Coatzacoalcos (pictured above), connecting with industrial parks along the route. If completed, it
+aims to compete with the oversaturated Panama Canal
+, which is dealing with shortages of freshwater (used to fill locks along the canal path).
+But that ‘if completed’ above hints at
+the
+challenges ahead
+, including investment attraction, community concerns (Sheinbaum was held up by gunpoint at one point), and corruption risks from letting military chiefs dish out the contracts, not to mention building up enough manufacturing in the south to merit developing the TIC in the first place.
+But notwithstanding all this,
+Sheinbaum has been vocal in her commitment
+to the TIC now that she’s taken the reins from AMLO — her Morena party’s electoral platform has long doubled down on rail projects for industrial, passenger, and even tourism purposes.
+And speaking of elections, that brings us back to where we started…
+US-Mexico relations
+Progress between nations is as much about domestic politics as it is realpolitik, and US-Mexico ties are no different. While Mexico’s voters basically opted for more of the same (AMLO left office as one of the world’s most popular leaders), American voters have chosen to change tack.
+So first
+, from
+Mexico’s perspective
+, that potentially means less of the manageable status quo, and more of the surprises it got under Trump 1.0, with Washington likely to push harder for changes across trade, border security, and crime.
+Second
+, from
+America’s perspective
+, even though Sheinbaum is an AMLO protégé, she’ll still bring changes: she’s much more interested in the world beyond Mexico’s borders, and has tended to take a more pragmatic approach than the firebrand AMLO.
+❝
+Progress between nations is as much about domestic politics as it is realpolitik, and US-Mexico relations are no different.
+The other thing the US will remember is that, while Mexico’s heavy dependence on the US market leaves it vulnerable to US pressure,
+Mexico still has its own leverage
+:
+When the Obama administration tried to tighten rules around Mexican
+truck drivers
+, for example, Mexico responded with its own new rules, hitting firms that just so happened to be located in key US congressional districts. It was a small but targeted move, and the US quietly backtracked.
+AMLO also hit influential US
+corn
+farmers with bans on genetically modified crops (Mexico is their top export market), and while a tribunal just
+ruled
+in America’s favour before Christmas, Sheinbaum is still seemingly vowing to charge ahead.
+But then
+third
+, the reality is that US-Mexico ties will increasingly be viewed through
+US-China competition
+. Mexico has its own tricky history with China, ranging from the 1911 Torreón massacre through to China’s heavy-handed response to Mexico’s H1N1 outbreak, plus their long-competitive relationship to win market share in the US.
+And yet Trump still really seems to be shifting away from a long-held view that the US is best placed to compete with China
+in partnership with
+Mexico and Canada.
+Anyway, the above all leaves us wondering if AMLO’s delicate balancing act is even a viable option for Sheinbaum anymore.

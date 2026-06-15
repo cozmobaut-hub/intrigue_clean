@@ -1,0 +1,230 @@
+URL: https://archives.internationalintrigue.io/p/us-gets-new-nuclear-reactor
+Title: 🌍 The US gets a new nuclear reactor
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+It’s never too late to reach out to somebody you’ve lost contact with, unless perhaps you’re the NASA team that accidentally
+lost contact with Voyager 2
+, a space probe that’s now 20 billion km from Earth.
+Today’s briefing is a 5 min read:
+🔌
+Is the US
+nuclear industry
+coming back online?
+🇭🇹
+Kenya
+offers to lead a security mission in
+Haiti
+.
+➕
+Plus:
+Uber makes history, how the papers are covering China’s drone export ban, and why folks in Taiwan are googling basketball.
+⏱️ Around the world in sixty seconds
+🇨🇳
+China
+: The country’s main security ministry is recommending
+all of China’s people be involved in counter-espionage
+, including via a platform to report suspicious activities. The ministry floated the idea via its WeChat account, which just went live on Monday.
+🇩🇰
+Denmark
+: Copenhagen is exploring legal means to
+ban protest burnings of the Quran
+, following recent burnings in Sweden and Denmark. Foreign Minister Rasmussen says he’s looking to stop demonstrations with
+“significant negative consequences for Denmark, not least with regard to security.”
+🇲🇲
+Myanmar
+: The ruling military junta has issued a partial pardon for ousted Burmese leader and Nobel laureate
+Aung San Suu Kyi
+. With five charges now pardoned and 14 remaining, her 33-year jail term will be reduced by around six years.
+🇦🇷
+Argentina
+: The IMF has agreed to release
+$7.5B of a total $44B bailout program
+to alleviate Argentina’s economic woes. The country is facing a severe drought and has general elections in October.
+🇮🇷
+Iran
+: Russia and Iran have agreed to
+finish the last part of a key rail transport route
+connecting Russia to India via Central Asia. Once operational, the transport corridor could enable countries to bypass maritime lanes patrolled by Western navies.
+🔌
+United States | Energy
+Is nuclear energy back?
+Georgia Power Co, a utility based in the US state of Georgia,
+opened a new nuclear reactor
+at its Vogtle nuclear power plant on Monday (31 July).
+👍 It was the first new US reactor to be approved in three decades
+🏠 It’ll power ~500,000 homes with emissions-free electricity, and
+📈
+That stat will rise when another unit comes online next year.
+After announcing the project back in 2012, the then US Energy Secretary (and former physics Nobel laureate) Steven Chu
+highlighted
+its role in:
+🌱
+Addressing climate change
+⚡ Boosting US energy security, and
+🛡️ Driving the “
+resurgence of America’s nuclear industry
+”.
+But things didn’t go to plan
+, with Georgia’s new units arriving seven years late, and costing more than double the initial projection (final price: $31B).
+In parallel, the US enjoyed a fracking boom, plummeting solar costs, and tech advances in areas like energy storage. So it’s hard to see another major new nuclear energy project like Georgia’s in the US any time soon.
+Intrigue's take:
+This doesn’t mean the end of the nuclear energy sector.
+The world still needs less carbon emissions, more electricity, more urgently. That’s partly why there are
+57 nuclear reactors
+under construction around the world right now (including 21 in China alone).
+But in the US, there’s some intriguing new tech purporting to offer smaller, safer, cheaper, and easier-to-build nuclear reactors:
+NuScale
+(based in Oregon) and
+TerraPower
+(based in Washington state) come to mind.
+So it’s possible what we’re seeing in the US is less about the resurrection or demise of nuclear energy, and more a kind of evolution.
+Also worth noting:
+The engineering contractor for the new Georgia nuclear project (Westinghouse)
+filed for bankruptcy
+in 2017 amid cost overruns.
+Nuclear energy made up
+47% of America’s clean energy
+output (around 20% of total output) last year, according to the Department of Energy.
+The US currently stores around 88,000 metric tons of spent nuclear fuel at 77 sites across 35 states. The
+debate
+on longer-term nuclear waste disposal in the US continues.
+📰
+How newspapers covered…
+China announcing new restrictions on drone exports
+New York, US
+“China restricts civilian drone exports, citing Ukraine and concern about military use”
+Doha, Qatar
+“China imposes drone export curbs amid US tech tensions”
+Hong Kong
+“China Expands Drone Export Curbs to ‘Maintain World Peace’”
+Today’s newsletter is supported by: Patent Drop
+Are you seeing the light? We are with this free newsletter.
+The year is 1879, you’ve just received a telegram informing you that Thomas Edison has filed a patent for his breakthrough innovation - a carbon-filament light bulb!
+Armed with this knowledge, you are suddenly able to make plans to profit off this revolutionary invention.
+Now fast forward 144 years and meet Patent Drop.
+This free twice-weekly newsletter scours the U.S. Patent and Trademark website to uncover the latest innovations in big tech that will shape the direction of our future.
+Be the first to know of Big Tech’s modern day “lightbulb moments”.
+Subscribe to Patent Drop here
+💡
+🇭🇹
+Haiti | Defence & security
+Haiti riot police in 2019
+Kenya offers to lead security mission in Haiti
+Kenya’s foreign minister has
+announced
+his country is ready to lead a multinational force to help restore order in Haiti.
+The Caribbean nation has been overwhelmed
+by gang violence:
+Gangs now control
+80% of the capital
+Port-au-Prince, with the remaining 20% widely seen as disputed territory, and
+Communities have
+formed vigilante groups
+in response, killing more than 160 gang members according to one estimate.
+This is all compounded by food scarcity, inequality, and political instability.
+Intrigue’s take:
+So why hasn’t the world sent a deployment already?
+Well… it has (multiple times). And that’s part of the problem. The last mission (led by the UN) withdrew in 2019 after it was linked to a devastating cholera outbreak and sexual violence. And there are claims these interventions have also helped corrupt local leaders cling to power.
+As a result, many of Haiti’s 12 million people oppose the idea of a new intervention,
+preferring
+longer-term and Haitian-led solutions. It’s just hard to see these solutions taking shape without some basic security in place first.
+Also worth noting:
+Haiti’s last 10 remaining senators
+finished their terms
+in January, leaving the country without any elected officials after successive failed efforts to hold elections.
+Haiti’s
+interim government
+plus
+the US
+,
+the UN
+, the
+Organization of American States
+,
+the Bahamas
+, and others have welcomed Kenya’s proposal.
+The US and Ecuador now
+plan
+to introduce a UN Security Council resolution authorising the proposed mission.
+➕
+Extra Intrigue
+Here’s what people around the world googled on Tuesday 1 August:
+🇰🇪
+Kenyan
+internet users searched for ‘
+Angus Cloud
+’, the
+US actor
+starring in the hit TV series
+Euphoria
+who passed away.
+🇻🇳
+Vietnamese
+football fans googled ‘
+Al Nassr
+’ after Cristiano Ronaldo scored
+his first goal of the season
+with the Saudi club on Monday.
+Folks in
+🇹🇼
+Taiwan
+looked up ‘世大運男籃’ (
+Universiade Men's Basketball
+) after their national team
+unexpectedly beat
+China at the World University Games in Chengdu.
+🗳️ Poll time!
+Do you think the US should open more nuclear reactors?
+🔋 Yes, they're a reliable source of energy
+💚 Yes, they're a green source of energy
+💸 No, they're too costly
+💀 No, they're too dangerous
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+📊
+Chart of the day
+Data: Bloomberg.
+Ride-hailing app Uber
+posted
+its first-ever operating profit yesterday (Tuesday), more than 14 years after its founding. The company attributed the result to “
+robust demand, new growth initiatives, and continued cost discipline
+”.
+Yesterday’s poll:
+Do you think a foreign military intervention in Niger is imminent?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 Yes, it's a real possibility (66%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🤔
+No, it's just a bluff (31%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents
+:
+✍️
+C.B:
+“ECOWAS isn't NATO, and regional African blocs have a history of doing nothing. BUT, the Great African War of 98-03 demonstrates that things can get messy when larger regional players feel threatened. It's about national actors, not blocs.”
+🤔
+A.R.F:
+“Bombastic talk is a hallmark of 2023.”
+✍️ Our thanks
+Following yesterday’s profile of the world’s first elected female head of state, our thanks to Disha and Laura for highlighting
+Sirimavo Bandaranaike
+, who became the world’s first elected female prime minister after her party won Sri Lanka’s elections in 1960! We’ll profile Sirimavo Bandaranaike soon
+🙂
+.
+And after Monday’s note about proceedings in Hong Kong, our thanks to Sean for pointing out that the city’s
+Court of Final Appeal
+hasn’t ruled on the government’s bid to ban the protest song “
+Glory to Hong Kong
+”.

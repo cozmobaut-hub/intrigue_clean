@@ -1,0 +1,245 @@
+URL: https://archives.internationalintrigue.io/p/the-shock-behind-palantir-s-manifesto
+Title: 🌍 The shock behind Palantir’s manifesto
+
+Today’s briefing:
+— The shock behind Palantir’s manifesto
+— New coral defence just dropped
+— Maybe pilots shouldn’t do that?
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Amid today’s top story on
+Palantir’s new manifesto
+, I found myself down a rabbit hole examining manifestos of all kinds. From the earliest days of human civilization, people / entities / groups have espoused their ideas / missions / creed through these declarative statements to articulate future plans or challenge the status quo.
+Some of the more familiar ones tend to be political manifestos penned by the likes of Marx and Engels (on Communism), Mussolini (on Fascism), and, of course, perhaps the most infamous one: Mein Kampf by Adolf Hitler. But it’s not all grim reading — I came across plenty of uplifting manifestos from artists and philosophers (like
+Ai Wei Wei
+and
+Alain de Botton
+), and some on important social movements like the Feminist Manifesto by Mina Loy.
+Manifestos are a snapshot of a moment in time in our collective humanities, so bear that in mind as we take you through this Palantir manifesto and make sense of what its techno-optimist vision says about our society in 2026.
+Number of the day
+11%
+That’s how much Russian billionaires saw their wealth increase over the past year, despite (or because of?) Russia’s war on Ukraine. Putin seems safe so long as he’s able to keep these oligarchs happy.
+Corporations gone wild
+Credits: @ssankar, Palantir CTO
+Tech bros get enough attention, but when they start minting mass contracts with the Pentagon, the Department of Agriculture, Poland’s defence ministry, and even French intelligence, all while becoming a swear word hurled during protests… it’s worth a look.
+Throw in a new
+22-point
+manifesto
+outlining Palantir’s worldview, triggering more debate than whether a hot dog is a sandwich, and you’ve got yourself an Intrigue lead.
+So before we give you
+the five quotes you need to know
+, a quick refresh that despite a long-running joke that nobody knows what the Palantir nerds even do, we can confirm they make
+software
+that weaves across entire data ecosystems so users can make sharper decisions, whether on drone targeting or fraud detection
+.
+As for Palantir’s polarising new manifesto? Let’s start somewhere light and easy, like…
+“
+National service should be a universal duty
+”
+Okay, neither light nor easy. But spicy! The firm’s argument is that an all-volunteer military lets
+elites avoid the real costs of war
+, increasing the risk of frivolous or endless conflict while weakening national resolve and unity.
+Beyond the boots, we’d add from our own foreign service days that folks lucky enough to live in the free world can quickly (and wrongly) assume our freedoms are some kind of
+default status
+, rather than historico-geographic quirks to build, sustain, and defend.
+Anyway, the sheer state of our world will shift the idea of national service
+back out of the Reddit fringes
+, with even Financial Times columnists already broaching low-carb versions of the idea, but it’s hard to see liberal democracies voting away their liberties
+just
+yet, even if framed as critical to defending those same liberties.
+“
+The limits of soft power, of soaring rhetoric alone, have been exposed
+”
+If your social media algorithm looks vaguely like ours (it does if you’re reading this), you’ll have seen at least one meme chuckling at the European Union’s newest
+✨
+statement
+✨
+of concern. It turns out the dictators ruling Moscow, Tehran, or Pyongyang don’t care!
+They care about — and understand —
+power
+. And with US power now getting tested and stretched, those dictators will care even less about any concerns.
+But that’s not to say
+soft power is pointless
+. History suggests the toughest challenge to dictators can come from their own people, fuelled by something as simple as information, which is why slashing (say) Radio Free Asia or Voice of America feels so short-sighted.
+Rather, we’d argue the line between
+soft and hard power is now blurring
+— surveillance and censorship on one side, versus info and cultural appeal on the other. Ask any North Korean why they defected, and many will cite
+South
+Korean soap operas, not US nukes.
+“
+The postwar neutering of Germany and Japan must be undone
+”
+Here’s where the manifesto gets real controversial, but long-time Intriguers will know Germany and Japan are already un-neutering (if you’ll excuse the term) themselves, whether it’s…
+Berlin
+backing defence firms via its sovereign fund, recruiting 80,000 troops, buying 3,000 armoured vehicles, or using auto-plants to make tanks, or…
+Tokyo
+reinterpreting its pacifist constitution, lifting its own ban on lethal arms exports, or massively ramping up its role in allied South China Sea military drills.
+Though if these are the headlines, take a bike ride around Berlin and they’ll feel odd in the David Bowie-loving capital, with more
+Make Art Not War
+signs than national service ads.
+Maybe that gets to whether this un-neutering is
+organic or just top-down
+, though both new leaders (Merz and Takaichi) openly ran on a need to take a teaspoon of Magic Shell and harden up. The bigger divide might be with the neighbours, though Germany’s ‘hood is actively urging it on, and even Japan’s neighbours seem to be warming to this tougher Tokyo — it’s still Southeast Asia’s
+most-trusted
+major power, although its decades of pacifist ideology might have contributed to building that very trust.
+“
+The question is not whether A.I. weapons will be built; it is who will build them and for what purpose
+”
+Believe it or not, this may be Palantir’s
+least controversial line
+. Folks, we found it! Depending on your definition, AI weapons are already here, already fighting. Ask Maduro.
+So this is getting closer to a statement of fact, but it echoes the
+classic Oppenheimer line
+: “I don’t know if we can be trusted with such a weapon, but I know *they* can’t.
+”
+And you only need to glance at
+recent debates
+— whether around this Palantir manifesto or Anthropic’s refusal to cave to the Pentagon’s terms — that the free world is still working its way through the first half of Oppenheimer’s maxim.
+But if that’s the
+least
+controversial line, then let’s finish at the other end with…
+5. “
+Some cultures have produced vital advances; others remain dysfunctional and regressive
+”
+Some of you will read that line as a dull fact, while others will shudder at a racially coded claim of supremacy, or a rejection of the West’s founding values.
+You should know us well enough by now to guess we see the truth somewhere in the middle — we’re not afraid to point out that so long as the Taliban treats women like cattle and bans girls from school, it’ll perpetuate dysfunction and regression.
+But the free world’s own brutal history should be a reminder that societies aren’t frozen in amber — and this fact should be a source of both comfort for the troubled, but also trouble for the comforted.
+Intrigue’s Take
+It’s been remarkable how much debate Palantir’s manifesto has triggered, spanning from high-fives to “
+I think I just vomited a bit in my mouth
+”.
+Part of it is because Karp is such a
+polarising figure
+who backs Harris and Biden one year, weighs into culture wars the next, then pushes an immigration hard-line the one after.
+Yet zooming out a little, the debate might also be because he just dropped an avowedly hawkish manifesto into what’s still a relatively
+dovish post-Cold War milieu
+.
+But as that peace shatters, it’s maybe worth confessing we at Intrigue see ourselves not as hawks, nor as doves, but as
+owls
+— yes, we enjoy daytime naps, have impressive neck dexterity, and will devour a dish whole. But we also value intelligence, nuance, strategy, and patience — not fearing force where necessary, but not glorifying it, either.
+Looking ahead, we see owlish Ukraine outlasting hawkish Putin; owlish South Korea outlasting the hawkish North; while our dovish UN friends might struggle to adapt.
+All that to say… in this fracturing world, maybe the future belongs to the owls?
+Sound even smarter:
+A handful of liberal democracies already have some kind of national service, often reflecting wariness towards a nearby foe: think Taiwan, South Korea, Finland, Norway, and Sweden.
+Today’s newsletter is sponsored by
+hear.com
+When Every Word in the Room Matters
+You follow geopolitics. You track what's said and what's not said. You're the person at the table who catches the nuance. So does Horizon IX — it runs two AI processors to separate speech from background noise in real time, so you catch the detail, not just the volume. Nearly invisible design, rechargeable, and bluetooth-connectivity, the IX is built for how you actually live.
+hear.com builds every trial around your specific hearing, because clarity isn't one-size-fits-all. 670,000 people have already found theirs. Start spring with a 45-day trial and hear the difference for yourself.
+Find your fit
+Meanwhile, elsewhere…
+🇮🇷
+IRAN
+-
+Showdown.
+Both the US and Iran have widened their duelling blockades, with the US intercepting three Iran-flagged tankers in Asian waters, while the regime has seized two European-owned commercial ships near Hormuz. Meanwhile, the US navy secretary has now stepped down or been fired amid duelling leaks about why, though none exactly exude US cheer. (
+The Washington Post
+$)
+Comment:
+Someone made the observation that a complete end to Iran’s oil exports would equate to roughly 10% of Iran’s GDP, less than half what Ukraine has lost but it’s still fighting. The difference, however, is Kyiv enjoys relatively broad domestic and international backing, whereas the regime in Tehran virtually enjoys neither.
+🇩🇪
+GERMANY
+-
+Consolidation.
+Deutsche Telekom is in talks with its 53%-owned US arm T-Mobile for the largest public merger ever — it’d create a ~$300B transatlantic giant with over 200 million subscribers (and lots of happy M&A lawyers). Meanwhile, Germany’s Commerzbank has rejected the latest hostile takeover move by Italy’s UniCredit, which would’ve pushed the Italian stake
+just
+above 30%, a key regulatory trigger for Germany. (
+Telecoms
+)
+Comment:
+Both deals highlight Europe’s scramble for scale, though one is proving friendlier than the other.
+🇰🇷
+SOUTH KOREA
+-
+Pics or it didn’t happen.
+So… it turns out a 2021 mid-air collision between two fighter jets was caused by the pilots snapping pics! They escaped unharmed, but caused hundreds of thousands in damage to the jets (number of likes unknown). (
+BBC
+)
+🇰🇿
+KAZAKHSTAN
+-
+Stop the flow.
+Moscow has announced it’s halting Kazakh oil supplies to Germany via the infamous Druzhba pipeline’s northern branch, citing ‘technical reasons’. (
+Reuters
+)
+Comment
+:
+The ‘technical reasons’ are a figleaf for political retaliation over Germany’s continued support for Ukraine’s self-defence. They’re also a reminder of why Europe had to wean itself off Russian energy in the first place. This hit will be more of an inconvenience than a crisis for Germany, though it’ll add further strain to Moscow’s vexed ties with ex-Soviet Kazakhstan, who’ll now have to pivot to new buyers.
+🇸🇬
+SINGAPORE
+-
+Choke it.
+Singapore’s foreign minister (Balakrishnan) has reiterated his country won’t participate in any project to impose a toll on Malacca shipping, shortly after Indonesia’s finance minister seemingly mulled the possibility. (
+Bloomberg
+$)
+Comments
+:
+The intriguing bit is not whether Indonesia is about to slap a toll on another critical maritime chokepoint, but rather the fact such a throwaway line (he noted he’s unsure whether tolls are right or wrong) sent so many hares running. It all hints at our world’s creeping strategic paranoia. Plus, it’s worth noting Singapore’s defence of free navigation is not just out of the goodness of its heart, but a reflection of the fact its economy depends on being the ultimate regional hub.
+🇩🇴
+DOMINICAN REPUBLIC
+-
+Flyby.
+Haiti and the Dominican Republic will resume connecting flights, two years after DR hit pause amid Haiti’s deteriorating security and political crisis. (
+AP
+)
+Comment
+:
+Why the change? The hope is allowing a small volume of legitimate travel might reduce illegal crossings and revive economic ties, but still manage the security risks — flights will only go in/out of Haiti’s safer Cap-Haïtien up north.
+🇮🇶
+IRAQ
+-
+No more USD.
+The US has suspended the shipment of US dollars to Iraq and halted local security cooperation in an effort to pressure Baghdad to confront the powerful Iran-backed militias who’ve been attacking US interests in the region. (
+WSJ
+$)
+Comment
+:
+If you’re wondering why the US flies literal $500M shrink-wrapped pallets of cash to Iraq, it stems partly from the 2003 US invasion — Iraq’s USD oil revenues get deposited into special accounts at the New York Fed, and locals (with little trust in their own currency or institutions) still prefer holding physical USD. Still, we know a Nicholas Cage plotline when we see one.
+Extra Intrigue
+In other worlds…
+Finance:
+With budgets stretched, taxes on wages across the OECD club of ~rich nations are now at their highest since 2018, according to a new
+report
+.
+Tech:
+OpenAI’s Sam Altman has accused rival Anthropic of
+using “
+fear-based marketing
+”
+for its new Mythos cybersecurity model, arguing it’s like building a bomb then saying instead of dropping it on your head, we’ll sell you a shelter.
+Science:
+Invasive coral species could be
+eradicated using air guns
+. Sign us up!
+Flight path of the day
+Credits: Flightradar.com
+There are three main users on the
+Flight Radar
+tracking platform:
+i) normies tracking a loved one’s flight
+ii) aviation nerds trying to guess where that sweet Airbus A320 is headed, and
+iii) *others* who notice pilots drawing private parts in the skies above Finland.
+Thanks to category three, the Finnish airforce has now launched an investigation into the above flight paths, with trainees already facing disciplinary action!
+Something similar actually happened back in 2022, when a US aircraft drew a similar (ahem) shape near a Russian airbase in Syria, though officials claimed it was a coincidence.
+Today’s poll
+Do you think national service should be a universal duty?
+🧑‍🤝‍🧑 Yes, our liberties depend on it
+⛓️ No, it weakens our liberties
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How do you solve the issue of government insider trading?
+⛔ Harsher platform punishments (39%)
+🔨
+Harsher user punishments (59%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🔨
+R.C.O:
+“Some very high-profile people need to be hammered for this type of insider trading to abate.”
+✍️
+U:
+“Oftentimes, it is not as much the harshness of a punishment that makes a change, but the inevitability of it.”

@@ -1,0 +1,240 @@
+URL: https://archives.internationalintrigue.io/p/epic-earnings-calls
+Title: 🌍 Epic earnings calls
+
+Today’s briefing:
+— Epic earnings calls
+— A capital city encircled
+— A presidential side-hustle
+Good morning {{first_name | Intriguer}}
+. Veeery early in my career, I met a foreign dignitary whose name-tag started with ‘He’, which seemed legit for his country of origin.
+So I duly started calling the confused guy ‘He’ and even introduced him to other increasingly confused dignitaries as ‘He’, until someone finally put me out of my misery and explained that ‘HE’ is just the standard ambassadorial prefix for ‘His/Her Excellency’.
+Speaking of me and mistakes, if you were surprised to learn in yesterday’s intro that I served in Shanghai, that’s because I didn’t (we accidentally put my name with co-founder John’s intro!).
+Anyway, today’s briefing gets you
+the most intriguing quotes from earnings season
+.
+PS:
+Our other co-founder Helen will be speaking at
+Oxford this weekend
+and we’ll have an Intrigue gathering on Sunday morning from 11am. Hit reply if you’d like to join!
+PPS:
+Registered for our
+soirée at the Australian Embassy in DC
+on November 20th yet? Snag a spot before they go!
+Number of the day
+~27%
+These are the odds prediction markets are now giving Trump’s tariffs of surviving their Supreme Court challenge, with justices now voicing scepticism in the current hearing.
+The Wall Street Lens
+Most corporate earnings calls devolve into dull jargon about streamlining and synergising the paperclip procurement process to shave costs by 0.03% or whatever. But a few lines caught our eye this earnings season, starting with…
+“
+If fentanyl was killing 60,000 Yale grads instead of 60,000 working-class people, we'd be dropping a nuclear bomb on whoever was sending it from South America.
+” —
+Alex Karp, Palantir CEO
+Criticise defence tech firm Palantir all you like, but its earnings calls leave little to yawn at.
+That’s to be expected when you’ve got an eccentric chief like
+Alex Karp
+, who never learned to drive (“
+I was too poor. And then I was too rich
+”); or a polarising chair like
+Peter Thiel
+, who riffs on apocalyptic theology when not dunking on colleges as medieval guilds.
+Anyway, there’s an ongoing joke about
+what Palantir even does
+, so here’s your answer: it makes software that weaves across entire data ecosystems so users can make sharper decisions, whether on drone targeting or fraud detection. And it’s infamously ‘sticky’, which might be why (along with those tight Trump ties) its price has doubled this year.
+But despite Monday’s bumper earnings call,
+Palantir’s stock has since dropped ~9%
+. Why? An analyst highlighted its “
+extreme
+” forward-price-to-earnings ratio (quadruple even Nvidia’s), while
+The Big Short
+’s Michael Burry
+revealed
+he’s now massively shorting both AI giants in another example of the bear case we
+explored
+last week. Meanwhile…
+“
+We continue to observe the rising emergence of sovereign AI
+” —
+Che-Chia Wei, TSMC
+The CEO of Taiwan’s legendary chipmaker is referring here to the way governments are building their own AI models and infrastructure. And when tech CEOs start throwing around the kind of word (sovereign) you’d ordinarily find in government communiques, it’s a reminder
+these capitals are more focused on control than innovation
+.
+They want AI
+a
+) trained on their own data,
+b
+) running on their own chips, and
+c
+) operating under their own laws. Own, own, own, because there’s nobody you can trust, trust, trust.
+But while the US (with US-aligned Taiwan and others) still leads on chips,
+China is playing catch-up
+: its homegrown Cambricon chipmaker just recorded a
+14-fold revenue spike in a quarter
+amid US limits on China’s US chip access.
+Meanwhile, Nvidia’s Jensen Huang just made
+headlines
+with his suggestion
+China will win the AI race
+thanks to looser regulations and cheaper energy — he’s since
+reiterated
+his pro-US cred, and might be using the China bogeyman to push for more favourable US conditions, but that doesn’t necessarily mean his forecast is wrong.
+And speaking of energy…
+“
+America is in a golden age of power demand
+” —
+John W. Ketchum, NextEra
+AI-linked data centres are now driving an estimated
+half
+of all growth in US energy demand, but supply is struggling to keep up, not because America
+can’t
+build, but because it
+won’t
+: permitting delays mean a single solar plant can take four years or more, while China just deployed more solar in Q2
+than the US has ever deployed
+.
+It’s a vivid example of Dan Wang’s ‘
+lawyerly America
+’ versus ‘
+engineering China
+’ contrast. And now to close...
+“
+We see a growing momentum when it comes to European strategic autonomy
+” —
+Guillaume Faury, Airbus
+That’s a polished Frenchman’s way of saying that as a rattled Europe races to both
+a
+) re-arm against an expansionist Russia, and
+b
+) hedge against an
+America First
+America, Europe’s biggest aerospace and defence player is well placed to profit.
+In fact, it’s already happening, with Faury highlighting another €5B rise in his order backlog thanks to European contracts.
+But interestingly, his comments also revealed that
+autonomy doesn’t necessarily mean autarky
+(self-sufficiency) — he emphasised, for example, India’s role in his manufacturing plans as a way to diversify Airbus supply risks longer-term.
+Anyway, from AI sovereignty to energy crunches, this latest earnings season reveals a world racing to control its own destiny.
+Intrigue’s Take
+We quit our foreign service careers on a hunch that geopolitics might become
+The Next Big Thing
+, so we’re now watching in awe as each new earnings season morphs into a major geopolitics conference starring billionaires instead of nerds.
+Anyway, this is not investment advice, but any Intriguers will by now have clocked that a world hustling for control will fray into
+a labyrinth of bottlenecks
+. And while individual stocks will come and go, and valuations will soar and plunge, the basic principle to keep in mind is that anyone straddling a bottleneck (chips, energy, defence) should do well.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Grounded.
+Airlines are now reducing their flight schedules from tomorrow (Friday) following a government shutdown alert citing air traffic control staffing shortages. (
+BBC
+)
+Comment
+: The longest US shutdown in history has now gone from being a DC problem to a US problem. We wrote about some of those implications
+here
+.
+🇨🇳
+CHINA
+-
+Chip nationalism.
+Beijing has reportedly banned any new state-funded data centres from using foreign semiconductors. (
+Reuters
+)
+Comment:
+It’s another move to help China’s chip sector catch up and build insulation against further US chip bans. US Treasury Secretary Bessent recently said China made a mistake when it slapped its rare earths ban on the US, which is now racing to disentangle itself. His Chinese counterpart might well be thinking the same thing about America’s chip controls, though our sense is the US chip lead is still bigger.
+🇵🇭
+PHILIPPINES
+-
+Deadly typhoon.
+President Marcos has announced yet another state of national calamity after a typhoon made landfall on Tuesday, leaving a trail of destruction and over 100 dead. (
+Philstar
+)
+🇪🇺
+EUROPEAN UNION
+-
+No space here.
+The US has described the EU’s proposed new space law as “
+unacceptable
+”, arguing Europe’s regulations would unfairly target US companies. (
+Politico
+)
+Comment
+: It’s the same EU-US regulatory story playing out across every dimension, from privacy, tech, and digital markets, to AI, emissions standards, and now space.
+🇲🇱
+MALI
+-
+Encircled.
+Mali’s military rulers are getting squeezed by advancing jihadis now effectively encircling the capital Bamako after they imposed a fuel blockade in September. The junta has now had to close schools and universities due to a lack of transport. (
+AfricaNews
+)
+Comment
+: There’s long been a jihadi resurgence in West Africa, though it’s stumbled over internal ideological and theological rivalries. This Mali group (known as JNIM, or the Support Group for Islam and Muslims) is now emerging as a key player, and just carried out its first known attack in Nigeria last week. It’s also started downplaying its Al Qaeda links, both to forge local alliances against Mali’s reviled junta, but presumably also in hopes of pulling an HTS (the group that toppled Syria’s regime then seemingly moderated in an attempt to gain international legitimacy).
+🇧🇷
+BRAZIL
+-
+Dirty gold.
+Brazilian authorities and Interpol have destroyed over 270 floating mining dredges worth ~$7M as part of an effort to crack down on illegal gold mining. (
+AP
+)
+🇸🇬
+SINGAPORE
+-
+Harsher punishment.
+The city-state has announced scammers will now cop at least six cane strikes across the butt-cheeks, amid reports citizens have lost $3.9B to scams since 2020. (
+Yahoo
+)
+Extra Intrigue
+In other worlds…
+Business
+: France has moved to
+suspend China’s fast-fashion giant Shein
+for selling explicit child-like dolls on its platform.
+Space
+: President Trump has re-nominated Jared
+Isaacman as NASA administrator
+, after pulling his nomination during The Great Trump-Musk Breakup of 2025.
+Art
+: It turns out Neanderthals may have used ochre to
+craft tools for drawing
+.
+From our sponsors
+9 Amazon Prime Perks You Need to Be Using
+Free music/podcasts, access to lightning deals, and try before you buy are just a few of the many perks that Prime has to offer. Make sure you're not missing out, and get the most out of Amazon Prime.
+Maximize Your Prime Membership
+Side-hustle of the day
+Moon Jae-in rocking some new facial hair and some old books. Credits: Hangilsa
+What do you do after you’ve already reached the pinnacle of your political career and left the presidential palace behind? History has already left us with so much inspiration, like…
+Moscow’s
+Gorbachev
+, who went and did commercials for Pizza Hut
+Prague’s
+Havel
+, who was a regular at underground jazz gigs, and
+Uruguay’s
+Lacalle
+, who went skateboarding through the streets of Montevideo before surfing El Salvador’s famous El Sunzal break.
+Well South Korea’s former president (
+Moon
+Jae-in) has already pumped out the obligatory 650-page memoir, but he’s now setting his sights on the digital world, with plans for his own YouTube channel to discuss… books! This feels like a natural career move given the statesman already started his own small bookstore, too. #goals
+Today’s poll
+What do you think about President Trump's proposal to make earnings calls every six months instead of quarterly?
+👍 CEOs need a longer-term view
+👎 Markets need transparency
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think diplomatic immunity should be sacrosanct?
+🕊️ Yes, it's at the heart of our international system (63%)
+🙅
+No, there's too much abuse going on (35%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🕊️
+R:
+“If diplomatic immunity were not respected, would diplomats be willing to live in countries where the rule of law was not paramount? As an ex-trailing-spouse, I would not have been comfortable with some of our postings without diplomatic immunity.”
+🙅
+W:
+“Why should someone, who violates locals laws, be allowed to walk away scot-free?”
+🕊️ C.M:
+“The system helps alleviate further chaos in the geopolitical storm.”

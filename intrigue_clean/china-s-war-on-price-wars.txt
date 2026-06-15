@@ -1,0 +1,268 @@
+URL: https://archives.internationalintrigue.io/p/china-s-war-on-price-wars-3b32c82e5a2fa3c9
+Title: 🌍 China’s war on price wars
+
+Today’s briefing:
+— China’s war on price wars
+— That chihuahua saved my life
+— World’s newest country?
+Good morning {{first_name | Intriguer}}
+. I want to send a quick shout-out to the 1,350 folks at the State Department (including Intriguers) who lost their jobs on Friday.
+For many of you (like me), serving your country via diplomacy will have been a childhood dream or a lifelong calling. I can’t imagine how such an abrupt end might feel not just for you right now, but for your families who I know have supported you along the way.
+All I can (very) humbly offer is this:
+While it’s a one-of-a-kind mission, I promise there’s an afterlife for diplomats — the world needs your skills and passion more than ever
+For our part, we’ll focus the Intrigue jobs board on opportunities that might help
+And if you’d like to contribute to the Intrigue mission in any way, just hit reply.
+Hang in there.
+Now, let’s look at why
+China’s Communist Party is declaring war on price wars
+.
+Year of the day
+1983
+That’s when Muhammadu Buhari seized Nigeria’s reins in a military coup, before going on to lead the country via a democratic ballot. He’s now passed away in London, aged 82.
+Trim those sideburns, Mattingly
+We've talked about hot wars, cold wars, and trade wars. But now it's time to talk about another type of war: price wars.
+For the past year, Communist Party figures have referred periodically to China’s concept of
+neijuan
+: that Mandarin word’s characters translate literally as "
+rolling
+" and "
+inside
+". It's like spinning your wheels — lots of movement and effort, but not actually getting you anywhere. Folks are translating it to English as "
+destructive competition
+" or “
+involution
+”.
+However you want to translate it,
+the Party doesn't like it
+.
+Why?
+For cigar-chomping capitalists, the occasional price war is a normal, healthy thing, right? It's about competition naturally driving better products and prices. In fact, if the opposite happens, and egg or gas prices get too high, folks start talking about price
+gouging
+.
+So
+what's the problem with price wars?
+The party says they've been going too far, and for too long, contributing to China's
+deflation
+, which seems to be
+getting worse
+:
+Producer prices just dropped 3.6% (yoy), while industrial profits fell 9.1% (yoy).
+Why?
+Decades of manufacturing investment mean China has massive industrial capacity, but trade wars are complicating its efforts to sell excess stuff abroad. So to sell at home, firms are drastically cutting prices. EV-maker BYD, for example,
+slashed its prices
+by
+up to 34%
+in May, and food delivery services are now offering drinks for 30 cents!
+So, who cares?
+That sounds sweet for the consumer, right? Gimme that 30 cent latte and $8k hatchback. But it’s all hitting profits, R&D, valuations, and broader sentiment: one top auto-executive, for example, just warned the sector could get
+hit by an 'Evergrande'
+(the failed property developer that famously triggered a meltdown). And it self-perpetuates: why buy new wheels today if they’ll be cheaper tomorrow?
+So… when China's
+Xi Jinping
+himself
+weighed in
+this month on the need to tackle "
+disorderly competition
+", it was a pretty clear indication Beijing is worried, and the president signed off on
+a pledge to do something
+about it. But it's
+unclear what
+.
+Demand side?
+There’ve been
+rumours
+of another
+stimulus ‘bazooka’
+in the works, driving demand by building more infrastructure. But that'd involve taking on even more debt (Xi seems wary), and his return on that kind of investment has long been plateauing anyway.
+Xi’s also offered
+incentives
+for folks to treat themselves to
+a shiny new microwave
+but, while consumer prices just saw a nice bump, it's unclear how long that can last.
+There are also some economists arguing for other ways to get more cash into household pockets. But the risk is those families will just pay off debts rather than go shopping. And Xi himself has long warned that
+handouts
+breed idleness. So then that leaves...
+Supply side?
+There are some hints around how this might look:
+Xi faced a similar problem in China’s steel and coal sector
+a decade ago
+, and tackled it by forcing the (state-owned) firms to cut production. But the firms driving
+today’s
+price wars are mostly privately-owned, so Xi's gotta rely on...
+Self-discipline
+: that's what loss-making solar firms are now pledging, via limits around production and pricing. And Beijing wants more of that — auto execs already got a slap on the wrist: compete on product, not price. So that leaves…
+Reforms
+: Xi wants local and provincial governments to focus less on fire-hosing incentives (which can just help firms prolong the price wars), and more on unifying China’s provincial laws into a single, efficient market for competition.
+So the hope
+is, by halting the price wars and China's deflationary cycle, firms might restore their margins, while those that
+can't
+might get gobbled up via an orderly process of mergers and  acquisitions. That'd restore valuations and investor confidence, and preserve the strength of the export machine Xi still wants to drive China's growth.
+But as is so often the case with China, our world has never seen an economy of this size governed by a philosophy of this shape. So we just don't know how this plays out. And it doesn't seem like the Party knows, either.
+Intrigue’s Take
+Mounting pressures are forcing more world leaders to take sides in some interesting ways. Sure, some of President Trump’s
+Liberation Day
+tariffs (partly a response to issues above) got diluted via exchange rate shifts, for example. But eventually, they meant either:
+a) higher costs for
+consumers
+, and/or
+b) lower returns for
+capital
+.
+President
+Trump ended up pushing for a mix
+, siding a bit with consumers (eg, pushing Amazon to eat the tariffs), and a bit with capital (exempting some firms like Apple).
+But across the Pacific,
+President Xi has really now sided with capital
+: ie, consumers will now pay higher prices, in turn granting weaker firms a stay of execution.
+And sure, it’s interesting to see an avowed Marxist-Leninist side so openly with capital like this. But it fits within
+Xi’s hybrid, mercantilist vision
+for China’s economy, which has long suppressed worker wages as a way to help the corporates thrive at home and abroad. That’s what’s driven his export-led growth model, but it’s also what’s driven his industrial policy focused on picking and backing winners across solar, auto, tech, and beyond.
+So ultimately, his answer to today’s imbalances (part-caused by industrial policy) is…
+more industrial policy
+. But this time under the guise of voluntary price and production curbs.
+Maybe it’ll work. Or maybe Beijing’s game of wack-a-mole just gets wackier.
+Sound even smarter:
+China has claimed some success with price controls, eloquently (if controversially) captured in Isabella Weber’s
+How China Escaped Shock Therapy
+.
+Meanwhile, elsewhere…
+🇨🇳
+CHINA
+-
+We don’t want your chips.
+Arguing “
+there’s plenty of computing capacity in China already
+”, Nvidia chief Jensen Huang has dismissed claims that China’s military uses US-made chips (like Nvidia’s), citing Beijing’s national security concerns. Huang has become a regular critic of US chip curbs against China. (
+CNN
+)
+Comment:
+At least one
+paper
+contradicts Huang, citing evidence the People’s Liberation Army has bought many US-designed chips for its next-gen AI systems.
+🇮🇱
+ISRAEL
+-
+Israel blames error for deadly drone strike.
+Israel says a technical error led to a drone strike that hit a crowd of Gazans in line for water, reportedly leaving ten dead (including six children). (
+BBC
+)
+🇰🇵
+NORTH KOREA
+-
+Neighbours and BFFs.
+During his latest visit to Pyongyang, Russian envoy Sergey Lavrov has warned the US, South Korea, and Japan against forming an anti-North Korea alliance. The North also pledged it would “
+unconditionally support
+” Putin’s war on Ukraine. (
+BBC
+)
+Comment
+: It’s classic Kremlin strategy: make threats while trying to look scary (in this case by getting another pledge from Pyongyang). Meanwhile, these blossoming Russia-North Korea ties must be unsettling for China, which has long seen Korea’s Kim family as answering to Beijing, not Moscow.
+🇪🇺
+EUROPEAN UNION
+-
+We’ll trade you.
+The EU has delayed its plans to hit US imports with over $25B in retaliatory tariffs, after President Trump announced new 30% levies on both the EU and Mexico. Meanwhile, the bloc continues seeking to curb its reliance on the US via new deals, announcing a joint push to finalise talks with Indonesia after nine years. (
+FT
+$)
+Comment
+: Trade these days is all about flexibility and adaptability. But they’re not the adjectives we’ve
+traditionally
+heard to describe Brussels. Still, everyone seems keen to get some kind of deal over the line by August, and the EU likely sees this latest US announcement as a pressure tactic to that end.
+🇦🇺
+AUSTRALIA
+-
+Commitment issues?
+Canberra’s defence
+industry
+minister has declined to engage in hypotheticals around whether Australia might back the US in any possible future US-China war, though he’s emphasised it’s ultimately a decision for Australia’s government. (
+ABC
+)
+Comment
+: He was responding to reports that Washington wants these kinds of guarantees in exchange for helping the Aussies get
+nuclear-powered subs
+. The latest word there is DC’s internal review is still in the works, but it’s all awkward timing for Australia’s prime minister
+, who’s currently on an official visit to China.
+🇺🇸
+UNITED STATES
+-
+Turning point for Ukraine?
+Word is President Trump will today (Monday) announce an “
+aggressive
+” new weapons plan for Ukraine, including not just Patriot air defences (reportedly EU-financed) but also
+offensive
+systems. It comes after months of Putin ignoring US ceasefire proposals. (
+Kyiv Independent
+)
+Comment
+: Trump is also scheduled to meet NATO chief Mark “Marky Mark” Rutte today.
+🇮🇷
+IRAN
+-
+So about those talks...
+Foreign Minister Araghchi has suggested Iran would be willing to resume nuclear talks… if the US guarantees it won’t strike again. (
+AP
+)
+Comment
+: Based on the years of these circuitous talks, we’re guessing DC wouldn’t make any such commitment unless Iran ditches its nuclear program.
+Extra Intrigue
+🤣
+Your roundup of the world’s lighter news
+A US dinosaur museum has
+found fossils in its own parking lot
+.
+Poland’s Wimbledon champ says she’ll
+celebrate with her own version
+of the tournament’s traditional strawberries and cream treat: strawberries and
+pasta
+.
+A UAE highway is using grooves in the road plus each vehicle’s speed to
+play Beethoven’s
+Ninth Symphony.
+A tiny
+chihuahua has saved its owner
+after he fell in a Swiss Alps crevasse.
+And a local woman fishing in Malaysia has accidentally hauled in a
+3 metre (10ft) crocodile
+.
+State of the day
+Did the world just get its newest nation?
+French leader Emmanuel Macron has announced a “
+historic
+” agreement that’ll see Pacific territory New Caledonia declared a new state, while still remaining part of France.
+This goldilocks proposal will still have to survive a vote in France’s parliament and a referendum in New Caledonia, but it might help nudge things along from last year’s secessionist violence: more autonomy for the South Pacific archipelago, but without leaving the orbit of Paris (which also has military bases there, btw).
+Today’s poll
+Do you think we'll have more or fewer states in 50 years from now?
+➕ More, here's why...
+📉 Fewer, here's why...
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which music genre do you think has had the biggest impact around the world?
+🎺
+Jazz (40%)
+👯
+K-pop (13%)
+🎵
+Afrobeats  (4%)
+🪘
+Reggae (5%)
+🎤
+Hip-hop (26%)
+💃
+Cumbia (1%)
+✍️ Other (write in!) (11%)
+Your two cents:
+🎺
+P.M:
+“Jazz & Blues is the foundation that all other modern genres and styles were built on.”
+🎤
+F.G:
+“You can find Hip-Hop in all languages, seemingly integrated to culture as a nation-independent genre.”
+✍️
+M.C
+: “Rock n Roll!”
+Honourable mentions
+: Classical, Techno, Reggaeton, Blues, and faith-based music.

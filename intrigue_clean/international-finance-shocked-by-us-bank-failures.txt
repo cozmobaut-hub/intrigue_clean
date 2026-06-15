@@ -1,0 +1,160 @@
+URL: https://archives.internationalintrigue.io/p/international-finance-shocked-us-bank-failures
+Title: 🌍 International finance shocked by US bank failures
+
+Hi there {{ First name | Intriguer }}.
+Canadians recently woke up with a new constitutional protection:
+the right to flip someone off
+. According to a judge who oversaw the dispute between two hot-headed neighbours, giving the middle finger is a
+"God-given, Charter enshrined right that belongs to every red-blooded Canadian."
+So to all our Canadian readers: we salute you.
+Today’s edition is a 4.9 min read:
+🏦
+US
+bank failures send ripples around the world.
+🇨🇳
+China’s
+new defence minister is under US sanctions.
+➕ Plus:
+Extraordinary oil profits, how the papers are covering South African President Ramaphosa getting cleared by a corruption watchdog, and South Koreans might start working even longer.
+- Valentina, Ethan and Jeremy
+🗺️ AROUND THE WORLD
+🇺🇿
+Uzbekistan
+: Lawmakers in Uzbekistan have voted to hold a
+constitutional referendum on 30 April
+after protests derailed plans to hold it last year. The new constitution would allow Shavkat Mirziyoyev to remain president until at least 2040.
+🇨🇭
+Switzerland
+: President Alain Berset has ruled out
+sending Swiss weapons to Ukraine
+after intense European lobbying and months of internal debate. Berset said other countries (such as Germany) were using Switzerland to distract from their own poor records.
+🇳🇿
+New Zealand
+: Prime Minister Chris Hipkins will no longer introduce a bill to lower New Zealand’s
+voting age from 18 to 16
+, after failing to garner parliamentary support. A court recommended lowering the voting age on non-discrimination grounds last year.
+🇳🇮
+Nicaragua
+: President Daniel Ortega has
+suspended diplomatic relations
+with the Holy See after Pope Francis described Nicaragua as a dictatorship. The Pope, who celebrated a decade in the role this weekend, has criticised the recent sentencing of Nicaragua's bishop (a political prisoner) to 26 years in prison.
+🇷🇼
+Rwanda
+: President Paul Kagame is considering
+commuting the sentence of Paul Rusesabagina
+, who saved thousands of lives during the Rwandan genocide and is the hero of the 2004 film
+Hotel Rwanda.
+Critics say Rusesabagina’s 25-year terrorism sentence is a sham.
+🏦 UNITED STATES | FINANCE
+Source: Federal Deposit Insurance Corporation. Credit: Wall Street Journal.
+US bank failures send a shudder around the world
+Briefly:
+US regulators promised on Sunday to guarantee the deposits of individuals and businesses who kept money at Silicon Valley Bank (SVB) and Signature Bank, to prevent a broader financial crisis. They're the second and third-largest US banks to fail, ever.
+How it happened:
+SVB re-invested most customer deposits in US Treasury bonds. These are safe and liquid assets. But when interest rates go up, bond values go down. And we all know what's been happening with interest rates lately.
+So, when customers came looking for cash, SVB was forced to sell its bonds at a loss. And when SVB attempted to raise capital to plug the hole, spooked customers raced to withdraw their money, leading to the bank's sudden collapse on Friday.
+The ripple effect is global.
+SVB had branches in China, Germany, Israel, and elsewhere. So financial regulators around the world are now
+stepping in
+to prevent Everything Everywhere Failing All at Once.
+Intrigue’s take:
+This is different to 2008: SVB's poor choices were key, rather than any broader systemic issue. And US regulators have moved quickly to stem the bleeding.
+SVB's unique customer base (startups and tech workers) also played a role. They're great customers to have when tech is booming. Less so right now:
+Higher interest rates and tighter VC wallets meant fewer and smaller deposits from startups, putting strain on SVB's finances, and;
+The hyper-connected nature of tech workers prompted
+some observers
+to call SVB’s failure
+“the first memetic, social-media fuelled bank run in history”
+.
+As with 2008, some very clever folks in Moscow, Beijing and beyond will have been watching how a rumour of SVB's insolvency quickly became a self-fulfilling prophecy.
+Also worth noting:
+SVB’s collapse may force the Federal Reserve to
+slow the pace of interest rate hikes
+.
+Shares of California-based
+First Republic Bank
+bottomed out at $17.53 on Monday, down from $147 as recently as last month.
+📰 GLOBAL PERSPECTIVES
+How different newspapers covered
+: South African President Cyril Ramaphosa being cleared of wrongdoing in a corruption watchdog's preliminary report.
+Links:
+Al Jazeera
+,
+IOL
+,
+the Guardian
+.
+Sponsored by
+Policyware
+Become an expert by learning from one, and even get your job to pay for it.
+Dr. Meltzer is a senior fellow at the Brookings Institution in Washington D.C., where his research focuses on the digital trade, emerging technologies including AI and the trade law and regulatory implications of cross-border data flows, including for privacy and cybersecurity.
+In his course, Governing Digital Trade and Data flows, you can learn at your own pace with both live and recorded lecture options.
+Courses are eligible for corporate reimbursement!
+Learn more.
+🇨🇳 CHINA | TWO SESSIONS
+China's one man show.
+A closer look at China’s new ministerial dream team
+Briefly:
+China's annual
+Two Sessions
+concluded on Monday after officially re-appointing Xi Jinping leader for an unprecedented third term. In a suspense-devoid moment, he was confirmed with 2,952 votes in favour and 0 against.
+Xi now has a rough in-tray. But even with a margin of victory of *checks notes* 100%, he can’t get the job done alone. So the Two Sessions appointed some new helpers, including:
+Premier Li Qiang
+: China’s new #2 is a Xi loyalist, tasked with helping restore investor confidence to reach China's 5% growth target. He's already admitted this
+won't be easy
+.
+Defence Minister Li Shangfu
+: A relative unknown, unless you’re the US Office of Foreign Assets Control (he’s been under US sanctions since 2018 for buying weapons from Russia).
+Intrigue’s take:
+When something goes spectacularly wrong at work, you don't usually expect a huge promotion. Just ask
+Spain's former transport secretary
+.
+But that rule doesn’t apply if you’re tight with Xi Jinping. His new premier presided over a highly controversial Shanghai lockdown last year, but still got the ultimate promotion. As for the new defence minister, his promotion was a reward for helping modernise China’s military.
+All in all, this year’s Two Sessions produced few surprises, beyond some
+fun theories
+about why Xi got an extra cup of tea. Oolong live the king.
+Also worth noting:
+Li Qiang is modern China’s first premier to have
+not served in the central government
+(his previous roles have been Party and/or provincial posts).
+President Xi
+accused the US
+of implementing a policy of
+“all-round containment, encirclement and suppression against [China]”
+.
+🔢 STAT OF THE DAY
+Saudi oil giant Aramco just revealed an eye-watering
+$161B in profits
+last year
+(not revenue or market cap...
+profits
+). This represents a 46.5% increase from 2021. High energy prices and expanded production made it a bumper year for the energy sector.
+👀 EXTRA INTRIGUE
+We’re very online, so you don’t have to be.
+South Korea proposes 69-hour workweek, up from 52
+Did regulators miss warning signs at Silicon Valley Bank?
+The future of Palestinian politics
+​​The age of American naval dominance is over
+Health challenges are re-emerging in Sub-Saharan Africa
+🗳️ POLL TIME!
+Is the world headed towards another banking crisis?
+💰 No, the damage is being controlled
+🏦 Yes, SVB was just the first domino
+Login
+or
+Subscribe
+to participate
+Yesterday's poll:
+Are you satisfied with the weekend's Oscar winners?
+🟩🟩🟩🟩🟩🟩 🎞️ Yes, for once I agree with the Academy (51%)
+🟨🟨🟨⬜️⬜️⬜️ 🎥 No, and I feel strongly about it (24%)
+🟨🟨🟨⬜️⬜️⬜️ 🎬 Only partially, [...] was robbed (write in!) (25%)
+Your two cents:
+🎞️
+S.W.H:
+"I stayed up to see the first two winners. Ke Huy Quan got everyone in the room teary-eyed and happy for his success."
+🎬
+F.C.B:
+"
+Banshees of Inisherin
+was robbed - what a beautiful, dark, hilarious film - just like the Irish it depicts."

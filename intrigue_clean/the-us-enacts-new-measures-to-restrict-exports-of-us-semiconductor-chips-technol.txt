@@ -1,0 +1,158 @@
+URL: https://archives.internationalintrigue.io/p/us-enacts-new-measures-restrict-exports-us-semiconductor-chips-technology-china
+Title: The US enacts new measures to restrict exports of US semiconductor chips technology to China
+
+Hi there {{ First name | Intriguer }}.
+We’ve officially turned one! This time last year, we shipped out our first-ever daily newsletter, complete with cut-off graphics and homemade memes. Safe to say we’ve come a long way since then. Please help us make our second birthday by sharing Intrigue with your friends. 😅
+Today’s briefing is a ~4.6 min read:
+💽
+The Chip Wars:
+The
+US is cutting China off its supply.
+➕ Plus:
+Canada buys a small piece of France, Poland offers to host US nuclear weapons, and the Cuban revolutionary who almost killed Fidel Castro.
+P.S. Our co-founder John will be in Dublin and London over the next two weeks, so if you’re in the region and fancy a coffee, shoot him a note by hitting reply.
+📰 GLOBAL HEADLINES
+Stories:
+THT
+,
+Japan Today
+,
+Radio Prague International
+,
+Observer
+,
+ABC
+🤿 DEEP DIVE
+US forces China to get off semiconductors cold turkey
+In brief:
+Last Friday, the US unveiled an unprecedented package of restrictions on semiconductor sales to China.
+The new export rules will not only undermine China’s fledgling semiconductor sector, but might also hurt US chip companies.
+The new US export restrictions might short-circuit some parts of the US-China relationship.
+The US is cutting China off
+For a country that preaches the virtues of free trade, the US sure knows how to throw some serious trade punches.
+On Friday, the Biden Administration imposed
+restrictions on the sale of US semiconductor technology to China
+in an attempt to slow the development of China’s tech sector.
+The
+US Bureau of Industry and Security
+was surprisingly candid in announcing the purpose of the policy:
+❝
+“[The measures will] restrict the PRC’s ability to obtain advanced computing chips, develop and maintain supercomputers, and manufacture advanced semiconductors.”
+Here’s what’s changing:
+Companies wishing to export high-performance computing chips produced using US tech to China must obtain a special export licence.
+Export limitations will be imposed on semiconductor manufacturing equipment.
+US citizens or companies wishing to work with Chinese chip producers must first secure permission from the government.
+Simply put,
+doing business in China just got a whole lot tougher
+for some US tech companies.
+The fallout won’t be pretty
+This isn’t the first time the US has flexed its trade muscles to hinder China’s tech advancement. Chinese tech giant Huawei experienced difficulties after the US placed it on an export control blacklist three years ago.
+If Huawei’s experience is anything to go by, parts of China’s tech sector are in for a rough ride:
+At the time, Huawei’s Deputy Chairman Ken Hu said the US’s decision
+“caused a lot of damage”
+to the company, which recorded a
+29% year-on-year decline
+in revenues in 2021 thanks in part to the controls.
+Not only will the new rules make it extremely difficult for Chinese firms to obtain advanced chips for AI and supercomputing efforts, but
+China might also lose crucial talent at a moment when high-skilled workers
+in the industry are already
+hard to find
+.
+China tech expert
+Paul Triolo
+described the US’s restrictions as
+“a BFD [big f***ing deal]”,
+adding in a later interview with the Financial Times:
+❝
+“The US has essentially declared war on China’s ability to advance the country’s use of high-performance computing for economic and security gains”.
+Collateral damage
+Western companies may also suffer from these measures
+, even if the US government provided some exemptions for domestic and ‘allied’ companies.
+Manufacturers such as Lam Research and Intel are about to have a sizeable China-shaped hole in their revenues.
+As
+Hal Hodson
+, Asia tech correspondent at The Economist, points out
+“chips sales are now shrinking month on month, flat YoY, which will make curtailing exports to China much more painful for global chip and tool companies”.
+Quick analysis:
+Some analysts have called the US measures
+short-sighted
+.
+While the restrictions will undoubtedly hurt China in the short term, being cut off from US tech will only
+further incentivise China to develop a far more robust, domestically-sourced semiconductor supply chain for the future
+.
+Will the US look back on these restrictions as the moment they lost one of the last sources of geopolitical leverage they had over China?
+Sponsored by eco-nnect
+Rewild yourself.
+In this episode, our friends at eco-nnect dive into a conversation with Laurien Holtjer, lover and expert of wild nature. Today, Laurien is the Head of Communications at Rewilding Europe. In the past ten years Rewilding Europe has been reintroducing wildlife and bringing back vital ecosystems across Europe: eg. bisons in Romania, bears in the Pyrenees. Laurien's passion for wild nature has taken her across the world, from a biodiversity project in Kyrgyzstan, a field study in South Africa and even underwater as a diving instructor.
+Take a listen, and see for yourself.
+🔦 REGIONAL SPOTLIGHT
+Europe
+🇦🇹 Austria
+President Alexander Van der Bellen has been
+re-elected to a second six-year term
+as head of the Austrian state.
+Van der Bellen won more than 50% of the vote, thus avoiding a runoff election against far-right candidate Walter Rosenkranz, who won less than 20% of the electorate’s support.
+One of his opponents was 35-year-old punk rock singer Dominik Wlazny, leader of ‘The Beer Party’, who placed a respectable fourth place in the presidential race.
+🇫🇷 France
+Canada will
+buy a plot of land in Normandy
+to preserve the historic D-Day site from a French developer who had planned to build two sea-view condos there.
+The land is adjacent to a WWII museum that pays tribute to the 45,000 Canadian soldiers who lost their lives in Europe.
+Canada will contribute ~$3M for the land, which will be purchased alongside the local French town of Courseulles-Sur-Mer.
+🇩🇪 Germany
+Germany's special gas commission recommends
+the state pay a monthly gas bill
+for households and small businesses, and set up a mechanism to keep prices low from next spring.
+If confirmed, the scheme would be paid for by a controversial €200B 'defence shield' package unveiled by Chancellor Olaf Scholz late last month.
+EU ministers have accused Germany of unfairly subsidising its businesses while opposing an EU-wide cap on gas prices.
+🇵🇱 Poland
+Polish President Andrzej Duda has apparently
+asked to host US nuclear weapons
+on its territory amid growing fears that Russian President Vladimir Putin will choose the nuclear option in Ukraine.
+However, Poland’s request is seen as being largely symbolic as moving nuclear warheads closer to the intended target actually makes them more vulnerable and less effective.
+For its part, the US denies receiving any official request.
+🇺🇦 Ukraine
+Several Ukrainian cities and civilian infrastructure sites have been
+hit by Russian cruise missiles and kamikaze drones
+overnight, resulting in at least 11 deaths.
+Russia has made it clear that the strikes were in retaliation to the alleged Ukrainian attack on the Kerch bridge, which linked Russia and Crimea.
+The UN has said it’s “deeply shocked” by the air strikes, while pointing to them as constituting “another unacceptable escalation of the war”.
+🗞 IN OTHER NEWS...
+🖋 The man who almost killed Fidel Castro
+Fidel Castro, centre, with Rolando Cubela Secades, right. Credits: Cubacute.
+History is always closer than we realise:
+Rolando Cubela Secades, a Cuban revolutionary-turned-CIA–collaborator,
+passed away two months ago
+in near-total obscurity.
+Cubela came close to altering history as we know it, when he agreed to carry out an assassination attempt against Fidel Castro beginning in 1963.
+From revolutionary to rival:
+In the early days of the Cuban revolution, Cubela and Castro fought side by side to topple the dictatorship of Fulgencio Batista, but Cubela quickly became disillusioned with Castro’s Communist regime and turned to the US.
+According to a CIA handler, Cubela was determined to go against Castro himself, reportedly commenting:
+“If you can’t get rid of the rabies, just get rid of the dog.”
+Codename AMLASH:
+The CIA and Cubela worked together on a number of assassination plots involving weapons ranging from a poisoned pen to a sniper rifle, but their partnership ended shortly before the revolutionary was imprisoned in 1966.
+Cubela remained in prison for 13 years, after which he settled in Florida until his passing earlier this year.
+An important nobody:
+Clearly, Rolando
+Cubela isn’t super well-known, but he indirectly helped establish the Church Committee, which uncovered a series of abuses which took place during US intelligence operations that shocked the American public.
+In an interview in 1975, Senator Frank Church explained the Church Committee was necessary to ensure “
+that all [US intelligence] agencies [...] operate within the law and under proper supervision
+”.
+💼 NOW HIRING
+We've rounded up a few jobs we think you'll be very intrigued by.
+Click the link to find out more information and how to apply!
+The Marshall Institute Impact Accelerator
+, Head of Programme
+Location: London, UK
+Deadline: 6 November, 2022
+Experience level: Significant experience.
+Department of Finance, Canada
+, Economist and Policy Analyst
+Location: Ottowa, Canada
+Deadline: 24 October, 2022
+Experience level: Master's degree required.
+Invesco
+, ESG Internship
+Location: Henley-on-Thames, UK
+Deadline: 30 October, 2022
+Experience: None.

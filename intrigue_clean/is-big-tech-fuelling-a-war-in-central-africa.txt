@@ -1,0 +1,248 @@
+URL: https://archives.internationalintrigue.io/p/big-tech-fuelling-war-central-africa
+Title: 🌍 Is big tech fuelling a war in Central Africa?
+
+IN TODAY’S EDITION
+1️⃣ Is big tech fuelling a war in Central Africa?
+2️⃣ Your Intrigue job board
+3️⃣ Film of the day
+Hi {{ First name | Intriguer }}.
+You’ll see today’s briefing has a cinematic feel to it, so here are three screen/geopolitics crossovers that make me lol.
+First
+, I once met someone pitching a comedy called
+The Kevins
+, about how every Kevin (whether former Australian prime minister Kevin Rudd, NBA star Kevin Durant, or actor Kevin Bacon) is part of a secret society trying to control the world. The idea still makes me lol (please make it).
+The
+second
+is about a DC-based influencer called ‘Tony P’, who just did an online welcome to Washington for the big NATO summit.
+Apparently
+when his agent first called him about this gig for
+NATO
+(the alliance), he thought it was a gig for Shark
+nado
+(the B-grade films). This also makes me lol.
+The
+third
+one is our
+film of the day
+below, so you’ll need to read on. But in the meantime, we’ll brief you on some interesting reports about
+a rebel group now controlling the world’s largest coltan mines
+, and why it’s relevant to that phone in your pocket.
+THE HEADLINES
+NATO pledges more help for Ukraine at DC summit.
+The US, Germany, Romania, Italy, and the Netherlands have all pledged to help
+send additional air defence systems to Kyiv
+, while the broader alliance has also promised to deliver more short and medium range missiles. During his speech, the US president said NATO “
+is stronger than it’s ever been in its history
+”, and presented outgoing Secretary General Jens Stoltenberg with the Presidential Medal of Freedom.
+Airstrike in southern Gaza.
+Local witnesses and officials say
+an Israeli airstrike has hit a camp
+for displaced people outside a school in southern Gaza, leaving scores dead. Israel says it was targeting a “
+terrorist from Hamas' military wing
+” who had taken part in the October 7 attacks. Meanwhile, the US-built aid pier off Gaza will reportedly soon be
+dismantled permanently
+, after being plagued by bad weather and other challenges.
+Russian court orders arrest of Yulia Navalnaya.
+The
+economist and widow of opposition figure Alexei Navalny
+, who died in a Russian penal colony earlier this year, now stands accused of participating in an “
+extremist
+” organisation. She’s currently living in an undisclosed location outside Russia with her two children. Responding on Twitter/X, she
+said
+“
+when you write about this, please don’t forget to write the main thing: Vladimir Putin is a murderer and a war criminal
+”.
+Saudi Arabia tried saving Russian assets from G7 seizure.
+The kingdom reportedly warned it might sell European debt if the G7 seized $300B in frozen Russian central bank assets, according to
+Bloomberg
+. It’s unclear if the Saudis were acting out of self interest (fearing a precedent) or solidarity with Russia. The Saudis deny issuing any threats, though the G7 ultimately decided to seize the
+profits
+earned by the frozen assets, rather than the assets themselves.
+Europe launches a rocket.
+The Ariane 6 launcher, the culmination of a decade’s work by a French-led team of 13 European countries,
+successfully took off
+from French Guyana yesterday (Tuesday). It’s aiming to compete in the commercial space launch market currently led by Elon Musk’s SpaceX. The Ariane 6’s first commercial contract is to launch a French spy satellite in December.
+TOP STORY
+Is big tech fuelling a war in Central Africa?
+The US State Department issued a ‘
+Statement of Concern
+’ on Monday, warning that critical minerals bought from the eastern Democratic Republic of the Congo (DRC) and Rwanda are fuelling the ongoing conflict in Central Africa.
+This isn’t the first warning,
+either
+. The US dropped its statement shortly after a
+UN report
+cautioned that the world’s rush for tech-critical minerals (like
+tantalum
+) is both threatened by - and fuelling - ongoing violence in the region.
+Some quick context
+:
+emerging from a lengthy and miserable European colonisation and then the 1994 Rwandan genocide, many locals
+crossed into DRC and formed or joined 120 or so rival armed factions that are still fighting.
+And while that conflict doesn’t make headlines, it’s displaced around
+7.3 million people
+, making it one of the
+world’s worst humanitarian crises
+. It’s also spiked recently after a ceasefire with the ‘M23’ rebels
+collapsed
+.
+Often backed by regional powers, M23 and its rivals have been vying for control over the mineral-rich eastern DRC. And the Rwanda-backed M23 just seized some of the world’s biggest
+coltan
+mines there, with allegations of forced labour meaning minerals from the Rubaya region are now “
+ineligible for trade
+” under UN guidelines.
+But they keep making their way over borders and out into international markets.
+So then,
+who cares about coltan?
+To name-drop
+Vanessa Amorosi’s
+2000s-era pop tune that somehow ended up #1 in Hungary… “
+absolutely everybody
+”.
+Coltan is how we get
+tantalum
+, which plays a key role in portable electronics and potentially quantum processing. That’s why both the
+US
+and
+EU
+have labelled tantalum a “
+critical
+” raw material. But that’s also why it’s a little tricky that 60% of the world’s supply now comes from the DRC and Rwanda.
+So what to do?
+While it struggles on the battlefield at home,
+the DRC
+is also shining a light on coltan’s buyers abroad: it’s
+accused Apple
+of using conflict-sourced coltan in its iPhones (something the tech giant denies). It’s also calling for an embargo on all coltan exported by neighbouring Rwanda, alleging those exports have actually been stolen from the DRC by Rwanda-backed rebels (Rwanda denies this).
+Meanwhile, there are various
+regional
+tracing systems to help assure global buyers, but these seem to be collapsing due to the conflict.
+And
+some governments
+(particularly in the West) have also passed new laws to drive transparency around how our products hit our shelves, though they largely shift the burden onto businesses themselves.
+So then, what are the options for businesses?
+All sorts of
+consultancies
+will happily charge millions to tell you what we’ve just told you for free above (did we pick the wrong line of work?)
+Or you can (per OECD
+advice
+) invest in more upstream and on-the-ground scrutiny and engagement, which can be tricky given the conflict
+Or you can
+pay a premium
+to get your tantalum from the other 40% of global supply that’s supposedly not tainted, though that just tweaks your dilemma: you face higher costs but could still end up with tantalum that’s tainted (thanks to the industry’s broader tracing challenges).
+So then that leaves the final piece of the puzzle, which is the rest of us:
+consumers
+. But our options don’t seem much better than those for businesses.
+INTRIGUE’S TAKE
+Much like a good movie, life eventually forces the protagonist (whether it’s you or, say, Tom Cruise) to choose between
+two irreconcilable goods
+: a comfortable living, or a clean conscience (
+The Firm
+); the love of your life, or the job of your dreams (
+Jerry Maguire
+). And so on. The choices we make reveal who we are.
+But much like how Tom eventually figures out a way to get love
+and
+cash on screen, we’re hopeful we can (with
+good engineering and policy
+) find ways to hit seemingly competing priorities in the real world.
+In this instance, it’ll involve a mix of ingenuity around
+supply chains
+(like using blockchain to improve traceability) and
+materials science
+(like using alternatives such as niobium from Canada or Brazil).
+But as inevitable as these developments may seem to us, ‘inevitable’ doesn’t necessarily mean ‘quick’, which is probably what folks in the eastern DRC really need right now.
+Also worth noting:
+Rwanda recorded an unprecedented rise in coltan exports in 2023, up 50% from 2022. The UN and US statements above both note reports of coltan being smuggled out of the DRC to Rwanda and Uganda.
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: Pakistan has
+suspended its expulsion of undocumented Afghan migrants
+after discussions with the UN’s top refugee official, who’s just wrapped up a three-day visit. Pakistan announced its mass expulsions last year after a sharp rise in terrorist attacks which it attributed to the refugee population.
+🇪🇺
+European Union
+: Employees participating in a survey at the European Central Bank have
+reported high levels of burnout
+, with thoughts of self-harm up 50% since 2021. While various global crises seem to have taken their toll on the staff, nine in 10 also pointed to “
+favouritism
+” and other perceptions of unfair treatment at the bank.
+🇦🇺
+Australia
+: Canberra has appointed its first-ever
+special envoy to combat antisemitism
+, naming a senior business executive to the role for the next three years. In her first public remarks in the position, she said reports of antisemitism in Australia spiked 700% immediately after the Hamas October 7th attack on Israel.
+🇭🇹
+Haiti
+: The newly selected prime minister (Garry Conille) has toured Haiti’s largest hospital after local police announced they’d seized it back from armed gangs over the weekend. Around 200 Kenyan police have now arrived as part of
+a multinational peacekeeping force
+, with 2,300 more expected from Kenya, the Caribbean and beyond.
+🇸🇦
+Saudi Arabia
+: The new Saudi-owned Riyadh Air has
+signed a deal with US-based Delta Airlines
+, paving the way for codeshare and interline arrangements between the two carriers. Riyadh Air has yet to launch its first flight, but says it plans to begin operations in 2025.
+EXTRA INTRIGUE
+The Intrigue job board is back! Here are some listings we thought you might like
+Head of Marketing
+@ Porsche in Singapore
+Strategic Partnerships Specialist
+@ UNDP in Islamabad
+Managing Counsel, Energy Products
+@ Tesla in Texas
+Anti-Money Laundering Analyst
+@ Citi in Sao Paulo
+Sustainability Operations Manager
+@ Riyadh Air in Riyadh
+FILM OF THE DAY
+Left: A poster for the film. Right: Germany’s former leader, Chancellor Angela Merkel.
+Angela Merkel has led many lives: quantum chemist, Germany’s first female Chancellor, world stateswoman and now … amateur detective. Or at least, that’s how
+a German film
+(and its
+sequel
+!) is imagining the retired politician. Solving mysteries and murders
+Miss Marple
+style, she also has a pug as her sidekick, which is a bold creative direction by the screenwriters given Merkel’s well-known fear of dogs.
+Of course, Merkel isn’t the only world leader with her own spinoff: Venezuelan autocrat Nicholas Maduro features as a
+superhero
+(called ‘Super Mustache’) in a children’s cartoon, while others have ended up in power
+after
+stints on stage - whether it’s the comedians like Guatemala’s Jimmy Morales or Slovenia’s Marjan Šarec, popstars like Haiti’s ‘Sweet Micky’, or beyond.
+DAILY POLL
+Would you be more likely to buy a pricier gadget if it came with a supply chain guarantee?
+🌳 Yep, a small premium is worth the global impact
+🔎 Nope, I don't think I can trust the guarantees
+📱 Nope, things are already too expensive
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s Poll:
+Do you think this Japan-Philippines treaty will make any difference?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🌐
+Yes, collectively all these actions will help deter China (62%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+❌
+No, China wants regional control and will persevere (36%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other, write in! (3%)
+Your two cents:
+🌐
+C.M:
+“Absolutely. The Philippines will feel a bit more comfortable in challenging China's aggressive behaviour to the betterment of the entire region.”
+❌
+D.R:
+“I believe we are yet to witness an action that will result in China backing away from long-term strategic goals.”
+✍️ A.S:
+“It is only a beginning in the effort to deter China.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

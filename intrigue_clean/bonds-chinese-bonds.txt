@@ -1,0 +1,196 @@
+URL: https://archives.internationalintrigue.io/p/bonds-chinese-bonds
+Title: 🌍 Bonds, Chinese bonds
+
+IN TODAY’S EDITION
+1️⃣ China’s bond market
+2️⃣ Panama Papers ruling
+3️⃣ New Intrigue merch on offer
+Hi {{ First name | Intriguer }}.
+I recall learning about Chinese government bonds in my very brief stint as a banking and finance junior lawyer in China in the early 2010s. Safe to say commercial law was evidently not my strong suit, as I’d been asked by my manager to enrol in additional workshops to “re-familiarise” myself with the equivalent of Commercial Law 101.
+I took less away from those lessons than I did learning about criminal law from Law and Order *
+dun dun
+*. But one thing that did stick with me was how good an investment Chinese government bonds were, and how they offered a strongly positive yield in a world where income was otherwise hard to come by.
+Much of that looks to have changed, as we’ll dig into in today’s top story.
+THE HEADLINES
+US Supreme Court rules in Trump immunity case.
+The Supreme Court ruled on Monday that
+former presidents have “
+broad
+” immunity
+from criminal prosecution “
+for all official acts”
+. The ruling will likely delay any verdict in the ongoing election interference case against Trump until after the US election in November. The court ruled in a 6-3 vote, with Judge Sotomayor’s dissent warning that “
+the president is now a king above the law
+”.
+Israel orders evacuation of Khan Younis.
+IDF warplanes
+hit Gaza’s second-largest city
+after missiles were reportedly launched towards Israel from there. Israeli troops had largely withdrawn from Khan Younis earlier this year, but Monday’s evacuation order indicate possible plans for another ground assault, highlighting Israel’s difficulties in stopping militants from regrouping in areas it previously cleared. UN Secretary-General Antonio Guterres said the order “
+shows yet again that no place is safe in Gaza
+”.
+Orban visits Ukraine for first time since Russian invasion.
+Hungarian Prime Minister Viktor Orban, who is regarded as Putin’s closest EU ally, is in Kyiv for
+talks with Ukrainian President Volodymyr Zelensky
+. Orban’s visit comes one day after Hungary took over the European Union presidency, which rotates amongst members every six months.
+US manufacturing contracts in June.
+June is now the
+third consecutive month
+of downturn for the US sector, which has been hit by low demand and higher interest rates. Analysts are expecting the weakness to last until the end of the year.
+New Panama president vows to close immigration routes.
+During his inauguration speech on Monday, President José Raúl Mulino pledged to halt irregular immigration
+flows through the Darién Gap
+, a dangerous stretch of jungle. More than half a million people crossed into Panama from the Darién route last year.
+TOP STORY
+China’s Central Bank dips into bond market amid economic slump
+The People’s Bank of China (PBOC) announced on Monday that
+it was going to dip its toe into the open market and “
+borrow
+” Chinese government bonds from primary dealers.
+On the face of it, the announcement is but one sentence long. But seen from a broader perspective, it offers a window into how China’s central bank is trying to use state levers to control its slowing economy ahead of this month’s Third Plenum (which gathers some 400 government bigwigs, military chiefs, provincial bosses and academics in Beijing to discuss China’s political and economic course).
+Let’s dive in.
+Timing is everything and this announcement is no exception.
+Since the start of the year, investors have flocked to China's bonds. Why? Well, other parts of China's 2024 economy haven't looked so crash hot to invest in —
+Property investment is down
+Retail sales growth is falling
+Housing prices have slumped
+And, there's tepid wage growth
+Just to refresh,
+when people talk about bonds, they’re referring to a kind of loan that investors give to the government, which the government promises to pay back with an interest cherry on top.
+For the government, it's a way to raise some cash. For investors, bonds are often considered a ‘safe haven’ compared to corporate stocks, making it an alluring option for money managers who want to a) diversify their risk b) park their cash in a safe spot, and 3) likely guarantee at least an interest return (granted, of course, that the government doesn't collapse).
+Sounds like a win-win, right?
+It's a little more complicated than that.
+For starters, a rally in government bonds signals to central banks that investors think the broader Chinese economy is weak and don’t want to throw their cash into new stocks.
+Secondly, the high demand for government bonds has sent bond prices upwards, pushing yields (the anticipated annual return to an investor) to historically low levels.
+Generally, low yields on bonds aren’t bad if interest rates remain untouched, money managers are fine with keeping cash parked in government securities for a solid few years and other economic factors are up.
+A big caveat comes in the minute interest rates rise. The American market experienced just that in 2023 when investors tried to rapidly pull their money out of Silicon Valley’s Bank SVB, but the bank had
+tied up its liquidity in treasury bonds.
+China’s Central Bank
+has warned against exactly that
+type of scenario in Beijing.
+Signs of market imbalances and heightened financial risk emerged this week when news broke that China’s onshore 10-year government bond yield
+declined to 2%, the lowest since Bloomberg started tracking the data in 2002
+. So Monday’s announcement by China’s central bank shows it’s intervening in the market to keep yields under control.
+Was this by design, or a sign that the People’s Bank of China is panicking?
+Well, there’s been some signs the bank was planning to shake up its bond market dealings — PBOC Governor Pan Gongsheng said last month the bank is working with the finance ministry to incorporate bond trading into its portfolio. President
+Xi Jinping had also advocated in October
+last year for the PBOC to buy and sell government bonds in its open-market operations.
+The last time the PBOC had bought bonds was in 2007, which the state used to create its sovereign wealth fund China Investment Corp.,
+ballooning into a
+$1.35B fund which was arguably a net positive.
+But there’s more on the horizon
+.
+As the Third Plenum approaches (15-18 July), there will be growing pressure for economic measures to address current weaknesses and stimulate growth. Analysts are watching closely for big announcements that could invigorate the economy, akin to previous meetings in 1978 (which gave foreign businesses the ability to operate in China) and 1993 (which saw the liberalised renminbi).
+Whether this is part of a calculated strategy or a sign of mounting concerns, the central bank’s actions will be closely watched in the weeks to come.
+INTRIGUE’S TAKE
+The economic data YTD is understandably worrisome for China’s Central Bank. Luckily for them, the hard lesson for a bond market rally happened just last year in their biggest competitor market, the US.
+The bigger question, once and if they are able to cool down the bond rally, is whether they can push investors back to the money markets to get wage growth, retail sales, and property prices back up. Bond sales are easier to dip into than forcing consumer to go on shopping sprees and folks to sign onto decade-long mortgages.
+Also worth noting:
+China’s bond market isn’t the only one heating up, global investors are piling into
+India's $1.3 trillion of sovereign debt
+as they rush to find alternatives to China and Russia.
+CHECK OUT THE INTRIGUE SHOP!
+New product just dropped!
+We’ve got hats, t-shirts and mugs…and now coasters!
+Check it out.
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: Pyongyang has switched transmission of its state TV programs
+from a Chinese satellite to a Russian one
+, making it harder for South Korean authorities to monitor such broadcasts. Russia and North Korea have recently signed an agreement to deepen their cooperation in all areas.
+🇬🇧
+UK
+: Over 90 passengers and crew onboard a British Airways flight that were taken hostage shortly after landing in Kuwait in 1990 are
+suing the airline and the UK government
+for “
+deliberately endangering
+” them. The claimants accuse the UK government of not preventing the flight from landing in Kuwait despite knowing that Iraqi troops had invaded the country that morning.
+🇲🇲
+Myanmar
+: The Burmese central bank denied
+accusations levelled by the UN
+that it was being used by the ruling military junta to purchase weapons for use in the country’s ongoing civil war. Despite sanctions, the junta was able to import US$253M worth of weapons, dual-use technologies, and other materials in the last year.
+🇵🇦
+Panama
+: A Panama judge has
+acquitted all 28 people
+accused of money laundering who were involved in the infamous Panama Papers. The case had first garnered widespread attention after a cache of documents was leaked detailing how the world’s richest people evaded taxes with the help of a Panamanian law firm.
+🇲🇷
+Mauritania
+: President Mohamed Ould Ghazouani has
+won his reelection bid
+, according to early vote counts. His main rival, anti-slavery activist Biram Dah Abeid accused the ruling party of doctoring the election.
+EXTRA INTRIGUE
+Here’s what people around the world googled yesterday::
+🇦🇷
+Argentinian
+tennis fans searched for
+‘Wimbledon’
+to keep up with the UK
+tournament’s latest developments
+.
+🇮🇳
+Indian
+internet users looked up ‘
+Doctors' Day 2024
+’ to partake in the
+1 July celebrations
+.
+🇫🇮
+Finnish
+folks googled ‘
+Michael J. Fox
+’ after the ‘Back to the Future’ star was invited
+on stage by Coldplay
+at the Glastonbury music festival.
+FLAG OF THE DAY
+Credits: Encyclopedia Britannica.
+We wouldn’t call ourselves as flag experts, but we’d wager the flag of Belize is the only flag in the world to feature a) nicely tailored slacks, and b) two sets of six-packs.
+Officially adopted in 1981 after Belize gained independence from the UK, the flag prominently depicts the country’s coat of arms in the middle of a blue background and two red stripes on the top and bottom, with each colour representing one of the two main parties of Belize.
+The sigil features several references to Belize’s logging industry (the mahogany tree, axes and saws) which thrived under British imperial rule, as well as the national motto ‘
+I flourish in the shade’
+. It’s a winner.
+DAILY POLL
+Can the People's Bank of China use tools to recharge the economy?
+🏛️ Yes, it's a socialist, state influenced, market.
+📉 No, the invisible hand cannot be outsmarted.
+✍️ Other (write in!).
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Would you support your country taking a more 'inwards-looking' approach to foreign policy?
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+🛑
+Yes, we're doing too much abroad (25%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+😴
+No, that's how you lose influence on the world stage (71%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents:
+😴
+J.B:
+“My country is a small trade-focused nation - 'inwards-looking' isn't a realistic option.”
+😴
+T.G:
+“If your a major player and pull back; who fills your spot ? Better to be in the arena than in the stands watching other powers decide international norms.”
+✍️
+Z.P:
+“Foreign policy is internal policy. Anything a country does abroad has to be justified domestically.”
+🛑
+G.C.G:
+“The US needs to continue to be involved abroad but needs to be more selective in its involvement. Stop trying to be everything to everyone and involved in every discussion. Get your own house in order.”
+✍️
+A.E:
+“National borders should be phased-out. Bring on a globalized world.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

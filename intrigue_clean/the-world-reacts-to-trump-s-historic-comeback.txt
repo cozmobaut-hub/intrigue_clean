@@ -1,0 +1,297 @@
+URL: https://archives.internationalintrigue.io/p/wednesday
+Title: 🌍 The world reacts to Trump’s historic comeback
+
+IN TODAY’S EDITION
+1️⃣ The world reacts to Trump’s historic comeback
+2️⃣ A mystery solved in Brazil
+3️⃣ Flag of the day
+Hi {{ First name | Intriguer }}.
+Well there you have it. The American people have elected Donald Trump as their next president. And the result wasn’t even close.
+But before we get into that, forgive me as I quickly share some of the best jokes I heard while a nervous world was waiting for the result:
+“
+This feels like a long international flight where you’ve watched all the movies, and the only thing left to do is nap
+”
+“
+This feels like waiting for Santa, but he might burn down your house”
+“
+This feels like the world’s biggest-ever gender reveal party
+”, and
+“
+Any cigarettes you smoke tonight do NOT count
+”.
+There were also some quality lolz about folks somehow
+still
+googling if Biden has dropped out, signalling a level of offline bliss I can only dream of. But let’s get in.
+THE HEADLINES
+Scale of China-linked hack gets clearer.
+The Wall Street Journal continues to report further details on
+the mass hack by a group linked to China’s intelligence apparatus
+. Over a period of months, the hackers reportedly gained the ability to access the phone data of pretty much any customer of a compromised carrier (like Verizon and AT&T), though they honed in on a few dozen high-value targets (including the Trump and Harris campaigns). The emerging picture is of a cyber espionage capability that’s remarkably advanced, and wielded in a way that’s remarkably brazen.
+AstraZeneca shares fall on China investigation.
+Shares in British-Swedish drug-maker AstraZeneca have
+fallen by over 8%
+after an outlet in China reported dozens of the firm’s executives (including its China president) are now caught up in an ongoing medical insurance fraud investigation.
+North Korean and Ukrainian troops engage for first time.
+Ukraine’s defence minister has confirmed North Korean and Ukrainian troops have now
+engaged in direct combat for the first time
+. President Zelensky says the “
+small engagement
+” will “
+open a new page in instability in the world
+”.
+Netanyahu fires his defence minister.
+After weeks of speculation, the Israeli prime minister has
+fired his defence minister
+(Gallant), saying “
+trust between me and the minister of defense has cracked
+”. Gallant later stated his dismissal was due to a) his opposition to exempting ultra-Orthodox citizens from military service, b) his calls for a clearer path to a hostage-ceasefire deal, and c) his support for an inquiry into the Hamas October 7 attacks. More on this one below…
+TOP STORY
+The world reacts to Trump’s historic comeback
+Just three hours ago, Donald Trump took the stage at his campaign HQ in West Palm Beach to declare “
+the greatest political comeback of all time
+” — he’s not only set to win the White House and the popular vote, but also the Senate, and
+possibly
+the House.
+Fox called the race for him a little before 2am ET, and the other major networks have been following suit over the hours since. So Trump is now the first president in more than 120 years to lose the White House, then come back and win it again – Grover Cleveland last pulled that stunt way back in 1892.
+So now, as the sun rises, the dust settles, and the blame and celebration ring out across America, let’s take a quick look at some of the ways the world is taking this news.
+🇨🇳
+China
+There’s been keen interest from China’s social media users, with the relevant election hashtag attracting 150 million views on Weibo overnight, but China’s state media outlets continue to take a cautious, dry approach (for the reasons we
+outlined
+Monday). The spiciest things we’ve seen out of Beijing include a
+cartoon
+highlighting that US elections are “
+extremely expensive
+”, and a
+headline
+highlighting “
+fears of violence
+” — it’s all
+emphasising US dysfunction
+rather than backing or dunking on any specific candidate.
+But the cautious approach is also a reminder that
+Beijing has been busy itself this week
+, with the National People’s Congress Standing Committee starting its five-day meeting on Monday after a delay that aligned it (not coincidentally?) with the US election. The US election outcome was always going to have major implications for China’s economy given Trump’s plans for massive new tariffs. And it’s this same Standing Committee that’s now due to announce China’s next measures to revive its sputtering economy this Friday.
+So with Trump now the victor, Beijing will be mindful of the
+need to ramp up its own stimulus
+. The initial speculation is Friday’s announcement will focus more on trying to stabilise state-owned banks, local government debt, and China’s ailing property sector (all dangerously linked), before the Politburo and Central Economic Work Conference meetings potentially announce more classic stimulus measures next month.
+Complicating things further is the fact that the world’s richest man and prominent Trump supporter Elon Musk relies on China for a big chunk of his wealth, which leaves him exposed in the event Beijing retaliates to US tariffs by tightening the screws on Tesla.
+🌍
+The Middle East
+Israel seems broadly
+happy
+with Trump’s re-election given his unqualified support. But it’ll be interesting to see what happens next given
+The Times of Israel
+has
+reported
+that Trump already told Netanyahu he wants the Israel-Hamas war wrapped up by inauguration day (January 20).
+How exactly that'll happen is unclear: Netanyahu just fired his defence minister Gallant — a proponent for a clearer path to a ceasefire — in order to bolster support from Bibi’s hard-line coalition partners who broadly
+reject
+calls for negotiations unless they result in the return of hostages and the complete surrender of Hamas. So there’s
+a
+potential
+tension
+brewing there between Bibi’s closest allies at home and abroad.
+Meanwhile,
+Iran
+’s supreme leader has maintained his relative silence this election cycle, but it’ll be interesting to see what he says now that Donald ‘maximum pressure’ Trump is headed back to the Oval Office after repeated Iranian assassination threats.
+🇪🇺
+Europe
+Data from
+Europe Elects
+found
+that Western and Central Europe overwhelmingly hoped Kamala Harris would win, with Paris and Berlin now likely bracing themselves for even tougher trade conditions ahead. But that sentiment starts to wane as you head further east, with outright majorities preferring Trump in Hungary, Serbia, and Georgia.
+Meanwhile, Putin will see this as a game-changing opportunity to secure his ill-gotten gains in
+Ukraine
+. And speaking of which, Ukraine’s Zelensky has already
+congratulated
+Trump, but these will be dark days for Kyiv ahead — Europe is still talking up its own support, but hasn’t been able (or willing?) to revitalise its defence industrial base quickly enough. In the immediate term, that leaves Ukraine more reliant on the US, which just elected a president who’s made no secret of his Ukraine-scepticism.
+If you squint, Ukraine
+might
+have
+a faint hope
+that House Speaker Mike Johnson (who was just on stage with Trump) could shape Trump’s thinking here — the Speaker took a big personal risk in pushing the latest US defence assistance package through Congress back in April. But that’s a lot of squinting, and meanwhile, that same defence package
+might
+last until January, at best.
+The markets
+Meanwhile, various ‘
+Trump trades
+’ have surged in markets around the world:
+₿ Bitcoin
+hit a new record of ~$75k overnight given Trump’s promises of a more crypto-friendly regulatory environment
+🇲🇽
+Mexico
+’s peso plunged ~2% on expectations Trump’s across-the-board tariffs will hit its neighbour and key trading partner
+💲
+The
+US dollar
+also appreciated elsewhere, partly reflecting expectations that Trump’s policies in areas like immigration and tariffs could lead to higher inflation
+💸
+Treasury bond yields
+have also jumped, partly reflecting an expectation that Trump’s policies could be worse for the deficit
+📈
+And
+US stock
+indices like the S&P and Dow have all jumped on expectations that a low-tax and low-regulation Trump 2.0 presidency will be good for business
+🚗
+Specifically,
+Tesla
+stocks jumped as much as 12% in overnight trading, reflecting expectations Trump will be kind to the business interests of his key backer
+💴
+Meanwhile,
+Japan
+’s stocks enjoyed a bump, reflecting an expectation that a strong dollar is good for Japanese exports, and
+🛢️ Oil
+prices have dropped, likely reflecting expectations (confirmed in Trump’s victory speech) that he’ll give a freer hand for the US to pump and sell more gas.
+Anyway, we’re hosting a live post-election debrief next week with some special guests to dive deeper into several of the themes above. We hope you can
+join us
+.
+INTRIGUE’S TAKE
+Hopefully we can all agree on some good news:
+first
+, the election went smoothly, notwithstanding
+reported
+Russian efforts to the contrary. Though, combined with plots to sabotage US-bound planes and broader Western interests across Europe, it’s a reminder that the ‘
+escalation
+’ ship sailed a long time ago, with Putin at the helm.
+Second
+, the worst outcome would’ve been a contested outcome, again undermining the very same democratic institutions which form the basis of US credibility and influence abroad. But the American people have now left no room for doubt, which leads us to our
+third
+observation…
+Some history
+: do you know what the first-ever political cartoon published in a US newspaper was? It was by Benjamin Franklin in
+The Pennsylvania Gazette
+back in 1754, and its message was clear: the colonies had to join together, or they’d fail to realise their dreams. It was a tough message at the time, and it’ll be a bitter message for many again today. But just as it was back then, so it is today: unity is the only way forward.
+Also worth noting:
+Earlier in the counting process, Trump made unspecified
+claims
+of “
+massive cheating
+” in Philadelphia which were swiftly
+rejected
+by a top city official.
+A Harris representative addressed her supporters late last night, confirming the vice president will speak publicly today (Wednesday).
+Trump is term-limited by the 22nd Amendment, meaning he can’t seek re-election in 2028.
+A MESSAGE FROM INCOGNI
+Keep Your SSN Off The Dark Web
+Every day, data brokers profit from your sensitive info—phone number, DOB, SSN—selling it to the highest bidder. And who’s buying it? Best case: companies target you with ads. Worst case: scammers and identity thieves.
+It's time you check out Incogni. It scrubs your personal data from the web, confronting the world’s data brokers on your behalf. And unlike other services, Incogni helps remove your sensitive information from all broker types, including those tricky People Search Sites.
+Help protect yourself from identity theft, spam calls, and health insurers raising your rates with
+Incogni
+.
+Get 50% Off.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: The local privacy watchdog has
+fined Meta $15M for illegally collecting information
+from Facebook users and selling it to advertisers. Authorities say the sensitive information covered the religion, political views, and sexual orientation of Facebook users.
+🇪🇺
+EU
+: Top EU leader Ursula von der Leyen has confirmed she
+won’t be attending this month’s COP29
+in Azerbaijan, in a setback for the UN climate talks. The newly re-elected von der Leyen is still getting her updated Commission team approved.
+🇵🇭
+Philippines
+: The local coast guard has announced it’ll buy
+40 fast patrol boats
+to bolster its fleet, as China continues to assert its vast claims across the South China Sea (rejected by an international tribunal). Interestingly, the boats will be financed by development assistance from France.
+🇧🇷
+Brazil
+: Federal police have charged the alleged mastermind (an illegal fishing boss) behind
+the murders of UK journalist Dom Phillips and Indigenous rights activist Bruno Pereira
+in 2022. At the time of his murder, Pereira was helping local communities defend against illegal fishing.
+🇿🇼
+Zimbabwe
+: The government has
+banned police officers from using their mobile phones
+while on duty. Officials have offered no explanation for the ban, though the measure seems aimed at curbing corruption within the force.
+EXTRA INTRIGUE
+We’ve rounded up some job offers we thought you might find interesting
+Senior Software Developer @
+Statista
+in Hamburg
+Vice President, Sustainable Operations @
+Rockefeller Foundation
+in NYC
+Project Officer @
+Centre for Economic Policy Research
+in Paris
+Director, Head of Government Engagement, Hong Kong & Macao @
+Visa
+in Hong Kong
+FLAG OF THE DAY
+Today’s flag isn’t an official flag… yet. Yesterday (Tuesday), voters in
+Maine
+not only voted for their next president — they also weighed in on whether to change their state flag.
+The
+proposed new flag
+(above) is actually a modern reinterpretation of the state’s original 1901 flag: there’s a bit of mystery around the original’s backstory, but these days the pine tree is a shout-out to Maine’s official nickname (
+The Pine Tree State
+), and also symbolises strength and resilience. The 16 branches also refer to Maine’s 16 counties.
+As for that ‘buff’ (light tan) background, there are various old meanings, including as a reference to the colour of tanned deer hide.
+Meanwhile, the northern star has traditionally referred to Maine’s northern location, and these days it’s also a throw-back to the state’s motto: Dirigo. That’s Latin for “
+I lead
+”, referring to Maine being the first to see the rising sun each day, but also its leading role in various chapters of US history. Anyway, Maine voters look to have just rejected the switch.
+DAILY POLL
+What do you think will be the biggest international impact of Trump's victory?
+💪 Peace through US strength
+🇨🇳 More tension with China
+🚢 Disrupted trade ties with allies
+📉 Less US presence abroad
+🇺🇦 Less support for Ukraine
+🇮🇱 More US backing for Israel
+✍️ Other (Write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which US cabinet position do you think matters most?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🌎 State  (40%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💪
+Defense (14%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ ⚖️ Justice (15%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ 🛡️ National security advisor (18%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 💰 Commerce (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+📝
+Labor (1%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🚌
+Transportation (>1%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 📚 Education (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ⚡️ Energy (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+🛡️
+S.W
+:
+“The national security advisor is the conduit to the other cabinet members and is instrumental in bridging the gaps between all other cabinet roles and the focus of the President's policies.”
+🌎
+S.L
+:
+“Well after watching
+The Diplomat
+I think it might be ambassador to the UK.”
+✍️ P.C
+:
+“Much like the English Premier League, perhaps the lowest three vote-getting positions should be booted out of the cabinet…”
+✍️ M.M
+:
+“As the main lead on economic and fiscal policy it's got to be the Secretary of Treasury.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

@@ -1,0 +1,247 @@
+URL: https://archives.internationalintrigue.io/p/friday-690f
+Title: 🌍 To open or not: the embassy question
+
+IN TODAY’S EDITION
+1️⃣ Should we re-open embassies in Syria?
+2️⃣ The Intrigue jobs board
+3️⃣ Stamp of the day
+Hi {{ First name | Intriguer }}.
+I’m not going to dunk on this specific international body (it does great work), but I was stunned to hear how few people actually read its reports. We’re talking hundreds of downloads, if that.
+These are deep thinkers crunching data for years to craft worthy insights for a weary world, only to have that world be like thanks Jimmy, we’ll put that right over here on the fridge (but then actually scrunch it up and Larry Bird it into the trash). I think part of the issue is that our world is moving so quickly, by the time these boffins come back with an answer, we’ve already forgotten the question.
+But it’s probably also a comms issue. Towards the end of my time in the foreign service, I really started to appreciate the ‘public diplomacy’ side of embassy life — you can have the best contacts and sharpest insights, but it can still count for nought if you’re not out there engaging with the broader public to win friends and shape opinions.
+That’s on my mind today as we look at
+who’s now re-opening their embassies in Syria, and why
+.
+PS
+- Monday is our last daily briefing for the year, but we’ll be back from early 2025 (with a couple of surprises in the meantime).
+THE HEADLINES
+US lawmakers reject funding bill.
+The House has
+rejected a Trump-backed temporary spending bill
+that would’ve suspended the debt ceiling for the next two years. Trump had called on Republicans to oppose an earlier bipartisan bill. The US is now only hours away from a government shutdown.
+Australia signs policing deal with Solomon Islands.
+Canberra has announced it’ll spend $118M to help
+hire and train more police in the Pacific Island nation of Solomon Islands
+in an effort to reduce “
+any need for outside support
+” (aka China). China already has police trainers on the ground as part of its own infamous 2022 security pact with Solomon Islands, which spooked Australia and its allies. Meanwhile, Beijing has lifted its long-running ban on Australian rock lobsters, its
+major remaining retaliatory measure
+after Australia called for a probe into Covid’s origins.
+US troops doubled before Assad fall.
+The Pentagon says the US had actually more than
+doubled its troop numbers in Syria
+from 900 to 2,000 before the fall of dictator Bashar al-Assad. US troops are fighting alongside Kurdish groups against the resurgence of ISIS in the region.
+European authorities board Chinese ship in cable-cutting case.
+Investigators from Germany, Sweden, Finland, and Denmark have boarded the Yi Peng 3, a China-flagged bulk vessel under investigation for its role in the
+cutting of two undersea fibre-optic
+cables in the Baltic Sea last month. The vessel has been waiting off Sweden’s coast for weeks while diplomats negotiate. It’s widely believed the Yi Peng 3 damaged the cables, but there are differing views on whether it was deliberate.
+Macron pays tribute to high-profile trial victim.
+French President Emmanuel
+Macron has paid tribute to Gisèle Pelicot
+after a court found her husband and 50 other men guilty in a high-profile mass rape trial that has shaken the country and beyond.
+TOP STORY
+To open or not: the embassy question
+People across Syria have begun using the opposition three-starred flag.
+With the Assad regime gone and rebel rule slowly consolidating across Syria, governments around the world are weighing up whether — and if so, how — to resume contact with the emerging new Syrian leadership.
+Some capitals are diving chin-first right into the shallow end:
+Turkey
+, which was already tight with the main rebel faction (HTS), was unsurprisingly first to
+reopen
+its embassy in Damascus last Saturday
+Qatar
+,
+which wants a regional power-broking role, then
+reopened on Tuesday
+, and
+The Saudis
+also sent a delegation this week though awkwardly, they’d already reopened their Damascus embassy way back in September (remember then?) based on an emerging consensus that Assad was there to stay.
+Others have been a little more cautious:
+The perma-
+concerned
+EU
+has pledged to reopen after talks with the rebels, though there’s no firm timeline yet (ditto several member countries)
+The
+US
+is sticking with shuffle diplomacy for now — senior diplomat Barbara Leaf (love that name) is now in Damascus to meet Syria’s new leadership, and
+Iran
+isn’t daring to show its face yet — locals stormed its embassy when Assad fled, venting their outrage at Iran’s support for his dictatorship. Tehran is now saying rather bureaucratically that it’ll return “
+when the conditions are right
+”.
+And of course, most countries never had an embassy in Damascus to begin with, whether because it was too distant, irrelevant, or dictatorial. And that brings us to our point — how are foreign ministries now weighing up whether to (re)open in Damascus?
+🌐
+Interests
+In your dating profile, your “
+interests
+” might be reading Liane Moriarty, travelling to Bali, and taking long walks along Seseh Beach. But in geopolitics, it’s really about what you have at stake. For local powerbrokers like Turkey, the answers are obvious: they want to shape local events in their favour. But they’re basically still thinking about the same things as everyone else, just on a bigger scale:
+Diaspora
+: Many capitals want a stable Syria so local refugees can return
+Energy
+: Iraq and Egypt can sell oil and gas via Syrian pipelines, and Turkey wants to be the hub
+Business
+: Rebuilding Syria will cost ~$400B — that’s a lot of contracts up for grabs
+Crime
+: Assad mass-produced captagon (an illegal drug) to prop up his regime, and foreign police agencies now want local help shutting that trade down, and
+Location
+: Syria has a strategic perch, which is partly why rivals have fought over it since the Roman-Persian wars
+So basically, capitals want to
+shape
+which
+Syria now emerges
+: will it stabilise ties with Israel; allow Russia to keep its bases; vote with Turkey at the UN; pioneer a new kind of Islamist technocracy that moulds (or threatens) political movements elsewhere? And so on.
+💥
+Risks
+It’s ultimately a
+political decision
+whether to have your diplomats in some distant, volatile city. And the appeal of shaping events over there is balanced by the fear of those events shaping
+you
+back home: consider how attacks on US diplomats abroad derailed (rightly or wrongly) leaders back home, whether Jimmy Carter (the Iran hostage crisis) or Hillary Clinton (Benghazi).
+Those political decisions are also shaped by
+bureaucrats’ advice
+: these are mostly regular, hard-working folks weighing up whether they or their colleagues (or even family) should be sent into the fray, and if so, how. As a result, they’re often cautious.
+And zooming out, they’ll also evaluate the local
+foreign intelligence risk
+(spies), whether from the host country or elsewhere. It doesn’t entirely shape
+whether
+you re-open, so much as how: countermeasures are costly, and sometimes prohibitive. As for what’s happening in Syria? Sure, Assad’s spies are out, but everyone else is now in. Even ISIS.
+💻
+Logistics
+This isn’t as dull as you think: reopening a diplomatic mission is
+a massive exercise
+. The French first had to send
+masked special forces
+to re-take their abandoned mission, and clear the street out front (a counter-terrorism nightmare). Then once you have a secure space, how do you (for example) even pay your team there? Syrian banks are still under sanctions, so some foreign diplomats will be wandering around town with wads of cash.
+And that’s before we get to secure comms and accommodation, or even
+legal complexities
+: how do you deal with players your government still sanctions as terrorists?
+Oh, and on that note (worthy of its own Intrigue lead), there’s the issue of
+whether to withdraw those terrorist listings
+: several Western capitals are already working on it, and will charge a price for international legitimisation, including pledges around the treatment of women and minorities, chemical weapons protocols, neighbourly ties, and beyond.
+It’s a lot.
+INTRIGUE’S TAKE
+One capital that’s been relatively quiet through all the latest Syria intrigue is
+Beijing
+. That’s partly because its embassy in Damascus never actually closed, so there’s no binary ‘
+will-they-won’t-they
+’ story to drive media interest. But that relative silence is arguably also a reflection of
+a)
+the regional limits of China’s power,
+b)
+its preference not to highlight the fact it
+rolled the red carpet
+out for Assad, and
+c)
+its general discomfort around stories involving long-time authoritarians getting toppled.
+Another thought: this is a life-defining moment to be present at the (re)birth of a nation, and have rare tangible impact in hopefully shaping things for the better. So despite all the risks, you can bet there’ll be no shortage of foreign ministry volunteers.
+Also worth noting:
+There are so many other embassy examples happening right now:
+Australia just reopened
+its embassy in Kyiv, a year or two after most partners; Israel just
+closed its embassy in Ireland
+as ties soured; and the
+Afghan embassy in London
+just closed after the Taliban renounced it.
+Meanwhile, Syrian diplomats abroad have apparently received instructions from Damascus to keep working during the transitional period.
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: The US has sanctioned Pakistan’s ballistic missile development program, with a senior US official claiming it
+could eventually hit targets as far away as the US
+. Pakistan, a nuclear-armed power, has denounced the US sanctions as
+“discriminatory” and “hypocritical”.
+🇷🇺
+Russia
+: President Putin has used his
+tightly choreographed annual Q&A
+to repeat familiar lines about his invasion of Ukraine, and deny that Assad’s downfall reflected poorly on Moscow. During the four-and-a-half hour event, Putin also called Ukraine’s assassination of a top general a
+“major blunder”
+for Russia’s security services,
+and said he’s open to talks with Trump.
+🇲🇴
+Macau
+: The former Portuguese colonial city and current special administrative region of China has
+marked 25 years of Chinese rule
+with a visit from China’s leader Xi Jinping. First Lady (and famous folk singer) Peng Liyuan also joined, meeting with students in the region often dubbed the
+“well-behaved child”
+among China’s administrative regions.
+🇺🇸
+US
+: The Federal Aviation Administration is
+temporarily barring drone flights over 22 critical infrastructure locations in New Jersey
+, after various drone sightings triggered a public frenzy of concern. Authorities say the sightings have mostly been hobbyist drones, aircraft, or stars, though some folks have responded by pointing lasers at airplanes, which is both illegal and dangerous.
+🇲🇼
+Malawi
+: Lilongwe is seeking a cool $309B (not a typo) in
+unpaid taxes and royalties
+from the US-based Columbia Gem House for rubies exported from the country over the past ten years. Malawi is also going after French gas giant TotalEnergies for $4B and Turkish tobacco firm Star Agritech for $9.5M, on similar unpaid revenue demands (variously denied by the companies in question).
+EXTRA INTRIGUE
+The Intrigue jobs board is back!
+Financial Analyst
+@
+International Rescue Committee
+in NYC
+Assistant VP, Regulatory Policy & Markets
+@
+HKEX
+in Hong Kong
+Distribution Manager
+@
+World Central Kitchen
+in Johannesburg
+Researcher, EU Budget
+@
+Centre for European Policy Studies
+in Brussels
+STAMP OF THE DAY
+Credits: Hong Kong.
+For any stamp collectors out there (absolute wild-cats, you lot), the
+Hong Kong Post
+just unveiled its 2025
+Year of the Snake
+stamp. Slithering out on January 5, the HK$50 stamp is even wrapped in 22-carat gold foil, verified by a certificate of authenticity.
+In the Chinese zodiac, a snake symbolises wisdom and transformation. So as we hurtle towards a new year, it’s a reminder that anyone can shed their old skin and enter a period of renewal.
+DAILY POLL
+Do you think your government should reopen its embassy in Damascus?
+🤝 Yes, they should engage with Syria's new leaders
+⏳ No, it's too early to see how things will evolve
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Ukraine and Russia will renew the gas transit agreement?
+🟨
+⬜️⬜️⬜️⬜️⬜️ 👍 Yes, pressure is mounting and the cost is significant  (20%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎 No, Ukraine holds the cards, and renewal makes no sense (65%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤷
+It doesn't matter, the war will end soon  (11%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents:
+👎
+C.D
+:
+“Coming after Zelensky met with Trump in Paris, this has ‘
+negotiation chip
+’ printed all over it. Ukraine seems to be acting in a way to be better placed at the negotiating table to have some leverage against Putin.”
+✍️ P.S
+:
+“Russia will find a way to replace its lost market position through third countries and commercial loopholes. Much like the situation with their oil sanctions.”
+👎 D.D
+: “I'm surprised Ukraine did not use this leverage earlier.”
+👍 W.F
+: “The answer today is ‘
+no
+’. But medium and long-term, the answer is likely ‘
+yes
+’, as all parties stand to benefit. Ukraine probably most so.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

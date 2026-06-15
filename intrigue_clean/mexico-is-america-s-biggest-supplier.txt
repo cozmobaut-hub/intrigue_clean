@@ -1,0 +1,238 @@
+URL: https://archives.internationalintrigue.io/p/mexico-americas-biggest-supplier
+Title: 🌍 Mexico is America's biggest supplier
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+Oh hello there, I didn’t see you come in. I’m John Fowler, co-founder of International Intrigue. As you may have already seen across our socials, newsletter, and on the Times Square Billboard (we wish), the Intrigue team and I are headed to New York City next week to bring you a special edition newsletter from inside the 78th UN General Assembly.
+We’ll be covering the ins, outs, and in-betweens of what really goes on during Leaders’ Week in NYC (and we promise it’ll be more than just our gripes about gridlock traffic and eye-wateringly expensive coffees). Get the inside scoop by
+signing up here
+.
+~ John
+Today’s briefing is a 5 min read:
+🇲🇽
+Mexico
+is an export powerhouse.
+💻
+The US takes
+Google
+to trial.
+➕
+Plus:
+The handshake heard around the world, how the papers are covering stories from the EU, and an island that’s banned Airbnb.
+⏱️ Around the world in sixty seconds
+🇹🇼
+Taiwan
+: A new report by Taiwanese authorities claims China is
+ramping up ‘grey zone’ incursions
+(activities that are detrimental to Taiwan but not acts of war) to establish a “
+new normal
+”. Beijing is currently conducting one of its biggest-ever drills in the Pacific.
+🇸🇪
+Sweden
+: Stockholm has announced it’ll
+increase its defence budget by nearly 30%
+next year, to meet a NATO target of 2% of GDP. The Swedish defence minister called it the “
+largest rearmament of the defence force since the 1950s
+”.
+🇲🇻
+Maldives
+: No presidential candidate won 50% of the vote in last weekend’s election, meaning the next leader will be chosen in a
+run-off at the end of the month
+. Opposition candidate Mohamed Muizzu came first at 46%, with a platform that includes limiting India’s presence in the Maldives.
+🇨🇴
+Colombia
+: President Gustavo Petro has proposed forming a
+Latin American alliance to tackle drugs
+as a health rather than security issue. Petro said 50 years of a war on drugs had resulted in “
+immeasurable bloodshed and pain in Latin America
+”.
+🇳🇬
+Nigeria
+: The UAE says it’ll
+lift its current visa ban on Nigerian travellers
+and Emirates Airlines will resume flights to Nigeria. The UAE had imposed these restrictions after Emirates encountered difficulties repatriating $85M in revenue from Nigeria.
+🇲🇽
+Mexico | Geo-economics
+The US has a new top import source
+For the first time since 2009, a country has
+exported more goods
+to the US than China has. That country is Mexico. What’s the story?
+🏭 Proximity
+: A lot of Mexico’s production is
+near the US border
+🤝
+Integration
+: Inputs can criss-cross the border pretty seamlessly
+🛃
+Treaty
+:
+The US-
+Mexico trade pact has kept tariffs down while harmonising standards, and
+🧑
+Costs
+:
+Labour in Mexico now generally costs less than in China
+In this context, there’ve been some headline-grabbing moves to Mexico:
+🚗
+Tesla
+is building a ~
+$10B gigafactory
+near Monterrey, and
+🛋️
+Even Chinese companies
+like upholsterer
+ManWah
+are in Mexico to cut costs and avoid tariffs, while hedging political risk.
+But… while Mexico’s exports are up, these big new inbound
+investment
+headlines aren’t showing too much in the
+data
+yet.
+Intrigue's take:
+So what does this all mean? First, the deterioration of US-China ties might’ve sped up Mexico’s emergence as America’s top supplier, but some of the underlying trends (like
+labour costs
+) have been a long time coming.
+And second, there are lots of reasons to invest in Mexico, but investors are still thinking through other options like Vietnam and India, as well as local issues around
+energy
+, water, security, and
+governance
+.
+Also worth noting:
+Canada remains America’s
+top trade partner overall
+(i.e., taking into account imports and exports of goods and services).
+📰
+How newspapers covered…
+The European Union
+Brussels, Belgium
+“Russians can no longer bring their cars to the EU”
+New York, US
+“EU lawmakers approve a deal to raise renewable energy target to 42.5% of total consumption by 2030”
+Oslo, Norway
+“In a vote of confidence, Europe is parking massive amounts of gas in Ukraine”
+Today’s newsletter is supported by: Deel
+Compliantly hire anyone, anywhere, in 5 minutes with Deel
+Deel is your one-stop shop for hiring, paying, and managing your remote team. We stay on top of local labor laws across the world to ensure compliance and mitigate risk so that you don’t have to.
+Get started.
+💻
+Google | Tech & regulation
+Google goes to court
+One of the biggest antitrust trials in US history kicked off yesterday (Tuesday), and this time, it’s Google in the hot seat.
+What are the
+charges
+?
+Basically, the US Justice Department says Google has abused its power in order to make its search engine the default option
+.
+For its part, Google says this default status is a result of its superior product, and consumers can easily switch to another search engine if they want.
+Why does this matter?
+Google handles ~
+83%
+of the world’s internet searches
+It’s facing probes
+in the EU
+,
+India
+,
+Indonesia
+and beyond, and
+If it loses at home, this could shape how the world uses the internet
+Intrigue’s take:
+Antitrust cases don’t tend to generate as much buzz as celebrity trials, and yet District Judge Amit Mehta has had to set up overflow rooms for spectators and reporters.
+But lawmakers around the world are watching too: public trials against Big Tech can set precedents anywhere, regardless of their outcome.
+Also worth noting:
+This trial is expected to run for around 10 weeks. Judge Mehta will then likely issue his ruling early next year.
+The Justice Department is also suing Google for alleged anti-competitive conduct in
+digital advertising
+.
+The Justice Department
+sued Microsoft in 1998
+. An eventual deal required the company to drastically change some business practices.
+➕
+Extra Intrigue
+What we’re reading about the return of tourism around the world:
+Venice to back €5 fee for day-trip tourists
+‘Without rules we cannot live’: Greece seeks ways to tackle ‘overtourism’
+The future of tourism is sustainable and regenerative
+Indian tourists flock to Southeast Asia as China's reopening falters
+Malaysian island becomes first tourist destination in Southeast Asia to ban Airbnb
+🗳️ Poll time!
+Which Big Tech firm do you think is the world's most influential today?
+🇺🇸 Google/Alphabet
+🇨🇳 Huawei
+🇺🇸 Apple
+🇹🇼 TSMC
+🇰🇷 Samsung
+🇺🇸 Microsoft
+🇺🇸 Nvidia
+🇺🇸 Amazon
+🇨🇳 Tencent
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+📜
+Today in history
+Source: Ron Edmonds/Associated Press
+30 years ago today, Israeli Prime Minister Yitzhak Rabin and Palestinian leader Yasser Arafat shook hands on the White House lawn after signing the
+first Oslo Accord
+. The accords emerged from a series of secret meetings in the Norwegian capital, and saw the two sides agree to "
+achieve a just, lasting and comprehensive peace settlement
+". Their “
+interim period
+” for further negotiations ended in May 1999, without reaching a comprehensive treaty.
+Yesterday’s poll:
+Which 21st century event do you think has most shaped our world so far?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇺🇸
+The 9/11 terrorist attacks  (35%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇨🇳
+China's entry into the WTO  (6%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇮🇶
+The US-led invasion of Iraq  (5%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+📱
+Apple's first iPhone  (23%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+📉
+The Great Recession  (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+✊
+The Arab Spring (1%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇬🇧
+Brexit  (0.4%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🦠
+COVID-19  (22%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 💣 Russia's invasion of Ukraine (4%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write-in!) (2%)
+Your two cents
+:
+🇺🇸
+L.J.H:
+“COVID is a close second to 9/11 but probably only because it's been more recent. The reaction to 9/11 has changed so much about the world that it's almost impossible to think about how it would be now had that not happened.”
+📱
+D
+: “[…] Not a day goes by where I don't pick up my iPhone for information, games or even (I know, crazy) communicating with other humans.”
+💣
+C.C:
+“Without any doubt this one single act has moved the nuclear doomsday clock closer to midnight than any other since Hiroshima.”
+✍️
+D.L.C:
+“The advent of social media, which interconnected the world like never before and created a market for misinformation and information alike.”

@@ -1,0 +1,230 @@
+URL: https://archives.internationalintrigue.io/p/microsoft-invests-15-uae-ai-firm
+Title: 🌍  Microsoft invests $1.5 in UAE AI firm
+
+IN TODAY’S EDITION
+1️⃣ AI, the UAE, and secret US talks
+2️⃣ Statue of the day
+3️⃣ Starlink cuts services in South Africa
+Hi {{ First name | Intriguer }}.
+I can’t help but be stunned by the images of current flooding in
+the United Arab Emirates
+(UAE), after it copped a year’s worth of rain within hours.
+I was there just last year and was - like anyone else who visits - struck by the small but influential Gulf state’s serious ‘
+why not?
+’ vibes, fuelled by some of the world’s largest proven oil and gas reserves:
+The world’s tallest building? Why not.
+Ski in a mall? Why not
+Sleep in a 7-star hotel? Why not.
+So it feels inevitable in retrospect that the UAE’s same ‘
+why not?
+’ spirit would push it towards
+artificial intelligence
+(AI) in recent years, just as the tech was emerging as part of a major global contest. It’s our lead story for today.
+PS -
+¿Hablas español?
+¡Check out our
+weekly edition in Spanish
+!
+THE HEADLINES
+US and EU plan fresh sanctions on Iran.
+The US and EU are looking to
+impose additional sanctions on Iran
+following its own attack on Israel over the weekend, while still calling on Israel not to escalate further. Saudi Arabia and the UAE have echoed similar sentiments, calling for “
+maximum restraint
+” to avoid “
+the dangers of war and its dire consequences
+”.
+US and China defence chiefs on speaking terms again.
+The US defence secretary and his counterpart in China have
+held talks (via videoconference)
+for the first time since 2022. The lengthy (and rather grim?) agenda included the South China Sea, the Russo-Ukraine War, Taiwan, and North Korea.
+IMF sees rosier outlook for world economy.
+The IMF is forecasting the world economy
+will grow by 3.2% this year
+, up by 0.1% from its January estimate though still below the 2000–19 average of 3.8%. The IMF sees inflation and geopolitical risks as key drags on growth. It’s also projecting Russia to grow more than any advanced economy in 2024 due to steady oil exports and a flood of government spending (on the war).
+Fed to keep rates higher for longer.
+US Federal Reserve Chair Jerome Powell said yesterday (Tuesday) that “
+given the strength of the labour market and progress on inflation so far, it's appropriate to
+allow restrictive policy further time
+to work”.
+The Fed had previously indicated it could cut rates some time this year.
+A desert floods.
+Over 140mm (5.59in) just fell in the desert city of Dubai in 24 hours. That’s more than the city’s yearly rainfall average, causing the
+busy air hub to divert flights
+after widespread flooding. The rains
+might
+have been made worse by ‘cloud seeding’, a method used to trigger precipitation, with some sources claiming the UAE had launched several cloud seeding flights before the storm.
+TOP STORY
+Microsoft invests $1.5B in UAE AI firm after secret US government talks
+AI firm G42 has ended up under the US microscope.
+US tech giant Microsoft has
+announced
+it’ll invest $1.5B in G42, the leading artificial intelligence (AI) firm in the UAE. The “
+strategic investment
+”, which gives Microsoft a minority stake in the company, aims to further the UAE’s ambitions as an AI hub while bringing yet another leading AI firm into Washington’s orbit.
+G42 isn’t exactly a household name
+. It sounds like Aldi’s version of F45, but the ‘42’ is a reference to
+The Hitchhiker’s Guide to the Galaxy’s
+meaning of life.
+And since launching in 2018, the Emirati firm has been collecting global partners like Pokémons. We’re talking AstraZeneca, OpenAI, Siemens, Nvidia, Mercedes, and beyond. It’s also added seven subsidiaries to help push into energy, healthcare, driverless cars, and government.
+But what does G42 actually do?
+There’s a dash of mystery around the specifics, but it seems to dabble in supercomputing, AI research, investing, surveillance, genome-sequencing, Arabic-language LLMs, and beyond.
+Interestingly, it’s run by
+Peng Xiao
+, a China-born, US-educated tech entrepreneur who renounced his US citizenship when relocating to the UAE. And it’s controlled by Royal Group, the private fund of
+Sheikh Tahnoon
+, who is the UAE ruler’s younger brother and national security chief.
+Their G42 now forms a key part of the UAE’s effort to
+diversify its economy
+away from oil to brace for the energy transition. But the ruling family has also been
+diversifying its friends
+to brace for a geopolitical transition, hoping to preserve its US security ties while cultivating links with China and Russia.
+And that’s where the intrigue comes in: The New York Times
+reported
+last year that
+US intelligence was troubled
+by G42’s links with black-listed, China-based companies like Huawei and BGI Genomics. The report also flagged Peng’s earlier ‘ToTok’ social media app that was allegedly used as a spying tool by the Emiratis.
+Then in January,
+a US congressional committee went further
+,
+claiming
+:
+Peng “
+operates and is affiliated with an expansive network of UAE and PRC-based companies that develop dual-use technologies and materially support PRC military-civil fusion and human rights abuses
+”
+🔥
+US firms that partner with G42 risk their tech getting stolen by G42’s China-based partners seeking to bypass US export controls, and
+US personal data risks ending up with China’s security agencies.
+All this public scrutiny was evidently playing out while the US, the UAE, G42, and Microsoft held
+behind-the-scenes talks
+, mixing carrots (access to more advanced US tech) with sticks (the threat of more US scrutiny).
+And it proved persuasive, as Peng
+told
+the Financial Times in December he was phasing out G42’s China-made hardware, before
+announcing
+in February he had already sold G42’s China-based interests.
+That cleared the way for Microsoft to step in with cash and its Azure cloud tech, while its president (Brad Smith) gets a seat on the G42 board next to Sheikh Tahnoon.
+As for Peng, he doesn’t give many interviews, but he summed it all up perfectly with the Financial Times last year: “
+For better or worse… we are in a position where we have to make a choice.
+We cannot work with both sides
+. We can’t.
+”
+INTRIGUE’S TAKE
+The White House has famously described its approach to tech and China as a “
+small yard, high fence
+”. The yard contains only America’s most sensitive tech, while the fence is Washington’s means of guarding it.
+And this G42 saga says quite a bit about both the yard and the fence.
+The yard is valuable
+: It now contains things like Nvidia’s AI chips which, for now at least, have no peer (they also underpin Microsoft’s most advanced AI tech). So whether you’re a firm or a government, the road to AI leadership still runs through Nvidia and the US.
+The fence hurts
+: By all means, tell the world you want to be i) an AI leader, ii) a US partner, and iii) a tech player in China. It sounds great. But the US has now essentially told the UAE (and the world): pick two.
+However, it’s also important to remember that the US isn’t the only one playing the game here.
+The UAE
+has now arguably just used China as leverage to extract more advanced tech out of a
+wary
+US.
+And
+Microsoft
+, still displaying tradecraft that most tech giants (and many states) would envy, keeps popping up at exactly the right moment - whether to (almost) buy TikTok, partner with OpenAI, shape the debate on tech and democracy, or pry its way onto the board and cap-sheet of one of the world’s hottest names in AI (G42).
+Also worth noting:
+Microsoft president Brad Smith and fellow executive Carol Ann Brown co-wrote an influential
+article
+back in 2019, arguing that the US and China were already on the cusp of a ‘Tech Cold War’.
+The New York Times
+reports
+that some US officials still remain concerned by G42’s ongoing China ties (eg, via executives who’ve previously developed surveillance software used in China).
+Microsoft is now the world’s largest company by market cap after overtaking Apple earlier this year.
+A MESSAGE FROM NICE NEWS
+Wake up to good news
+Tired of negative news? Nice News filters through 100+ sources each day to send you the most uplifting and relevant stories. Join over 750,000 people who read their 5-minute daily digest and start to wake up a bit happier.
+Sign up for free
+MEANWHILE, ELSEWHERE…
+🇪🇺
+EU
+: A key survey has found voter interest in
+June’s European Parliament elections
+is soaring, in part due to the international outlook. The other top issues on folks’ minds are poverty, public health, and the economy, while climate change has dropped from third to fifth.
+🇮🇳
+India
+: Local security forces say they’ve killed 29 Maoist rebels during
+a shootout in the central state of Chhattisgarh
+. The insurgency began in the 1960s in West Bengal before spreading elsewhere, but Indian authorities have pushed it back to its forest strongholds in recent years.
+🇸🇧
+Solomon Islands
+: Voting has kicked off in the
+Pacific nation’s first election
+since switching its recognition from Taiwan to China in 2019. Opposition candidates are pledging more scrutiny of China’s influence, though development and basic services remain top voter concerns.
+🇦🇷
+Argentina
+: Reuters is reporting that a Ukrainian man has filed suit in Argentina, alleging he was
+tortured by Russian forces
+in Ukraine. Argentinian law enshrines the principle of universal jurisdiction, which permits prosecutors to bring trials for serious international crimes regardless of whether there’s any local link.
+🇿🇦
+South Africa
+: Starlink has emailed users in South Africa to warn that their
+internet access will cease on April 30
+. The satellite internet constellation, owned by Elon Musk’s SpaceX, hasn’t been able to get a licence to operate in South Africa, where local users are technically breaching South African law.
+🕵️ Psst - Do you live around DC?
+Join us
+for a chat and a drink with spy-turned author, Jack Beaumont! It’s next Wednesday, April 24th.
+EXTRA INTRIGUE
+What we’re reading about international travel
+EasyJet suspends flights to Tel Aviv over Iran-Israel conflict after attack caused travel chaos above Middle East
+Emojis make tourism advertising on social media more effective and appealing, finds study
+Travel will add a record $11.1 trillion to the global economy in 2024
+Check out this giveaway to win a
+free campervan adventure in Yosemite
+with our friends over at Concierge!
+STATUE OF THE DAY
+Credits: Reuters/Valdrin Xhemaj.
+This
+statue
+of former UK prime minister Tony Blair is getting its finishing touches before being cast in bronze and placed in the Kosovar town of Ferizaj. Blair is a celebrated figure in Kosovo due to his role in the 1999 NATO operation that forced Serbian forces to withdraw.
+True story
+: there are several Kosovars named ‘Tonibler’ (ie, in honour of Tony Blair).
+DAILY POLL
+What role do you see AI playing in our world's future?
+🤖 It's gonna change everything
+📊 It'll change a lot, but there's still too much hype
+🤷 Meh
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How much did world affairs shape your last voting decision?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🟢
+A lot! There's no issue more important to my country's future (32%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🟠
+A bit, but local issues are still more important  (60%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🔴
+Hardly at all. What happens abroad ain't my business (5%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+🟠
+C.H:
+“We have enough problems to resolve at home before looking outward. Not that outward should be neglected, just fix your own roof before throwing water on your neighbour’s burning roof.”
+🟢
+S:
+“Most countries' problems are not solely domestically generated or resolved. Immigration, national security, trade, and defence issues all require a strong international presence to address. Further, Western nations' commitment to universal human rights must be just that: universal.”
+✍️
+D.V:
+“World affairs and local issues share equal importance when shaping my voting decisions.”
+🟢
+L.K:
+“History is littered with examples of the disastrous results of isolationism and the folly of a myopic view of the world. We the voters ignore this at our own peril.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.

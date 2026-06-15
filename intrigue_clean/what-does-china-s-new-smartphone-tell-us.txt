@@ -1,0 +1,224 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-1209
+Title: 🌍 What does China’s new smartphone tell us?
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+Lots of countries have a national animal: Mexico picked the golden eagle, Thailand has a majestic elephant, while South Africa opted for the agile springbok. But we love how Scotland just said
+thanks everybody, but we’re gonna go with the unicorn
+. (It’s been part of Scottish identity since at least the 12th century.)
+Today’s briefing is a 5 min read:
+🇨🇳
+What does
+China
+’s new smartphone tell us?
+🇰🇵
+Is
+North Korea
+preparing to help Putin?
+➕
+Plus:
+Aid ain’t flowing fast enough, how the papers are covering floods in Libya, and why Italians are tweeting about Chile.
+⏱️ Around the world in sixty seconds
+🇦🇿
+Azerbaijan
+: Baku and separatist Armenians in the disputed region of Nagorno-Karabakh
+have struck a deal
+to reopen two key transport links. The weekend deal came the same day Karabakh’s separatist parliament chose a new president.
+🇱🇹
+Lithuania
+: Belarusian citizens in Lithuania who are unable to get new passports from Belarus will be given
+special Lithuanian travel documents
+. Many of the 60,000 Belarusians living in Lithuania fled across the border to escape political persecution.
+🇻🇳
+Vietnam
+: US-based Boeing signed a $7.8B deal with Vietnam Air yesterday (Monday) for a fleet of fifty 737 MAX jets. The deal was inked during President Biden’s
+visit to Hanoi
+.
+🇧🇷
+Brazil
+: President Lula has questioned
+Brazil’s membership
+of the International Criminal Court (ICC), after saying Vladimir Putin wouldn’t be arrested under the ICC’s warrant at next year’s G20 in Brazil. Lula subsequently said arrests were a matter for the judiciary.
+🇸🇦
+Saudi Arabia:
+An Israeli delegation
+arrived in Saudi Arabia
+for a UNESCO conference on Sunday (10 September). The two countries don’t have diplomatic relations, and the visit marks the first time Israeli officials have publicly visited the Kingdom.
+🇨🇳
+China | Tech
+Has China shrugged off US tech sanctions?
+The same week US Secretary of Commerce Gina Raimondo visited China late last month, Huawei quietly released its new
+Mate 60 Pro smartphone
+.
+Using advanced 7 nanometre (nm) chips, this new gadget made waves:
+🇨🇳
+For many in China
+, it was proof that not even strict US sanctions (managed by Raimondo’s own department) could slow Beijing, and
+🇺🇸
+In the US
+, it raised questions: maybe China’s tech was more advanced than anyone realised; maybe the sanctions weren’t working; or maybe Huawei was just using pre-sanctions stockpiles.
+Thanks to TechInsights
+pulling one of the phones apart
+for Bloomberg, we know the answer, and it’s not quite any of the above.
+What’s the story?
+📱
+Huawei’s new phone uses a 7nm chip produced by China’s Semiconductor Manufacturing International Corp (SMIC)
+👨‍💻
+To produce chips, SMIC uses classic,
+deep ultra violet
+(DUV) tech
+SMIC already
+proved
+last year it could make 7nm chips with DUV. But the laws of nature impose hard limits on DUV, which can’t go much smaller than 7nm. And even at 7nm, lots of the DUV-produced chips don’t actually work.
+To get chips much smaller than 7nm
+(key to artificial intelligence and other advances), you really need
+extreme ultraviolet lithography
+(EUV) tech from a Dutch company (ASML). But ASML
+can’t sell EUV to China
+.
+And it’ll be a while before anyone else nails EUV tech
+: one lucky writer who glimpsed it up close
+said
+it was like “
+seeing the face of God
+”.
+Intrigue's take:
+First, sorry for all the acronyms (SFATA).
+Second, China’s tech sector has shown it can advance beyond the 14nm limits the US sought to set. But it seems Beijing’s DUV tech is now bumping up against the laws of nature instead, and these laws are tougher to skirt.
+And third, China always saw the sanctions as proof the US was out to ‘contain’ it. For its part, the US says it’s only ‘competing’ with China. And history suggests there’s a fine (7nm?) line between competition and confrontation.
+Also worth noting:
+Dutch scientists projected their first EUV images in 1990. ASML then started trying to commercialise the tech in 1997. Its EUV machines didn’t enter
+commercial production
+until 2017.
+China recently
+extended a ban
+on government employees using the Apple iPhone.
+📰
+How newspapers covered…
+Floods in Libya
+London, UK
+“Up to 2,000 feared drowned after Libyan city hit by ‘catastrophic’ storm floods”
+Ankara, Turkey
+“Libya declares disaster zones after floods caused by Storm Daniel”
+Salt Lake City, US
+“Death toll in Libya flooding could reach 10,000 - both Libyan governments call for international aid”
+Today’s newsletter is supported by: BILL
+Say “bon voyage” to expense reports!
+Travel and expense spending can be as annoying as jet lag, but it doesn’t have to be. With BILL Spend & Expense (formerly Divvy, from BILL), you can say “bonjour” to budget control, automated expense reports, and real-time visibility.
+Take a demo of BILL Spend & Expense to get a $150 Delta gift card. It only takes 20 minutes to learn how we can help you:
+Close your books in record time
+Instantly see where you stand on travel and expense spending
+Access scalable business credit to grow your business*
+Sign up for a demo to claim your $150 Delta gift card.
+Claim the offer!
+🇰🇵
+North Korea | Geopolitics
+Kim and Putin meeting in Vladivostok in 2019
+Kim and Putin are meeting up
+Pyongyang and
+Moscow confirmed
+yesterday (Monday) that North Korean leader Kim Jong Un will meet President Putin in Russia this week.
+The announcement, which contained no further details, came after warnings from Western intelligence officials that:
+🚀
+Kim could agree to send Russia additional stocks of artillery, rockets, and small arms munitions for its invasion of Ukraine, and
+🛰️ Putin could in return share blueprints on advanced weapons systems like nuclear submarines and intel satellites.
+This kind of deal would be an escalation of the existing arms trade the two neighbours have
+reportedly
+conducted for months.
+Intrigue’s take:
+Russia and North Korea are as isolated as ever: Putin
+can’t travel
+to most countries for fear of being arrested, and Kim hasn’t left home
+since 2019
+. But two pariahs combined can still wield plenty of power.
+Also worth noting:
+Kim’s armoured train
+entered Russia
+earlier today (Tuesday).
+The 1,100km journey took around 20 hours because the train travels at around 60km per hour.
+🎧 Today on
+Intrigue Outloud
+Why is the US helping build infrastructure between India and Saudi Arabia?
+Find out here!
+➕
+Extra Intrigue
+Here’s what folks were tweeting about yesterday, Monday 11 September:
+🇺🇾
+‘
+World Trade Centre
+’ trended in
+Uruguay
+as people around the world marked
+22 years
+since the 9/11 terrorist attacks.
+🇮🇹
+Italians
+tweeted about
+‘Chile’
+and the 50th anniversary of that country’s
+coup d’etat
+that ushered in dictator Augusto Pinochet.
+🇨🇻
+Cape Verde
+was discussing French footballer ‘
+Paul Pogba
+’ and his suspension from the Italian league for a possible
+doping offence
+.
+🗳️ Poll time!
+Which 21st century event do you think has most shaped our world so far?
+🇺🇸 The 9/11 terrorist attacks
+🇨🇳 China's entry into the WTO
+🇮🇶 The US-led invasion of Iraq
+📱 Apple's first iPhone
+📉 The Great Recession
+✊ The Arab Spring
+🇬🇧 Brexit
+🦠 COVID-19
+💣 Russia's invasion of Ukraine
+✍️ Other (write-in!)
+Login
+or
+Subscribe
+to participate
+📊
+Chart of the day
+The OECD is the Organisation for Economic Cooperation and Development.
+Credits: Statista
+In 2022, wealthy OECD countries distributed $204B in aid, a 13.6% increase from 2021. Only six of them met the UN’s 1970s-era target of 0.7% of GNI.
+Monday’s poll:
+What do you think is the most important skill for a diplomat?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+📢
+Communication skills (46%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🔍 Attention to detail  (8%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ ☮️ Conflict resolution  (24%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🎨
+Creativity (8%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 🏆 Leadership  (5%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🧑
+Advocacy  (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (6%)
+Your two cents
+:
+📢
+G.J:
+“You can have all the rest of these things, but without comms they won't land.”
+✍️
+L.E:
+“Adaptability - a diplomat needs to find ways to do what their bosses can’t - maintain the interests of their represented country front and center whilst still listening, valuing and ultimately compromising with their counterparts.”
+✍️
+D.W:
+“To resist free drinks.”

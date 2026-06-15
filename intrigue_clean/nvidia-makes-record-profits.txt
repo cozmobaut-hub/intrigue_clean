@@ -1,0 +1,191 @@
+URL: https://archives.internationalintrigue.io/p/nvidia-makes-record-profits
+Title: 🌍 Nvidia makes record profits
+
+Hi {{ First name | Intriguer }}.
+We’re expecting President Biden to announce more “
+major sanctions
+” against Russia later today, in response to Alexei Navalny’s death in prison last week.
+Treasury officials had been working on new sanctions prior to Navalny’s death but decided to add to them earlier this week. It’s hard to know what’s left to sanction inside Russia, but I’ve heard chatter that several countries that’ve been helping Russia skirt existing sanctions might be in the firing line.
+We’ll bring you everything you need to know on Monday.
+Before that, let’s send you off into your weekend with a look at how
+Nvidia just became the world’s fourth most valuable company
+, seemingly overnight. Anyone know anyone who has stock? Asking on behalf of your favourite geopolitics newsletter.
+- John Fowler, Co-Founder
+PS - We’re releasing a special edition today (Friday) on
+the power players at the UN in New York
+. To get the inside word, you just need to have referred Intrigue to at least one friend this week! Simply use your unique referral code down below, and it’ll hit your inbox shortly.
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Netanyahu releases draft post-war Gaza plan.
+Israeli leader Benjamin Netanyahu’s one-page proposal, submitted to his war cabinet, includes plans to establish a buffer zone within the enclave, continue the current blockade, and maintain an ongoing Israeli military presence. The document doesn’t mention Palestinian statehood or any governing role for the Palestinian Authority.
+Leak exposes China’s international hacking scheme.
+Leaked documents from i-Soon, a private company with ties to China’s security services, appear to prove the existence of a large-scale effort by China to hack foreign governments and companies, using private firms. The trove includes contracts to obtain data from targets in India, Hong Kong, Thailand, South Korea, the UK, Taiwan, and Malaysia.
+Key players back Dutch PM as next NATO chief.
+Countries including
+the US, the UK and Germany have endorsed outgoing Dutch Prime Minister Mark Rutte for NATO’s top post. Rutte is seen as a competent and pragmatic choice. The current secretary-general, Norway’s Jens Stoltenberg, will step down in October.
+Biden meets Navalny family.
+US President Joe Biden has met the widow and daughter of Russian opposition leader Alexei Navalny in California, expressing his condolences and vowing additional sanctions against Russia. Meanwhile, Navalny’s mother was allowed to see her son’s body but reported heavy pressure from Russian authorities to organise a
+“secret” burial
+.
+The US returns to the moon.
+The Odysseus lunar lander (aka Odie) has become the first-ever privately built spacecraft to land on the moon, and the first US craft to do so since 1972. It was built by Intuitive Machines. Japanese and Indian teams have also successfully led moon landing missions in the past year.
+TOP STORY
+Nvidia’s big bet on AI is paying off
+US chipmaker Nvidia is on top of the world after yesterday’s
+quarterly earnings report
+, which revealed the firm tripled its revenue to $22.1B in just a year. The most intriguing bit? This could just be the beginning.
+CEO Jensen Huang co-founded
+Nvidia
+in 1993 (in a Denny’s!) with a focus on chips for video games. Gaming involves processing lots of data at once, rather than sequentially. And it turns out it’s similar for artificial intelligence (AI).
+This
+overlap between gaming and AI
+dawned on Huang 15 years ago, so he made a massive bet, reorienting Nvidia towards AI.
+Now, with software like ChatGPT
+waking the world up
+to AI’s potential and nudging us towards what Huang calls an AI “
+tipping point
+”, his bet is paying off.
+Nvidia’s head-start means it now sells ~80% of all AI chips (at $25k to $250k a pop); it’s just added a record quarter trillion to its valuation in a day (like adding a new Disney or a Portugal); and it’s leap-frogged giants like Google to become the world’s fourth most valuable company.
+So why are we talking about all this in a geopolitics briefing?
+Because the implications are already rippling across our world.
+First, there’s been a wave of enthusiasm from
+investors
+who are taking Nvidia's earnings report as confirmation that big change is indeed coming: the notion that AI could boost productivity and profits, for any industry and country, drove stock indices in the US, Japan and Europe to record highs.
+And second, this has all dawned on
+governments
+too, who’ve spent the last few years developing strategies in preparation for an AI tipping point.
+Singapore
+,
+the UK
+,
+China
+,
+the US
+,
+the UAE
+and beyond have all been
+investing
+billions to carve out some kind of national capability.
+And on the
+regulatory
+front, while there are
+UN processes
+plus the
+Bletchley Declaration
+on AI principles, nervous capitals are still charging ahead solo:
+The
+EU
+just finalised its
+AI Act
+(if you can’t beat ‘em, regulate ‘em), and
+The
+US
+, mindful of AI’s national security implications, is
+struggling
+to onshore more chip production, while using export controls to restrict China’s chip access (
+with mixed success
+).
+And sitting at the heart of all this is Nvidia, and the AI bottleneck it now controls.
+That’s why Goldman Sachs, not exactly known for its breathlessness, just declared Nvidia the “
+most important stock on planet earth
+”.
+INTRIGUE’S TAKE
+Arthur C Clark once said that “
+any sufficiently advanced technology is indistinguishable from magic
+.” That really feels apt here, with folks describing visits to the most advanced chip foundries in quasi-religious terms, and guffawing over each new AI trick with 2007 levels of iPhone wonder.
+The thing is, the world is now dependent on a handful of
+AI magicians
+: the US dominates advanced chip design and software, Taiwan dominates advanced chip manufacturing (including for Nvidia), and the Netherlands dominates the advanced chip lithography that underpins Taiwan’s foundries.
+Of course, this attracts
+competitors
+at a company and country level: US firms like Intel and AMD are trying to close the gap with Nvidia, and China is pushing to close the gap with the US. But a look at Intel and AMD’s sagging share price is a reminder of how steep this technological climb is for any rival.
+So for now, our world is dependent on a handful of magicians, who are in turn dependent on one another. And that sounds to us like a high-stakes world.
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: US prosecutors have charged an alleged Japanese mafia boss with
+conspiring to traffic nuclear materials
+. Prosecutors say he showed samples of nuclear materials to an Iran-linked buyer in Thailand, who actually turned out to be an undercover DEA agent.
+🇬🇧
+UK
+: The Royal Navy has failed
+a second consecutive test launch
+of a submarine-based Trident missile, which “
+plopped
+” into nearby waters off Florida. Both the UK defence minister and chief of navy were aboard the submarine during the failed test.
+🇮🇳
+India
+: In an effort to
+boost its share of the global space sector
+, India will allow 100% foreign direct investment in the manufacture of satellite components without the need for government approval. The aim is to attract interest from private companies like SpaceX, and quintuple India’s share of the space economy (currently at 2%).
+🇺🇸
+US
+: Several US congress members have met Taiwan’s president in a show of bipartisan support,
+describing the US-Taiwan partnership as “
+rock-solid
+”. The US doesn’t formally recognise Taiwan but maintains ‘unofficial’ ties, and is bound by its own laws to provide Taiwan with weapons to defend itself.
+🇸🇴
+Somalia
+: At Somalia’s request, Turkey has announced it’ll provide maritime support to
+help secure Somalia’s waters
+against threats like piracy. Turkey has been a security and aid partner there for more than a decade, and opened its biggest overseas base in Mogadishu in 2017.
+EXTRA INTRIGUE
+Some weekend recommendations for those of you in
+🇩🇪
+Berlin
+Eat
+: Stop by
+Distrikt
+for roasted specialty coffee with a side of German industrial architecture.
+Visit
+: If you’re looking for something a little different, check out the ‘
+Puppentheater Museum
+’ to explore the surprising history of puppets and marionettes.
+Shop
+: If your pad needs a fresh look, we suggest dropping by ‘
+Hallesche Haus
+’ for anything from sleek vases to ceramic teapots.
+ALBUM OF THE DAY
+It’s good to have hobbies. Take Abdalá Bucaram - the former President of Ecuador who kept his love of music alive while president, and even released an album titled ‘
+Un loco que ama
+’ (A Madman Who Loves). Critics (both musical and political) say it was all to distract from his rather brief presidency (1996-97).
+But he’s still going, and dropped a new album in 2020. It’s available on all streaming platforms, if you dare.
+DAILY POLL
+Do you think AI's boom is sustainable?
+📈 Yes, we're going to see AI in every part of our lives in a few years
+💥 No, it's more of a bubble
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think Kim is up to in North Korea?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🤷
+Nothing, it's just your typical Kim Jong Un (30%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ⚔️ He's preparing for war sometime in the nearish future (10%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🎭 It's all a scheme to distract his own people and the world (57%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+🎭
+B.P:
+“The appearance of strength is a vital component of the presidential family's makeup.. Whether he is preparing for a real conflict is moot, but declaring against peaceful reunification is a worrying change of posture.”
+✍️
+M.D.F:
+“War would guarantee the annihilation of his regime, he's probably not that stupid.”
+✍️
+D.A:
+“He is posturing to gain concessions because the alliances have ended a significant amount of his isolation. He matters for the first time in his life. He wants to press that advantage.”

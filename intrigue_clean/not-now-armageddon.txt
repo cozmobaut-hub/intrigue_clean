@@ -1,0 +1,249 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-46ddfb00e4627e71
+Title: 🌍 Not now, Armageddon
+
+Today’s briefing:
+— Not now, Armageddon
+— Go save lives in Barbados
+— New spy film just dropped
+Good morning {{first_name | Intriguer}}
+. One of the things we at Intrigue HQ pride ourselves on is our knack at connecting the seemingly unconnected dots of geopolitical events to help make sense of it all.
+Often, that’s the butterfly effect of one isolated issue like, say, a protest in a copper mine in Latin America and the subsequent downstream impacts on supply chains — including what it means for your “
+next day
+” delivery online purchases.
+Our top story for today on the global “
+RAMageddon
+” is one such story. It examines the global shortage of memory chips and the downstream impacts for our world, including a spike in the cost of computing and devices for consumers.
+PS
+- Ahead of a revamp, it’s your last week to
+score sweet perks
+(including access to our exclusive WhatsApp group) by sharing Intrigue with friends using your unique link below!
+Split of the day
+‘Anthropic and the Pentagon’
+Pentagon chief Pete Hegseth is reportedly weighing up naming Anthropic a ‘supply chain risk’ over the US-based AI leader’s opposition to roles in domestic surveillance and autonomous lethal weapons. It’s a designation usually reserved for foreign foes, but Anthropic’s
+Claude
+is among the rare AI models now allowed in classified military systems.
+Memory meltdown
+You’d think 2026 already had enough on, but no — someone has gone out and helpfully coined an entirely new genre of Armageddon: not nuclear, not biblical, but
+supply chain
+:
+Apple
+’s Tim Cook is warning memory chip prices will increase “
+significantly
+”
+Micron
+’s ops guru Manish Bhatia says the shortage is now “
+unprecedented
+”, and
+Tesla
+’s Elon Musk is even floating the idea of his own in-house chips plant (‘fab’).
+So what’s driving this impending
+RAMageddon
+?
+Intrigue’s hard-core nerds will forgive us when we casually split chips into three families:
+First
+there are the
+compute chips
+that usually dominate our attention given their AI role, particularly to train models so they can answer your urgent query about the best cocktail for when you’ve only got a splash of brandy: the answer is a sidecar btw. We’ve long tracked these frontier chips, their NatSec implications, and the debate on if the US thwarts China by hooking it
+on
+these chips, or cutting China
+off
+them (Trump is camp hook).
+Second
+, there are the
+storage chips
+you use every day to save that selfie you grabbed at Chili’s, or your work spreadsheet named “
+Final FINAL Version - Seriously FINAL.xl
+”.
+And
+third
+, there are the
+memory
+chips you also use every day, but perhaps without realising: if the above
+storage
+chips are like your fridge, then these
+memory
+chips are like your kitchen bench where you
+whip ingredients into a crisp sidecar
+run programs.
+We’ll get angry emails about us separating families two and three, but the bottom line is there’s now
+a supply crunch hitting family three: memory chips
+. Why? AI.
+That might seem counterintuitive given we already flagged it’s family
+one
+(compute) that’s really driving AI, but AI also needs vast amounts of family three (ie, memory, or RAM). And that AI demand also means suppliers are pivoting to higher-margin
+types
+of RAM (like HBM), squeezing supply for everyday RAM even further.
+So with hyperscalers announcing
+AI data centres
+more quickly than Jacob Elordi can pivot to his next mexi-mullet, it’s no wonder RAM demand has now outstripped supply.
+In fact, there are only
+three main RAM suppliers
+, and
+Hynix
+(
+🇰🇷
+) already pre-sold its entire 2026 output by last
+October
+, soon followed by
+Samsung
+(
+🇰🇷
+) and
+Micron
+(
+🇺🇸
+).
+So, what does that all mean in practice?
+The thing is, AI isn’t the only use-case for this RAM. To the contrary, RAM sits in your desktop, laptop, smartphone, tablet, gaming console, smart TV, and beyond.
+And with some chip prices spiking 75%
+in a single month
+, anything with a screen is now facing price
+hikes
+(Nintendo),
+delays
+(PlayStation), and/or weaker
+margins
+(Apple), let alone the gloomers warning entire gadget categories could get
+wiped
+by high prices.
+Sure, suppliers say they’re ramping-up production, but the reality is this crunch means those three firms are now printing cash, so will all be watching one another to see who
+actually
+blinks first via a costly new fab that’d seize more market share but crash prices. Even if they announce new fabs, you’re looking at
+a 3-5 year wait
+. And the next one already due (Hynix’s project in Cheongju) won’t come online until
+maybe the
+end of 2027.
+Plus realistically, while China has suppliers nibbling at the edges, the three main players above still control almost all key memory chip output, protected by big moats of complexity, yield, ‘packaging’, and customer qualification.
+So that’s why RAMageddon is now upon us.
+Intrigue’s Take
+We’ve long explored the way this existential AI rush is
+empowering the bottlenecks
+, whether Dutch lithography, US design & packaging, or Taiwanese fabs. We’ve also long explored how that rush is upending calculations, whether in the energy needed to power the data centres, the sudden urgency to
+launch sovereign AI models
+, or the way export controls have become bargaining chips between our world’s two top powers.
+And so it’s against that bigger picture that today’s
+RAMageddon
+is so intriguing: ie, it’s a shock happening right now, and if you’re reading this, it’ll hit you directly. It all makes this AI transformation even more immediate, and even more tangible: that sidecar cocktail query is free until you get the invoice for your iPhone 22 X-pro-plus (x).
+So while AI is transforming everything, it’s also eating energy, land, talent, capital, geopolitical leverage, and… even the RAM in your pocket.
+Today’s briefing is presented by…
+The comprehensive IT-industry rundown
+Every day, IT teams make decisions that affect security, budgets, and how the business runs.
+IT Brew
+is built for those moments—delivering clear, timely coverage of the trends shaping IT so you understand what’s changing before it turns into a meeting, a ticket, or a fire drill.
+Join 125K+ industry pros reading {IT Brew’s newsletter} for free.
+Check it out
+Meanwhile, elsewhere…
+🇪🇺
+EUROPEAN UNION
+-
+Leaving already?
+Rumours are resurfacing that Europe’s central bank chief Christine Lagarde will leave before her term ends in October 2027. That’d allow France’s Macron and Germany’s Merz to replace her before France’s 2027 presidential election, which polls suggest could usher in another brave new world of populism. (
+FT
+$)
+Comment
+:
+Lagarde has previously denied these palace whispers, but it really depends on finding her a worthy off-ramp. When we were in Davos last month (great way to start a sentence btw), the rumour was she’d lead the World Economic Forum (WEF).
+🇯🇵
+JAPAN
+-
+Got yourself a deal.
+President Trump has revealed the first investments under Japan’s vaunted $550B pledge, which sealed last July’s deal to lower tariffs from 25% to 15%. (
+Bloomberg
+$)
+Comment:
+While the White House credits Trump’s tariffs, Japanese outlets note the first three projects align with Japan’s own interests: the $36B gas plant in Ohio and $2B crude export terminal in Texas diversify its energy, while the $600M synthetic diamond plant in Georgia de-risks critical mineral reliance away from China. Plus Tokyo is clarifying these are mostly private funds backed with low-risk loans.
+🇰🇿
+KAZAKHSTAN
+-
+Corporate citizen.
+Chevron’s investment arm has agreed to fund $23.5M for a new ferroalloy plant in Kazakhstan, pledging to create 500 jobs. (
+Interfax
+)
+Comment:
+Chevron already operates and co-owns the massive $48B oil field at Tengiz, so these kinds of diversifications are a way to build goodwill as Tengiz contract renewal talks kick off ahead of the concession’s expiry in 2033.
+🇫🇷
+FRANCE
+-
+Politically motivated.
+Police have arrested nine suspects over the fatal assault of 23-year-old conservative activist Quentin Deranque, who had reportedly offered security assistance to a small
+feminist-identitarian
+protest against immigration-linked crimes on women. (
+Euronews
+)
+Comment:
+The confirmed suspects include an assistant to a hard-left French lawmaker, hinting (along with all the themes crammed into our sentence above) at the sheer level of polarisation ahead of municipal elections next month.
+🇦🇺
+AUSTRALIA
+-
+We want no part in this.
+Australia says it’s playing no role in a recent failed attempt by 34 ISIS-linked women and children to repatriate to Australia from Syrian detention camps, though concedes it might’ve granted passports per a legal obligation. (
+CNN
+)
+Comment
+:
+This attempted repatriation is tricky timing for Albanese, already under domestic pressure in the wake of the ISIS-inspired Bondi terrorist attacks. Australian law has previously stripped some ISIS members of citizenship, but it’s only for dual citizens and now requires a court conviction first.
+🇵🇪
+PERU
+-
+Next!
+Just weeks out from Peru’s next presidential and congressional elections in April, lawmakers have ousted Peru’s latest short-lived interim leader over misconduct including secret meetings with a China-linked investor, plus staffing his office with unqualified young women after late-night closed-door interviews. (
+MercoPress
+)
+Comment:
+He’s Peru’s 8th leader since 2016, extending the political instability at the heart of the world’s 2nd-largest copper exporter. But rather than just wait this guy out, the local US ambassador recently tweeted a pic of the two eating burgers — it was a play on the secret China-linked meeting that infamously happened over a succulent Chinese meal, but it arguably linked the US to a terminal presidency.
+🇳🇬
+NIGERIA
+-
+Market share.
+Nigeria’s data protection regulator has launched an investigation into China-based online marketplace Temu over suspected violations, including surveillance and cross-border data transfers. (
+DW
+)
+Comment:
+The fast-expanding Temu is already facing scrutiny across the West, but has enjoyed more of a free ride in emerging markets. With Africa’s most-populous nation now flagging concerns, Temu might need to hire more lawyers.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Associate Director, Global Investigations
+@
+US Treasury
+in Washington
+Editor, modules on anti-corruption
+@
+United Nations
+in Vienna
+Research Assistant
+@
+China Europe International Business School
+in Shanghai
+Programme Officer, Education and Training
+@
+Caribbean Disaster Management Agency
+in Barbados
+Movie of the day
+Credits: Shenzhen Channel / X
+There’s a new espionage movie on the market, this time from Beijing! Released yesterday (Tuesday),
+Scare Out
+follows a crack national security squad racing to catch spies who’ve managed to leak classified intelligence about the country’s fighter jet program.
+It’s unclear if the film mentions the fighter jet program was itself part-built on secrets yoinked from the US, but the director is acclaimed filmmaker Zhang Yimou, so it’ll be a spectacle. He’s the same guy behind the opening and closing ceremonies for both the 2008 and 2022 Olympic games.
+Today’s poll
+What do you think of this RAMageddon?
+💽 Yikes, I'm stocking up on RAM right now
+🚫 Eh, it's overblown
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which do you think is happening in the US-Iran talks?
+🗣️ US military buildup as leverage in the talks (57%)
+🚢
+Talks are buying time for the military buildup (39%)
+✍️ Other (write in!) (4%)
+Your two cents:
+🗣️
+E.K:
+“Maybe that was the problem with the Obama-era deal he scrapped: not enough theatrics.”
+✍️
+D.V:
+“Both. I don't believe the US administration knows exactly which direction they plan on going with this. If talks go poorly though, I don't see them preparing this much for nothing.”

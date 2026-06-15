@@ -1,0 +1,216 @@
+URL: https://archives.internationalintrigue.io/p/qatar-announces-major-lng-expansion
+Title: 🌍  Qatar announces major LNG expansion
+
+Hi {{ First name | Intriguer }}.
+Strict laws often prevent spies from revealing where they work - even after they quit and, say, run for office, launch a politics podcast, or convalesce on a beach somewhere.
+But that’s not the case in France, where members of the Directorate-General for External Security (the CIA’s counterpart) are allowed to reveal their double lives after seven years out of the service.
+One such French spook popped up in Australia recently under a
+nom de plume
+, Jack Beaumont. His debut spy thriller,
+The Frenchman
+, is such a chillingly plausible account of life in the shadows.
+I’ll be diving into his sequel,
+Dark Arena,
+right after helping bring you today’s meme of the day, plus an update on
+Qatar’s massive bet on LNG
+.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Potential Ramadan pause.
+US President Joe Biden has said Israel is willing to halt its operation in Gaza during the Muslim holy month of Ramadan if there’s a hostage deal in place with Hamas. He hopes a ceasefire agreement could be finalised by this Monday, giving the clearest sign yet that mediators from the US, Qatar and Egypt are getting close to a deal.
+China expands state secrets law.
+China's top legislative body has passed an amendment applying more restrictions around state secrets. They include a directive for government agencies to label something a “
+work secret
+”, even if it’s not a state secret but could undermine “
+the normal functions of government departments
+”. It’ll do little to calm foreign companies already jittery about government intervention.
+Hungary approves Sweden’s NATO bid.
+The Hungarian parliament has finally ratified Sweden’s NATO membership, removing the last hurdle for the Swedes to end two centuries of neutrality and join the 75-year-old alliance. The vote came shortly after Sweden agreed to lease Hungary four new fighter jets. Sweden’s membership will become official in the next few days.
+Macron doesn’t rule out sending Western troops to Ukraine.
+French President Emmanuel Macron hosted a summit of 25 European leaders yesterday (Monday) to catalyse support for Ukraine. When asked whether the West would send troops, he replied, “
+in terms of options, nothing can be ruled out
+”. For now, this looks more like a signal of broad support for Ukraine; he also announced a new coalition to provide Ukraine with longer-range weapons, and dropped his long-standing opposition to buying shells for Ukraine from outside the EU.
+US air force member dies after self-immolation in Gaza protest.
+Aaron Bushnell, 25, has died after setting himself on fire in front of the Israeli Embassy in Washington on Sunday. Bushnell had stated beforehand, “
+I will no longer be complicit in genocide
+”.
+TOP STORY
+Qatar bets big (very big) on LNG
+Qatar has
+announced
+major plans to lift its liquefied natural gas (LNG) production by almost 85% before the end of the decade.
+And this is pretty intriguing, because
+LNG prices are actually in a slump right now
+- US prices haven’t been this low since the 1970s, and prices in Europe are now weaker than they were before Russia’s invasion of Ukraine. Why?
+Mild weather has reduced demand for winter heating
+Europe’s gas-hungry sectors shrank when the invasion spiked prices
+Supply has recovered after scheduled maintenance in Australia, and
+Qatari shipments to Europe normally sail through the Red Sea later in the year, mostly avoiding recent Houthi attacks
+So
+why would Qatar announce a massive LNG expansion
+when prices are low?
+There are two layers in answering that one. First, there’s what Qatar’s energy minister
+says
+: "
+we still think there's a big future for gas for at least 50 years forward and whenever we can technically do more, we'll do more
+".
+He’s banking on more
+demand
+due to a population boom in Asia, a broader global economic recovery, and a transition from coal (the dirtiest fuel) to LNG as governments try to cut emissions.
+The second layer to the answer is on the
+supply
+side:
+Qatar is at the very bottom of the LNG cost curve, meaning it can still make money even when lower prices force others to shutter
+Lower prices also potentially extend the commercial lifespan of Qatar’s gas, keeping it competitive as renewable alternatives get cheaper, and
+Other major suppliers (like Australia and Russia) are likewise looking to boost LNG output. Even the US - which just
+paused
+new export licences - expects to double its exports by 2030.
+So from Qatar’s perspective, it has an ability and an urgency to sell its gas while it still can, while financing its own post-gas transition along the way.
+Of course, this all makes
+geopolitical waves
+, too.
+First, low LNG prices curb
+Russia
+’s income and tap the brakes on its war machine.
+Second, Qatar is giving the world’s major powers
+a reason to back it
+, signing long-term LNG supply deals with Europe, China, India, and Japan, while inviting LNG investment from energy giants in the US and beyond. You’d be surprised how quickly world leaders take your call when you have something they need.
+And finally,
+deep pockets power Qatar’s ambitions
+, whether it’s hosting the FIFA World Cup, shaping perceptions through its own global news agency (Al Jazeera), or seeking to boost its clout by supporting Islamist movements abroad (infamously prompting its irritated neighbours to cut ties in 2017).
+And all this before we even touch on what cheap gas means for the world’s two-month old commitment to “
+transition away
+” from fossil fuels.
+INTRIGUE’S TAKE
+You might recall the International Energy Agency is
+projecting
+global demand for oil and gas to
+peak
+by 2030. Meanwhile, Shell is
+projecting
+demand to
+grow
+50% by 2040, for similar reasons to those cited by Qatar.
+Have a think about
+which projection is more plausible
+, and which one is preferable. We’ll do a special edition update in 2030 (while celebrating Intrigue’s 10th anniversary - we’ve heard good things about Nashville?).
+In the meantime, it’s worth recalling the world’s top two energy sources are still coal and gas; the world’s cheapest source is now
+solar
+(and getting cheaper); and the world’s fastest-growing source is solar (and getting faster).
+It’s also worth recalling that
+forecasts
+can shape expectations, which can shape behaviour (like investments), which can shape outcomes (like output). So there’s a gyre of forces at play here. See you in Nashville in 2030?
+Also worth noting:
+LNG is natural gas (predominantly methane) that’s been cooled into liquid form so it’s easier to store and transport.
+Qatar is also pushing a massive expansion of its LNG fleet. It just named
+its first new carrier
+the ‘Rex Tillerson’ after the former US Secretary of State and energy executive.
+US President Biden
+designated
+Qatar a major non-NATO ally in 2022. The largest US military facility in the Middle East is located in Qatar.
+SUPPORTED BY PYRRA
+Don't wait for US election news to hit the media.
+Start the week with unique insight into what people are really saying about the candidates, platforms and parties with our weekly US Election Report.
+Intriguers get the first month free with code INTRIGUE
+Pyrra's AI scans millions of records from more than 30 unmoderated social media platforms every day, to give you an early warning of the narratives, sentiments, interests, and actions that are shaping the election, influencing platforms and impacting public safety.
+Subscribe today!
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: Taiwanese semiconductor giant TSMC
+opened its first chip plant in Japan
+over the weekend as it seeks to diversify its supply chain amid US-China rivalry. The high-tech plant took only 22 months to get operational, with a second TSMC foundry for Japan now in the offing.
+🇩🇰
+Denmark
+: Copenhagen has announced it’s
+dropping its criminal investigation
+into the 2022 Nord Stream pipeline blasts, shortly after Sweden signalled it would do the same. Although no definitive culprit has been identified, suspicion is circling around pro-Ukraine operatives.
+🇰🇭
+Cambodia
+: The ruling party has unsurprisingly
+claimed a landslide victory
+in Cambodia’s senate elections on Sunday. Former leader Hun Sen, who handed the reins of the country to his son last year, has now returned to the political limelight as senate president.
+🇧🇷
+Brazil
+: Thousands of
+supporters of the former president, Jair Bolsonaro
+, gathered in Sao Paulo over the weekend to back the beleaguered figure. He’s under investigation over his alleged role in the 2023 storming of Brazil’s congress, in a process he says is political.
+🇹🇳
+Tunisia
+: A Tunisian court has
+sentenced in absentia
+former President Moncef Marzouki to eight years in prison, accusing him of seeking to “
+provoke disorder
+” when speaking out against current leader Kais Saied. Marzouki, who now lives in Paris, was Tunisia’s first democratically elected president after the Arab Spring.
+EXTRA INTRIGUE
+Here’s what people around the world googled yesterday
+Folks in
+🇮🇪
+Ireland
+looked up ‘
+Pattie Boyd
+’ as the former model revealed she’ll auction letters from her
+infamous love triangle
+with Eric Clapton and George Harrison.
+🇰🇪
+Kenyans
+were googling ‘
+West Ham vs Brentford
+’, as the highly-anticipated UK Premier League matchup saw West Ham
+break its losing streak 4-2
+thanks to a first-ever hat-trick by Jarrod Bowen.
+And
+🇨🇱
+Chileans
+hailed the opening of Latin America’s biggest music festival this week, with more than
+200 million people tuning in
+to broadcasts from ‘
+Viña 2024
+’.
+MEME OF THE DAY
+From our resident meme lord, Jeremy, who you can find on Twitter/X
+Being a diplomat isn’t all cocktails and black tie. That’s right, sometimes it’s champagne and business attire. Or stapling briefing packs together. Or standing on the tarmac in the rain waiting for a minister who won’t like you. But through the ups and downs, one thing remains constant: just like the bad guy from
+Lethal Weapon 2
+, you get diplomatic immunity. And sometimes work pays your rent.
+DAILY POLL
+Who do you think is right about the future trajectory of global gas demand?
+📉 The IEA - the energy transition means demand will soon peak
+🛢️ Qatar - like it or not, the world needs more gas
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Ukraine will be in a better or worse position this time next year?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🌻
+Better, here's why... (39%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+📉
+Worse, here's why...  (56%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents:
+🌻
+C.W:
+“The US and EU will finally get more support to Ukraine with newer weapons. Sanctions and destruction of equipment will finally start to erode Russia's ability to conduct offensive and effective defensive operations as well.”
+📉
+C.D:
+“American war fatigue and self-interest will likely result in less support. Putin seems to be securing resources to sustain the war, and the Russian economy seems to be dependent on it. Ukraine doesn't have Russia's capacity so without external U.S. support it will be at a disadvantage.”
+✍️
+T.B:
+“It will likely be in the same place as it is today with marginal gains/losses for both sides. This has now become a war of attrition. A settlement seems to be the only way out of this, unless Putin suddenly dies, that would change everything.”
+Curious how former diplomat and Intrigue co-founder John Fowler might answer this one? Simply refer five people using your unique link below to join our exclusive Diplo Club WhatsApp group, where he’ll drop some thoughts.
+Share the Intrigue

@@ -1,0 +1,231 @@
+URL: https://archives.internationalintrigue.io/p/the-icj-s-biggest-case-ever-c443841708ab1d00
+Title: 🌍 The ICJ’s biggest case ever
+
+Today’s briefing:
+— The ICJ’s biggest case ever
+— Something odd about Tuesday…
+— He was faking it
+Good morning {{first_name | Intriguer}}
+. Heard of
+vuvale?
+It’s a Fijian word for family, but it’s now common in Pacific Island diplomacy when tackling shared problems.
+I first heard the term when starting out as a baby UN lawyer in Fiji, and a cohort of brilliant emerging Pacific attorneys really took me in
+.
+Years later, that particular
+vuvale
+is still going strong in public service: one’s now a judge in Fiji, another is a leading political figure in Solomon Islands, and a third is a cabinet minister in tiny Tuvalu.
+It’s that same
+vuvale
+spirit that motivated several Pacific Island nations to push the
+world’s top international court to weigh in on climate change
+, and the resulting bombshell ruling overnight will be felt (if not liked) all around the world. So let’s dive in.
+Number of the day
+90
+That’s how many proposed federal actions appear in President Trump’s just-released
+AI Action Plan
+, aimed at winning the AI race against China. The plan focuses on increasing private-sector innovation, expanding AI infrastructure, and exporting more American AI.
+Tense climate
+The International Court of Justice (ICJ) in The Hague just weighed in on climate change, and it's worth your attention whether you’re in the board room or the cabinet room. Or any other room, really.
+The case gives off major
+David vs Goliath
+vibes because it’s been led by tiny Pacific Island nations like Vanuatu, urging (via the UN General Assembly) the ICJ to opine on a simple but profound question: what legal obligations do countries have around climate change?
+The resulting 500-page
+advisory opinion
+is non-binding, and even
+binding
+ICJ rulings are unenforceable. But they’re still influential, and particularly this one: it’s the biggest ICJ case ever, with more than half the world's capitals making statements.
+So here are
+the top 5 quotes you should know
+:
+Climate change poses an "
+urgent and existential threat
+"
+(para 73)
+That's a real escalation in rhetoric from the 15 judges.
+How so?
+They're saying this is no longer (if it ever was) some niche, blue-haired, environmental issue, but rather a profound, urgent, and existential crisis. Existential how?
+"
+The protection of the environment is a precondition for the full enjoyment of human rights
+” (para 373)
+The tiny low-lying nations leading this case gave hard evidence: Vanuatu, for example, presented first-hand testimonies and field data on its loss of arable land, while Tuvalu (2m / 6ft above sea level) warned the court, it "
+will not go quietly into the rising sea.
+"
+But what does this mean for
+everyone else?
+"
+Non-compliance with emission reduction commitments by a State may constitute an internationally wrongful act
+" (para 221)
+In other words, countries not living up to their climate commitments might be breaching international law. It’s one thing for activists to say that, but this is now the world's top court laying it out as a possible legal foundation for countries to sue each other.
+Then what about
+companies
+?
+Well...
+"
+A State may be responsible [by] not taking the necessary regulatory and legislative measures to limit the quantity of emissions caused by private actors under its jurisdiction
+" (para 428)
+This is directed at capitals seeking to deflect blame to companies or consumers.
+And the implications could be massive, with the court even listing (at para 427) fossil fuel production, consumption, exploration, and subsidies as examples of
+emissions-driving activities
+. We're just spit-balling, but it's not hard to imagine where this could lead: local miners exporting too much coal? Breach. Local authorities subsidising too much oil to keep prices low? Breach. Local banks financing too many new oil rigs? Breach.
+And
+what’s a breach mean?
+The court flags governments might have to repair damage or even pay reparations. So to the extent these suits emerge, they'll become a pain-point forcing capitals to rethink their own laws, or risk writing big cheques to their neighbours.
+But
+didn't the US pull out of the Paris Agreement...?
+“
+Customary obligations are the same for all States and exist independently regardless of whether a State is a party to the climate change treaties
+" (para 315)
+This is quite a spicy line for a few reasons:
+first
+, it's one of the ICJ's more than
+200 references
+to '
+customary international law
+' (CIL), which is basically all the unwritten rules that bind the world together. They're the rules so basic, they don't need a treaty.
+Second
+, America's own judge on the ICJ, Sarah Cleveland, reiterates this point too. And that's particularly intriguing when you recall the US has now twice withdrawn from the Paris Agreement that the world negotiated to try and slow rising temperatures.
+So the court (including Cleveland) is basically saying you can withdraw from all the treaties you like, but your climate obligations remain unchanged at this point.
+It’s CIL
+(though there may still be debate around the precise contours).
+Oh, and the US isn't the only country in the court's sights here. The judges also query (para 226) whether big-emitters like
+China and India
+can shirk responsibility by claiming they’re developing nations — that depends on an assessment of reality, not claims.
+Now of course, this is a non-binding advisory opinion, and nobody knows how courts and capitals around the world might interpret it. Actually that’s not true: many will ignore it.
+But as the inevitable lawsuits follow, ignoring this will just get trickier (and costlier).
+Intrigue’s Take
+We've observed a few times how the whole climate discussion seems to have lost its sting lately.
+Gone are the days
+when world leaders might sit there and get publicly scolded by a Swedish teen. Gone are the days when hosting the annual COP talks might discourage a president from fast-tracking Amazon oil projects. Heck, gone are the days when hosting the COP talks might discourage a petrostate from using the summit to try selling more oil!
+But we're now seeing play out on the world stage something that's already happened nationally: as the political route almost ground to a halt, folks in
+the Netherlands
+turned to their courts instead, resulting in a landmark 2020 ruling that found the Dutch government has a legal duty to protect its own citizens from climate change. It was a world first, and inspired a wave of other cases around the world.
+Now ditto, as the
+international
+political process falters, tiny countries like Vanuatu likewise turned to the international courts. Why?
+Their argument
+has always been that while they're emitting the least, they're getting hit the worst. And just as with the 2020 Dutch ruling, this ICJ opinion is going to trigger a new wave of litigation as a result.
+Sound even smarter:
+Several of the Pacific Island countries leading this case are now in a bid to co-host (with Australia) next year's COP climate talks.
+You might recall Tuvalu already signed a treaty with Australia to start gradually relocating its ~10,000 citizens Down Under. Interestingly, the ICJ just found that countries still exist under law even if they disappear beneath the waves.
+Meanwhile, elsewhere…
+🇰🇭
+CAMBODIA
+-
+Is this war?
+After months of tension (which we covered
+here
+), Thailand has now reported civilian casualties from a Cambodian missile that’s hit a residential border area. Thai and Cambodian troops are now clashing at multiple points along their shared border, with both sides also scrambling jets. (
+CNN
+)
+Comment:
+This risks escalating further, as both sides seek to project strength to domestic audiences. In the meantime, the regional response has been muted: China has issued a routine statement, while ASEAN hasn’t even managed that.
+🇺🇸
+UNITED STATES
+-
+At it again.
+In an extraordinary intervention, President Trump’s spymaster (Gabbard) has accused former president Obama of treason, and filed a criminal referral with the justice department after declassifying a 2020 Republican-authored
+report
+questioning the Obama-era investigations into Russia’s 2016 electoral interference. Obama has dismissed the accusations as "
+nonsense
+". (
+The Hill
+)
+Comment:
+Gabbard’s declassified document doesn’t seem to challenge the conclusion of a bipartisan 2020 Senate intelligence committee report (co-signed by Marco Rubio) which found Russia did indeed try to interfere in the 2016 US election. Ditto, there doesn’t appear to be any major new proof of a conspiracy against the Trump campaign. Critics argue the administration is just trying to distract from…
+🇺🇸
+UNITED STATES
+-
+Say it ain’t so.
+The White House has hit back at reports in both
+The Wall Street Journal
+and
+The New York Times
+that President Trump’s own attorney-general (Bondi) told him in February his name appears in justice department documents relating to the late convicted predator, Jeffrey Epstein. It’s unclear how significant any mentions might be, with the WSJ reporting they could be unverified hearsay. (
+WSJ
+and
+NYT
+)
+🇮🇳
+INDIA
+-
+Just popping by.
+Prime Minister Narendra Modi is in the UK to sign a landmark free trade deal that’s been years in the making, and Delhi’s most significant beyond Asia. (
+Guardian
+)
+Comment
+: Both Delhi and London saw this long-running negotiation with renewed urgency once President Trump announced his tariffs earlier this year. It’s another example of how, perhaps counterintuitively, protectionism can beget liberalisation, as trade-exposed nations hustle to diversify their ties.
+🇦🇷
+ARGENTINA
+-
+Rocky road.
+New figures suggest the Argentine economy contracted in May for the third time this year, amid falling wages and rising unemployment. October’s mid-term elections will be a key test for President Milei’s austerity strategy. (
+BA Times
+)
+🇳🇬
+NIGERIA
+-
+Wanna see a magic trick?
+Nigeria’s GDP is now 30% bigger after the national statistics agency updated its methodology to include new sectors. That brings the GDP up to ~$243B. (
+Yahoo
+)
+🇰🇷
+SOUTH KOREA
+-
+Let’s make babies.
+South Korea has recorded its highest fertility growth rate in decades so far this year, along with a corresponding increase in marriages. (
+F24
+)
+Comment
+: Seoul has long struggled with the world’s lowest fertility rate, so this baby bump is coming off a low base and still looks fragile. Still, it might be a sign that Korea’s pro-natalist policies (more parental leave, bigger child subsidies, more generous housing loans for newlyweds) are paying off. We wrote about that
+here
+.
+Extra Intrigue
+Meanwhile, in other worlds…
+Music
+: Heavy metal fans are mourning the
+loss of Black Sabbath frontman Ozzy Osbourne
+, just two weeks after his appearance at the band’s big reunion.
+Science
+: Did Tuesday feel unusually short? Well, according to scientists, it was
+1.34 milliseconds shorter
+than the normal 24 hours due to Earth’s rotation, making it one of the shortest days in recorded history.
+Art
+: A British woman has agreed to
+return a stolen 16th century artwork
+to Italy’s Civic Museum of Belluno after a lengthy negotiation process.
+Embassy of the day
+Credits: AP
+Today’s embassy isn’t an embassy at all… because it’s fake!
+Police in India have arrested a man accused of running a fake embassy for
+illicit activities
+like scamming folks looking for overseas employment. The alleged grifter went to serious lengths to appear legit, like photoshopping himself next to world leaders, adorning luxury cars with fake diplomatic plates, and faking seals for a dozen different countries.
+He apparently told his victims he was ambassador for the fictional countries of Seborga and Westarctica. But something tells us bro is now going straight to East Prisonville.
+Today’s poll
+What do you think about this ICJ opinion on climate change?
+😮 It's a major turning point
+🥱 Meh, the ICJ has no real power
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Has the Epstein saga impacted your trust in public institutions?
+🎯
+Yes, here's why... (49%)
+🤷
+No, here's why... (49%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🎯
+C.S.R:
+“It seems to be a universal cover-up that has nothing to do with party affiliation. The rats are circling the wagons. If someone wasn’t cynical about government before this I don’t see how they couldn’t be now.”
+🤷
+B.P:
+“I had no trust to begin with.”
+🤷
+L.R:
+“The US has bigger, actually important issues such as winning the AI race, reforming immigration laws, and keeping the US economy strong and most competitive.”
+🤷
+K.E:
+“Institutions have ALWAYS failed to protect women and girls, so their failure to bring Epstein to justice (and, indeed, help him evade justice for so many years) is wholly unsurprising.”

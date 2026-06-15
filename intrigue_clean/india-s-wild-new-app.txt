@@ -1,0 +1,206 @@
+URL: https://archives.internationalintrigue.io/p/india-s-wild-new-app
+Title: 🌍 India’s wild new app
+
+Today’s briefing:
+— India’s wild new app
+— Go work security in Alaska
+— World’s most chiselled diplomat?
+Good morning {{first_name | Intriguer}}
+. Soon after landing in Mexico as a baby diplomat, I found myself invited to an event at the senate, where tux-clad waiters emerged clutching trays of tequila shots. I thought damn, these Mexican senators really know how to par-tay, and promptly slammed my shot back before then having to stand there in agony for like an hour while everyone else took dignified little sips.
+The lesson, dear Intriguer? If you’re ever invited to Mexico’s senate, do not slam your shot.
+Now, let’s update you on
+India’s wild new mandatory app
+!
+Number of the day
+2026
+That’s potentially when AI giant Anthropic might go public in what the Financial Times is flagging could be one of the biggest IPOs in history.
+We’re watching!
+Remember the fury when Apple pre-downloaded a U2 album on everyone’s iPhones?
+Well imagine a repeat, but instead of Apple it’s India, and instead of that sweet Celtic blend of Bono’s messianic baritone with The Edge’s angelic delay-chimes, it’s a government-controlled cybersecurity app you can never ditch.
+India launched its new
+Sanchar Saathi
+(aka ‘communication companion’) app in January, with the stated aim of cracking down on device theft and scams (~doubling each year).
+It allows users to locate and block their
+lost phones or report fraud
+via each device’s unique
+International Mobile Equipment Identity (IMEI)
+. Reportedly helping the government recover 50,000 lost phones in October alone, Delhi is now making the app mandatory.
+But as you can imagine,
+not everyone is convinced
+…
+Privacy
+: nobody reads the T&Cs, but they give off strong
+Grease
+vibes here (“
+the rules are, there ain’t no rules
+”). This app can access your camera, pics, calls, texts… and in a world where the line between security and surveillance is already thinner than the latest iPhone 17 Air Max Lite X Deluxe Plus S +, that’s rattled folks.
+Private sector
+: this government directive has also rattled the phone-makers themselves, as it clashes with most manufacturer bans on pre-loading third-party apps before sale (to maintain user security and control). With just 90 days to comply,
+word
+is Apple is already pushing back. And then there’s the…
+Politics
+: this thing is exploding like a 2016-era Samsung Galaxy Note 7, with India’s raucous opposition not only declaring the app unconstitutional but also Modi’s government a dystopian dictatorship. Rahul Gandhi is even vowing protests, and last time he did that, bro ended up
+walking the entire length of India
+!
+But while this all plays out, it’s worth stepping back to ask:
+has anyone tried it before?
+Well yes, though it’s a short list that includes…
+Russia
+— it started force-feeding its ‘MAX’ superapp (like China’s WeChat) earlier this year. We’d love to ask Russia’s top rights voices about this one, but somehow, whether it’s Politkovskaya, Estemirova, Markelov, Baburova, Magnitsky, Nemtsov, Litvinenko, Grigoryeva, or Shchekochikhin, they just keep turning up dead.
+North Korea
+also has its own Kwangmyong app, which not only delivers the absolutely most piping hot trending state-generated Jucheist ‘tent, but can track your location, screenshots, and any naughty naughty South Korean soap-operas.
+Oh, and
+Brazil
+has launched its own IMEI-based tool to let users block stolen devices, though it’s not mandatory. And therein lies the trade-off: sure, it has fewer users, but also fewer
+quality memes
+of your leader clinging to a phone tower listening in on your calls.
+And maybe Modi’s seen all the spicy memes, because
+moments ago
+his government announced it’s ditching any plans to make the app mandatory!
+Intrigue’s Take
+Some of the grittiest espionage fiction has come from David Ignatius, who built deep intelligence networks as a journalist — the result was both
+a
+) books the CIA itself describes as “
+a novel but not fiction
+”, and
+b
+) criticism he was too CIA-sympathetic.
+Anyway, Ridley Scott made one into the
+Body of Lies
+film about the CIA’s war on terrorism, featuring a scene where Russell Crowe tells Leonardo DiCaprio, “
+if you live like it's the past, and you behave like it's the past, then guys from the future find it very hard to see you.
+” It’s a sharp line that hints at the
+first
+of many issues
+when governments see tech as their silver bullet
+: whatever your move, there’s
+always
+a counter-move. Ram
+Sanchar Saathi
+onto a billion phones, then guess your next security vulnerability? Sanchar Saathi.
+The
+second
+is how this app reflects some of Modi’s authoritarian impulses we’ve seen before, like when his 2016 demonetisation play yoinked 86% of cash from circulation overnight in an attempt to crush black money, but it ended up an economic disaster. It’s that populist temptation for quick solutions yet again diving chin-first into India’s reality.
+And the
+third
+is what this all means for Big Tech: as Apple and others scrambled to diversify their supply chain risk away from China, India emerged as the promised land, but it hasn’t taken long for the script to flip. Sure, it’s backed down, but what about next time?
+But lest you think we’re just dunking on India here, this app is really but a straw in today’s wind: whether it’s China-made buses getting remote-controlled in Norway, or Germany’s Porsches now reportedly getting disabled across Russia, one way or another, every capital will now feel the urge to scrutinise if not control every bit of tech it didn’t make itself.
+Meanwhile, elsewhere…
+🇷🇺
+RUSSIA
+-
+No deal.
+Five hours of talks between President Putin and US envoy Steve Witkoff have failed to yield a breakthrough on ending Russia’s war on Ukraine. (
+BBC
+)
+Comment
+: By some estimates, Russia has now lost more men trying (and not yet succeeding) to take Ukraine’s single town of Pokrovsk, than the Soviets lost during their decade in Afghanistan. So Putin’s continued ceasefire rejections come not from any strength, but a realisation that any gains he banks now won’t come close to what he’s lost. Meanwhile, US Secretary of State Marco Rubio will skip today’s (Wednesday) NATO foreign minister meeting, fuelling European doubts around US commitment.
+🇫🇷
+FRANCE
+-
+Quick trip to China.
+President Macron is headed to China this week, a gaggle of CEOs in tow, looking to strike deals on nuclear energy, food, and even pandas, while likely again leaning on President Xi to help end Putin’s war. (
+France24
+)
+Comment
+: If Macron’s last China visit is a guide, it’ll be worth tuning into any interviews he gives from the presidential jet — yes, he once famously suggested his thoughts were too complex for journalists, but history has probably vindicated his famous 2023 airborne call for European “strategic autonomy”.
+🇯🇵
+JAPAN
+-
+People’s princess.
+As Japan’s popular Princess Aiko turns 24, there are calls for Tokyo to change its succession laws that ban women from taking the throne. She’s the emperor’s only child, but the ban means the crown passes to his younger brother (60). (
+SCMP
+)
+Comment:
+It seems unlikely Japan will rethink succession, but it’s interesting the increasingly pro-China SCMP ran such a glowing piece given the latest China-Japan spat. It almost echoes the Party’s classic carrots-and-sticks approach: the hawkish PM (Takaichi) gets sticks, while a benign figure like Aiko gets carrots. But given how high Takaichi is now polling, China’s approach seems counter-productive.
+🇪🇺
+EUROPEAN UNION
+-
+Training ground.
+Belgian police have detained the EU’s former top diplomat (Mogherini) and others on
+“suspected fraud related to EU-funded training for junior diplomats.”
+(
+France24
+)
+Comment
+: The only fraud we witnessed as junior diplomats was the bait-n-switch between the brochure promising we’d help heal the world, and the reality of then getting yelled at because the consul-general didn’t like the word ‘delighted’. But seriously, Mogherini’s 2014-19 stint rocked plenty of boats, whether via her support for the Iran nuclear deal or her alleged softness on Russia. Hence the mix of schadenfreude in amongst all the shock right now.
+🇮🇩
+INDONESIA
+-
+Going Dutch.
+The Netherlands and Indonesia have agreed to repatriate two elderly Dutch prisoners convicted on drugs charges years ago (one was on death row). (
+The Straits Times
+)
+Comment
+: Indonesia hasn’t executed anyone since 2016, after intense global blowback for shooting various foreigners from Australia, Brazil, the Netherlands and beyond. So this news might be a signal that even Indonesia’s current leader (an ex-general with tough-on-crime vibes) isn’t in a rush to revive the firing squad.
+🇭🇳
+HONDURAS
+-
+A free man.
+Former president Juan Orlando Hernández has now left his high-security federal prison in West Virginia a free man after President Trump pardoned the Honduran’s 45-year US drug trafficking conviction, arguing it was a political witch-hunt. (
+AP
+)
+Comment
+: Orlando walks free just as Hondurans await the weekend’s electoral outcome: before the tally website crashed, two conservative opposition front-runners (each pledging to undo the incumbent’s Taiwan→China switch) were neck-and-neck.
+🇳🇬
+NIGERIA
+-
+Taken.
+Nigeria’s defense minister has unexpectedly resigned, citing health reasons. (
+BBC
+)
+Comment
+: Given the country’s security woes and increased US pressure (which we
+tackled
+last week), it’s hard to take this one at face value. The replacement nominee is an experienced ex-general pledging Nigeria’s biggest security overhaul in decades.
+Extra Intrigue
+The Intrigue jobs board
+Associate Fellow
+@
+CNAS
+in Washington, D.C.
+Trainee, Multilateral Diplomacy
+@
+UNITAR
+in Geneva
+Professor, Arctic Security Studies
+@
+TSC
+in Anchorage, Alaska
+International Government Affairs
+@
+Revolut
+in Australia
+Diplomat of the day
+Credits: @FreddyLim, X
+When hardly anybody recognises you as a sovereign country, you’ve got to try a bit harder to get noticed. That’s why Taiwan often unleashes its secret weapon (boba tea) at its de-facto embassy compound in DC.
+It’s also why Freddy Lim above, Taiwan’s new envoy to Finland, got his lid off last week to reveal a surprisingly chiselled rig while belting out heavy metal. Alongside his wife on bass, turns out he’s frontman for the band ChthoniC, drawing unusually big crowds to Taiwan’s events in town.
+Today’s poll
+What's the best fix for India’s cybercrime problem?
+🔨 Government tools and monitoring
+📱 More digital literacy and caution
+🛡️ Stronger private-sector solutions (banks, apps, etc.)
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which outcome do you think is now most likely in Venezuela?
+🤝
+Maduro sticks around under some kind of deal (42%)
+✈️ Maduro goes voluntarily into exile (24%)
+🪖
+Maduro gets ousted by force (32%)
+✍️ Other (write us!) (2%)
+Your two cents:
+🪖
+G.M:
+“He won´t voluntarily go.”
+🤝
+O.C:
+“Trump's options look bad here no matter what, but invasion is the worst - Maduro knows this and will agree to some sort of toothless deal.”
+✈️ J.B:
+“I think more than likely he will be replaced by a general who is open to working with the US and go into exile. Restoring democracy? I doubt that. Too much corruption and money at stake. ”
+✍️ C.O:
+“Quagmire.”

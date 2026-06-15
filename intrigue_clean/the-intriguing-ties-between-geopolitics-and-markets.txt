@@ -1,0 +1,223 @@
+URL: https://archives.internationalintrigue.io/p/intriguing-ties-geopolitics-markets
+Title: 🌍 The intriguing ties between geopolitics and markets
+
+IN TODAY’S EDITION
+1️⃣ What markets want
+2️⃣ Indonesia gets a new-old warship
+3️⃣ Rig of the day
+Hi {{ First name | Intriguer }}.
+One of the more interesting things the Harvard Business Review has published in recent years is a ‘
+Big Ideas Series
+’ on whether democracy and capitalism really need each other.
+Pundits from different countries weighed in on the topic. Some argued that the failure of each system was married to the other, while others thought that capitalism is clearly compatible with all kinds of political regimes: liberal, democratic, communist, autocratic. Take your pick.
+Keep those thoughts swirling in your head as you dive into today’s top story on
+the intriguing relationship between geopolitics and markets
+.
+THE HEADLINES
+Hamas opposes ceasefire unless it’s permanent.
+Seemingly rejecting President Biden’s proposal, Hamas leaders have reaffirmed they will “
+deal seriously and positively
+” only with a proposal involving a
+permanent ceasefire and the complete withdrawal
+of Israeli troops from Gaza. Given Israel’s own mixed response to Biden’s proposal, it’s hard to see how CIA director Bill Burns (now in the region) can rescue the deal.
+Biden draws Ukraine comparison in D-Day WWII address.
+Speaking in Normandy, the US president warned that
+democracies around the world are again under attack
+, with autocrats watching developments in Ukraine closely.
+Meanwhile, UK Prime Minister Rishi Sunak was forced to apologise after leaving the commemoration early to return to the campaign trail.
+Russian ships set for Caribbean military drills.
+The war games will involve a relatively small number of ships, with likely
+port stops in Cuba and Venezuela
+this summer ahead of “
+a global Russian naval exercise this fall
+”. Coming in response to US support for Ukraine, it’s an attempt by Russia to show it still has some ability to project global power.
+British Hong Kong judges resign.
+The two judges served as non-permanent overseas
+judges on Hong Kong’s top court
+, with one stating his departure had to do with the city’s “
+political situation
+”. Their departure will add to worries about the city’s rule of law and its judicial independence from mainland China.
+Modi set for third term as PM.
+The coalition led by Prime Minister Modi’s party has
+formally elected
+him as leader, setting him up to continue as India’s prime minister for a third term. The swearing-in ceremony should take place this weekend.
+TOP STORY
+The intriguing ties between geopolitics and markets
+If you close your eyes and picture an old-school trading floor, you can almost feel the chaos — the trades lost, the prices shouted, the egos stroked. But despite all that thrill, markets really want nothing more than to anticipate events.
+When European Central Bank (
+ECB
+) chief Christine Lagarde finally
+announced
+a rate cut yesterday (Thursday), the markets were at ease. The quarter point cut - the bank’s first since 2019 - was widely telegraphed, so markets had priced it in.
+But as we waded through
+Lagarde’s remarks
+,
+her analysis pointed to a theme close to our hearts:
+geopolitics
+🤗
+. Lagarde, a former IMF chief and French finance minister, said the Ukraine-Russia and Israel-Hamas wars - plus trade tensions - were keeping things
+“tilted to the downside over the medium term.”
+Why?
+On the
+war
+front, there’s been talk of peace but - for reasons Intriguers will know - that talk isn’t new, and the fighting continues. In fact, you could say it’s escalated - the Houthis have now expanded their commercial shipping
+threats
+to the Mediterranean and Arabian seas, and there are claims Russia’s monthly casualties are now higher than when it first invaded.
+And as for
+trade
+, countries slapped
+3,000 new restrictions
+on each other last year (five times the 2015 number) while trade in goods shrank by 2%, the sharpest drop this century outside a global recession.
+Throw in the
+biggest election year in history
+, with two billion eligible voters throwing curve-balls across 80+ countries, and you get a sense why pricing it all into an excel spreadsheet is so tricky.
+So as we approach this year’s halfway mark, let’s take a quick look at
+how the markets have reacted to some of the action
+.
+Elections
+Mexico
+:
+We knew
+the left-leaning ruling party’s Claudia Sheinbaum would win, but her margin was a surprise. And her party now
+says
+it’ll push reforms that investors fear could lead to more state meddling and less checks on power. The result? A 5% crash in the peso.
+India
+:
+Voters surprised us by eroding rather than expanding Modi’s majority. And unlike in Mexico, folks fear Modi
+won’t
+push reforms that investors
+do
+want. Plus, losing his majority has clipped his CEO vibes, likely limiting his spending.
+The result? A year’s stock gains gone in a day.
+South Africa
+:
+Polls saw
+the ANC party’s historic majority loss coming, but that still just tossed us forward into unchartered territory. Coalition talks kicked off formally on Tuesday across a
+very
+broad ideological spectrum, a week after voting day. The result? The rand dropped 0.7%.
+UK
+: The timing of the PM’s July 4th election call was a mini-surprise, but the ‘meh’ response from markets suggests it was merely a slight rescheduling of what they’ve already priced in: a new prime minister.
+US
+: And markets everywhere - across bonds, currencies, and beyond - are struggling to price in November’s presidential elections between two very different visions for the world’s main superpower (ps - we’ll be launching a regular new Intrigue briefing soon to help you track this).
+Interest Rates
+Meanwhile, central banks might set their own rates but the ripples can go global. And markets, eager to price that in, have grown frustrated with banks hinting at cuts then tapping
+ctrl-z
+when inflation persists - markets want those sweet, sweet low rates, which can encourage more deal-making, borrowing, and buying.
+And that brings us back to where we started:
+Lagarde
+has warned not to expect more ECB cuts in July, as inflation looks like it’ll remain above the continent’s 2% target for the year.
+Canada
+’s central bank
+just
+became the G7’s first to cut rates this cycle, though it warned it can’t diverge too much from the Fed, lest cash rush south in search of those sweet, sweet returns. And that takes us to…
+The Fed
+: it’s at least months away from cutting rates (sticky inflation), while across the pond, the sooner-than-expected elections mean the Bank of England will likely wait until later this year before it cuts rates.
+So there you go: our world can undershoot, overshoot, or shoot expectations. But the market can still find a reason to flip out, and some of the markets above still went on to recover losses once the dust settled. So maybe a takeaway here is that Ken Fisher was right: “
+time in the market beats timing the market
+”.
+INTRIGUE’S TAKE
+Another lesson you could draw is that polls and markets, while still sources of valuable information, are inadequate forecasting tools
+on their own
+.
+That’s partly why governments invest heavily in their own forecasting capabilities. For example, the US Defense Advanced Research Projects Agency (DARPA) emerged in response to the Sputnik surprise of 1957. And
+IARPA
+(like DARPA but for intelligence rather than military use) emerged after the September 2001 terrorist attacks. Both organisations look at forecasting tools, among other things.
+IARPA has been doing some
+really interesting research
+, including multiple long-running geopolitical forecasting tournaments. The
+findings
+? i) Folks can get better with experience, ii) crowd-sourced forecasts can outperform individual experts, and iii) those two factors combined (ie, pooling the best forecasters) can produce significantly more accurate results.
+So yes, there’s good information out there, driving good forecasts. You just gotta know who and what to trust.
+A MESSAGE FROM THE DAILY UPSIDE
+Smart, actionable business news trusted by 1M+ subscriber
+If you love getting International Intrigue (we'll assume you do), you must value crisp insights and actionable intel without the BS. The Daily Upside is another great newsletter for globally-minded readers.
+Built with business professionals in mind, The Daily Upside is packed with sharp analysis on finance, economics and markets.
+Join 1 million readers and sign up for free today.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: Ukraine’s deputy foreign minister travelled to China on Wednesday to urge the country to
+send a delegation
+to this month’s summit on Ukraine’s peace plan, despite previous refusals. China has previously said it will only attend summits where both warring parties are present.
+🇫🇷
+France
+: Russian authorities have detained a French citizen
+on allegations of collecting information
+on Russian military activity. This arrest comes shortly after French authorities detained a Russian-Ukrainian citizen on terrorism charges.
+🇮🇩
+Indonesia
+: The country’s navy will
+accept a donated corvette ship from South Korea
+, despite the ageing vessel needing millions in maintenance to enter service. The Indonesian deputy defence minister didn’t mince his words: “
+This is better than we have: nothing at all
+”.
+🇲🇽
+Mexico
+: The World Health Organization has confirmed that a man who died in Mexico in April had a
+strain of bird flu
+that’s never before been found in a human. Health authorities believe the chances of the virus spreading to the general population are low.
+🇿🇦
+South Africa
+: The incumbent African National Congress (ANC) party is now suggesting
+a national unity government
+with all parties, after failing to win a majority in parliament. This will be the country’s first coalition government since the ANC swept to power 30 years ago.
+EXTRA INTRIGUE
+Some job opportunities you might find intriguing
+👀
+Project Manager
+, Democracy Forward Initiative (Microsoft)
+Head of Policy Communications
+, Snapchat
+Associate
+, Blair Institute for Global Change
+Advocacy Officer
+, Save the Children
+Catastrophe Risk Analyst
+, QBE
+Quick question: Would you value an Intrigue job board?
+💼 Yes, as a job-seeker
+🏦 Yes, as an employer
+👀 Yes, to be nosy
+💅 Nah, I'm all set
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+RIG OF THE DAY
+Credits: Facebook via Sitiveni Rabuka.
+The 75-year-old prime minister of Fiji, Sitiveni Rabuka, just won his country a bronze medal in shot-put at this year’s Oceania Athletics Championships. The Fijian leader, who’s long been active in sports (when not busy instigating two coups in the 1980s), narrowly missed a medal in the discus throw.
+His thinking? “
+Even at 75, I hope to inspire the younger generation to develop a habit of keeping fit and staying healthy
+”. But seriously, how about those pipes.
+FRIDAY QUIZ
+1) Which country produces the most jasmine flowers?
+Sierra Leone
+Egypt
+Philippines
+Indonesia
+Login
+or
+Subscribe
+to participate
+2) Which country consumes the most tomatoes?
+China
+Turkey
+Italy
+India
+Login
+or
+Subscribe
+to participate
+3) Which country has the world's biggest reserves of diamonds?
+Botswana
+Canada
+Angola
+Russia
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

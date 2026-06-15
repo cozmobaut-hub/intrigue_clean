@@ -1,0 +1,215 @@
+URL: https://archives.internationalintrigue.io/p/ready-set-code-the-ai-race-is-on-c1979a40b5ee8f3c
+Title: 🌍 Ready, set, code: the AI race is on
+
+Today’s briefing:
+— Ready, set, code
+— The Intrigue jobs board
+— Surely that’s fake?
+Good morning {{first_name | Intriguer}}
+. I was last in China back in 2016 to celebrate a milestone birthday with some friends, including my cofounder John. He was about to embark on his posting to Shanghai, and most of the trip was a raucous blur.
+Almost ten years later, I’m back in Shanghai for the World Artificial Intelligence Conference (WAIC) this week, which has also been a blur (for different reasons). The exhibition was Disneyland for techies and futurists, with hundreds of robotics and electric vehicles companies showcasing their latest wares for consumers and international media.
+Though some of the conference could have been an email, most was super interesting because it revealed some insights into how
+China is thinking about its evolving approach to AI
+- especially how it can leverage the tech in the ‘global south’. That’s our top story today, so let’s dive in.
+Number of the day
+8.8
+That’s the magnitude of the earthquake that hit just off Russia’s eastern coast earlier today (Wednesday), triggering tsunami warnings in parts of the US, China, and Japan. It was one of the strongest quakes on record.
+The view from Shanghai
+China just hosted a
+‘
+Global Solidarity in the AI Era’
+conference in Shanghai. And you know who was there? Yes, back-flipping robots. Yes, boxing robots. Okay yes, beer-serving robots, too. But also, Intrigue’s very own co-founder Helen Zhang, among thousands of other delegates from all around the world. A robot also scooped ice-cream.
+So here are
+the top four quotes
+you need to know, and why:
+“We should strengthen coordination to form a global AI governance framework that has broad consensus as soon as possible”
+— China’s premier, Li Qiang
+That’s been the main headline this week: China’s call for global rules around AI. Supporters
+argue it reflects China’s determination to
+manage global AI risks
+, promote
+genuine multilateralism, and include smaller and developing countries at the table.
+But critics argue it reflects China’s determination to
+shape global rules in its own favour
+, undermine Western regulatory leadership, legitimise
+its own authoritarian-led AI model, and contrast
+this ‘responsible leader’ branding against a disruptive US.
+But what type of global AI rules does China want…?
+“
+We must choose the open source pathway for the sake of humanity and the Global South
+” — That was Li Qiang again
+Li warned, “
+if we choose closed source AI, then the future of power rests only with the few, the elites.
+” Supporters argue this open-source preference reflects China’s pledge to empower the Global South, and
+democratise the benefits of AI
+.
+But of course, critics
+argue China just wants to burnish
+its
+champion of the poor
+branding, undermine US-dominated proprietary AI systems, and promote
+China’s own AI models in markets across the world.
+And Li got an amen from an intriguing new voice…
+“Unlike OpenAI's closed system, we adopt an open strategy to advance science and technology"
+— The CEO of Z.ai, Zhang Peng
+Remember January? Everyone was hyperventilating at DeepSeek’s claims that it matched or exceeded OpenAI models using just a fraction of the US player’s chips, cash, and time.
+Well grab your paper bag, because while DeepSeek’s CEO laid low at Shanghai this week, local rival
+Z.ai
+claimed its own GLM-4.5 model is now even better than DeepSeek’s! The world is still scrutinising Zhang’s big claims, including that he pulled off this feat using just
+eight
+Nvidia
+H20
+chips (ie, the slower chips specifically designed to fit US chip controls).
+But what does the US have to say about all this?
+"Winning the AI race is non-negotiable"
+— US Secretary of State, Marco Rubio
+Don't worry, you didn't miss a Rubio trip to speak at China’s AI conference. Rather, the White House
+released
+its own AI thinking, wrapped in a 90-day action plan focused on the three pillars of
+1
+) innovation,
+2
+) infrastructure, and
+3
+) international dominance.
+It aims to remove regulatory hurdles, ensure any open-source AI aligns with US values, and defend US AI solutions as the global go-to (while curbing China’s access).
+The one thing these two competing visions have in common? China only appears twice in America’s vision, while the US doesn’t get directly mentioned in Li’s speech at all.
+They’re one other’s elephant in the room, wrestling with — if not yet naming — the other.
+Intrigue’s Take
+To be clear, why are these two rivals so focused on AI right now? Because it’s an unusually transformative and exponential tech that’ll not only amplify state power across sectors, but could reshape how citizens perceive and interact with the world around us.
+So given the
+wild stakes
+, there’s arguably nothing surprising about the ideological race of the century playing out in the technological race of the century:
+No
+dominant
+power would want its own tech fuelling an emerging rival, and
+Any cut-off
+emerging
+power would then naturally become an apostle of openness.
+That might seem a little grim, but history does offer us
+some hope
+. Have we seen other moments when high-stakes tech emerged during a high-stakes race? Of course. You could fill a Qatari 747 with all the caveats, but history shows nukes and space exploration both accelerated just as the US and the Soviet Union really squared off last century.
+And somehow, it was at the height of that same high-stakes moment that those two arch rivals managed to agree on some basic guardrails that still persist today: the 1967 Outer Space Treaty, and the 1970 Non-Proliferation Treaty.
+To be clear — they didn’t deny or even decelerate their competition. But they did
+de-risk
+it. And that’s the reality of what we might hope for around AI today.
+Sound even smarter:
+China’s Li Qiang also proposed a new
+World AI Cooperation Organization
+, possibly headquartered in Shanghai. Word is it reflects doubts around the coordinating capacity of the UN special envoy’s office, but also an attempt to shape AI cooperation in line with Beijing’s vision above.
+Interestingly, China’s state outlets have this week been highlighting donations of an AI weather warning system (‘MAZU-Urban’) to Mongolia and Djibouti, as China’s way to “
+embed AI solutions in global public goods
+”.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Pause on pause?
+The latest China-US trade talks in Stockholm have wrapped with no clear outcome, beyond a
+likely
+possible truce extension subject to leader endorsement. (
+CNN
+)
+Comment:
+Their current truce expires on 12 August, at which point earlier prohibitive tariffs would resume, though neither side needs another market freak-out right now.
+🇬🇧
+UNITED KINGDOM
+-
+Or else.
+Prime Minister Starmer has announced he’ll recognise a State of Palestine at the UN in September unless Israel allows unhindered Gaza aid, reaches a Hamas ceasefire, and halts West Bank annexations. Some critics say he’s using Palestinian statehood as a bargaining chip, while Israel’s Netanyahu says he’s appeasing terrorists. (
+BBC
+)
+Comment
+: France is already set to become the world’s ~148th nation to recognise the State of Palestine in September, while ~30 states don’t yet recognise Israel.
+🇦🇺
+AUSTRALIA
+-
+Show us some ID, mate.
+The government is moving to include YouTube in Australia’s incoming ban on social media for under-16s, reversing an earlier stance that exempted the platform as more a video streaming than social media site. (
+ABC
+)
+Comment:
+Tech giants have resisted this new world-first law given the potential domino effect, but Australia’s prime minister has shrugged off legal threats, and has pledged to promote the law at the UN in September, all while flanked by families who’ve lost kids to cyber-bullying. Silicon Valley will no doubt be seeking DC’s help.
+🇰🇵
+NORTH KOREA
+-
+Rebuff thy neighbour.
+Kim Yo Jong, the supreme leader’s sister and a top regime official, has announced her autocratic North has no interest in any peace overtures from the rival South, dashing hopes the arrival of the South’s pragmatic new leader might herald an off-ramp. (
+DW
+)
+🇮🇩
+INDONESIA
+-
+Fighter’s regret.
+There’s a heated debate now playing out after a former Indonesian marine posted a plea for help to axe his contract with Russia’s defence ministry and reinstate his Indonesian citizenship, which he lost by joining Putin’s invasion of Ukraine. (
+F24
+)
+🇦🇷
+ARGENTINA
+-
+Come visit!
+US homeland security chief Kristi Noem has met President Milei in Buenos Aires, as Argentina moves to rejoin America’s visa waiver program. Argentines had visa-free entry until a deep economic crisis hit from 2002. (
+BH Herald
+)
+🇨🇮
+IVORY COAST
+-
+One more round.
+Ending months of speculation, 83-year-old President Ouattara has announced he’ll run in October’s presidential elections, seeking a fourth term in office. The opposition boycotted the last election, arguing his third term was unconstitutional (he changed the constitution in 2016). (
+AfricaNews
+)
+Extra Intrigue
+The Intrigue jobs board
+Finance Business Analyst @
+Morgan McKinley
+in Hong Kong
+Architectural Journalist @
+Livin Spaces
+in Lagos
+Information Systems Officer @
+UN
+in New York City
+Sustainability and Public Affairs @
+Excelerate Energy
+in Texas
+Have a job opening you’d like to advertise with us? Shoot us an email!
+From our sponsors
+Make Summer Learning Count.
+Summer break is an opportunity not just to rest, but to grow. IXL is the personalized learning platform trusted by one in four U.S. students and used in 95 of the top 100 school districts. With interactive lessons in math, reading, science, and social studies, IXL helps kids stay sharp and curious while school’s out.
+Backed by research from all 50 states, students who use IXL consistently perform better on standardized tests. It’s a smart, effective way to keep young minds engaged with the world, even during summer.
+Build Smarter Summers
+Artwork of the day
+Credits: Cheffins
+Imagine turning up to a house clearance-sale in Cambridge and spotting, amongst the Ikea shelves and Alton Towers fridge magnets, a surreal painting with an unsettling Chewbacca cameo. On further inspection, you spy a famous signature in the corner, then you reflect on all those ‘
+Fake or Fortune
+’ episodes you’ve seen, so you decide to bid on it.
+The work is soon yours for ~$200. And now, sure enough, it turns out to be an authentic Salvador Dalí painting
+going on auction
+in October with a price guide at ~$30k.
+Today’s poll
+What do you think will most decide who wins the AI race?
+💾 Latest hardware
+👷 Best engineers
+✂️ Least regulation
+💸 Most government support
+👐 Open source environment
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about the reported US decision to block the Taiwanese president's NYC transit?
+👍 Good: poking China helps nobody (14%)
+👎 Bad: appeasing China helps nobody (84%)
+✍️ Other (write in!) (2%)
+Your two cents:
+👎
+S.A.M:
+“It makes us look weak, and we're already seen as disrespectful by China.”
+✍️
+E.H:
+“Within the current context of the US' unreliability towards allies, it's definitely more destabilising.”
+👍
+J.G:
+“Sometimes you poke the bear and sometimes you give the bear some honey. Depends on what you need at the time.”

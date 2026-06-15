@@ -1,0 +1,262 @@
+URL: https://archives.internationalintrigue.io/p/r-c27b
+Title: 🌍 You won’t believe these politics
+Date: 2026-05-13
+
+Today’s briefing:
+— You won’t believe these politics
+— Trump’s silence in China
+— Nvidia’s getting shorted
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. They say politics is a dramatic spectator sport, but some countries really take the whole notion up a notch. One of the more entertaining rabbit holes on YouTube is a channel dedicated to “
+global parliament brawls
+”.
+Much like its name suggests, it’s a compilation of all the antics that have gone down in official settings around the world. As a sample, there’s footage captured of Taiwan’s parliament breaking out into a water balloon fight and chair throwing, and fisticuffs thrown during a military ceremony between India and Pakistan.
+Now, to be clear, we’re not here to peddle brawls in politics. We’re more here for the palace intrigue and
+House of Cards
+-vibed drama
+that we’re now seeing play out in
+Philippine politics
+. That’s our top story today, let’s tune in.
+Number of the day
+18 days
+That’s how long Samsung’s labour union is threatening to strike, after talks collapsed over restructuring a worker bonus system amid the current AI windfall. If it goes ahead next Thursday 21st as threatened, it could be the largest strike in the tech giant’s history.
+Family feud.
+Vice President Sara Duterte and President BongBong Marcos Jr in happier times.
+Sometimes life imitates art. Other times it imitates the plot of B-tier telenovelas.
+Like in current Philippine politics, which is only missing a long-lost twin, a dramatic amnesia reveal, and a slap-filled showdown to get a three-season deal on Telemundo.
+So get your popcorn but also don’t, because this one has massive real-world stakes.
+Like any good soap opera, it all starts with
+a rivalry between two dynasties
+:
+The
+first
+is current President Bongbong
+Marcos
+Jr, son of longtime autocrat Ferdinand who fled aboard a US military jet amid mass peaceful protests in 1986.
+The
+second
+is former leader Rodrigo
+Duterte
+, who had a meteoric rise from local mayor to populist president in 2016, pledging a tough-on-crime approach.
+The two families were allies for a while, with Duterte’s daughter Sara even joining the Marcos Jr. ticket as veep, sweeping to power in 2022 on political savvy and star power.
+But the honeymoon didn’t last. Why?
+Yes, there were
+egos
+: Sara wanted defence, but Bongbong palmed her off to education.
+Yes, there were
+scandals
+too, like the $10M Sara’s office allegedly blew with almost zero receipts, leading to her chief of staff’s brief jailtime for contempt in 2024.
+And yes, dear Intriguer, there were even
+hitmen
+: outraged by the above jailing, Sara herself promptly hopped on a Facebook live to announce she’d hired a
+sicario
+to assassinate her own boss and running-mate (Marcos Jr) if she ever turned up dead!
+And it was really that whole ✌️
+threaten to kill you
+✌️ thing that unleashed the next twist:
+The
+International Criminal Court
+(ICC) had always been investigating wild reports that Duterte Senior’s earlier war on drugs actually involved corrupt cops killing
+tens-of-thousands
+of random villagers and peripheral players to earn performance bonuses.
+But the ICC couldn’t do much while
+President Marcos was protecting his predecessor
+. But sure enough, 108 days after Sara’s hitman announcement, her ex-president dad was in cuffs en route to The Hague, where he now faces
+charges
+of crimes against humanity.
+Surely that’s the end? WRONG.
+We just saw
+two more twists
+:
+first
+, Marcos-friendly lawmakers are (again) trying to impeach Sara over that whole ✌️
+hire a hitman to kill the president
+✌️ thing. If the senate convicts, she’ll be banned from running for the top job in 2028 (she’s now polling first!)
+So Sara needs friendly senators, but that’s the
+second
+twist: authorities just tried to execute another ICC warrant against a senator who was her dad’s former police chief, but failed after the senator barricaded himself inside the senate (with mysterious shots fired!).
+Whew. So let’s leave it there, but side note for our Filipino readers, how y’all doing? Do you need a hug?
+Intrigue’s Take
+We don’t just update you on this stuff because it’s so wild, though let’s be honest, it’s wild.
+We update you because of
+the implications
+:
+First
+, when two of the country’s most powerful families go to war,
+everything else
+takes a backseat: but that “
+everything else
+” basket now includes not just last year’s brutal natural disasters, but also a Hormuz energy crunch curve-balling life for 120 million locals.
+Second
+, this whole feud is
+supercharging political polarisation
+, with lawmakers openly rallying supporters into rival camps — that doesn’t always end peacefully in the Philippines.
+Third
+, it’s all spooking
+foreign investors
+, who tend to hate nothing more than
+unpredictability (and maybe taxes). FDI hit a five-year low last year (just $7.8B), and it’s hard to see that getting much better amid so much palace intrigue.
+But
+fourth
+, and the one that really grabs us by the mullet, is this: the region’s
+giants already smell blood in the water
+. We’ve long
+written
+about this US ally straddling China’s key sea lanes, but recall also: while Marcos Jr has close US ties (his family fled to Hawaii after papa got deposed), the Dutertes have long kept lines open with Beijing.
+So it’s hard to see Beijing or DC sitting on their hands ahead of Manila’s 2028 elections.
+Sound even smarter:
+President Marcos Jr is heading to fellow US ally Japan later this month, for the first such visit by a Philippine president in over a decade. The three (US, Japan, Philippines) just wrapped record military drills facing the South China Sea.
+It seems Veep Sara Duterte can still count on a sizeable pro-Duterte bloc to back her in the Senate’s impeachment trial, which is due to start next week.
+Today’s briefing is sponsored by
+Mulga Defense Corporation
+Co-founders Ben Duncan, Jai Gabbard (US spymaster Tulsi Gabbard's brother!), and Stuart Clout.
+When Iranian drones hit AWS data centers last month
+, they exposed the vulnerability of centralized cloud infrastructure - in real time, during active conflict. Mission-critical software went dark while militaries and enterprises scrambled.
+Mulga Defense Corporation is fixing that
+.
+Their sovereign edge platform (Mulga Spinifex) lets you run full AWS-compatible cloud workloads (apps & AI) on localised edge compute meaning your apps & AI still work in denied, disconnected, and forward-deployed environments.
+No cloud dependency. No single point of failure.
+Led by serial founders with a proven track record of big exits, this is
+a rare shot at the next Anduril-scale defense company
+.
+$10M seed round closing end of May.
+Don’t miss out!
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES - Trump in China.
+DC is yet to share details on President Trump’s initial two-hour chat in Beijing with President Xi, though China
+says
+Xi delivered a sharper-than-usual warning that the “
+two countries could collide or even come into conflict
+” if Taiwan isn’t “
+handled properly
+”. Their second and final chat is tomorrow (Friday) before Trump departs. (
+CNN
+)
+Comment
+:
+Anything’s still possible, but the cordial optics and heavy CEO presence still leave us expecting more of a tactical US-China stabilisation rather than any kind of grand bargain. There’s also some breathlessness about Trump’s apparent avoidance of media questions around Taiwan, but it’s hard to draw conclusions from a silence that could also just be aimed (if it’s aimed) at preserving America’s “strategic ambiguity”.
+🇨🇺
+CUBA - Out of fuel.
+Cuba is officially out of fuel oil and diesel, according to the island’s energy minister. Meanwhile, the US (imposing the fuel embargo) is reiterating it could send $100M in aid in exchange for “
+meaningful reforms to Cuba's communist system
+”. (
+BBC
+)
+Comment
+:
+With none of the regime’s traditional partners willing or able to help (Venezuela, Russia, China), and the regime itself doubling down, the question might end up being how much the US public can stomach: two members of Congress just returned from Cuba
+saying
+they’re “shocked by the inhumane effects of the policy”
+.
+🇰🇬
+KYRGYZSTAN - A coup plot?!
+Prosecutors have indicted Kyrgyzstan’s former security chief Kamchybek Tashiev — long one of the country’s most powerful men — for allegedly plotting a violent coup to overthrow President Japarov. The classified case will be heard behind closed doors. (
+The Diplomat
+)
+Comment:
+Classic power struggle in Central Asia — one day you’re running the secret police, the next you’re on trial for treason. But this time, Japarov is systematically removing rivals ahead of January elections. The closed trial helps him neutralise Tashiev without giving him a public platform.
+🇺🇬
+UGANDA - Generosity hitting its limits?
+Uganda is warning that its generous open-door refugee policy might not be sustainable, amid drastic cuts to international aid while it’s already hosting two million arrivals (mostly from Sudan and South Sudan). (
+PBS
+)
+Comment
+: The policy has long been a point of pride for Uganda. So while Kampala has tightened a few rules, this seems more an appeal to donor governments for now — the UN refugee agency has only received 10% of its Uganda budget for this year.
+🇪🇺
+EUROPEAN UNION
+- One ticket to rule them all.
+The EU has proposed new digital rules forcing railway operators to share data and sell each other’s tickets. (
+European Commission
+)
+Comment:
+Yes it’s about making Europe’s trains feel genuinely integrated rather than like they run on a 2008 Excel spreadsheet. But it’s also about trying to shift more airline passengers onto trains as the Hormuz energy squeeze keeps biting.
+🇧🇸
+BAHAMAS - Incumbent wins big.
+Philip Davis has secured a landslide second term as prime minister, with his Progressive Liberal Party winning a commanding majority. Elections weren’t due until October, but he called this one early to get ahead of the hurricane season. (
+Washington Post
+$)
+Comment:
+Davis has bucked not just Bahamian history (first consecutive re-election in decades) but also global anti-incumbent trends — it’s always context-dependent, but still a useful reminder here that voters can reward “good enough” governance
+.
+🇸🇰
+SLOVAKIA - Border slammed shut.
+NATO member Slovakia has abruptly closed its main border crossings with Ukraine, citing “
+imminent security threats
+” after Putin launched another massive drone swarm targeting infrastructure in western Ukraine. (
+AA
+)
+Comment:
+Putin is still testing reactions along NATO’s defensive frontier. Slovakia’s reaction hints at how quickly “we stand with Ukraine” can shift to “first things first” when Russian munitions are overhead
+.
+🇨🇳
+CHINA - AI can just fire you?
+An appellate court has ruled in favour of a tech worker who got replaced by AI, ordering his company to pay $36k in compensation after it failed to offer proper reassignment or retraining. (
+Guardian
+)
+Comment:
+The fact state outlets are amplifying this story (and a similar one last year) suggests this wasn’t some random judge, but more a reiteration of President Xi’s ‘common prosperity’ rhetoric: yes he wants aggressive tech acceleration, but within the guardrails of
+a
+) no mass unrest, and
+b
+) no visible inequality spikes.
+Extra Intrigue
+In other worlds…
+Tech:
+Culper Research is
+shorting Nvidia
+, alleging the chipmaker still pulls in up to 20% of its revenue from China via illegal Southeast Asia diversions.
+Commodities:
+Top cocoa exporter Ivory Coast (40% of global supply) is sending officials to
+calm angry farmers
+sitting on unsold beans — it’s classic demand destruction fallout after 2024 prices spiked 150% amid crop failures.
+Film:
+France’s
+Cannes Film Festival is now underway
+, with director Park Chan-wook (
+The Handmaiden
+) serving as Korea’s first-ever Cannes jury president — there’s early buzz around Pedro Almodóvar’s
+Bitter Christmas
+tragicomedy.
+Attempt of the day
+Courtesy of Andrew himself!
+With each passing year it feels like we’re running out of normal records to break, so we now get British sailor Andrew Bedwell, who’s gearing up for his second crack at crossing the Atlantic in
+the tiniest-ever boat
+, at just 100cm (4ft) long! That’s smaller than most airline economy seats (and roughly as comfortable as Ryanair btw).
+Raising money for cancer research
+, he’s due to set off any day now from Canada’s Newfoundland on a 60-90 day and ~3,000km (~1,900mi) voyage over to Ireland.
+So Godspeed, Andrew — may the Atlantic be gentle and your wheelie bin stay upright.
+Today’s poll
+How do you think this feud in the Philippines will end?
+⛔ Sara Duterte gets barred from running in 2028
+✊ Sara Duterte wins power in 2028
+🤼 Some sort of crisis
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which UN Secretary-General candidate would you back?
+🇦🇷
+Grossi (58%)
+🇨🇷
+Grynspan (15%)
+🇨🇱
+Bachelet (13%)
+🇸🇳
+Sall (2%)
+🇪🇨
+Espinosa (8%)
+✍️ Other (write us!) (3%)
+Your two cents:
+🇦🇷
+D.D:
+“Given the push for more Global South and LatAm exposure, along with the collapse of Cold War-era non-proliferation agreements, Grossi's nuclear experience and organizational memory will prove the deciding factor.”
+🇨🇷
+K.L:
+“Grynspan has the Black Sea Grain Initiative under her belt and is the only frontrunner who hasn’t actively displeased any members of the P5.”
+✍️
+S.J:
+“Is Shakira available? Her hips don't lie.”

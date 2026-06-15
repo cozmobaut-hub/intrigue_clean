@@ -1,0 +1,218 @@
+URL: https://archives.internationalintrigue.io/p/the-geopolitics-of-warren-buffett-f76015ea030f9851
+Title: 🌍 The geopolitics of Warren Buffett
+
+Today’s briefing:
+— The geopolitics of Warren Buffett
+— OPEC’s mixed messages
+— World’s slowest getaway
+Good morning {{first_name | Intriguer}}
+. It’s a real honour to land in each and every one of your 130k inboxes. Just one example? Take international best-selling writer and humourist Bradley Trevor Greive AM, who reads Intrigue every day in between selling 30 million books in 29 languages across 115 countries.
+Oh, and his latest work (
+Broken Girl
+) launches in the US tomorrow (May 6th), before his newest TV series (
+History’s Deadliest
+) premieres on The History Channel on May 26th.
+So… I was genuinely humbled when BTG himself reached out with a remarkable gift for fellow Intriguers, offering
+24 signed copies
+of his acclaimed release of Bertrand Russell’s classic work,
+In Praise of Idleness
+(a must-have in our high-octane world).
+To grab a copy, simply refer Intrigue to a couple of friends, colleagues, or frolleagues this month using your unique referral link down below, and you’ll go in the draw!
+Now, let’s take a look at
+Warren Buffett’s big weekend announcement
+.
+Price of the day
+$59
+That’s how low Brent crude prices just reached, after OPEC+ announced its second consecutive output increase. OPEC tensions continue to simmer, as members tussle between wanting to taper supply to keep prices high, versus just milking what they’ve got.
+Buffett’s big US warning
+Thousands made the annual pilgrimage to the Berkshire Hathaway AGM on Saturday to hear the latest wisdom from the Oracle of Omaha himself, Warren Buffett.
+But they got something else: a live announcement that the 94-year-old is retiring.
+He's
+long shrugged off geopolitics
+, focusing instead on his value investment philosophy (“
+buy wonderful businesses at fair prices
+”) — and that makes sense for a guy who bought his first shares as an 11-year-old during WWII, then snowballed his portfolio through wars, famines, pandemics, and beyond into today's $810B holding company.
+Still, here are four times geopolitics nonetheless took a close interest in Warren Buffett.
+🇹🇼
+"
+I don't like its location, and I've re-evaluated that
+"
+Buffett's preferred shareholding timeframe is famously "
+forever
+". And yet, with that line above, the world suddenly learned in 2023 that Buffett was selling his stake in Taiwan's pioneering chipmaker (TSMC), just months after first ploughing $4.1B into it!
+Why?
+Whether you're buying or selling TSMC, it's geopolitical. That's partly due to the '
+what
+': a firm producing the chips in the F-35 fighter jet, the iPhone, Nvidia's AI advances, and 90% of every other advanced chip our world needs. Taiwan calls that dependence the island's '
+silicon shield
+', hoping it’ll make an invasion less likely.
+But relatedly in Buffett’s case, his above quote suggests his decision to sell was more about the ‘
+where
+’: Taiwan is just 160km (100mi) off the coast of a nuclear-armed power claiming the self-governing island as its own (see our own take on that claim
+here
+).
+Which takes us to....
+🇨🇳
+"
+This guy is a combination of Thomas Edison and Jack Welch
+"
+The above line came from Buffett's late business partner Charlie Munger, and it was about Wang Chuanfu, the CEO of
+China's leading EV-maker BYD
+. But Buffett credits Munger's enthusiasm for the guy and his company as instrumental in Berkshire's prescient decision to buy a 10% stake for $230M in 2008, before BYD had even released a single EV!
+Since then, Wang's technical and business prowess — combined with China's vast if unlawful subsidies — have made it today’s global giant. But Buffett started selling down his stake from 2022 at a cool 35x profit, noting the EV market was getting competitive.
+Meanwhile, he was already pouring cash into...
+🇯🇵
+“
+The Japanese thing was simple
+”
+From 2019, Berkshire started investing tens of billions into a handful of massive Japanese '
+sogo shosha
+' (trading houses) like Itochu, Marubeni, Mitsubishi, Mitsui, and Sumitomo.
+Why?
+Classic Buffett reasons: he
+a)
+understood these firms (like Berkshire, they're across everyday sectors like energy and agribusiness),
+b)
+he liked their management,
+c)
+he liked their long-term approach (these firms go back centuries),
+d)
+he likes Japan's long-term prospects, and so
+e)
+he concluded these firms were undervalued.
+As for the one country where Buffett has done the opposite of cheering...?
+🇷🇺
+"
+It was really kind of extreme what took place with us
+"
+This quote came from Buffett’s 2006 shareholder meeting, describing his 1987 experience as a major investor and interim chair of Salomon, which had oil interests in Siberia:
+"
+As long as we were drilling, we were welcome. Then when we wanted to start taking the oil out, after our money had been used to drill the holes, they weren't quite as friendly.
+"
+Specifically, he said local authorities warned that anyone arriving to retrieve the firm’s equipment would quite simply never return...
+Now, Russia is hardly the only economy placing hurdles on investors trying to get their cash out — China and India both have capital controls, for example. But it's interesting to see the world's most famous investor so scarred by this particular tale.
+Intrigue’s Take
+While Buffett dabbled abroad, he was better known for his ol' adage:
+never bet against America
+. He famously described winning "
+the ovarian lottery
+" by being born in the US, and was even
+bullish
+at the height of the 2008 financial crisis: "
+bad news is an investor’s best friend. It lets you buy a slice of America’s future at a marked-down price.
+"
+So maybe that's what made his parting remarks at this weekend's shareholder meeting so intriguing: sure, he reiterated his view that “
+this is the best place in the world to be
+”, but he also
+sounded a few alarms
+around US debt, deficits, and the related longer-term risk of currency mismanagement. Buffett also dunked on tariffs as "
+an act of war
+", and warned (without citing Trump directly) that alienating US partners risks undermining US security.
+Now, it's hardly surprising the ultimate capitalist, who's built a personal
+$170B fortune
+on the back of open markets, would oppose taxes on trade (aka tariffs). And it's hardly surprising that a guy who endorsed Hillary Clinton might be sceptical of Donald Trump.
+And yes, even though he's sold down some US shareholdings like Apple to accumulate a record $350B war-chest of cash, he’s still mostly stashing all that in US treasury bills, arguably reflecting
+optimism about the place, albeit unease about the moment
+.
+But still, the notable thing about his weekend comments is how he ties those risks (debt, deficit, tariffs) to the very ingredients he says have long made America great (markets, alliances, and leadership).
+His basic message? Fiddle with that recipe at your own peril.
+Sound even smarter:
+Berkshire now holds more US treasury bills than the Fed itself.
+The $810B firm only has ~26 direct employees, though it employs another ~400,000 indirectly via its subsidiaries like GEICO, BNSF (the railroad), and BHE (the energy utility). Berkshire is also the single-largest shareholder in firms like Coke, Bank of America, American Express, and Chevron.
+Meanwhile, elsewhere…
+🇮🇱
+ISRAEL - Houthi missile reaches Israel’s main airport.
+Benjamin Netanyahu has vowed action after a Houthi missile reached the perimeter of Tel Aviv’s Ben Gurion airport, briefly grounding flights (some US and European carriers have cancelled services for a few days). The attack came hours before the Israeli cabinet was meant to vote on expanding its ground offensive in Gaza, in what it’s described as pressure on Hamas to release the hostages. (
+The Guardian
+)
+🇷🇺
+RUSSIA - Xi confirmed to attend Moscow military parade.
+The Kremlin has now confirmed what the world already knew: China’s Xi Jinping will indeed be at Friday’s WWII victory parade in Moscow. (
+ABC News
+)
+Comment:
+The other 20 or so known VIPs mostly include Russia’s neighbours, plus a few unsurprising extras like the leaders of Venezuela and Cuba. Vietnam’s president will also be there, reflecting his country’s historical ties with Russia, plus his current efforts to hedge in a wild world with multiple powers. Ditto Brazil’s Lula, who’s probably also gunning to solidify his Global South leadership.
+🇦🇺
+AUSTRALIA - Ruling Labor wins re-election in a landslide.
+Aussies have re-elected Anthony Albanese’s centre-left government to a second term, delivering his Labor Party its largest parliamentary majority since ~1943. (
+Euronews
+)
+Comment:
+Interestingly, Albanese pulled this off despite lukewarm approvals and a moderate ~35% primary vote. So for many, this might’ve been a vote for continuity amid Trump 2.0, and against a polarising conservative opposition leader (who even lost his own seat), rather than necessarily a big endorsement of Albanese’s first term.
+🇧🇷
+BRAZIL - Police foil suspected bomb plot at Lady Gaga concert in Rio.
+US popstar Lady Gaga performed in Rio on Saturday night, with over 2 million attending the free concert. Come Sunday, Brazilian police revealed they’d foiled a bomb attack plotted by extremists, whose affiliation remains unclear. (
+Al Jazeera
+)
+🇹🇷
+TURKEY - Naval commander hints at nuclear-powered subs.
+Turkey’s top navy officer has told a defence publication that Ankara plans to expand its civilian nuclear program to include nuclear-
+powered
+submarines. (
+Türkiye Today
+)
+Comment:
+There’s no prototype yet, but it’s another example of Turkey’s ambition, which the admiral lays right out: he wants nuclear subs to help extend Turkey’s naval reach out of the Mediterranean and into the Indian Ocean, Red Sea, and the Pacific. And he flags hopes of cutting any foreign dependency for Turkey’s military, but doesn’t bat an eyelid when expressing hopes this dependency might one day flow the other way (he wants to export Turkey’s future subs)
+.
+🇸🇬
+SINGAPORE - Ruling party wins re-election.
+No surprises, but Singapore’s dominant People’s Action Party won its 14th consecutive election over the weekend, giving PM Lawrence Wong a second term. Voters cited high living costs and housing affordability as key issues. (
+Strait Times
+)
+🇸🇩
+SUDAN - Paramilitary hits Port Sudan in drone attack.
+In a first since Sudan’s civil war erupted over two years ago, the Rapid Support Forces paramilitary group has hit targets in the military-led government's de facto stronghold capital of Port Sudan. (
+BBC
+)
+Comment:
+This suggests the war still has a way to run, just as the UN reiterates that 30 million folks there now need aid
+.
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news
+A federal justice has ordered a Michigan lawyer to stop watermarking his filings with a
+purple dragon
+rocking a suit and tie.
+A truck has
+spilled $800k in freshly minted dimes
+(10c coins) all over a Texas highway, leading to a 14-hour clean-up.
+Brits have found a
+missing tortoise
+after it spent nine months on the run — it was just a mile from its home.
+Hundreds of dachshund
+owners in Budapest have failed to smash the record for the largest ever single breed dog walk.
+And Saskatoon police have returned from chasing a drunk man on foot, only to
+find their own vehicle stolen
+.
+Today’s poll
+Why do you think Warren Buffett's Berkshire Hathaway is sitting on so much cash right now?
+💲 Stocks are over-priced
+🔥 The world is too volatile
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Do you think we're in the midst of an arms race?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🚀
+Yep, whether declared or not  (87%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 🕊️ Nope, it'll hit fiscal constraints  (12%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (1%)
+Your two cents:
+🚀
+D.D: “
+Arms races only serve a few power-hungry actors at the expense of the majority (that money should have been invested in real public goods).”
+🕊️ C.O:
+“If it is a race, it’s an endurance race.”
+🚀
+J.G:
+“The real arms race is in next generation weaponry. The sophisticated tech driven stuff.”
+✍️ M.M:
+“I don't believe there is going to be a WW3 — this is more a deterrence strategy.”

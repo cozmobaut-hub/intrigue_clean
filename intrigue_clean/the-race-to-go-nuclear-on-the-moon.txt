@@ -1,0 +1,189 @@
+URL: https://archives.internationalintrigue.io/p/the-race-to-go-nuclear-on-the-moon-5986498b2623493f
+Title: 🌍 The race to go nuclear (on the moon)
+
+Today’s briefing:
+— The race to go nuclear (on the moon)
+— Our French spy hero returns
+— This foreign minister got busted
+Good morning {{first_name | Intriguer}}
+. The period between the late 1950s and early 1960s has been called the ‘Golden Age of American Futurism’. Bookended by the founding of NASA in 1958 and the end of The Jetsons in 1963, these few years were filled with some of the wildest techno-utopian dreams that American futurists had.
+Think jet packs, meal pills, flying cars and more. Fast forward to 2025, and so much of this vision of the future has not quite materialised. I’m particularly disappointed that I don’t yet have a hoverboard.
+But one thing that seems like it belonged in this vision of the future is
+building nuclear reactors on the moon
+. That, dear Intriguer, seems to be on the edge of being realised? Let’s dive in for this and more in today’s top story.
+Time of the day
+11:30am (Alaska time)
+That’s when Presidents Trump and Putin are due to kick off their meeting at Joint Base Elmendorf-Richardson in Anchorage later today (Friday), before proceeding to an official lunch. So that’s a 3:30pm kick-off for DC, 8:30pm in London, and 4:30am (Sat) in Tokyo.
+Blast off
+What better way to relax you into the weekend than with a quick update on
+moon nukes
+.
+We’re talking reactors rather than weapons, and there’s a joke in there about the nuclear industry finally getting so tired of earthly NIMBYs it had to relocate to the Moon.
+But seriously the US is rushing
+plans to build a reactor on the Moon by 2030
+.
+Why?
+The idea is to provide a continuous and reliable source of power up where nights last two weeks.
+Why?
+To sustain more lunar habitats, research, and manufacturing.
+Why?
+It reduces our reliance on shipping everything from Earth, providing a critical stepping stone to Mars and beyond.
+Why?
+This is entering toddler territory, and getting metaphysical, but human-kind won’t (and can’t) ever stop exploring our universe. It’s who we are.
+So the Moon reactor dream has been around for decades, and NASA was ninja-starring $5M design contracts out into the private sector as recently as 2022.
+So then why the fuss now?
+Just in April,
+China (with Russia)
+announced lunar reactor plans by the mid 2030s. And there’s nothing like two rivals doing a thing to make you suddenly need it too.
+While the 1967 Outer Space Treaty says no country can own the Moon, the 2020 US-led Artemis Accords potentially allow signatories to set up “
+safety zones
+” around their gear. And while China and Russia oppose those accords, they’re charging ahead with their own
+International Lunar Research Station
+partnership anyway.
+That’s why NASA’s acting boss and former lumberjack, Sean Duffy, spelled out the risks, noting Beijing and Moscow could “
+declare a keep-out zone
+” if they get there first.
+Still, there are some lingering questions.
+First, is this even possible?
+Yes! Folks are already adapting lightweight, modular reactors for lunar conditions (vacuum, dust, wild temperatures). The trickier hurdle for
+NASA’s Artemis program seems to have
+been
+launching radioactive material into orbit.
+Second, is it legal?
+Yes! The UN already has
+Principles Relevant to the Use of Nuclear Power Sources in Outer Space (1992)
+, setting out safety and liability rules. Not only did China and Russia get onboard, but so did everyone else via a UN vote.
+Third, am I having deja-vu… again?
+The space race dominated the 20th century, with both Americans and Soviets seeing a man on the Moon as a proxy for political prestige, ideological superiority, and technological supremacy. And while Cold War analogies are flawed (eg, US-Soviet ties weren’t co-dependent like US-China ties), this feels like a re-do.
+Intrigue’s Take
+So what might we learn about our world from this fresh Friday moon nuclear update?
+First
+, it’s a reminder of the
+geopolitics of infrastructure
+. Whether it’s 19th century railroads, 20th century data cables, or 21st century moon reactors, whoever builds first can set the rules then enjoy a geopolitical dividend that lasts centuries.
+Second
+,
+diplomacy
+has a long tail
+, too. Some of the rules shaping this space race redux were penned back when TV was still in black-and-white. And…
+Third
+, today’s race is forcing
+tougher choices
+you can see in DC: while the White House and Congress haggle over the extent to which NASA should eat cost-cuts, President Trump just signed an
+executive order
+some hope will render the DC budget debate irrelevant (unleashing more US private sector participation).
+Meanwhile, elsewhere…
+fix
+🇺🇸
+UNITED STATES
+-
+Touch down.
+Putin’s delegation has started arriving in Anchorage ahead of today’s summit with President Trump, with both the Russians and Ukrainians seeking last-minute gains on the battlefield: Putin’s troops made a brief breakthrough in Donetsk, while Ukrainian drones just hit a major oil refinery in Syzran. (
+BBC
+)
+Comment:
+Our latest primer on the summit is
+here
+. As if to confirm our assessment (managing any expectations), Putin’s top envoy (Lavrov) just arrived in a sweatshirt emblazoned with the expansionist ‘USSR’, and Putin’s top propagandist (Simonyan) just boasted that Russian journalists were served ‘Kyiv cutlet’ on the flight over.
+🇨🇳
+CHINA
+-
+Okay, robot.
+The first-ever
+World Humanoid Robot Games
+have kicked off in Beijing with an opening ceremony featuring (yes) robots dancing hip-hop, ripping guitar solos, and performing martial arts. 16 countries are competing (including the US, Japan, and Germany) across sports like running, soccer, and boxing. (
+NHK
+)
+Comment:
+It’s part of China’s effort to become a world hub for core robotics tech by 2025, and develop a fully competitive industry by 2027. You could argue it’s already hit both goals, with 470 robots already deployed per 10,000 employees in key sectors like logistics (by far the highest rate in the world).
+🇨🇦
+CANADA
+-
+You’re grounded.
+Air Canada has begun grounding flights in advance of a potential strike by its 10,000 flight attendants seeking better wages and conditions. If the strike proceeds (as early as Saturday morning), it could ground ~130,000 travellers per day. (
+CBC
+)
+Comment:
+It’s miserable timing for Canada, both because it’s in the midst of the summer peak season, but also because there’s a revival of domestic travel underway as Canadians boycott the US (July saw a ~26% drop in returns from the US).
+🇵🇰
+PAKISTAN
+-
+Sorry about him.
+Prime Minister Sharif has announced a new Army Rocket Force to manage Pakistan’s missile arsenal following Pakistan’s clashes with India earlier this year. His army chief got a shout-out in the audience, but the PM seemed to walk back the general’s recent spicy “
+we'll take half the world down with us"
+comments about Pakistan’s nukes, emphasising they’re for defensive purposes only. (
+Dawn
+)
+Comment:
+That ‘rocket force’ wording sounds awfully similar to China's PLA Rocket Force — China is a close backer, but this name suggests Islamabad might’ve faced organisational issues during the conflict and is now turning to Beijing for guidance.
+🇹🇷
+TURKEY
+-
+Running out of patience.
+After months of negotiations, Turkey has signed a deal to provide Syria’s fledgling new administration with weapons, equipment, and training.
+Comment:
+The Turks have become increasingly frustrated with the US-backed Kurdish ‘SDF’ forces in Syria, who haven’t yet delivered on their March pledge to integrate into Syria's armed forces. The Kurds will have watched Syria’s recent ethno-sectarian violence with alarm, though the Turks are warning they’ll resume military action if the Kurds don’t get onboard soon
+. (
+AP
+)
+🇺🇸
+UNITED STATES
+-
+Maybe you’re okay.
+Intel shares spiked 8.9% yesterday after word emerged the US government could take a stake in the embattled US chipmaker, days after President Trump publicly called for the CEO’s ouster over his China-linked investments. A meeting at the White House earlier this week seems to have made all the difference. (
+Bloomberg
+$)
+Comment:
+We just
+explored
+why these DC interventions are generating so much buzz.
+Extra Intrigue
+Some Intrigue recommendations for your weekend
+Read:
+Fellow Intriguer and former French spy Jack Beaumont has
+a new thriller
+,
+Liar’s Game
+, as our hero of the DGSE (France’s CIA) goes on the run across Asia.
+Listen:
+Colombian superstar Carlos Vives has re-released a 30th anniversary edition of his
+La Tierra del Olvido
+album that shaped Latin American music.
+Watch:
+If you want to keep rolling with today’s space theme, check out the four-part docuseries exec-produced by JJ Abrams,
+Challenger: The Final Flight
+.
+Catch of the day
+Credits: @DavidLammy, X.
+Ahhh, nothing like some fishing and lols to cement that special US-UK relationship.
+But not so fast! The merciless British press figured out that, while hosting the US vice president at Chevening House last week, the UK’s top envoy David Lammy (pictured above) didn’t have the appropriate rod license to go fishing on a private lake!
+We didn’t know that was a thing, but the regulators might be relieved to know Lammy apparently didn’t get a nibble (though almost the entire Vance family reeled something).
+Friday Quiz
+Test your knowledge of this week’s Intrigue!
+Which Central American country is building a maximum-security prison?
+Guatemala
+Costa Rica
+Panama
+El Salvador
+Login
+or
+Subscribe
+to participate
+Which country's cops just scored a Ferrari 488 GTB?
+Portugal
+Singapore
+Australia
+Brazil
+Login
+or
+Subscribe
+to participate
+Which commodity is safe from US tariffs?
+Copper
+Steel
+Rice
+Gold bars
+Login
+or
+Subscribe
+to participate

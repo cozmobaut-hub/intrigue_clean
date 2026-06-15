@@ -1,0 +1,215 @@
+URL: https://archives.internationalintrigue.io/p/three-economic-plot-twists
+Title: 🌍 Three economic plot twists
+
+Today’s briefing:
+— Three economic plot twists
+— Two ol’ foes meet in DC
+— One surprising embassy fence
+Good morning {{first_name | Intriguer}}
+. A guilty pleasure of mine is reading pop economics books in lieu of studying any actual economics. For those old enough to remember, this genre (and specifically the book
+Freakonomics
+) had quite the grip over airport bookshops back in the 2000s, pumping out amusing theories like the link between sumo wrestlers and cheating, how real estate agents sell their own homes, and even the living habits of drug dealers.
+While the book (and its sequels) failed to level-up my economics cred, it did teach me a thing or two about quirky economic trends and what they tell us about geopolitics. For example, how random consumer products can be recession indicators (e.g. champagne, dry-cleaning, or even boxed hair dye).
+Anyway, that’s on my mind today as Intrigue curates a selection of
+notable economic stories you may have missed
+, and what they might tell us about the world. Let’s dive in.
+Number of the day
+$11.6B
+That’s how much Amazon is paying to acquire satellite company Globalstar in a race to catch up to Starlink’s 10,000-strong satellite network.
+It’s the economy, stupid.
+While everyone was watching the war, three economic plot twists just dropped, starting with…
+China’s new rules
+Xi Jinping has channelled his inner Dua Lipa to announce some pretty stringent ‘new rules’ — but rather than warn about toxic exes, Xi’s big new supply chain regime seemingly makes it
+illegal to break up with China
+.
+Officially
+published
+last week, his
+18 new points
+are a big deal because they…
+Really treat China’s supply chains as
+a national security issue
+for the first time
+Punish foreign firms if they ditch Chinese suppliers due to
+political pressure
+, and
+Grant sweeping
+enforcement powers
+, like blocking execs from leaving China!
+Half the world is already trying to secure supply chains, so what’s the problem here?
+The biggest issue — flagged in
+a remarkably blunt letter
+by the local European business chamber — is that these new rules are
+so vague
+: vagueness is a pretty common approach for the Party to preserve control, then blame officials if something goes wrong.
+Yet terms here like “
+harm to supply chain security
+” are
+undefined
+, rattling execs who fear getting burnt for legitimate commercial decisions, or just complying with laws back home.
+It’s all an attempt to counter the West’s ‘
+de-risking
+’ away from China, which was in turn a response to China flexing its bottlenecks on things like rare earths. And yet many investors already see these rules as vindication of that rush to de-risk in the first place: “
+we’ll punish you if you leave
+” seems like a preeeeetty good reason to leave, no?
+Speaking of leaving…
+Luxury’s new headache
+Shares in French luxury group LVMH (Louis Vuitton Moët Hennessy) dropped another 4% on Monday — they’re now down ~25% this year already, in the firm’s worst start on record. Hermès is likewise down 15% and Kering (Gucci, Bottega Veneta, etc) is off by 8%.
+Why?
+Unveiling some disappointing Q1 sales figures, LVMH executives cited a
+wartime
+~50% drop in Middle East foot traffic as rattled tourists avoid the glitzy walls. But if that region accounts for ~6% of the group’s revenues, why the broader 25% share slump?
+First, the entire luxury sector has been slowing
+post-2022
+as consumers blow through their Covid savings and grapple with slower growth plus a higher cost of living.
+But second,
+luxury tastes
+seem to be changing, too: in a massive market like China, for example, fewer folks are rocking foreign logos from head to toe, perhaps also reflecting today’s more nationalist mood plus broader disillusionment towards the West.
+It’s all another example of a sector more exposed to geopolitics than you might think.
+And talking about thinking…
+The IMF’s new warning
+The International Monetary Fund is a harbinger of doom these days — if you see their acronym in the headlines, they ain’t calling to praise your government’s great work.
+This time, it’s the IMF’s latest mid-year
+Global Economic Outlook
+, warning the Iran war and resulting energy shock have halted whatever momentum the world economy still had.
+The Fund’s boffins have issued new forecasts to boot, contrasting between a…
+Best-case scenario
+(the war ends soon), in which the world economy might get 3.1% growth this year (down from 3.3%), with inflation accelerating to 4.4%. And a…
+Worst-case scenario
+(a more prolonged war), in which growth slows further to 2.5%, and inflation rises further to 5.4%.
+And true to doomy form, chief economist Pierre-Olivier Gourinchas has just
+warned
+that this report might already now be outdated! “
+Every day that passes and every day that we have more disruption in energy, we are drifting closer towards the adverse scenario.
+”
+This time, however, we don’t have the same tight labour and loose monetary cushions that got us through the 2022 energy crisis.
+Intrigue’s Take
+As the world shifts from party to bunker mode, some big bets might now be off.
+First
+in China, Xi is going full ‘
+Hotel California
+’ as he shifts from attracting capital to trapping it. His predecessors had the luxury of betting China’s market would simply be too big to quit, but these new supply chain rules suggest maybe he’s not so sure, or maybe he’s just not fussed. Either way, it’s further proof he’s putting security over growth.
+Second
+over in Europe, luxury tycoons are learning that their big bet on a
+rising global middle
+class isn’t so easy — as the rest of the world rises, folks won’t all aspire the same; and as the rest of the world splinters, old high-value looks could end up more of a liability.
+Third
+, for the IMF, it’s reiterating the classic bet that an Iran war quickly
+delivers an energy shock that triggers an economic crisis
+— and yet here we are seven weeks in, and Brent is now back under $100, while the S&P500 is now back around pre-war levels.
+Sound even smarter:
+China’s share of all US cellphone imports has collapsed from 81% to 45% in a year.
+Amid the Iran war, Russia’s energy export values just doubled to $19B in March.
+Today’s briefing is presented by…
+What 200K+ Engineers Read to Stay Ahead
+Your GitHub stars won't save you if you're behind on tech trends.
+That's why over 200K engineers read
+The Code
+to spot what's coming next.
+Get curated tech news, tools, and insights twice a week
+Learn about emerging trends you can leverage at work in just 5 mins a day
+Become the engineer who always knows what's next
+Join 200k+ engineers
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — Latest developments.
+No Iran-linked ship crossed the US blockade in its first 24 hours, and the sanctioned China-bound tanker that seemingly escaped yesterday (the Rich Starry) has now pulled a U-turn; meanwhile, 20+ other US-approved vessels have crossed Hormuz. With the blockade now enforced, the US and Iran are reportedly arranging a second round of talks, as President Trump continues to hint the war is almost over. Russia is suggesting it could host Iran’s enriched uranium as part of any deal. (
+WSJ
+$)
+Comment
+:
+The markets are taking all the above as signs of a wind-down, sending the NASDAQ 100 up 1.8%, while Asian stocks climbed to a six-week high.
+🇱🇧
+LEBANON — Breakthrough?
+The US secretary of state (Rubio) hosted the ambassadors of Lebanon and Israel for historic direct talks in DC yesterday. They didn’t reach any formal deal, but both sides sounded unusually positive: Lebanon’s envoy framed the talks as constructive, while Israel’s ambassador enthused, “
+we discovered today that we’re on the same side… both countries are united in liberating Lebanon from Hezbollah.
+”
+(
+Al-Monitor
+)
+Comment:
+The mere existence of these talks is further proof of Hezbollah’s (and therefore Iran’s) waning influence over Lebanon — in response, the Iran-backed group fired more rockets towards Israel just as the talks kicked off.
+🇰🇬
+KYRGYZSTAN — Out with the old.
+President Japarov has indicated his administration will finish renaming all Russia-named towns in his country by the end of 2027, continuing a de-Russification process he ramped up after taking office in 2021. Kyrgyzstan’s Russian names mostly stem from its time under the Russian Empire then Soviet control. (
+EAD Daily
+)
+Comment:
+Headlines point to waning Russian influence in Central Asia, but it’s more nuanced than that — these two neighbours are still relatively tight, and Japarov’s office rushed out to nuance his comments once they hit Russian media. Rather, there’s a hint in the fact Japarov made his remarks while visiting his Kyrgyz heartland, far from the affected towns: it’s part of a broader nationalist push for Kyrgyz identity.
+🇸🇮
+SLOVENIA — Stay or go.
+Slovenia’s newly-appointed parliamentary speaker has pledged to push a referendum on whether to leave NATO, and has floated his interest in visiting Moscow soon to “
+build bridges
+”. (
+Kyiv Post
+)
+Comment:
+The same weekend voters oust one Putin-sympathetic leader in Hungary, lawmakers anoint another next door in Slovenia. There’s zero credible polling to suggest folks would ditch NATO, so it’s more a populist ‘Slovenia first’ flex for his base, plus it delivers on an election commitment. Still, it’s a headache for the centrist PM now trying to form a stable government.
+🇧🇷
+BRAZIL
+— Former Spy chief detained by ICE
+American ICE agents apprehended Brazil’s former spymaster Alexandre Ramagem on Monday — he fled to the US last year shortly before a Brazilian court sentenced him to 16 years for his role in Bolsonaro’s failed 2023 coup attempt. (
+Reuters
+)
+Comment
+:
+Bit of a dilemma for President Trump: either a) allow the spymaster’s extradition and irk Bolsonaro’s son (who could win the presidency in November), or b) allow the spymaster to stay in the US but irk Brazil’s current president, Lula (who’s also in the running for another term). Trump has actively defended Bolsonaro over the years, so US authorities might slow-walk the ICE process until after November, when (if he wins) Bolsonaro Jr has pledged to issue pardons anyway.
+🇵🇭
+PHILIPPINES — A little leeway, pls.
+Manila’s energy secretary has asked the US to extend a waiver (which expired 11 April) so the Philippines can keep buying Russian oil. (
+CNA
+)
+Comment
+:
+No word yet on any US response, though it’s a classic example of the tensions the US is now navigating between energy-starved allies and energy-rich foes.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Project Manager @
+Swiss Consulate
+in Chicago
+Coordinator
+@
+World Food Programme
+in La Paz
+Grant Officer @
+Geneva Centre for Security Sector Governance
+in Brussels
+Student Internship @
+HSBC
+in Hong Kong
+Embassy fence of the day
+Credits: @PenguinSix / X
+Some eagle-eyed DC locals have spotted new work at China’s embassy this week, as the mission rings its walls with max-security razor wire. Why? One theory posits it could be related to the neighbouring Israeli embassy, in light of the protests and threats against Israeli missions globally. But… other neighbours like the missions of Singapore, Jordan, Ghana, and Bangladesh, are still raw-dogging their fencing.
+Another theory suggests it’s a response to the strange recent incident of a young Japanese military officer climbing into China’s Tokyo embassy with a knife. But! That particular mission already had barbed wire fences…
+A third theory stems from our own years in the trenches of diplomacy: maybe the embassy finance officer had to blow some surplus EOFY cash to avoid getting a slap on the wrist from the ambassador for failing to
+exactly
+balance the embassy’s budget?
+Or… maybe it’s just another sign of our times, with embassies everywhere rethinking their security posture in a troubled world. If you know of any other examples, do write us!
+Today’s poll
+Which quirky indicator do you think best measures geopolitical influence?
+🛍️ Luxury brand exports
+🧑‍⚖️ Citizens running key international bodies
+🎥 TV show streams abroad
+✏️ Foreigners learning your language
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the petrodollar will recover from the Iran war?
+🥱
+Yep, it'll return to its natural trendline (48%)
+😨
+Uh-oh, this time it's different (50%)
+✍️ Other (write in!) 2%
+Your two cents:
+😨
+M.M:
+“These swings will help increase renewables. Who wants to be tied to the energy of war anymore?”
+🥱
+E.K.H:
+“It'll bounce back to a long, slow death instead of a sudden one. The economic conditions that created it no longer apply, and everyone's diversifying away from the US anyway.”
+✍️ L.D:
+“Depends on how long this war lasts and how much damage is done.”

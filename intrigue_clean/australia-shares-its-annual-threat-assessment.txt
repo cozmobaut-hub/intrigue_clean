@@ -1,0 +1,197 @@
+URL: https://archives.internationalintrigue.io/p/australia-shares-annual-threat-assessment
+Title: 🌍  Australia shares its annual Threat Assessment
+
+Hi {{ First name | Intriguer }}.
+A few years ago, I was approached online by a man purporting to be the head of a Chinese “
+consultancy
+”. He asked whether I’d be interested in writing reports for his organisation, particularly on anything I knew about the Australian government, and asked what I would require in return.
+I never responded, reported the incident to some former colleagues, and never heard of the matter again. Besides, to paraphrase Groucho Marx, I’d never want to work for a ‘consultancy’ that would have
+me
+as a ‘consultant’.
+I mention that little story because
+today’s briefing is about a speech by the head of Australia’s domestic spy agency
+during which he alleged that an Australian politician was recruited by foreign spies after leaving government.
+There’s plenty of speculation as to the identity of this person (more on that below), but at time of publishing, no names have been named. As you can imagine, the ensuing speculation has been about as bad for productivity in Canberra as a sale on baked goods in the office cafeteria.
+- John Fowler, Co-Founder
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Israel fires on Palestinians during aid delivery.
+Over 100 Palestinians were killed by Israeli forces opening fire on a large crowd at an aid delivery in northern Gaza, according to Palestinian health authorities. Israel contests this account, saying its troops opened fire on a breakaway group approaching their position - it claims a majority of people died in a “
+stampede
+”. Aid deliveries to northern Gaza have
+halved
+since January, leaving many facing severe hunger. US President Biden says the incident will complicate ceasefire talks.
+Falling US trade with China not a bad thing?
+US Trade Representative Katherine Tai says falling trade with China “
+isn't necessarily negative. It could be a positive indication of diversification on both sides”
+. Trade between the US and China has fallen by 17% last year amid tensions and trade tit-for-tats. But there’s a decent chance this 17% figure has been inflated by Chinese companies relocating their operations to third countries to skirt US restrictions.
+Iranians head to the polls.
+Voting is now underway in Iran’s parliamentary elections, the first since mass anti-government protests in 2022. Some Iranian activists are arguing that casting a vote would legitimise the Islamic Republic, which has described voting as a religious duty.
+Former US diplomat pleads guilty to spying for Cuba.
+Manuel Rocha, a former US ambassador to Bolivia, has pleaded guilty to spying on behalf of Cuba since at least 1981. Rocha was discovered after making a series of incriminating revelations to an FBI agent posing as a Cuban intelligence officer.
+TOP STORY
+Australia’s spooks just dropped an explosive annual ‘Threat Assessment’
+The head of Australia’s domestic intelligence agency (the Australian Security Intelligence Organisation, aka ‘ASIO’) delivered his annual
+Threat Assessment address
+on Wednesday night local time. It was a doozy.
+Here are five intriguing quotes from the ASIO chief, Mike Burgess:
+“I appreciate that people need to market themselves but please be smart and be discreet – don’t make yourself an easy target.”
+Early on, Burgess dunks on the “
+14,000 Australians publicly boasting [on LinkedIn] about having a security clearance or working in the intelligence community
+”, leaving themselves vulnerable to targeting by foreign spies.
+“A foreign intelligence service tried to find an Australian who would be willing to make a dissident ‘disappear’”
+.
+He then goes on to describe how foreign spooks seek to harm members of migrant communities who’ve criticised regimes in their countries of origin. It’s an intriguing comment, particularly in the context of recent allegations in Canada and the US that Indian intelligence had ordered the assassination of Sikh activists. We wouldn’t be surprised if similar allegations emerge out of Australia.
+“Right now there is a particular team in a particular foreign intelligence service with a particular focus on Australia – we are its priority target.”
+The ASIO chief then goes into detail about a team of foreign spooks which he nicknames ‘the A-team’ - he says they’re running a large-scale operation targeting Australians with access to privileged information.
+As above, these spies often approach Australians via LinkedIn, claiming to work for fictitious companies and offering lucrative consulting gigs and trips abroad. Their conversations then shift to encrypted apps, and requests for insider info.
+Burgess declines to name names, but the widespread speculation (combined with the A-team’s reported interest in the AUKUS submarine program) is that the elephant in the room is actually a dragon - China.
+“This politician sold out their country, party and former colleagues to advance the interests of the foreign regime.”
+This is where the intrigue really thickens.
+Burgess drops the explosive revelation that a former politician betrayed their country to help a foreign regime. He doesn’t name names, but gives some hints:
+It happened “
+several years ago
+”, seemingly before Australia’s foreign interference laws were strengthened (in 2018), and
+The spies attempted (but failed) to involve a prime minister’s family
+In response, the son of a former prime minister has now
+revealed
+he once reported a “
+brazen
+” approach by presumed Chinese spies with links to a former politician.
+This led many to believe the ASIO chief could be referring to stories already in the public domain. Without suggesting any of the following are the ex-politician in question, here are just some of the stories previously reported in local media:
+A former rising-star senator was once caught warning a Beijing-linked billionaire about surveillance by Australian intelligence. This ex-senator has
+denied
+it’s him.
+Another ex-politician was found to have engaged in “
+serious corrupt conduct
+” in relation to Beijing-linked political donations, but he’s also
+denying
+it’s him.
+And a former Australian foreign minister - with links to the same controversial billionaire above - once
+irked
+Australian intelligence agencies for seemingly revealing classified information in his memoirs.
+So, whodunnit? We’ve been passed a name. But ASIO is warning that naming the culprit could expose its sources - and our lawyers are warning that Australia’s defamation laws are aggressive - so we’re gonna sit tight for now. More on that below.
+🤐
+“We want the A-team to know its cover is blown.”
+Burgess then describes how late last year, the A-team leader thought he was grooming yet another Australian online, before that Australian revealed he was actually an ASIO officer – “
+the spy was being spied on, the player was being played
+”. Maybe the big revelation here is that Australia’s spy chief has a flair for the dramatic.
+Interestingly, Burgess then effectively says he’s publicising all this now in part to sow suspicion and turmoil within the rival intelligence agency - did the A-team report back to HQ that it had been sprung by ASIO? If not, why not?
+INTRIGUE’S TAKE
+So why have we devoted a briefing to Australia’s annual threat assessment? Because it
+touches on issues that are relevant everywhere
+.
+First, Burgess is one of several spy chiefs now
+trying to bring his agency’s work out of the shadows
+- this is partly about bolstering their social licence to operate. But judging by the largely uncritical response from Australia’s public, the real issue here might be less about a lack of social licence, and more about a lack of public debate around the trade-offs that free societies make with their spies. Maybe that’s a reflection of today’s higher-risk environment.
+Second, Burgess also justifies his speech as a kind of “
+disinfectant light
+” to raise public awareness around foreign spy tactics, and build up Australia’s resistance. The public frenzy to identify this politician has clearly drawn the country’s attention, but it’s arguably done some damage in the process:
+The list of names circulating is alarmingly long (and often plausible), and
+risks undermining the public’s faith
+in elected representatives
+It’s triggered infighting, suspicion, and paranoia - ie, the very same things Burgess was seeking to trigger among the rival spooks, and
+Although no countries were mentioned, this has all still inevitably
+made life difficult again for many Chinese-Australians
+, who form a key part of Australia’s ability to manage the China relationship effectively.
+And that brings us to our third and final point:
+China’s rise
+is such a complex issue for governments and societies everywhere. To respond, we must be able to debate and think through the issues clearly. And that means folks being able to critique their own government’s approach without fear of being labelled unpatriotic, or worse. It’s a balancing act, and this week felt wobbly.
+THE MOMENT YOU’VE BEEN WAITING FOR: SHOP INTRIGUE!
+T-shirts and hats, phone cases and mugs - oh my!
+Many of you have asked us, time and time again, “
+how can I get my hands on one of those sweet sweet Intrigue t-shirts?
+”
+Good news! We’ve just launched our first-ever merch storefront. We’ve created a few choice pieces to get you started and we’ll add more as inspiration strikes. (If you’ve got a great idea for a bit of merch, let us know!)
+Enjoy shopping, and thanks for supporting us!
+Get shoppin’
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: Space experts say
+North Korea’s first spy satellite is “
+alive
+”
+, after they detected changes in its orbit suggesting it’s now being controlled from Pyongyang. The new satellite’s capabilities remain unknown, though its ability to course-correct in space was unexpected.
+🇷🇺
+Russia
+: President Vladimir Putin has used his
+annual state-of-the-nation address
+to hail Russian national unity and warn of “
+tragic consequences
+” if Western troops are deployed to Ukraine. He’s running for re-election in March 15-17 elections, against token opposition.
+🇵🇭
+Philippines
+: Manila’s energy undersecretary says the Philippines is
+looking to boost oil and gas exploration
+in its Sulu Sea. The country has long sought to develop projects in its portion of the South China Sea, but China’s expansive claim to 90% of the Sea has stalled progress.
+🇨🇦
+Canada
+: Ottawa has
+re-imposed new visa rules
+on Mexican nationals in an attempt to curb asylum claims that spiked after the requirements were relaxed in 2016. Mexico’s foreign ministry says it “
+regrets
+” the change, and “
+reserves the right to act in reciprocity
+”.
+🇹🇷
+Turkey
+: Russia’s foreign minister,
+Sergey Lavrov, arrives in Turkey
+today following reports Turkey and the UN are pursuing a new safety scheme for cargo ships in the Black Sea. The UN and Turkey had previously brokered a deal to ensure the safe export of Ukrainian grain exports to world markets, but Russia withdrew in July 2023.
+EXTRA INTRIGUE
+Some weekend recommendations if you’re in
+🇮🇳
+Mumbai:
+Eat
+: Stop by the ‘
+Leopold Cafe
+’, a historic spot in Mumbai's food scene that features prominently in novels (Shantaram) and films (Gully Boy).
+Do
+: Watch the sun set over the Gateway of India from Soho House (also home to a piece by one of our favourite artists,
+Paul Davies
+).
+Visit
+: Book a ticket to the ‘
+Chhatrapati Shivaji Maharaj Vastu Sangrahalaya
+’ museum for stunning Indian art and historical artefacts.
+VIDEO OF THE DAY
+Why are American celebs such as Lindsay Lohan and Brian Baumgartner calling for the
+downfall of Moldavian President Maia Sandu
+? The answer’s every bit as odd as you’d expect.
+Last year,
+a series of short videos
+by US celebrities surfaced online, showing them happily addressing a ‘Sandu’ and parting with a cheery call of #DavaiteSkinemSandu (Russian for #Let'sBringDownSandu). Similar videos by Elijah Wood and Mike Tyson addressed a ‘Volodymyr’ (Zelenskyy) and exhorted him to end his drug abuse (a common Kremlin smear of Ukraine’s leader).
+It seems these videos are not AI-generated deepfakes, but rather paid-for personalised videos requested by Russian-friendly trolls or propagandists - the celebs fell for a politically-motivated prank.
+FRIDAY QUIZ
+Our end-of-week quiz is dedicated to World Seagrass Day today (1 March)!
+1) What percentage of the ocean floor does seagrass cover?
+0.1%
+1%
+10%
+21%
+Login
+or
+Subscribe
+to participate
+2) How much seagrass does the world lose every year?
+3%
+7%
+9%
+12%
+Login
+or
+Subscribe
+to participate
+3) What is the closest terrestrial relative to seagrass?
+Grass
+Sunflowers
+Succulents
+Orchids
+Login
+or
+Subscribe
+to participate
+Share the Intrigue

@@ -1,0 +1,247 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-3e7e
+Title: 🌏 Japan’s Nissan and Honda team up to compete
+
+IN TODAY’S EDITION
+1️⃣ Why Japan’s Nissan and Honda might merge
+2️⃣ Why Brazil just banned an Adele song
+3️⃣ Stunt of the day
+Hi {{ First name | Intriguer }}.
+I love dogs with names that could only be human names. I once lived next door to a golden doodle named Bruce. Growing up, a good friend had a dog named Andrew - always Andrew, never Andy.
+When getting my own dog, I seriously considered Linda and Brenda, before settling on Wilma. So imagine my delight when I stumbled across
+an article
+about a manuscript written in the 1470s entitled
+The Names of All Manner of Hounds
+.
+Since statistics suggest at least a few dozen of you will be welcoming puppies this holiday season, I’ve picked out some absolute bangers for your new best friend: there’s “
+Pretiboy
+” for the distinguished pup (but he might get beaten up in the dog park), there’s “
+Haveagoodday
+” if you want to win friends across your neighbourhood, or best of all, there’s “
+Beste-of-all
+”.
+Serious offer: name your dog after any of these medieval masterpieces and I’ll comp any future Intrigue subscription for life. Speaking of amusing names, today’s briefing leads with news of a potential merger between Japanese car giants Nissan and Honda, or as it might soon be known - Nonda.
+P.S
+: Our last daily briefing for the year will be this
+Monday
+, but we’ll send a couple of surprises over the break, and will be back to regular scheduling from Friday January 3!
+THE HEADLINES
+Russia detains suspect in general’s murder.
+Authorities say they’ve arrested an Uzbek citizen they claim
+planted Ukraine’s bomb
+that killed Lt General Igor Kirillov and his assistant in Moscow yesterday. Russia alleges Ukraine’s special services promised him $100k and travel to the EU for his help.
+Syrian rebel leader to disband armed factions.
+Rebel leader Ahmed al-Shara (who recently dropped his
+nom de guerre
+Abu Mohammad al-Golani) has pledged to
+fold all of Syria’s armed rebel groups
+under the authority of the local defence ministry. But the UN envoy to Syria has said the country’s conflict isn’t over yet, warning of violence between Turkish-backed groups and US-backed Kurds. Meanwhile, an advocacy group has told reporters it’s found
+a mass grave outside Damascus
+with upwards of 100,000 bodies.
+Biden to announce probe into Chinese chips.
+The outgoing Biden administration will reportedly announce a new national security
+investigation into China’s legacy semiconductors
+, which could result in additional tariffs and trade restrictions. Biden has repeatedly ratcheted up pressure on China’s chips sector given its possible military and other applications.
+Negotiators near Israel-Hamas ceasefire.
+A Palestinian official involved in the negotiations has told the BBC they’re in the “
+decisive and
+final phase
+” of securing a hostage-ceasefire deal
+. Israel’s defence minister (Katz) has expressed a similar sentiment.
+More Trump-bassadors.
+Donald Trump’s
+latest nominations
+include investment banker George Glass (his former ambassador to Portugal) for Japan, real estate tycoon Arthur Graham Fisher in Austria, entertainment wheeler-dealer Stacey Feinberg in Luxembourg, former CIA officer Leah Francis Campos in the Dominican Republic, and long-time friend and businessman Lou Rinaldi in Uruguay. Trump also nominated former football star and unsuccessful senate candidate
+Herschel Walker
+to the Bahamas, and Florida philanthropist and art collector
+Nicole McGraw
+to Croatia.
+TOGETHER WITH MODE MOBILE
+This Tech Company Grew 32,481%…
+No, it’s not Nvidia… It's Mode Mobile, last year's fastest-growing software company according to Deloitte.
+Mode’s disruptive $martphone has already helped consumers earn and save $325M+ through simple, everyday use. That led to 32,481% revenue growth between 2019 and 2022, and presence in 170+ countries. Turning smartphones from an expense into an income stream, Mode is disrupting the $1 trillion smartphone industry, like Uber did with taxis and Airbnb with hotels.
+They've just been granted the stock ticker
+$MODE
+by the Nasdaq, and you can still invest in their pre-IPO offering at just $0.26/share. Friday is the last day that you can invest and receive your shares this year, don’t miss it!
+Invest before 12/20 and earn up to 2X bonus stock.
+TOP STORY
+Japan’s Nissan and Honda team up to compete
+Wires were on fire yesterday (Tuesday) after
+news broke
+that Japan’s second and third-largest automakers (Honda and Nissan respectively) might be merging.
+Before we dive in, the ‘might’ above is actually kinda funny:
+The two companies put out statements saying the news didn’t come from them, but their two statements also kinda confirmed it by being literally identical; and
+Japanese media then
+ambushed
+the Honda CEO out on his run this morning, and he basically confirmed it too (though lots of specifics are still TBC).
+Interestingly,
+the Japanese government
+seems to have played a behind-the-scenes role here, and has openly floated a possible Honda-Nissan merger since 2020. Why?
+For a range of tech, commercial, and geopolitical reasons — our favourite Venn diagram.
+First
+, on the
+tech front
+, Tokyo has been open about where it sees the world’s auto-industry headed: just last month, it set a target (and offered help) for its companies to gain 30% of the ‘
+software-defined vehicle
+’ market by 2030 — they see the future not so much in terms of a vehicle’s brawn (electric vs gas), but more in its brains.
+Second
+, on the
+commercial front
+, closing the tech gap on AI, automation, and cloud to compete in a smart future requires
+massive
+investments now — and that’s tough for smaller players. So the merged automaker, with rumours of Mitsubishi joining too, would be the world’s third-largest automaker.
+Third
+, on the
+geopolitical front
+, governments are worried about their industrial bases getting eroded by state-backed competition from China, which just overtook Japan as the world’s top vehicle exporter after
+sextupling
+sales in five years. That spooks the West not just for jobs or revenue reasons, but because an industrial base is also what you need in the event of a war: in WWII, Cadillac switched to make tanks, GM made bombers, Oldsmobile made bullets, and so on (ditto for BMW in Germany, Mitsubishi in Japan).
+So… will this possible merger work?
+The market’s response hints at the challenges ahead: Honda shares sagged, while Nissan soared 24%. That’s because, while both automakers have challenges, Intriguers might recall only weeks ago that folks in Asia were googling “
+Nissan collapse
+”, after an anonymous executive warned the firm might only have 12-14 months to live.
+So why would the stronger Honda — long preferring to go it alone — now change course and do this deal? We can think of three main reasons:
+a) It’s bending to the reality that
+bigger is better
+in this auto race
+b) While Honda has been late to the EV game, Nissan was Japan’s EV pioneer (
+remember
+the ‘Leaf’?
+), and
+c) Nissan has a
+big manufacturing footprint in the US
+, which is enticing for any foreign player looking for local options ahead of Trump 2.0 tariffs (even for an established manufacturer in the US like Honda).
+But this won’t be easy
+: there are fears of political backlash in Japan given the likely job losses from a merger (though they’d be worse if Nissan collapsed). And this joint push into the future of smart cars comes just as EV sales ease: early adopters already adopted, cash-strapped capitals are rolling-back incentives, and weary consumers are hitting pause.
+So this is going to be one heck of a joyride.
+INTRIGUE’S TAKE
+One of the things we’re learning about
+a smart car future
+is that it’s easier for ‘smart’ to learn cars (Tesla, BYD, Waymo) than it is for cars to learn ‘smart’ (GM just pulled the plug on its self-driving start-up, following a similar move by Ford and VW in 2022).
+The other thing we’re (re)learning is that companies can be similar to countries in some intriguing ways, like how they make and break alliances to survive: Nissan is now running to Honda after a long-running but messy partnership with Renault.
+Also worth noting:
+The possible Nissan-Honda-Mitsubishi merger, which builds on announcements in March and August, would basically consolidate Japan’s industry into a duopoly (Toyota has tie-ups with Subaru, Suzuki, and Mazda).
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: The US says it’s now seen “
+indications
+” that
+North Korean soldiers suffered their first casualties
+while supporting Russia’s war against Ukraine last week. North Korea deployed as many as 10,000 troops to Russia earlier this year as part of a mutual security pledge.
+🇬🇱
+Greenland
+: Authorities in Greenland have released Canadian-American anti-whaling activist Paul Watson after
+initially arresting him over Japanese allegations that he damaged a whaling ship in 2010
+. Greenland is an autonomous territory of Denmark, which has no extradition treaty with Japan and made the final call not to hand Watson over.
+🇦🇺
+Australia
+: The UK is hoping to convince
+Australia to join its Global Combat Air Programme
+to co-develop a supersonic fighter with Japan and Italy by 2035, according to the WSJ. Australia’s participation could help bring down costs and expand the jet’s future clientele.
+🇦🇷
+Argentina
+: The Italian government has granted Argentine President
+Javier Milei Italian citizenship
+(on account of his three Italian grandparents) during a visit to Rome to meet his counterpart Giorgia Meloni. The reports have irked those opposed to Italy’s ancestry-focused citizenship rules.
+🇳🇬
+Nigeria
+: Authorities have
+arrested nearly 800 people
+allegedly involved in an online romance scam ring based in Lagos. The accused — including nationals of Nigeria, China, and the Philippines — allegedly targeted potential victims in Europe and the Americas.
+A message from our sponsor
+Call for International Affairs Experts
+Join a study exploring how features of foreign aid for peace and conflict resolution influence its appeal. Designed for international affairs experts, the survey presents hypothetical aid offers to assess decision-making. Participants include diplomats and senior researchers.
+Register your interest here.
+EXTRA INTRIGUE
+This week in
+geopolitics x pop culture
+:
+A
+🇧🇷
+Brazilian judge has ordered Adele
+to pull her song ‘
+Million Years Ago
+’ from streaming services amid a plagiarism court case. Brazil is a signatory to the 1886 Berne Convention protecting intellectual property.
+🏴󠁧󠁢󠁳󠁣󠁴󠁿
+Scotland
+will
+ban popular messaging apps like WhatsApp
+on government devices after an inquiry found it’s too easy to delete messages (aka evidence).
+And the
+🇫🇷
+French
+company behind the latest
+Paddington Bear
+film (a symbol of
+Britishness
+abroad) has pledged to resist pressure to
+Americanise the stuffed animal
+to maximise box office results.
+STUNT OF THE DAY
+Florentine Mayor Sara Funaro, pictured in the left panel. Credits: Sara Funaro via Instagram.
+Nobody’s getting into the festive cheer more than the mayor of Florence, Sara Funaro.
+She channelled her inner Sigourney over the weekend, repelling down the 13th century town hall while rocking a red and green elf outfit. Once firmly on the ground, she handed out candy to the gawking pre-positioned children as part of a Christmas PR stunt (literally).
+Funaro now joins a long tradition of eye-catching political Christmas moves, like
+Boris Johnson’s 2023 Christmas card
+in a full Santa suit perched atop a ladder, or this pic of Germany’s Angela
+Merkel ironing her gift wrapping paper
+for some reason.
+DAILY POLL
+What do you think is the way to win the global auto race?
+🛍️ Mergers and acquisitions
+🏛️ State subsidies and incentives
+👨‍💻 More R&D for better products
+🚧 Tariffs and other restrictions
+✍️ Other (Write Us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How long do you think Trudeau has left?
+(
+since yesterday’s briefing, Trudeau has reportedly acknowledged current difficulties but hasn’t yet indicated what he plans to do
+)
+⬜️⬜️⬜️⬜️⬜️⬜️
+👋
+3 hours
+(4%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+😮
+3 days
+(11%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+😬
+3 weeks
+(26%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+😒
+3 months
+(49%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+😍
+3 years
+(6%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!)
+(3%)
+Your two cents:
+😒
+R.J.C:
+“Trudeau won't resign on his own accord and there is no mechanism in the Canadian parliamentary system to remove a party leader outside the ballot box. Opposition parties will have to wait until at least March, the next opportunity to bring forward a non-confidence motion. That said, only one of the three opposition parties has the cash to run a campaign."
+✍️ R.D:
+“3 lettuces. Seriously though, at this stage nobody with any ambition for a future in politics will want to replace him even if he did resign.”
+😬
+G.H:
+“As someone IN THE KNOW, ahem, to a small degree, and having been involved in party stuff since ‘85, I personally think he will announce retirement from politics after New Year’s. This gives the party time to have a convention in spring, slap someone like Carney in as new leader, run up to election, fail miserably and blame it on the new guy.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

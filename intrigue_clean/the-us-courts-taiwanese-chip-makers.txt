@@ -1,0 +1,125 @@
+URL: https://archives.internationalintrigue.io/p/us-courts-taiwanese-chip-makers
+Title: The US courts Taiwanese chip makers
+
+Hi there {{ First name | Intriguer }}.
+Lionel Messi - aka the 🐐  GOAT - led Argentina to the country’s third World Cup yesterday in a heart-attack-inducing final against France. Sporting spectacles don’t get much better than that. Congratulations to our Argentinian readers and to the 25.2% of Intriguers who picked them to win it all from the very start! 🏆
+Today’s briefing is a ~4.5 min read:
+💽
+Chip wars:
+The US courts Taiwan.
+➕ Plus:
+Skirmishes between Afghanistan and Pakistan, a custody quarrel over South Korea’s presidential pups, and new developments in the EU corruption scandal.
+🎅🏽
+We’ll be off from 22 December, but the newsletter will return to your inboxes on 9 January with some exciting new changes. In the meantime, we’ll be furnishing you with our '2022 in review’ and '2023 prediction’ issues to keep you entertained.
+📰 GLOBAL HEADLINES
+Stories:
+Gulf Times
+,
+Asahi Shimbun
+,
+Mexico News Daily
+,
+Le Monde
+,
+Jornol de Angola
+,
+🤿 DEEP DIVE
+The US is trying to develop a domestic chip industry, but will it work?
+In brief:
+Earlier this month, US President Joe Biden celebrated the start of construction of a new TSMC fabrication plant on US soil.
+The two TSMC fabs will help the US decrease its dependence on foreign tech, but analysts are split on whether they might also undermine Taiwan’s ‘silicon shield’.
+The Great Chip Triangle may be more dangerous than the Bermudan variety.
+Chips Ahoy!
+“
+More chips!
+” is one of the few orders that would work in both a Mexican restaurant and the White House Office of Science and Technology Policy. But the similarities stop when it comes to picking up the bill:
+On 6 December, semiconductor giant Taiwan Semiconductor Manufacturing Company (TSMC) announced it will spend
+$40B to build a new semiconductor fabrication plant
+, one of the biggest foreign investments in US history.
+US President Joe Biden confidently announced the plant would be a “game changer” for the ongoing US efforts to boost domestic tech capabilities.
+Great Chip Triangle
+The expansion of TSMC’s business in the US is a big development in the ‘Great Chip Triangle’, a high-stakes game of geopolitics involving the US, China, and Taiwan. One of the saga’s main imperatives - technological supremacy - is pushing the US to aggressively invest in securing its own semiconductor supply chain with Taiwan’s help.
+Earlier this year, the Biden Administration passed the
+CHIPS and Science Act
+, which sets aside $52B in funding to boost semiconductor research, development, and production.
+But analysts are split over what this means for TSMC’s and Taiwan’s future.
+Some worry that US plans to boost domestic manufacturing and reduce its reliance on ‘made-in-Taiwan’ chips will undermine Taiwan’s so-called 'silicon shield'
+.
+As
+Rupert Hammond-Chambers
+, President of the US-Taiwan Business Council argues:
+❝
+“[t]he US and Europe must walk the line between onshoring vital production capacity while not marginalising and weakening Taiwan economically in the process (which would be to deliver to China one of its core goals).”
+Other analysts believe such fears that US investments will weaken Taiwan are overblown.
+And, as plenty of analysts have noted, these US-based fabs will still be umbilically linked to their headquarters in Taiwan.
+The two new TSMC fabs won’t be operational until 2024 and 2026, respectively, meaning that Taiwan will remain geopolitically critical for a while yet.
+Besides, as Senior Associate at the Center for Strategic and International Studies
+Paul Triolo
+notes,
+“TSMC production in Arizona will be at most 1-2% of capacity on Taiwan when fab starts operations”.
+What's in it for TSMC?
+Instead of reducing US reliance on Taiwanese-made chips, having important TSMC fabs on US soil will likely tie the two countries even closer together:
+❝
+"These fabs be uncompetitive economically and much less of a hedge against Chinese invasion than you might think... TSMC will have to bear the cost but if that is the price of shoring up U.S. support for Taiwan, well, that is the best possible insurance policy the company could buy for its operations that truly matter, which are intrinsically tied to Taiwan."
+Ben Thompson
+, tech analyst
+🤝 SPONSORED BY MORNING BREW
+Become smarter in just 5 minutes, for free.
+There's a reason over 4 million people read Morning Brew
+— the free daily email delivering the latest news across business, finance, and technology. Let's face it: traditional business news is dry, dense, and boring.
+But Morning Brew is written in a witty yet educational tone that makes reading the news actually enjoyable.
+The best part? It's 100% free and only takes 5 minutes to read so that you can get all of the most relevant updates and get on with your day.
+Subscribe for free.
+🔦 REGIONAL SPOTLIGHT
+🇦🇫 Afghanistan
+Fighting broke out
+again at the Afghanistan-Pakistan border last Thursday, as tensions near the contested border turned deadly.
+Afghan and Pakistani authorities each accused the other of staging unprovoked attacks.
+🇦🇲 Armenia
+Tensions are rising (again) between Armenia and Azerbaijan due to a
+protracted Azeri blockade
+of a crucial road link.
+The Lachin corridor is the only road connecting the contested Nagorno-Karabakh region to Armenia, and has previously been a flashpoint between the two countries.
+🇨🇳 China
+Six Chinese diplomats reportedly involved in the assault of a protester inside the Chinese consulate in Manchester have
+fled to China
+.
+British police had asked China to waive diplomatic immunity to interview the six individuals; we assume China said no.
+🇯🇵 Japan
+Speaking of semiconductor collabs, Japan is partnering with US tech multinational IBM to
+manufacture the world’s most advanced chips
+by 2030.
+The announcement is part of a broader US ‘friendshoring’ trend, which aims to shift essential business activities closer to its trusted allies.
+🇰🇷 South Korea
+Two dogs
+gifted by North Korean leader Kim Jong-un
+to former South Korean President Moon Jae-in have been moved to a zoo.
+The South Korean government had apparently failed to cover the costs of their care.
+🗞 IN OTHER NEWS...
+La'eeb the World Cup mascot is shocked, shocked to hear that Qatar is involved in systemic bribery and corruption.
+Qatar barred from EU Parliament
+The news:
+Qatar has
+lost all of its EU Parliamentary privileges
+due to its alleged involvement in a major EU corruption scandal.
+Last Thursday, members of the EU parliament voted to bar Qatari representatives from parliament’s premises and suspended all pending legislation involving the Gulf nation.
+It all started with an impassioned speech
+by MEP Eva Kaili defending Qatar’s World Cup bid and ended with the police finding €1.5 million in cash in various properties linked to Kaili (no word on whether it was stuffed inside sofas).
+Investigators believe the money was part of a pay-for-play between several MEPs and  Qatar, though Doha has denied the allegations.
+The murky side of the EU:
+The corruption scandal is helping to shed light on the parliament’s opaque lobbying rules.
+As analyst
+Jacob Kirkegaard
+put it:
+❝
+“When there is highly complex and entrenched policymaking like there is in the EU, it becomes untransparent, and then it makes it easier to buy influence [...]. This is clearly a woman who wasn’t afraid of being caught. It indicates that whatever measures and processes the European Parliament has, have no deterrent effect”.
+Why it matters:
+While the European Parliament is not the EU’s most influential legislative body, it still holds sway over important matters.
+The case will undoubtedly undermine the public’s trust in EU institutions.
+🕎 HAPPY HANUKKAH
+Is there anything this guy does that doesn't look ridiculous?
+A very happy Hanukkah to those celebrating! Who among us doesn’t love eating sufganiyots, chocolate gold, and fried potato pancakes? Plus, eight days of presents doesn’t sound too shabby.
+Hanukkah seems to be a fan favourite of world leaders' photo-ops, too
+. Can you name all the leaders lighting menorahs in
+this quiz
+?

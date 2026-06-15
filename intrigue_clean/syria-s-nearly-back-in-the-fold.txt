@@ -1,0 +1,180 @@
+URL: https://archives.internationalintrigue.io/p/syrias-nearly-back-fold
+Title: 🌍 Syria's (nearly) back in the fold
+
+Hi there {{ First name | Intriguer }}.
+Our word of the day is ‘slowbalisation’: the slowing down of globalisation and everything it entails. Incidentally, the runners-up were ‘typerventilate’ (bashing out texts in quick succession) and ‘unlighten’ (learning something that somehow leaves you dumber). Not that you’ll need that last one while reading International Intrigue
+😉
+.
+Today’s briefing is a 4.1 min read:
+🇸🇾
+Syria
+isn’t a pariah state anymore.
+💾
+New
+spyware
+captures the world’s attention.
+➕
+Plus:
+Exploring the world from your laptop, how the papers are covering North Korea cutting contact with South Korea, and a quiz on rivers (because why not).
+🎧
+Today’s Intrigue Outloud:
+Go deeper on global demographic challenges and opportunities with
+London Business School
+professor, Andrew J Scott.
+Listen here!
+🗺️ AROUND THE WORLD
+🇹🇼
+Taiwan
+: Taiwan’s ruling party has selected Vice President William Lai as its
+candidate for next year’s presidential elections
+. Lai’s nomination is likely to anger China due to his outspoken stance on Taiwanese independence.
+🇮🇹
+Italy
+: Rome has declared a
+six-month state of emergency
+over a spike in migrant arrivals via the Mediterranean. Maritime authorities conducted sea rescue operations for more than 3,000 people over the Easter weekend.
+🇹🇭
+Thailand
+: Apple is reportedly in talks to move part of its
+MacBook production to Thailand
+as it diversifies away from China. Thailand may seek to follow the example of India, which now accounts for 7% of Apple’s total iPhone production.
+🇺🇸
+United States
+:
+The FBI has arrested
+a 21-year-old national guardsman in connection with the recent online leak of highly classified US intelligence. As we
+foreshadowed
+, initial media reports suggest the suspect, Jack Teixeira, may have been motivated by bravado.
+🇧🇭
+Bahrain
+: After six years of deep freeze, Bahrain and Qatar have announced they’ll
+resume diplomatic ties
+. The two countries have had a long-running rivalry with disputes over borders, fishing, and allegations of Qatar becoming too close to Iran.
+🇸🇾
+SYRIA | GEOPOLITICS
+Syrian President Bashar al-Assad is walking straight back into the Arab League.
+Syria’s return to the Arab fold is almost complete
+Briefly:
+Today (Friday), foreign ministers from Arab League countries are meeting in Saudi Arabia to
+discuss Syria’s return
+to the regional organisation, more than a decade after its membership was suspended.
+Some context:
+Syrian president Bashar al-Assad became an international pariah after his crackdown on a popular uprising turned civil war that broke out in 2011. Several countries in the region even sent cash and arms to support Assad’s opponents.
+But February’s devastating earthquake opened the door to re-engagement:
+Syria’s neighbours sent planeloads of aid, and the foreign ministers of the UAE, Jordan, and Egypt quickly visited in person
+Assad then made rare visits to the UAE, Oman and Egypt
+And Tunisia and Saudi Arabia formally restored ties with Syria this week
+Intrigue’s take:
+After years of getting fewer invites than a jazz bassoonist, Assad’s calendar is now filling up. But given his track record, not everyone’s on board. Qatar has said dealing with him would be a
+“betrayal”
+of his regime’s victims, a view echoed by others like Yemen, Kuwait and Morocco.
+Still, ten years on, it’s now pretty clear Assad isn’t going anywhere. And that leaves his neighbours with a choice: deal with the world as it is, or as it ought to be. It seems most of Syria’s neighbours are now going with option A.
+Also worth noting:
+A decade of civil war has left over
+300,000 Syrians dead
+, with the Assad regime accused of carrying out several war crimes.
+Aides to US President Biden say
+the US doesn’t support the region’s normalising
+of ties with Syria, but isn’t opposing it either.
+📰
+GLOBAL PERSPECTIVES
+How different newspapers covered
+: North Korea’s decision to cut communication links with South Korea.
+Links
+:
+Korea Times
+,
+SCMP
+,
+Bloomberg
+.
+Today’s briefing is sponsored by
+Policyware
+Become an expert by learning from one, and even get your job to pay for it.
+Gustafsson-Wright’s previous professional experience includes working at the World Bank, the UNICEF Innocenti Research Center, and as Senior Researcher with the Amsterdam Institute for International Development (AIID).
+In this course, you can learn at your own pace with both live and recorded lecture options.
+Courses are eligible for corporate reimbursement!
+Sign up here
+💾
+ISRAEL | TECH
+QuaDream’s ‘Reign’ software seems like Pegasus by any other name.
+New spyware is picking up where Pegasus left off
+Briefly:
+Multiple governments have purchased advanced spyware from Israel-based QuaDream, according to a
+new report
+from Microsoft and Citizen Lab. QuaDream’s proprietary product, Reign, is a “zero-click” software that allows users to hack iPhones without any action from the target.
+QuaDream was founded by former employees of the now-notorious NSO Group, whose Pegasus spyware was a favourite for governments all over the world. Some clients deployed Pegasus to
+support law enforcement
+; most didn’t.
+For example, NSO clients targeted dozens of Mexican journalists with the spyware, and in one case, hitmen used Pegasus to geo-locate and
+assassinate an anti-corruption reporter
+. By 2021, the US had blacklisted NSO, and last month it blocked US agencies from using spyware as a law enforcement tool.
+Intrigue’s take:
+Be honest: if you were offered Reign’s power of omniscience (for the low price of around
+$2.2M per year
+), would you take it? It seems plenty of folks out there are answering yes, and not all of them are as benevolent as you.
+So, if this spyware is both objectionable and yet irresistible, then Big Tech might be our best hope: staying ahead of spyware to render it obsolete. Otherwise, there’s not much stopping Reign from reigning supreme.
+Also worth noting:
+Apple says
+it’s aware of spyware like Reign and has hardened its security protections.
+Clients in Bulgaria, the Czech Republic, Hungary, Ghana, Israel, Mexico, Romania, Singapore, the UAE and Uzbekistan have all
+allegedly purchased
+Reign.
+👀
+EXTRA INTRIGUE
+Here are some recommendations from Team Intrigue to get you back-flipping into your weekend. If you have:
+5 mins:
+Read / watch the Washington Post’s
+pretty remarkable interview
+with a teen who was in the infamous group chat where highly classified US intelligence first leaked.
+20 mins:
+Listen to
+this episode
+of ‘Asia Geopolitics’, discussing the risks of the new AUKUS nuclear-propelled submarine plan.
+90 mins:
+Espionage isn’t always grim and scary. If you have a bit more time, check out
+Burn After Reading
+to see the lighter side of spycraft.
+🗺️
+MAP OF THE DAY
+Credits: Netlify.
+Where in the world has Google Street View gone?
+There’s no better way to see the world than from the comfort of your couch, but some places are
+easier mapped
+than others. Google Street View isn’t available in
+Germany
+or
+China
+, and hasn’t managed to traverse much of Africa. As for all that space over Australia’s Outback? There just aren’t that many streets out there.
+🗳️ QUIZ TIME!
+This week’s Intrigue quiz is on rivers. Dive in!
+1) The Danube crosses more countries than any river in the world. How many does it cross?
+a) 6
+b) 10
+c) 13
+d) 7
+Login
+or
+Subscribe
+to participate
+2) Which of the following two rivers flow South to North?
+a) Paraguay River
+b) Lena River
+c) Mekong River
+d) Nile
+e) Indus River
+Login
+or
+Subscribe
+to participate
+3) Which of the following are real rivers?
+a) Parsnip river
+b) Duckabush river
+c) Banana river
+d) Rabbit river
+e) All of the above
+Login
+or
+Subscribe
+to participate
+Answers: 1-b, 2-b&d, 3-e.

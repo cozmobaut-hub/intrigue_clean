@@ -1,0 +1,346 @@
+URL: https://archives.internationalintrigue.io/p/4-monster-ipos-vs-the-world
+Title: 🌍 4 monster IPOs vs the world
+Date: 2026-06-02
+
+Today’s briefing:
+— 4 monster IPOs vs the world
+— Why Albanians are protesting
+— Now
+that’s
+a send-off
+Your Insider’s briefing:
+— 4 monster IPOs vs the world
+— Why Albanians are protesting
+— Now
+that’s
+a send-off
+Good morning {{first_name | Intriguer}}
+. While the rest of the world was tracking crude prices or Trump tweets, Wall Street decided you know what? Let’s go ahead and throw the biggest coming-out party in financial history.
+So four absolute monster raises —
+SpaceX
+,
+Anthropic
+,
+OpenAI
+, and
+Google
+— are now hitting the market at once, seeking enough AI + orbital cash to make your eyes water.
+But what’s going on here… is America flexing its superpower? Are insiders cashing out? Are ‘AI’ and ‘space’ now the only two words capable of making traders ignore war?
+We simply must dive in.
+Managing Editor
+Jeremy Dicker
+💼
+Many Intriguers actually
+expense their premium Insiders
+subscription
+via work
+! So
+here’s an email
+you can send to the boss: it’s easy approval for a serious edge, via our daily podcast, group chat, unfiltered takes, horizon scans, AMAs, and beyond.
+Number of the day
+10%+
+That’s the levy Trump’s trade team is now proposing against 60 jurisdictions covering 99% of US imports, including Mexico, Canada, China, the UK, EU, Taiwan, Japan, Korea, Australia and beyond. It’s the result of a
+s301 probe
+into forced labour, widely seen as a workaround after the Supreme Court ruled against Trump’s 10%
+Liberation Day
+tariffs.
+Crash flow.
+Another day. Another Initial Public Offering (
+IPO
+), with yuuuge international implications. We've ranked the latest giants by sheer size, so shall we take a quick look? Starting with…
+SpaceX
+Filed on May 20 for a possible mid-June listing, Elon's SpaceX IPO is shaping up as the largest in history, raising $40B-$80B at a $1.75T - $2T valuation. We're talking ~
+triple
+the current record-holder, which was Saudi Aramco's ~$26B raise back in 2019.
+So...
+why?
+Musk argues it's just to, you know, bankroll Mars, orbital data centres, and
+a multi-planetary future
+for humanity. A cynic might also quip he's cashing out at peak valuation (100x sales
+😮
+), milking fans as exit liquidity, or using his Starlink satellite internet cash-cow to bail out his Tesla and xAI burn.
+But we’re more interested in
+the geopolitical ripples
+, like…
+First
+, there's
+Starlink
+: it's already a de facto tool of US soft and hard power (think Ukraine, Iran), but Elon now wants to accelerate his constellation density. That’d
+a
+) thwart efforts by China/Russia to compete or disrupt, and
+b
+) help lock in his classified (and lucrative) 'Starshield' variant — it's tough to harass US satellites when they’re a full mesh.
+Second
+, there's the
+capital flow
+, with this IPO not only helping recycle cap creation into America's broader tech ecosystem, but also sucking more global liquidity to finance US space and AI exceptionalism, while rivals (and allies) still play catch-up via subsidies.
+But of course
+third
+, there's the sheer
+risk
+of having so much US power (like a launch monopoly) sitting in the hands of one guy — not just because Trump's own chief of staff famously called Musk a "
+strange duck
+" (though history’s shapers often are), but because it's also a lot of concentrated risk across execution, competition, and regulation.
+Anyway, let's now look at...
+Anthropic
+The SF-based AI pioneer just filed its confidential paperwork on Monday for a potential listing as early as October, seeking a possible $1T+ valuation.
+Why?
+It's fun to beat Altman (see below), retain high-value employees, and raise massive piles of cash to
+build out
+your next-gen models and data centres. A more cynical view might be they're also cashing out at a
+frothy valuation
+, financing an unsustainable burn, and recycling cash back into their cloud provider investors, à
+la
+circular AI funding
+.
+But we’re intrigued by the
+international implications
+, like…
+First
+, after its
+spectacular Pentagon spat
+, Anthropic is now making
+Vatican cameos
+to position itself as the free world’s
+safe and good AI
+. And this avalanche of IPO cash might now help it not just extend its frontier lead, but also lock in US-led standards, export controls, and even bans on distillation (the technique China's rivals use to close the gap).
+Second
+, the heavy Google and Amazon investor stakes in Anthropic arguably now create a deep
+US hyperscaler flywheel
+: Anthropic gets compute priority, Big Tech locks in model access + cloud revenue, and the result is an integrated AI stack advantage that'd be tough for anyone (including China) to match, other than maybe...
+OpenAI
+With a jury tossing Elon's lawsuit, OpenAI's Sam Altman now has a path to IPO as early as September — he'll want to beat Anthropic’s Amodei for
+ego
+(the two couldn’t even hold hands in India), but also
+money
+(nobody wants to be last to the well), particularly now that Anthropic’s epic Claude growth means its monthly revenue has
+doubled
+OpenAI’s!
+But notwithstanding OpenAI's legit
+consumer strength
+, we'd just add this nuance: Altman's patriotism / negotiation skills / ethical flexibility (you choose) means OpenAI is now the Pentagon's preferred partner, with a massive upside: those sweet sweet DoD contracts. But it might also mean more brand risk ahead, both at home or abroad.
+Then let's wrap with...
+Google
+Okay, not an IPO, but when Google raises a cool $80B on a random Tuesday, featuring a $10B Berkshire anchor as the ultimate vote of confidence, it's worth a look.
+As with the others above, its first major raise in a decade is about financing Google's
+massive AI buildout
+($190B this year) to meet its cool $460B cloud contract backlog.
+As for the
+international implications
+? This war-chest may well help strengthen America's integrated tech dominance, and widen its moat against China, but in doing so this might also just heighten the stakes for some of Google’s existing risks: it still gets virtually all its AI chips from Taiwan, for example, and continues to face relentless EU regulatory fire, with massive new penalties rumoured to be imminent.
+Intrigue’s Take
+That's four big raises hitting the market in a single quarter, pouring another ~$350B into the
+biggest infrastructure build-out in human history
+: it's now bigger than…
+Intrigue's Take · Insiders Only
+To get full access to our experienced, unfiltered takes on what the news really means and what's coming next, become an Intrigue Insider!
+Plus:
+✓
+Ad-free reading
+✓
+Daily audio edition
+✓
+Telegram community
+Start Free Trial →
+$79/yr · 7 days free
+Intrigue’s Take
+That's four big raises hitting the market in a single quarter, pouring another ~$350B into maybe the
+biggest infrastructure build-out in human history
+: bigger than the US Interstate System (~$620B cost adjusted), 19th century railroads ($550B), the Apollo Program ($300B), the Manhattan Project ($36B), and even the post-WWII Marshall Plan ($150B). The only build-out that comes close in dollar terms might be China's $1T high-speed rail network, though that's happened over two decades, not ~four years.
+So America can clearly still
+do
+stuff. The higher-stakes question is whether this historic buildout also proves to be the most productive. We don't need to repeat the hype around the possible upside, but it’s worth being mindful of
+the possible cracks
+:
+First
+, there's
+ROI
+: Bain's consultants, for example, just took a break from telling clients to cut costs and increase revenue to instead publish a
+survey
+suggesting AI-heavy enterprises aren't seeing the expected AI payoff ("
+the value didn't arrive
+").
+Second
+, there's the
+burn
+: even Microsoft (of $3.2T market cap fame) has now cut its monthly AI spend after costs ballooned.
+Third
+, there’s the quiet pivot away from flat-rate billing (like we just saw from GitHub Copilot), sparking chatter about the end of our "
+subsidised AI era
+", with plenty of downstream implications. Will AI always be cheaper than a human?
+And
+fourth
+, there’s the
+concentration risk
+: BofA's Michael Harnett has published an
+interesting chart
+comparing today’s 40% AI market cap concentration to (say) dotcom's 41%, bubble-era Japan’s 44%, and the Nifty Fifty’s 40%. Or to put it another way, consider this
+Deutsche quote
+: “
+Since WWII, the only other time the S&P 500 has risen this rapidly (except after a recession) was months before a huge market crash.
+"
+Anyway, enough of tech giants, now who's ready for the Intrigue IPO?
+Sound even smarter:
+There’ve been fun memes suggesting this week’s 13% Bitcoin crash merely reflects Elon fans selling their crypto to buy SpaceX. Another trigger might’ve been billionaire Michael “
+never sell your Bitcoin
+” Saylor selling a few coins.
+Continuing the AI boom, South Korea just overtook India in market cap terms, barely a week after Taiwan made the same jump ahead.
+The hype around these firms aside,
+~110 other companies
+have already filed for US IPOs this year, towards a projected ~200 total, the busiest since 2021.
+From our sponsors
+Attio - the AI CRM for modern businesses.
+Attio
+is the AI CRM that keeps you ten steps ahead.
+Ask Attio anything. Where should I focus? What deals are at risk? Search, update, and create across your customer data.
+Ask more from CRM. Ask Attio.
+Try Attio for free
+🗞️ Prefer
+ad-free reading
+?
+Become an Intrigue Insider today
+!
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — Ceasefire cracking fast.
+Iran has launched ballistic missiles and drones at US-linked targets in Kuwait and Bahrain overnight, prompting return US strikes on Iran’s Qeshm Island. Air defences intercepted most Iranian projectiles, but it was enough to spike oil prices. (
+BBC
+)
+Comment
+: All coming amid a supposed de-escalation and persistent claims of an imminent deal, this constant tit-for-tat tempo suggests either
+a
+) all the deal talk is nonsense, or
+b
+) the strikes are just leverage to shape a deal. Our gut remains they’re playing for time more than making peace, and that’ll only change when either
+i
+) Iran’s economic pain gets unbearable, or
+ii
+) oil prices get closer to $150.
+🇲🇽
+MEXICO — USMCA Round One.
+The US and Mexico just wrapped their first bilateral round of US-Mexico-Canada (USMCA) trade talks, with DC pushing for a full rewrite bringing tougher rules on autos, steel, agriculture, and “
+economic security
+” (China-friendly loopholes). Both Mexico and Canada, meanwhile, want something closer to a simple 16-year extension of the status quo. The next round is in DC on June 16–17. (
+CBC
+)
+Comment
+: The key deadline is July 1, at which point they either agree or enter a cycle of annual reviews until 2036, when they either agree or USMCA dies. The US still has too much at stake in the world’s largest trade bloc (by combined GDP) to let it die.
+🇺🇸
+UNITED STATES — New spymaster.
+Replacing Tulsi Gabbard, Trump 2.0 has now tapped federal housing finance regulatory chief Bill Pulte to stand in as acting US spymaster (DNI). (
+The Hill
+)
+Comment
+:
+Pulte, who has no intelligence experience, retains his FHFA role overseeing a cool $10T in mortgage assets. It’s hard to think of a clearer way to declare “loyalty first” than entrusting the world’s foremost intelligence apparatus to a part-time noob.
+🇪🇺
+EUROPEAN UNION — No more googling.
+The EU Parliament is ditching Google as its default browser in favour of French search engine Qwant. (
+Euractiv
+)
+Comment
+:
+This feels more like political signalling than a massive blow to Google, though it’s in line with Europe’s tech sovereignty push, not to mention what we just said above about Google’s regulatory risks.
+🇧🇩
+BANGLADESH — Congratulations, mister president.
+Foreign Minister Khalilur Rahman has won a one-year term as President of the UN General Assembly, beating out a Cypriot career ambassador. (
+UN News
+)
+Comment
+: These contests have often been snooze-fests over the years, but they’re taking on new drama as world powers treat them more as arenas to expand their influence or at least box out their rivals. We’ve
+kept you posted
+on the biggest race of them all (to be the next UN Secretary General), but there’s another big one today (Wed), with Western-backed Philippines competing with China/Russia-backed Kyrgyzstan for a two-year seat on the more powerful UN Security Council.
+🇻🇪
+VENEZUELA — Trip to India.
+Interim leader Delcy Rodriguez is off to India today (Wednesday) for a five-day visit featuring talks with PM Modi on energy, trade, and investment. (
+TOI
+)
+Comment
+:
+India has emerged as a top importer of Venezuelan crude since the US eased sanctions, thanks to India’s specialised refineries that can handle Venezuela’s heavier product. The other signal here is India’s pragmatism — this Rodriguez visit comes just two days after Modi received Myanmar’s junta leader, on his first overseas trip since controversially claiming the presidency in April.
+🇰🇪
+KENYA — Protests against US medical facility.
+Two have died in protests against a planned Ebola treatment facility at Laikipia Air Base in Kenya, intended for Americans exposed in the DR Congo outbreak. Kenya’s high court has now halted the project over public health concerns. (
+BBC
+)
+Comment
+:
+Why the protests? It’s a mix of perceived risks to locals, a lack of transparency, and the sense the US was treating Kenya like a quarantine zone. We recently
+explored
+related issues around the Hantavirus outbreak.
+Extra Intrigue
+🔎
+Here’s what people are googling…
+Folks in
+🇧🇷
+Brazil
+looked up ‘
+tariffs
+’ as Trump 2.0 proposed
+slapping another 25% levy on Brazil
+, citing Brazil’s alleged unfair trade (Lula’s team has suggested it’s just to help his conservative rival ahead of October’s elections).
+🇦🇱
+Albanians
+searched for the protected coastal region of ‘
+Zvërnec
+’, where Trump’s son-in-law (Kushner) is
+planning a luxury resort
+, triggering protests and a parallel corruption investigation.
+And netizens in
+🇧🇩
+Bangladesh
+googled ‘
+ChatGPT
+’ after the state of
+Florida filed a lawsuit against OpenAI
+and its CEO, Sam Altman, accusing them of concealing the risks associated with its AI chatbot.
+Send-off of the day
+Credits: @rttxgg via X/Twitter.
+You think
+your
+country is football-crazy? Brazil just gave its men’s football team a full
+double fire-truck water cannon salute
+on Rio’s runway… for a flight to New Jersey!
+That’s right, the Seleção just got the kind of honour normally reserved for war heroes, just because they’re off to play Morocco in the 2026 World Cup group stage (Sat June 13th).
+Recalling they’re the most successful World Cup team in history, are the rest of us just playing for second place?
+Today’s poll
+Which tech giant do you think has the brightest future?
+(tell us why!)
+🚀 SpaceX
+👨‍💻 Anthropic
+🤖 OpenAI
+🔎 Google
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Okay but seriously, what do you think is the world's best sandwich?
+🇻🇳
+Bánh Mì (32%)
+🇹🇷
+Tombik Döner (12%)
+🇺🇸
+Philly Cheesesteak (31%)
+🇯🇵
+Katsu Sando (7%)
+🇿🇦
+Gatsby (3%)
+🇦🇷
+Choripán (4%)
+✍️ Other (write in!) (10%)
+Y
+our two cents:
+🇻🇳
+K:
+“The Bánh Mì is the rare but beautiful instance of true cultural fusion in a delicious sammy with all the food groups. Also generally more affordable than other fancy sandwiches.”
+Honourable mentions
+: Lomito, chip butty, BLT, shawarma, cuban, fried oyster po'boy, gyros, and pastrami on rye.
+[Note from the editors: the comments section has never left us this hungry]
+🙌
+We’d love you to
+join our group chat
+—
+become an Intrigue Insider today
+!

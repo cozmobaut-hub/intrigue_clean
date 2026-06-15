@@ -1,0 +1,206 @@
+URL: https://archives.internationalintrigue.io/p/superconductors-new-era-humankind
+Title: 🌍 Ambient superconductors: a new era for humankind?
+
+Hi there {{ First name | Intriguer }}.
+It’s always good to get a second opinion, but Australia has stepped that up a notch by hiring consultants to consult on how to
+consult consultants
+.
+Today’s briefing is a 4 min read:
+🔬
+Did
+Korean
+scientists just change the world?
+🇨🇳
+Why did
+China
+just replace its nuclear commanders?
+➕
+Plus:
+The US gets a downgrade, how the papers are covering Ukraine-Poland tensions, and some Olympic-level surveillance.
+⏱️ Around the world in sixty seconds
+🇹🇼
+Taiwan
+: Authorities have
+detained an army officer
+and others suspected of leaking Taiwanese military intel to China. This follows long-running reports of Beijing seeking to recruit retired Taiwanese military personnel to supply state secrets in exchange for money.
+🇭🇺
+Hungary
+: The US has
+imposed visa restrictions on Hungarians
+due to concerns the one million foreigners granted Hungarian passports over the past decade were not adequately vetted.
+🇮🇳
+India
+: Delhi is
+restricting the import of laptops, tablets and servers
+in a move designed to boost domestic manufacturing. Prime Minister Narendra Modi’s government is seeking to elevate India as a tech manufacturing hub.
+🇳🇮
+Nicaragua
+: The UN Green Climate Fund has
+suspended payments to a $117M forest protection project
+in Nicaragua due to human rights concerns. This is the first such halt since the fund’s creation in 2010.
+🇿🇲
+Zambia
+: The UK and Zambia have signed
+deals worth $3.7B
+to deepen clean energy and critical mineral ties during a visit by British Foreign Secretary James Cleverly. Zambia is a major copper producer and has large deposits of cobalt, manganese and nickel.
+🔬
+South Korea | Science
+A video purporting to show LK-99 levitating as a superconductor has gone viral.
+Korean scientists claim a major breakthrough
+Korean scientists claim to have developed the world’s first superconductor capable of working at room temperature and pressure.
+If
+true, this is big.
+What’s a superconductor?
+It’s a material capable of conducting electricity without resistance. We only know how to make them work at ultralow temperatures or ultrahigh-pressure, severely limiting their use. Until now?
+Sukbae Lee and Ji-Hoon Kim
+have developed a material with lead, oxygen, sulphur, and phosphorus called LK-99 (for ‘Lee’, ‘Kim’ and ‘1999’ when they first made it). They’ve released their
+findings
+, claiming it’s a superconductor at room temperature and pressure, heralding “
+a new era for humankind
+”.
+So scientists are racing to replicate their results
+: early tests in
+India
+and
+China
+have dashed hopes, while
+another
+in China has spurred them.
+Why the excitement?
+If LK-99 is the real deal, it could revolutionise anything that uses electricity or magnets, including the:
+⚡ energy sector (sending more green energy over longer distances)
+🩺
+medical sector (cheaper, more powerful devices)
+🚄
+transport sector (cheaper, more practical maglev trains), and
+💻 tech sector (cheaper, more powerful quantum devices).
+Intrigue's take:
+But (always the but), big claims merit
+scrutiny
+, and there are real questions here around the original methods and rigour. Plus, there are other theories to explain LK-99’s properties (it could just be diamagnetic).
+So there’s a fair bit of scepticism building.
+But while we await further testing, we can’t help but reflect on the way major finds like this can really shape our world: oil, nuclear, space, chips, critical minerals, AI… ambient superconductors? This is a heck of a time to be alive.
+Also worth noting:
+The Korean Society of Superconductivity and Cryogenics has organised
+a committee to verify the LK-99 findings
+, which haven’t been peer-reviewed.
+Stocks seen as having relevance to LK-99 initially
+surged
+in Korea and elsewhere, before
+tanking
+today (Friday) as LK-99 doubts grew.
+📰
+How newspapers covered…
+Tensions between
+Ukraine and Poland
+Arlington, US
+“Zelenskyy urges cool heads as Poland lashes out at Ukraine in gratitude spat”
+Warsaw, Poland
+“Ruling party politician criticizes authorities in Kiev”
+Kyiv, Ukraine
+“Poland admits cracks in ties with Ukraine after accusing war-torn country of being ‘ungrateful’ ”
+Help Intrigue Thrive!
+Do you love podcasts? Do you have two minutes to spare?
+If so, you’re the perfect candidate to take this survey. It’ll just take
+two minutes
+(we promise!) to tell us:
+🎧 Which podcasts you love;
+🔊
+Where you listen to them;
+🗣️ And how we can make our podcast even better.
+Take the survey here!
+🇨🇳
+China | Defence & security
+A shake-up in China’s nuclear command
+China’s President Xi Jinping replaced two top commanders of the People's Liberation Army Rocket Force (PLARF) earlier this week.
+The shake-up in the PLARF, which manages China’s land-based nuclear arsenal, made waves for a couple of reasons:
+🕵️ The commanders were removed without explanation and haven’t been seen publicly in weeks, and
+🆕
+For the first time in decades, the new leaders - one from the navy, the other from the air force - have never served in the PLARF.
+Intrigue’s take:
+Shake-ups like this usually come down to one of two things: corruption or disloyalty. In this case, there’s
+speculation
+it could be both.
+China is undertaking a rapid expansion and modernisation of its nuclear arsenal, which means plenty of cash has been flowing through the PLARF.
+But for Xi, who undertook a
+widespread purge of the military
+after taking office in 2012, political disloyalty might be the bigger concern.
+Also worth noting:
+Authorities said last week they were
+investigating allegations
+of military personnel “
+forming cliques and colluding in private
+” [link in Mandarin, but most web browsers can translate].
+China currently has around 400 nuclear warheads, with
+estimates
+this number could reach 1,500 by 2035. The US currently has around 3,700 warheads. Russia has around 4,500.
+🎧 Today on
+Intrigue Outloud
+Protests in Haiti’s gang-controlled capital, Port-au-Prince. Credits: Pierrin/AFP
+Could Kenya help Haiti out of its security crisis?
+Find out here
+➕
+Extra Intrigue
+We’re back with some weekend recommendations from Team Intrigue. If you’ve got:
+5 mins:
+Read about France’s
+extensive surveillance apparatus
+to be unveiled ahead of next year’s Olympics.
+50 mins:
+Listen to the first episode of ‘
+The Dropout
+’, the true crime podcast getting down to the DNA of the Theranos scandal.
+2 hours:
+Watch ‘
+Enron: The Smartest Guys in the Room
+’ on how one of America’s biggest corporations was levelled by fraud and corruption.
+🐦
+Tweet (or ‘X’…?) of the day
+— #
+(#
+)
+Mark Zandi, the chief economist at Moody’s Analytics (and a
+friend of Intrigue
+), had some words for rival ratings agency Fitch after they
+downgraded the US sovereign risk
+rating earlier this week. Fitch attributed its downgrading decision to an
+“erosion of governance”
+in the US
+.
+🗳️ Quiz time!
+1) When was superconductivity first observed?
+a) 1897
+b) 1911
+c) 1938
+d) 1957
+Login
+or
+Subscribe
+to participate
+2) Where was superconductivity first observed?
+a) The United States
+b) Germany
+c) The United Kingdom
+d) The Netherlands
+Login
+or
+Subscribe
+to participate
+3) What was the first observed superconductor?
+a) Gold
+b) Platinum
+c) Mercury
+d) Silver
+Login
+or
+Subscribe
+to participate
+Answers:
+1-b, 2-d, 3-c
+✍️ Corrections corner
+Our thanks to Bernie and Rana for pointing out that yesterday we mistakenly referred to Istanbul (where
+drone-maker
+Baykar
+is based) rather than Ankara (Turkey’s capital)! And our thanks to Florence for pointing out that early reports of Niger suspending
+uranium exports
+to France turned out to be unfounded!

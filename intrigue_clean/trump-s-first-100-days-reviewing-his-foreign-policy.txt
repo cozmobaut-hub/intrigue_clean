@@ -1,0 +1,219 @@
+URL: https://archives.internationalintrigue.io/p/trump-s-first-100-days-b5ca4e3989d923c6
+Title: 🌍 Trump's first 100 days - reviewing his foreign policy
+
+Today’s newsletter:
+— Trump’s first 100 days
+— Flag of the day
+— Calling all bodyguards in BA
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. We’re officially 100 days into Donald Trump’s second presidency. While I can somehow
+feel
+the eye roll you just gave me, let me make a quick defence of completely arbitrary milestones.
+It’s the devil’s own job keeping track of what President Trump is doing and planning to do. He’s signed
+a record 142 executive orders so far
+(besting Franklin D. Roosevelt’s previous record of 99 in 1933), and that’s before you get to the policy made by way of informal announcements during press gaggles.
+The ‘first 100 days’ framework — which, coincidentally, was coined by Roosevelt in 1933 —  allows us to stop, zoom out, and try to separate the signal from the noise. That’s especially important when the signal comes with a heckuva lot of noise, as it so often does with Donald Trump.
+So, as you probably guessed, today we’re leading with
+a look at what Trump promised to do on foreign policy and how it’s going so far
+. Buckle up!
+P.S
+. A huge shoutout to Helen and Jeremy, who rocked it on the main stage at Blackbird’s Sunrise Festival 2025 in Sydney earlier today!
+Number of the day
+35
+That’s how old the Hubble Telescope is this month.
+Launched in April 1990, Hubble has made
+“nearly 1.7 million observations, looking at approximately 55,000 astronomical targets,” according to NASA.
+Give your brain a cleanse by
+checking out some beautiful photos
+of our universe.
+The Trump report card
+Donald Trump promised to deliver “
+the most extraordinary first 100 days of any presidency
+”. Promise made, promise kept. Let’s whittle down President Trump’s many foreign policy promises to the four most consequential and take stock of where we are.
+1. Rebalance trade (particularly with China)
+President Trump promised to reshape America’s trade relationship with the world, lamenting that the US “
+[was] carrying other countries on our back with, you know, with trade numbers, with horrible numbers, and we've changed it.
+”
+Enter “Liberation Day” and the
+chaotic rollout (and retraction) of tariffs
+. Based on statements from Trump’s trade and economic teams, the tariff regime appears to have been designed with several competing outcomes in mind:
+To raise revenue to address the US deficit and to remedy “
+unfair”
+trade imbalances (particularly with China)
+To be used as leverage in exchange for broad macroeconomic concessions (particularly from China)
+To re-shore US jobs and industrial capability (particularly from China)
+Can you see the common thread?
+Hint
+:
+Your grandma only gets it out for special occasions.
+So, how does this end?
+Treasury Secretary Scott Bessent told CNBC on Monday that he expects “
+China to de-escalate, because they sell five times more to us than we sell to them, and so these 120%, 145% tariffs are unsustainable
+.”
+Precisely how China and other countries go about de-escalating isn’t clear - prominent monetary policy expert Barry Eichengreen has said that Chinese and European central banks
+aren’t in a position to lower their interest rates
+(
+🇫🇷
+) and revalue their currencies like Trump wants.
+2. End the Russo-Ukraine war
+During his campaign, Trump repeatedly said, “
+If I’m president, I will have that war settled in one day, 24 hours.”
+While the previous administration was hesitant to push Kyiv into negotiations, Trump has tried to force President Zelensky’s hand by calling him a “
+dictator without elections
+”, while warning him that he has “
+no cards to play.
+”
+Putting aside Trump’s trademark hyperbole, the president must have hoped his more ‘direct’ approach would have borne some fruit by now. Instead,
+Russia has rejected several temporary ceasefire proposals
+, and a mooted minerals-for-security deal with Ukraine has faded into the background.
+That said, two permanent ceasefire deals
+were leaked last week
+(one from the US and the other from Ukraine and Europe), suggesting a deal
+might
+be closer than we think.
+3. Secure a ceasefire in Gaza and the release of hostages
+During his inauguration speech, President Trump said,
+“The hostages in the Middle East are coming back home to their families.”
+He has also said he would “
+like to see an end to the war.”
+Since returning to office,
+Trump has helped secure the release of 26 American hostages
+from Afghanistan, Kuwait, Russia, and Gaza. He was also instrumental in securing a 42-day ceasefire between Israel and Hamas on 19 January (the day before he came to office), including the release of 33 Israeli hostages.
+Both were early wins for Trump’s foreign policy.
+However, since that early ceasefire deal, Trump has backed Israeli Prime Minister Benjamin Netanyahu’s decision to walk away from the ceasefire in March, and Israel’s attacks on Hamas in Gaza and Hezbollah in Lebanon are continuing.
+4. Bring back his “America-first” brand of diplomacy
+One of the more memorable lines from President Trump’s inauguration speech was that “
+America [would] reclaim its rightful place as the greatest, most powerful, most respected nation on earth, inspiring the awe and admiration of the entire world.
+”
+To achieve that, his administration began a sweeping overhaul of the US foreign policy establishment. He has all but closed
+USAID
+, cut State Department funding, and is considering closing 30 US embassies around the world
+.
+Trump has also taken the US out of the Paris Climate Agreement (for the second time), mused about acquiring Greenland and the Panama Canal, and threatened to annex Canada.
+While his advisers might laugh off his more unorthodox ideas as jokes, foreign countries aren’t amused. The world senses that Trump’s foreign policy is either a risk to be managed, a generational opportunity to fill the emerging power vacuum, or both.
+Intrigue’s Take
+If there’s one thing English classes in secondary school prepare you for, it’s picking out the main themes of a work you didn’t fully understand and aren’t entirely convinced the author did either. Accordingly, we offer the following
+three themes from the Trump administration’s foreign policy so far:
+China is an adversary that must be isolated economically and diplomatically
+A belief that the future strength of the US military relies on rebuilding its industrial base
+A belief that foreign policy is, at its core, transactional and not reciprocal.
+On China,
+Trump was lauded during his first term — rightly in our view — for calling out China’s manipulative economic practices. But it is clear his approach to Beijing is more radical this time, and that the US-China relationship is now adversarial rather than simply competitive. Trump’s team wants to force Beijing to negotiate, but the Chinese Communist Party is highly unlikely to negotiate from a position of weakness.
+As for rebuilding US industrial capability
+, Trump is right that in a more fragmented world, military power will be closely linked to domestic industrial capability. The problem is that the US cannot re-shore its industrial capability to the level required and will have to rely on allies and trade partners in the long term.
+As for his worldview,
+Donald Trump is finding out that using leverage can only get you so far. As Mark Carney’s improbable re-election in Canada yesterday shows, foreign countries have agency and will make decisions based on their own interests.
+For the most instinctive and effective populist of his generation, it is strange that when it comes to dealing with other countries, Trump seems to forget that all politics is local.
+Today’s newsletter is sponsored by
+LSE
+Improve governance through data science
+Develop expertise in quantitative tools, programming, and data analysis to improve policy design and implementation around the world.
+At the London School of Economics and Political Science (LSE) the worlds of policy and data intersect in the MPA in Data Science for Public Policy (MPA-DSPP) programme, which is designed to equip future policymakers with the skills to address modern public policy challenges using data-driven approaches.
+Each year we welcome students from around the globe, who all share a passion for improving governance and society.
+Learn more
+about how you can be a part of our incoming class in September 2025.
+Meanwhile, elsewhere…
+🇺🇸
+US — Trump eases tariff pressure on carmakers.
+On Tuesday, the US president signed an executive order that exempts car makers from additional import duties and sets up a reimbursement scheme to soften the blow from 25% tariffs on imported cars and car parts. The relief came after local car manufacturers warned they would need more time to shift their supply chain to the US.
+(
+Reuters
+)
+Comment:
+The changes coincided with Trump’s visit to Michigan, home of the Detroit Three carmakers - Ford, GM, and Stellantis.
+🇨🇳
+CHINA — China’s manufacturing activity shrinks.
+China’s manufacturing activity fell in April, as the trade war with the US began to hit China’s economy. The Purchasing Managers’ Index (PMI), which is used to track output, fell to 49, the lowest score since late 2023.  (
+The Guardian
+)
+Comment:
+Several international financial institutions, including the IMF, have recently lowered their growth forecast for China below Beijing’s official 5% target.
+🇧🇷
+BRAZIL — BRICS ministers fail to agree on joint communique.
+A two-day foreign ministers’ meeting for the BRICS bloc ended without a joint communique due to disagreements over plans to reform the UN Security Council. Newcomers Egypt and Ethiopia opposed a previously approved plan to back South Africa for a permanent seat  at the SC. (
+SCMP
+$)
+🇰🇵
+NORTH KOREA — Pyongyang tests weapons from new warship.
+Just days after Pyongyang unveiled its newest naval warship in state media, Kim Jong Un oversaw weapons testing on the destroyer alongside his daughter, and likely successor, Kim Ju Ae. The naval unveiling comes amid reports that Washington is considering restarting talks with North Korea, despite the country’s continued development of nuclear weapons.
+(
+Straits Times
+)
+🇸🇴
+SOMALIA
+—
+Taipei caught in the crosshairs of East African politics.
+Somalia has banned Taiwanese passport holders from entering the country in a move Mogadishu says is in line with a 1971 UN resolution recognising the ‘One China’ principle.
+(
+Reuters
+)
+Comment:
+In reality, Somalia is unhappy that Taiwan is boosting ties with Somaliland, a breakaway region that Somalia claims as its own. The Chinese Embassy in Mogadishu was no doubt closely involved here.
+🇲🇹
+MALTA
+— Valletta’s citizenship scheme rejected by EU court.
+The Court of Justice of the EU struck down Malta’s “golden passport,” which allowed people to buy Maltese citizenship. The passport scheme has been widely criticized as an avenue for bad actors to evade sanctions and enter the bloc.
+(
+Politico.eu
+)
+🇨🇦
+CANADA
+— Seabed mining interest grows in the private sector.
+The Metals Company, a Canadian mining company, applied to the US government to mine the seabed for cobalt and nickel yesterday. The application follows President Trump’s executive order last week calling for the acceleration of seabed mining. It’s the first time a private company has applied for commercial seabed mining exploration licenses.
+(
+AP
+)
+Extra Intrigue
+Intrigue Job Board
+💼
+Board Member @
+WaterAid Australia
+in Melbourne
+Philanthropic Communications Lead @
+Médecins Sans Frontières
+in NYC
+Bodyguard Coordinator
+@
+US Embassy
+in Buenos Aires
+Senior Brand Manager
+@
+Nestle
+in Hong Kong
+Flag of the day
+Credits: Britannica
+If you didn’t recognise the flag above at first glance, let us introduce you to
+the sunny emblem of the Marshall Islands.
+Designed by the president’s wife in the 1970s, the white and orange lines represent sunrise and sunset, while also supposedly evoking peace and bravery.
+If you’re a seafarer, the flag might look remarkably familiar. The Marshall Islands is classified as a ‘Flag of Convenience,’ or a country that allows foreign ships to register and enjoy favourable tax and reporting requirements.
+Intrigue rating: 9.5/10
+Today’s poll
+Do you think the US's global standing is stronger than it was 101 days ago?
+👍 Yes, you've got to break a few eggs to make an omlette
+👎 No, its undermined it
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+If you were an energy minister, what would your top priority be?
+⚡️ Diversify your energy mix  (19%)
+🇪🇺
+Diversify your cross-border connections (4%)
+👋
+Expand and upgrade your grid (39%)
+👀
+Decentralise your grid (more local generation and storage) (35%)
+✍️ Other (write us!) (2%)
+Your two cents:
+👋
+Z.B:
+“No amount of energy diversification matters if it can't go where it's intended.”
+👀
+D.L.M:
+“Decentralization not only empowers local communities, but also makes sure there is flexible, dispatchable power available at different nodes”
+✍️
+A.P:
+“Restore aging, retiring staff and siloed management. I work for New England electric utility and we're not staffed to handle ANY of the coming changes”

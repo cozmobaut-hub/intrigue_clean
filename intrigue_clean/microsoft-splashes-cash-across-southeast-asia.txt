@@ -1,0 +1,226 @@
+URL: https://archives.internationalintrigue.io/p/microsoft-splashes-cash-across-southeast-asia
+Title: 🌍 Microsoft splashes cash across Southeast Asia
+
+IN TODAY’S EDITION
+1️⃣ Why Microsoft’s CEO is in Southeast Asia
+2️⃣ Why old books are vanishing in Europe
+3️⃣ Map of the day
+Hi {{ First name | Intriguer }}.
+When I worked at Google Search, there was a long-running joke about Microsoft:
+Question: What’s the most searched term on Bing?
+Answer: Google.
+And what a difference a year makes. Since Microsoft’s big bet on AI, the company’s value has surged - it’s now one of the few firms to have rivalled Apple as the world’s most valuable company.
+And in today’s top story, we’re about to see
+Microsoft’s next big bet in its AI journey: Southeast Asia
+. Let’s jump right in.
+THE HEADLINES
+The US and Saudi Arabia near security pact.
+If signed, the reported
+defence agreement
+would grant Saudi Arabia access to more US weapons, investments in advanced tech, and US assistance in developing a civilian nuclear program. In return, the kingdom would limit its reliance on Chinese tech. Once agreed, the two allies could give Israel the option to join the deal and establish formal ties with Saudi Arabia, though that’d be conditional on Israel ending the war in Gaza and agreeing to a two-state solution.
+A new(ish) prime minister for Solomon Islands.
+Former
+foreign minister Jeremiah Manele
+has secured the top job after the country’s outgoing China-friendly leader endorsed him. Manele was foreign minister when Solomon Islands signed a controversial security pact with China, and last month’s election upset suggested folks wanted change, but opposition parties still couldn’t muster the numbers in parliament. It’s early, but this all suggests continued warm ties with China, though with more of an open hand to the West.
+US imposes fresh sanctions on Russia-linked entities
+.
+The Biden Administration has announced it’s imposing
+nearly 300 new sanctions
+on entities suspected of helping Russia supply its military. Wednesday’s package includes sanctions against companies based in China, the UAE, and Singapore. Meanwhile, the US has also accused Russia of breaching the
+Chemical Weapons Convention
+by using a chemical agent against Ukrainian troops.
+Colombia to break diplomatic ties with Israel.
+President Gustavo Petro has announced his intention to
+sever Colombia’s diplomatic ties with Israel
+over its actions in Gaza. Petro has been a vocal critic of Netanyahu’s war cabinet, and has requested to join South Africa’s ICJ genocide case. Israeli Foreign Minister Israel Katz has criticised the decision and accused Petro of being "
+antisemitic and full of hate
+".
+Korean chipmaker’s orders are full ‘til 2025.
+The CEO of SK Hynix, the world's second-largest memory chipmaker, says its high-bandwidth memory (HBM) products are
+sold out for the year
+, and orders for next year are nearly booked too. The CEO has pledged to expand production in view of strong AI-fuelled demand.
+TOP STORY
+Microsoft splashes cash across Southeast Asia
+Microsoft CEO Satya Nadella in Malaysia a few hours ago. Credits: Graham Denholm/Microsoft
+There’s a jolly, bespectacled fellow who flies around the world each year delivering gifts. His name is Satya, he’s the CEO of the world’s most valuable company (Microsoft), and he wraps his Southeast Asia tour today (Thursday).
+At each stop (
+Indonesia
+,
+Thailand
+,
+Malaysia
+), he's met the national leader and made some big announcements, including new “
+AI infrastructure
+” (a 2024 way of saying ‘
+data centres
+’), plus tech-skilling and support for local developers.
+His
+investments are in the billions
+, while the
+trainee numbers are in the millions
+. And these big numbers come after similar recent visits to Southeast Asia by Apple CEO Tim Cook, and Nvidia CEO Jensen Huang.
+The press releases all preach partnership, but each player really has its own interests here, so let's dig into what’s going on.
+What's in it for Big Tech?
+It comes down to three things:
+revenue, talent, and risk
+.
+On the first two (
+revenue and talent
+), these are large, young, fast-growing, and tech-savvy populations. So getting these ecosystems credentialed on Microsoft products will deliver decades of returns, plus a pipeline of skilled tech workers.
+As for
+risk
+? Amidst US-China competition, the People’s Republic is fading as a viable (let alone attractive) market and manufacturing base for US tech.
+So the race is on elsewhere, with US and China-based giants already facing off in emerging regions like Southeast Asia. They’re racing to secure data, meet demand, and make friends, just as new leaders and cabinets take the reins, and the AI race heats up.
+What's in it for Southeast Asia?
+Again, it comes down to three things:
+employment, investment, and politics
+.
+Credentialing 2.5 million young folks will help curb the region’s
+youth unemployment
+, particularly in Indonesia (13%). And this’ll help keep younger folks out of mischief, maintain momentum on living standards, slow any brain drain, and accelerate the region’s shift from tech consumption to production.
+On
+investment
+, Southeast Asia is already feeling the effects of mounting debt plus a slowdown in China's signature Belt and Road Initiative, so these Big Tech announcements fill a gap.
+And on
+politics
+, you might notice how each Microsoft announcement plays enthusiastically to each national leader's signature vision, whether it's Indonesia’s '
+Golden 2045
+' vision, or the Thai prime minister’s ‘
+Ignite Thailand
+’.
+Also, look at how each national leader has nudged Microsoft to locate the new investments around signature projects, whether it's in the new capital that Indonesia is carving out of the jungle, or Thailand's vast ‘eastern economic corridor’.
+And again, Satya has dutifully nodded along, while also building ties with key long-term players like Indonesia's Luhut Panjaitan, an influential cabinet minister.
+And finally, why AI?
+First, because AI, right? But second, there's an expectation that AI, like other tech waves before it, will be winner-takes-all. And that’s a motivation for Microsoft as a tech competitor that just posted a 20% AI-driven profit spike. But it’s also a motivation for both the West and Southeast Asia as players in a contested world.
+INTRIGUE’S TAKE
+The West has learned some
+tough lessons
+during recent tech transitions, particularly the way China's Huawei exposed Western nudity when the 5G wave crashed, offering fast and cheap connectivity across the emerging world.
+But unlike in China, where the government can
+quarterback its private sector
+, Western firms shape their own international strategy (or lack thereof). So while Western diplomats have long been saying "
+we need to do more in Southeast Asia
+", many Western firms have effectively been answering with "
+cool tweet, thanks
+". But the rotating cast of CEOs now rolling deep across Southeast Asia suggests this is changing.
+And for folks in Southeast Asia, that’s a head-turning change from the 1990s, when Big Tech only ever visited to complain about pirated Windows 95 CDs.
+Also worth noting:
+Microsoft
+announced
+a similar $2.9B investment in Japan last month, plus an
+unusual AI investment
+in the UAE. It
+announced
+its first data centre in Malaysia back in 2021.
+Microsoft’s data centre in Singapore has long been running at or near capacity, and Singapore placed a moratorium on new capacity in 2019 on environmental grounds. It loosened that ban last year.
+Indonesia
+announced
+(
+🇮🇩
+) last month that US-based AI chip pioneer Nvidia is building a $200M AI centre in the country.
+Around 3.1 million Indonesians are already active on GitHub, the Microsoft-owned platform for software development.
+A MESSAGE FROM AURA
+Protect your online presence in this changing world.
+Aura is the new standard in digital security and offers comprehensive, all-in-one protection for your finances, identity, and tech. In addition to identity theft and financial fraud protection, Aura offers anti-virus/malware software, “White Glove Fraud Resolution” - 24/7/365 dedicated US-based case managers and all plans include a $1M insurance policy to cover losses/fees.
+Stay secure, stay vigilant.
+MEANWHILE, ELSEWHERE…
+🇦🇫
+Afghanistan
+: The Islamic State (ISIS) has claimed responsibility for a
+terror attack inside an Afghan mosque
+that left six people dead on Monday night. The ruling Taliban has struggled to quash rival armed groups operating in the country.
+🇷🇺
+Russia
+: Defence Minister Sergei Shoigu has ordered an increase in
+domestic arms production
+“
+to maintain the required pace of the offensive”
+in Ukraine. Moscow is pressing ahead along several fronts, taking advantage of its superior manpower and firepower before more US military aid reaches Ukraine.
+🇦🇺
+Australia
+: Treasurer Jim Chalmers has announced
+more oversight
+over “
+high-risk
+” foreign investments in critical infrastructure, critical minerals, critical technology, and sensitive data. The mooted reforms will also seek to reduce bureaucracy and wait-times for known investors in non-sensitive areas.
+🇭🇹
+Haiti
+: A faction of Haiti’s new transitional council has announced former sports minister Fritz Bélizaire as
+Haiti’s next prime minister
+, to the surprise of the rest of the council. It all risks splitting the administration just days after it was formed.
+🇸🇦
+Saudi Arabia
+: An anti-terrorism court has
+sentenced a Saudi women’s rights activist to 11 years in prison
+in a closed-door trial. Critics say Manahel al-Otaibi was convicted because of her clothing choices and criticism of Saudi Arabia’s male guardianship laws.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Tech
+: LinkedIn has made
+three mobile games available
+to its users - but lest you slack-off at work, they’re only accessible once a day.
+Culture
+: Rare 19th century Russian books
+are apparently being stolen
+across European libraries, to feed a thriving market in Russia.
+Sports
+: Ferrari has unveiled its
+new car adorned by a blue livery
+for this weekend’s Miami F1 Grand Prix.
+MAP OF THE DAY
+Credits: SIPRI.
+Military spending grew across the globe last year, reaching a cool (if alarming?) $2.4T, according to a
+report
+by the Stockholm International Peace Research Institute. That’s a 6.8% increase in real terms from 2022. The US remains the biggest spender, followed by China, Russia, and India.
+DAILY POLL
+Which country do you think will emerge as a global AI leader?
+🇮🇩 Indonesia
+🇧🇷 Brazil
+🇺🇸 US
+🇨🇳 China
+🇦🇪 UAE
+🇨🇦 Canada
+🇬🇧 UK
+🇮🇳 India
+🇳🇬 Nigeria
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about consumer boycotts?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 They're a good way to take concrete action over important issues (48%)
+🟨
+🟨
+🟨
+🟨
+🟨
+🟨
+👎 They're ineffective, inaccurate, and/or misguided (46%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (6%)
+Your two cents:
+👍
+J.C:
+“As a consumer you have every right to decide where you will spend your dollars. If a corporation wishes to support issues that you disagree with then yes, you need to spend your dollars with an entity that more aligns with your beliefs.”
+👎
+A.L:
+“At the end of the day, corporations continue making money and the lower-level employees are the ones that suffer.”
+✍️
+J:
+“Boycotts are only effective when sustained for enough time to become an embargo. In the meantime, the boycott does little to hurt the profits of major corporations, who understand how to pivot when the time calls for it.”
+👍
+M.A
+: “Boycotts are not expected to completely shift the geopolitical standing of states, but they are definitely effective and making noise, bringing visibility to issues and pressuring the private sector.”
+👎
+K.M:
+“The consumer's wallet can have a lot of power, but many of these issues are complex and boycotts are a relatively blunt tool to address them.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.

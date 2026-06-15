@@ -1,0 +1,245 @@
+URL: https://archives.internationalintrigue.io/p/indonesias-ipo-market-booming
+Title: 🌍 Indonesia's IPO market is booming
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+Even Nobel laureates make the occasional typo: legendary economist Claudia Goldin just shared the news of her
+Nobel Prize
+via an endearingly understated
+tweet
+, rocking not only a triple exclamation mark but also a typo in the word ‘happy’. Love it.
+Today’s briefing is a 5 min read:
+🇮🇩
+Indonesia
+is having an IPO boom.
+🚨
+Key developments on
+Israel-Gaza
+.
+🔁
+Why China is investigating Taiwan’s
+trade
+practices.
+➕
+Plus:
+The WTO slashes trade forecasts, how the papers are covering Pakistan’s plan to expel Afghans, and why folks in India are tweeting about New Jersey.
+⏱️ Around the world in sixty seconds
+🇯🇵
+Japan
+: Tokyo has announced it’ll allocate
+$200M to develop hydrogen tech for planes
+. The policy comes as European aviation giant Airbus aims to build the world's first hydrogen-powered commercial aircraft by 2035.
+🇫🇷
+France
+: Paris has
+vetoed the takeover of a French nuclear parts manufacturer
+by a US competitor, citing strategic concerns. France has tightened its foreign investment rules in recent years.
+🇳🇿
+New Zealand
+: The Kiwi parliament is set to
+add an extra seat
+after the sudden death of a candidate triggered a rarely-applied law just days before elections this coming Saturday. As a result, the next parliament is set to have 121 seats instead of 120.
+🇧🇷
+Brazil
+: An extreme
+drought is hitting vast swathes of the Amazon forest
+. In the July-September quarter, eight of Brazil’s 26 states recorded their lowest rainfall levels in over 40 years.
+🇳🇪
+Niger
+: Authorities have cut
+Niger’s 2023 budget by 40%
+, citing international sanctions imposed after July’s military coup. Over 10% of the country’s pre-coup budget came from international loans and budget support.
+🇮🇩
+Indonesia | Finance
+A renewables IPO boom in Indonesia
+Shares in the Indonesian geothermal power plant operator
+BREN
+surged after the company’s Indonesian Stock Exchange
+debut
+yesterday (Monday).
+The company
+says
+it’ll use the $200M it raised to repay debt, buy geothermal plants in Java, and expand into other renewable technologies.
+Indonesia’s initial public offering (IPO) space has been hot this year
+. It raised $2.8B in the first half of 2023,
+behind
+only China, the US, and UAE. That places Indonesia ahead of much larger economies like India and Japan.
+So, what’s going on?
+Two things: investors are attracted to Indonesia’s strong economic and demographic fundamentals; and that’s dovetailing with a broader green energy transition.
+⛏️ Five of the year’s six Indonesian IPOs that’ve crossed the $100M mark are connected either to renewable energy or key inputs
+🌋
+President Widodo introduced
+incentives
+last year to develop Indonesia’s vast geothermal potential (the world’s largest)
+✍️ He’s moved to position Indonesia as a key link in the world’s EV supply chain, including through a
+partnership
+with Australia, and
+🔋
+Jakarta has banned the export of its nickel ore (the world’s largest reserves), forcing processors and manufacturers to invest locally.
+Intrigue's take:
+Intriguingly, this local IPO boom is happening against a cooling
+backdrop: the global IPO market has seen a
+32% decrease
+year-on-year as it still comes down from its record 2021, responding to higher interest rates and an uncertain economic outlook.
+So there’s an interesting market signal at play here: as investors look for returns, emerging market exposure, energy transition exposure, and manageable risk, some Indonesian stocks seem to be ticking the boxes.
+Also worth noting:
+Coal accounted for
+over 60% of Indonesia’s energy mix
+in 2022. Indonesia has a 2060 net-zero target.
+The BREN share offering was oversubscribed by 135 times.
+BREN is owned by Indonesian billionaire Prajogo Pangestu.
+📰
+How newspapers covered…
+Pakistan’s plan to expel hundreds of thousands of undocumented migrants (mostly Afghans)
+Karachi, Pakistan
+“Pakistan Stands Firm on Evicting Illegal Immigrants, Including Afghan Refugees”
+Riyadh, Saudi Arabia
+“Pakistan pledges to expel illegal immigrants, reinforce border sanctity for investment-friendly climate”
+Ankara, Turkey
+“UN agencies express serious concerns over Pakistan's repatriation plan”
+Today’s newsletter is supported by: Meco
+The best app for newsletters.
+Meco is a distraction-free space for reading and discovering newsletters. Add your favourite newsletters and liberate your inbox in seconds.
+Try Meco today!
+Updates on Israel and Gaza
+Latest death toll.
+At least 900 people in Israel and 680 people in Gaza are now reported dead, following the weekend’s Hamas attacks. (
+AP News
+)
+“A complete siege”.
+Israeli Defense Minister Yoav Gallant
+announced
+yesterday (Monday) a “
+complete siege of Gaza: no electricity, no food, no water, no gas… We are fighting human animals and are acting accordingly.
+”
+Hamas threatens to kill hostages.
+A recording released to Qatari-funded news outlet Al Jazeera yesterday (Monday) said Hamas would execute a hostage for any “
+targeting of our people in their homes without prior warning
+”. Hamas is holding an estimated 150 hostages inside Gaza. (
+DW
+)
+The US reaction.
+President Biden will speak about the terrorist attacks today (Tuesday) at 1pm Washington DC time. The US is “
+surging support
+” to Israel plus sending specialist hostage negotiators, as reports emerge of Americans among the dead, wounded, and captive. (
+The Washington Post
+)
+A European warning.
+A rare joint statement from the leaders of the US, UK, France, Germany, and Italy yesterday expressed support for Israel
+“in its efforts to defend itself and its people against such atrocities”
+. The statement also warns “
+any party hostile to Israel
+” (aka Iran and its proxy in Lebanon, Hezbollah) from taking advantage of the situation. (
+Statement
+)
+Confusion about EU aid.
+A very senior EU official announced yesterday that all Palestinian aid had been suspended immediately. Other officials later walked the announcement back, saying EU foreign ministers were due to discuss the issue at an emergency meeting today (Tuesday). (
+Reuters
+)
+Abbas asks for UN help en route to Moscow.
+Palestinian National Authority leader Mahmoud Abbas called on the UN to “
+immediately intervene to stop the ongoing Israeli aggression against the Palestinian people, particularly in the Gaza Strip.
+” Abbas is expected to visit Russia and meet Vladimir Putin for talks in the coming days. (
+Al Arabiya
+)
+🔁
+China | Geo-economics
+China twists the screws on Taiwan
+China has
+extended
+a review into Taiwanese trade practices for another three months until 12 January, a day before Taiwan’s presidential election.
+China first launched the investigation
+in April,
+saying
+Taiwan had
+“imposed unilateral restrictions on the import of over 2,400 Chinese mainland products, which has harmed the interests of industries and companies there.”
+Beijing says it’s extended its probe due to the “
+complexity
+” of the case.
+But Taiwan says it's all a gambit
+to interfere in its elections: if China opts to pursue the maximum trade penalty and suspend cross-strait arrangements, this could seriously damage Taiwan’s economy; and that knowledge could nudge Taiwanese voters to choose a more Beijing-friendly candidate.
+Intrigue’s take:
+When Taiwan and China signed their 2010 trade pact (
+the Economic Cooperation Framework Agreement
+), it was a landmark moment for cross-strait cooperation.
+At the time, China hoped the deal would earn it some goodwill ahead of the island’s eventual unification with the mainland. But we’re no closer to that outcome now than we were in 2010.
+Also worth noting:
+Taiwanese
+exports to China
+increased by 54% to $186B last year.
+Current vice president Lai Ching-te of the ruling (and independence-leaning) Democratic Progressive Party is
+leading in the presidential polls
+.
+🎧 Today on
+Intrigue Outloud
+What’s next in Israel and Gaza?
+Find out here
+➕
+Extra Intrigue
+Here’s what folks have been tweeting about lately.
+🇬🇧
+Britons
+tweeted about
+“Rwanda”
+as the UK’s Supreme Court
+considers a government plan
+to send asylum-seekers there.
+🇲🇦
+People in
+Morocco
+were using
+#assemblées
+(
+meetings
+) as the country hosts the annual IMF and World Bank
+meetings
+this week.
+🇮🇳
+And
+“New Jersey”
+was trending in
+India
+after the
+largest Hindu temple outside India
+opened in the Garden State.
+🗳️ Poll time!
+Which of the following industries do you think is due for an IPO golden era?
+🤖 AI
+🌬️ Renewable energy
+🩺 Healthcare
+🧪 Biotech
+🌾 Agriculture
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+📊
+Chart of the day
+Data: WTO
+The World Trade Organisation has
+slashed global trade growth forecasts
+in half from April, partly due to a slowdown in manufacturing activity. Interestingly on possible geopolitical factors, the report says, “
+while we do see initial signs of fragmentation, we do not see evidence of broad-based de-globalization
+.”
+Yesterday’s poll:
+Where do you see things headed following this Hamas attack on Israel?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+Hamas has over-played its hand, damaging the Palestinian cause (65%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ Israel's response risks a broader regional conflict (26%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (7%)
+Your two cents
+:
+S.S:
+“Both are true.”
+A.F:
+“A catastrophic outburst will ultimately result in heavy retaliation from Israel, likely removing by force the current iteration of Hamas from Gaza and impact the lives of many innocent civilians, on both sides of the wall.”
+D.F:
+“There won't be a peaceful solution until the hardliners on both sides are out of power. And this kind of thing increases support for hardliners.”

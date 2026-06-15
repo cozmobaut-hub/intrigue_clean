@@ -1,0 +1,250 @@
+URL: https://archives.internationalintrigue.io/p/tuesday-dd91
+Title: 🌍 Paris AI Summit hangs in the balance
+
+IN TODAY’S EDITION
+1️⃣ Paris AI Summit hangs in the balance
+2️⃣ Why folks in Mexico are googling a Coke ban
+3️⃣ Diplomat of the day
+Hi {{ First name | Intriguer }}.
+Believe it or not, one of the hottest tickets in town this month was not the Super Bowl.
+Non non
+, dear Intriguer, the hottest ticket was an official pass to this week’s Artificial Intelligence Action Summit in Paris. In true French spirit, the exclusivity of the whole thing just drew more interest, with top CEOs and heads of state now there, spanning all the hot AI topics like safety and democratic resilience.
+Luckily for you, our very own Kristen has also been there on the ground for Intrigue. Shall we dive in?
+THE HEADLINES
+Trump signs steel, aluminium tariffs.
+A day after flagging plans to
+impose tariffs on all foreign steel and aluminium
+, the US president has now signed an executive order to make it so. They kick in “
+without exceptions
+” from 4 March, though Trump says he’s reviewing an exemption request from Australia. The EU, Canada, and others are promising a response.
+Hamas to delay next hostage release?
+The group has warned it’ll
+postpone Saturday’s scheduled hostage release
+unless Israel addresses various issues, including delays around aid and the return of displaced people. In response, Donald Trump has warned of cancelling the ceasefire and “
+all hell
+” breaking out if the hostages aren’t returned, but added he’s not speaking for Israel.
+Musk-led group makes bid for OpenAI.
+A consortium led by Elon Musk has
+made a $97.4B bid
+for the assets of the non-profit that controls OpenAI, America’s AI pioneer. OpenAI’s Sam Altman, who has a long-running feud with Musk, has openly
+mocked
+the bid, which could now complicate Altman’s efforts to raise more cash.
+US to halt enforcement of foreign bribes law.
+Donald Trump has instructed the justice department to halt the enforcement of a law that bars US companies from
+bribing foreign officials
+. The White House says a history of over-enforcement has harmed US firms competing abroad.
+Vanuatu gets a new prime minister.
+Jotham Napat, a former foreign minister and senior disaster management official, has now emerged as
+Vanuatu’s new prime minister
+after last month’s elections, with hopes of a possible end to the Pacific Island nation’s long-running political instability.
+Intrigue in conversation with…
+Ever wondered what it's like being
+a NATO ally on Russia's border
+? Or figuring out how to respond to China's economic coercion? Here's your last chance to get a firsthand perspective from someone who's navigated exactly these challenges, and more.
+Join Intrigue for a candid conversation with
+Gabrielius Landsbergis
+, former foreign minister of Lithuania (2020-2024). It’s
+tomorrow
+!
+LAST CHANCE - REGISTER NOW
+TOP STORY
+Paris AI Summit hangs in the balance
+Inside the AI Summit at the Grand Palais in Paris
+Shrugging off some winter showers, France’s Emmanuel Macron (co-hosting with India’s Narendra Modi) has rolled out the red carpet for heads of state, executives (hi Jamie Dimon), and AI power players at the latest AI Action Summit, which wraps today (Tuesday).
+And a
+quick glance at the headlines
+might suggest that oh, Macron is announcing $110B in new AI investments, the EU’s von der Leyen is telling CEOs and anyone who looks like a CEO that the bloc is
+open for business
+, and JD Vance has landed with young family in tow, making the first transatlantic trip for the Trump 2.0 administration.
+But
+trouble is brewing
+in the City of Light as the summit’s final declaration hangs in the balance. And that’s kinda the whole point of these AI summits — to agree on some basic rules of the road as AI keeps gathering pace. So with our very own Kristen there on the ground, here’s what folks are whispering by the coffee cart.
+1) Red pens out
+Let’s cut right to the chase –
+the summit declaration is in trouble
+. The early drafts focussed on AI safety, inclusion, and sustainability, which to the American guests in town sounded a lot like the exact things Donald Trump just got elected to rein in (ie, over-regulation). Even though Macron amusingly paraphrased the American adage, pledging Europe is ready to
+“plug, baby, plug”,
+the US doesn’t want to get boxed into
+Europe’s rules.
+And that divide has put others in
+an awkward spot
+— the UK’s Keir Starmer, for example, pulled out citing domestic priorities, but for just a quick 40-minute plane ride over to Paris? The rumours swirled. For example, he cancelled
+after
+an early draft of the Paris text leaked, laying the above US-EU divide out there for all to see. So rather than get caught up in another transatlantic spat, he sent his tech secretary, who’s divided his time between
+sharing AI videos of himself speaking French
+and dodging questions from the press.
+Macron’s team is now downplaying the importance of the declaration itself, which is not something diplomats do when they’re hopeful everyone’s about to sign a declaration.
+Anyway, speaking of those Americans in town…
+2) Vance does Europe
+Making his first international appearance as VP, JD Vance is
+coming in hot
+after dunking on Europe’s
+“evil trend towards censorship”
+last week.
+So, many at the summit were eager to hear from the young VP, particularly given his own stint in Silicon Valley, where he once showed sympathy for those wanting to break up the “
+Big Tech oligarchy
+”.
+But the Trump administration is
+unflinchingly clear
+it now wants to level-up
+“
+America’s AI dominance”
+, whether by rolling back regulations or announcing the
+$500B Stargate project
+. And that’s the message Vance delivered during
+last night’s address
+: the US wants fewer restrictions, fewer regulations, and more cash to flow.
+Others here have sought to nuance any narrative that less regulation necessarily equals more progress —
+Kate Crawford
+, author of
+Atlas of AI
+, for example, has pointed out that highly regulated industries like banking and mining are still major innovation hubs.
+But either way, it’s all left Brussels looking a bit isolated, just as its own new AI Act kicked into effect on February 2nd — even in its final watered-down form, that new law still looms large as a source of friction.
+Why, you ask?
+Well, much of that hinges on…
+3) The money
+JP Morgan’s Jamie Dimon,
+Google’s Sundar Pichai
+,
+OpenAI’s
+Sam Altman, Anthropic’s Dario Amodei, and pretty much every other
+major financier and tech pioneer
+all trekked to Paris. That’s because, with CEOs and world leaders in a sprint for any early-mover AI advantage, this summit becomes a marketplace not just for investments, but ideas:
+Cash-strapped
+leaders
+want these tech tycoons to invest in their countries, and
+The
+tycoons
+dangle that carrot in return for a more sympathetic ear on regulation.
+So against that backdrop, any real mention of regulation or even the risks of AI now starts to look like a total
+Debbie Downer
+. And EU folks tell us it’s all pushing Europe to reconsider its regulatory approach.
+Oh, and if you’re wondering what happened to all the buzz around
+China’s Deepseek
+, which rattled Wall St, Silicon Valley, and DC alike…?
+4) China, wya
+China has been relatively quiet at this summit — while President Xi has sent Vice Premier
+Zhang Guoqing
+this time around (a step-up from the relative junior-burger he sent in 2023), Zhang isn’t scheduled to deliver any grand remarks. From his perspective, if the West can’t even agree among itself on AI guardrails, why enter the fray?
+INTRIGUE’S TAKE
+This is just the third AI Action summit (the UK hosted the first in 2023), but each one has served as a useful straw in the wind:
+The EU
+has gone from promising rules that deal with AI’s ethical implications, to now focusing more on the need to compete and attract investment
+The US
+has gone from seeing cooperation as a way to project US power, to now fearing it as a recipe for ceding that power, and
+That’s shaped the way the US has gone from fearing
+Big Tech
+as something to break, to now cherishing Big Tech as a champion to back.
+Meanwhile, initial shared AI fears around job losses, misinformation, and algorithmic bias are all giving way to a bigger fear: not winning the AI race.
+Also worth noting:
+The first 2023 AI summit in the UK delivered a non-binding pledge by 28 nations (including the US and China) to tackle AI risks. A follow-up meeting hosted by South Korea last year secured another pledge to set up a network of public AI safety institutes.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: Beijing has issued
+new rules restricting
+what folks in China can publish online about the People’s Liberation Army. Authorities claim the move is intended to protect defence sources and the military’s image, while critics say it’ll make it harder to monitor the military’s rapid development in China.
+🇷🇴
+Romania
+: President Klaus Iohannis has announced he’ll
+step down to avoid impeachment
+, effective tomorrow (Wednesday). A court initially extended his term by five months after ordering a rerun of Romania’s elections over evidence of Russian interference via TikTok, but opposition parties say it’s time for him to go.
+🇲🇾
+Malaysia
+: PM Anwar Ibrahim has
+issued a strikingly personal welcome to visiting Turkish leader
+Recep Tayyip Erdogan, who’s in town for a two-day visit. That’s because the two actually go way back — Erdogan granted him asylum in Turkey’s embassy back in 2008, against what Anwar says were political charges.
+🇨🇴
+Colombia
+: President Gustavo Petro has now called for his
+entire cabinet to resign
+, days after he criticised his ministers for five straight hours on national TV. Some of his own ministers were already criticising Petro, including over his appointment of a top advisor and foreign minister under clouds of suspicion.
+🇱🇾
+Libya
+: The International Organisation for Migration has confirmed the discovery of
+two mass graves in Libya
+thought to contain the bodies of at least 70 migrants, with some showing gunshot wounds. Libya has become a common route for undocumented migrants looking to get from Africa to Europe.
+FROM OUR FRIENDS
+Donald Trump’s America vs. Xi Jinping’s China
+Face-Off: U.S. vs. China
+takes an inside look at the turbulent ties between the world’s two superpowers, the two men in charge, and the vital issues that affect us all. Don’t miss the next season of this acclaimed podcast hosted by Pulitzer Prize-winner, Jane Perlez.
+Listen here! 🎧
+EXTRA INTRIGUE
+Here’s what people are googling around the world
+Folks in
+🇲🇽
+Mexico
+looked up ‘
+prohiben Coca Cola Hidalgo
+’ (
+Coca Cola ban Hidalgo
+) after a small town there
+banned Coke and Corona
+— it’s unclear why, but a leading theory is that the brands declined to sponsor community activities.
+Netizens in
+🇬🇷
+Greece
+searched for ‘
+Tom Robbins
+’ after the ‘
+Even Cowgirls Get the Blues
+’
+writer passed away
+yesterday (Monday), aged 92.
+And
+🇰🇭
+Cambodian
+sports fans googled ‘
+Kansas City Chiefs
+’ after the NFL team lost to the Philadelphia Eagles in Sunday’s
+Super Bowl
+, attended by a sitting US president for the first time.
+DIPLOMAT OF THE DAY
+Credits: @DiploMog via Twitter/X.
+Big news. Palmerston, a senior British diplocat with over four years of service under his
+collar
+belt, is officially
+coming out of retirement
+. He first joined the UK foreign office in 2016 and held the fort there until 2020, when frequent clashes with Larry, the high-powered feline at 10 Downing Street, hastened poor Palmerston’s retirement.
+But Palmerston has now been deployed to Bermuda, a British Overseas Territory, as feline relations consultant to the new local governor.
+DAILY POLL
+What do you think the AI Summit's declaration should focus on?
+🛑 Safety
+☄️ Innovation
+📄 Deregulation
+✍️ Other (write Us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think the real issue in this Cook Islands-NZ-China drama is?
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+🤐
+It's all about the secrecy of the deal (26%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇨🇳
+Secret or not, the Cook Islands shouldn't do a deal with China (65%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🤚
+NZ is out of line here, the Cooks can sign an economic pact if they want (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (1%)
+Your two cents:
+🇨🇳
+S.W:
+“I'm a Kiwi who used to work in a security software company with Five Eyes agencies as customers and there is absolutely no such thing as a 'harmless economic pact' with China. We are naïve babes in the woods down here and need to wake up.”
+🤚
+M.A:
+“Doing it with transparency might be better, but it is a sovereign state that shouldn't be bullied out of pacts that can be beneficial for them.”
+✍️ C:
+“The conflict revolves around Cook Island autonomy versus New Zealand affiliation. Brown wants both. New Zealand wants a choice to be made.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

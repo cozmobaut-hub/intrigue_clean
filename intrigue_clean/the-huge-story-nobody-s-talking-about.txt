@@ -1,0 +1,256 @@
+URL: https://archives.internationalintrigue.io/p/the-huge-story-nobody-s-talking-about
+Title: 🌎 The huge story nobody’s talking about
+
+IN TODAY’S EDITION
+1️⃣ What’s up with Salt Typhoon
+2️⃣ Scotland is hiring
+3️⃣ Photo of the day
+Hi {{ First name | Intriguer }}.
+You’ve seen those SUV commercials, right? A happy driver packs their smiling family into the vehicle, then casually drives along a stunning beach somewhere, while a peppy
+U2
+track nudges you towards a truly profound realisation: I gotta have that car.
+Well I tried it once. My smiling family and I were on a remote coastal strip in Mexico when we couldn’t resist re-enacting those ads, so we cranked some inspirational
+U2
+, drove our SUV right onto that spectacular beach, and no joke, we made it maybe three seconds before getting completely bogged in the sand. The
+U2
+didn’t help at all.
+I then had to do the ultimate walk of shame back out to the road where, no joke, the very next vehicle around the bend was a fully kitted tow truck. So I was somehow outta that jam within minutes, left only with the lingering doubt whether the tow truck driver just parks around the corner waiting for the next TV-inspired tourist to round the bend.
+Sometimes reality is more boring than it seems. But other times, as today’s update on potentially
+the biggest hack in history
+shows, reality is much, much spicier.
+THE HEADLINES
+Intrigue’s predictions for 2025.
+Our very own John, Helen, and Jeremy got together for a chat and a few chuckles around
+our geopolitical predictions for 2025
+, including forecasts for a hot war, a regime collapse, and a swanky new style. It’s free to listen on your preferred podcast app!
+Zelensky open to prisoner swap with North Korea.
+President Zelensky is offering to
+swap captured North Korean soldiers for Russian-held Ukrainian troops
+. Meanwhile, Trump’s incoming national security advisor, Mike Waltz, has told ABC News that preparations for
+a Trump-Putin meeting
+are underway.
+Israel-Hamas deal imminent?
+There are late
+reports
+of a breakthrough in negotiations, potentially paving the way for an Israel-Hamas ceasefire-hostage deal. Though yes, we’ve said this before…
+China smashes own trade record.
+Just moments ago, Beijing reported
+a record $992B trade surplus
+in 2024, up 21% from 2023. It’s partly China’s firms rushing goods to market before Trump 2.0 slaps them with new tariffs. PS - we just provided
+an update on China’s economy
+on Friday.
+Blue Origin launch called off (again).
+The Jeff Bezos-founded spaceflight company has
+called off the launch of its latest ‘New Glenn’ rocket
+over a “
+vehicle subsystem issue
+”. The launch will apparently be rescheduled.
+Croatia president wins re-election.
+As widely expected, the opposition-backed incumbent Zoran Milanović won
+over 74% of the vote
+in elections yesterday (Sunday). In Croatia, the presidency is largely ceremonial, though it holds political authority and is the commander-in-chief. The popular Milanović is a periodic critic of NATO, the EU, and Western support for Ukraine.
+TOGETHER WITH MODE MOBILE
+The ‘Digital Oil’ Boom
+$42 billion. That’s how much Facebook makes off American users’ data annually, and that’s just one company...
+Almost all of today’s tech giants make money from their users’ data. No wonder data has been called the new oil. But Mode Mobile turned the data boom on its head, creating an opportunity for investors.
+Mode’s software turns smartphones into passive income generators, paying users for their data. And by helping users earn and save $325M+, Mode has earned $60M+ in revenue.
+Their 32,481% revenue growth made them Deloitte’s #1-ranked software company on its 2023 fastest-growing companies list. And Mode’s not stopping there, that’s why they recently reserved the Nasdaq ticker $MODE.
+Don’t miss your chance to tap into the data boom.
+Earn up to 100% bonus shares by investing in Mode now.
+TOP STORY
+The huge story nobody’s talking about
+Outside China’s Ministry of State Security in Beijing
+Ahhhh spying. The world's second-oldest profession. It's a bit like sniffing your own socks: nobody likes getting caught, but everyone does it.
+And yet, something big has been happening lately, with US officials using increasingly spicy language to describe one of China's hacks: the outgoing FBI director
+argues
+it’s "
+the most significant cyber espionage campaign in history
+", and both Dems and Republicans largely agree, with one senator describing a classified briefing he attended as “
+breathtaking
+”.
+So let's get you up to speed.
+Who's behind this hack?
+China's various hacking groups seem linked to
+the Ministry of State Security
+, its main intelligence agency. The groups get their nicknames from Microsoft, which has a naming system that uses 'Typhoon' for espionage-focused groups from China, such as:
+Silk Typhoon
+, which just hit the US Treasury, a key player in US sanctions, export controls, and the secretive 'CFIUS' body to scrutinise foreign investment
+Volt Typhoon
+, which aims at disrupting US water, transport, energy, and other infrastructure in case of a war, to spook citizens and wobble any US response, and
+Salt Typhoon
+, which targets digital infrastructure not just in the US but across the broader West and beyond.
+So why’s everyone specifically worried about that last one, Salt Typhoon?
+It's a mix of the group's methods, targets, scale, and the resulting implications.
+The
+methods
+look sophisticated, using a layered approach to exploit old equipment and lax practices to patiently gain access to key
+targets
+, which form the backbone of pretty much the entire US internet and communications networks.
+Once inside, the hackers then exploit the trust between firms to expand to the next, achieving a massive
+scale
+: we're talking about the ability to geolocate millions of Americans, listen to calls, read texts, and so on. And the
+implications
+of that are vast —
+a) Lots of the priority targets appear to have been in
+the DC area
+, with possible insights into how the US is thinking about China and pretty much everything else
+b) The hackers also potentially got the names of people under court-approved US
+surveillance
+, offering a valuable heads-up on who the US suspects as spies, and
+c) Any good intel agency can also use that vast amount of broader hacked data to
+paint a detailed picture
+of who makes what US decisions, how, and what their vulnerabilities might be.
+So why's nobody talking about all this?
+Well they are — the WSJ first
+broke
+this story in September, and (with other outlets) has continued to fill out the picture. But this still isn't dominating the public debate anywhere near as much as, say, the great spy balloon saga of 2023.
+Why not? The details have emerged
+slowly
+, are
+hard to measure
+, and are often very
+technical
+, while the
+US elections
+have not only dominated public attention, but also complicated the US ability to respond during a transfer of power. Which brings us to...
+What's the US doing about this?
+It's all spurred plenty of US activity in amongst the panic: DC is now banning the remaining US operations of
+China Telecom
+, mulling a ban on China's
+TP-Link
+routers, and even pondering a mass '
+rip and replace
+' operation to swap out every router in the country, building on more targeted
+efforts
+already underway.
+Plus President Biden is reportedly finalising a cybersecurity executive order for his final days in office, while Trump 2.0 is hinting he might go more on the offence to raise the costs on China's intelligence services, with hopes of deterring them from any repeats.
+Anyway, it’s all shaping up as a costly exercise to bolster US resilience. But it’s also a timely reminder that the one thing costlier than cyber security is the very lack of it.
+INTRIGUE’S TAKE
+There are a few things we find fascinating about this story.
+First
+, the brazen nature of this hack reflects changes in both China’s capability but also intent: more confidence in challenging US power, even as its own economy sputters.
+Second
+, US security has long rested on a vast gap (technological, economic, military) with the rest of the world, but this latest hack highlights the pressures on that gap.
+And
+third
+, it's a reminder of how security works both ways: one of the vulnerabilities China exploited appears to have been the very system the US uses to wiretap suspected spies via back doors built into US tech and telco companies; and likewise, one of America's own
+defensive responses
+seems to be the very same encrypted apps it's previously criticised for providing security to spies, criminals, and terrorists.
+All that to say... there's no end destination in security. Rather, it's a constant journey.
+Also worth noting:
+China’s foreign ministry has
+rejected
+the Salt Typhoon allegations, instead describing the US as “
+the biggest threat to global cybersecurity.
+”
+Join us for
+a candid conversation on China
+with Congressman Raja Krishnamoorthi, Ranking Member of the Select Committee on Strategic Competition Between the US and the Chinese Communist Party. It’ll be online, 10am ET on Tuesday 21 January. Register
+here
+!
+MEANWHILE, ELSEWHERE…
+🇰🇿
+Kazakhstan
+: A Kazakh state-owned oil and gas company is
+reportedly offering $1B to purchase
+Bulgaria’s only refinery, which is owned by Russia’s Lukoil. If the deal is approved, Kazakhstan would further cement its presence as a key European energy supplier, filling some of the gaps left by Russia.
+🇩🇪
+Germany
+: The German army is
+planning to add a fourth division to its ranks
+starting April 1st, focused on territorial defence. The new division will oversee key infrastructure like ports and rail lines, though Germany’s overall personnel figures will still hover around 180,000 soldiers.
+🇭🇰
+Hong Kong
+: Hong Kong is pushing ahead with
+its plans to open a waste-to-energy plant this year
+, converting heat from burning trash into electricity. Some Hong Kongers see the development as a shift away from recycling, though the relevant minister has sought to reiterate the city’s sustainability commitments.
+🇺🇸
+US
+: Ahead of Trump 2.0,
+there are reports that Indian nationals on H-1B skilled visas are
+avoiding travel outside the US
+. Trump has stated his view that America needs “
+smart people
+”, but an ongoing migration debate within his party has left some H-1B holders wary of any sudden rule changes.
+🇹🇩
+Chad
+: France has now handed over its second local military base
+(Abeché) to authorities in Chad
+ahead of the agreed January 31 deadline to withdraw. French troops have been in-country since Chad’s independence in the 1960s, but the north-central African country ended the arrangement in November.
+FROM OUR FRIENDS
+4 reasons why 50,000 marketers read this free newsletter daily
+First, Stacked Marketer keeps them up to date and makes them smarter everyday.
+Second, it’s quick and actionable: It takes 5 minutes to consume and you get news, actionable insights and tactics you can apply.
+It’s trusted by top marketers: Readers include marketers from Google, Apple, Amazon, and Meta — most making $50k+ per month.
+And fourth, it’s completely free to subscribe.
+Join here.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+A small Italian town’s mayor has told residents that
+getting sick is now prohibited
+, citing a lack of local access to healthcare.
+Polish border authorities have
+denied entry to an American woman
+after objecting to the hand-written notes in her passport.
+A remote unpopulated island in Scotland is
+hiring a manager
+to look after the local wildlife.
+A Japanese robotics startup has created a
+tiny, furry companion bot that latches onto purses
+and acts like an infant, turning its head to engage with nearby people.
+And a British-Nigerian artist has
+created the world’s largest sandal
+, measuring 3m (10 feet) tall, 10cm (4.2in) wide, and 8m (26 feet) long.
+PHOTO OF THE DAY
+Credits: Brian van der Brug, Los Angeles Times, Getty Images.
+As the world watches fires devastate LA, we’ve also watched as the world offers assistance, including neighbouring Canada and Mexico, plus even distant Ukraine.
+Canada, for example, has sent backup including two Canadian-designed and built CL-415 Super Scoopers that can dip into the ocean and collect over 5,700 litres (1,500 gallons) of water to then dump on the raging flames. One of the aircraft had to be grounded after colliding with a civilian drone above the wildfire, though two replacement planes are already on their way to California, where the local wildfire death toll now sits at 24.
+DAILY POLL
+How worried are you about a foreign power gaining access to your devices?
+🚨 Very worried
+💭 Somewhat worried
+✌️ Not worried at all
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Do you think Aoun can rebuild Lebanon?
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️
+✅
+Yes, he's got the key players on board (45%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+❌
+No, Lebanon's issues go far beyond the president (52%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (3%)
+Your two cents:
+❌
+E.R:
+“I'll believe that Lebanon's back on track when they do their first census since 1932.”
+✅
+M.A:
+“Key players are on board and opposition is getting weaker — maybe ‘rebuild’ is a strong word, but he can get things done.”
+✍️
+E.K.M:
+“Rebuilding anything is often a longer road than one presidency can cover, but I can’t think of anyone in a better position to lay the foundation than Aoun.”
+❌
+M.G:
+“He will be successful if he can simply lay the groundwork for the future — build bridges with his neighbours to provide a chance for peace; develop a basic economy to keep his people fed; and plan for succession for long-term stability.
+The bar is low, and he has a chance.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Corrections corner
+Our thanks to Arun for pointing out that last week’s reference to Antarctica listed China instead of New Zealand as one of the seven current claimants on the icy continent.

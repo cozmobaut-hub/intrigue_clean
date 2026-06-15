@@ -1,0 +1,235 @@
+URL: https://archives.internationalintrigue.io/p/volkswagen-okay
+Title: 🌍 Is Volkswagen okay?
+
+IN TODAY’S EDITION
+1️⃣ Is Volkswagen okay?
+2️⃣ Why Chileans are googling ‘Lollapalooza’
+3️⃣ Flag of the day
+Hi {{ First name | Intriguer }}.
+Volkswagen’s iconic ad campaigns made it a global household name back in the 1960s. Crucially, they even helped the company break into the US car market, which had been tough for European carmakers.
+Some of Volkswagen’s choice lines from those campaigns included “
+think small and live large
+”, “
+as American as apple pie
+”, and the rather self-aware “
+it’s ugly, but it gets you there
+”.
+But these days, even the wittiest of ad campaigns might not be enough for Volkswagen, as we’ll see in our top story today.
+THE HEADLINES
+Markets plunge amid new tech selloff.
+The spark seems to have been a manufacturing report showing results missed expectations in August, stoking fears of a slowdown.
+AI chips pioneer Nvidia then saw its stocks tumble
+almost 10% on renewed scepticism around AI and chips growth, leading a broader 2%+ drop in the S&P 500. The sell-off then went global, with markets in Japan and South Korea taking a hit.
+Ex-aide to New York governors an agent for China?
+Authorities allege Linda Sun was
+acting as an unregistered foreign agent
+for China while working for governors Kathy Hochul (the incumbent) and Andrew Cuomo. She allegedly helped Beijing obtain fraudulent visas, and prevented New York officials from meeting Taiwanese delegations. Sun and her husband deny the charges, including allegations Beijing enriched them in return.
+Russia doubles down on missile attacks.
+Seven are dead after a
+Russian missile attack
+on Ukraine’s western city of Lviv earlier today (Wednesday), following deadly attacks on Poltava yesterday. We previously wrote
+here
+about why Russia is doubling down on Ukrainian cities.
+Colombian truckers protest fuel prices.
+Major cities across Colombia came to a near halt yesterday after trucker unions blocked highways to protest against
+plans to remove diesel subsidies
+. President Petro has defended the cuts, arguing they’re necessary to curb a growing budget deficit.
+12 dead in attempted Channel crossing.
+French authorities have
+rescued over 50 survivors
+from a boat that capsized as it attempted to reach the UK. It’s the deadliest such incident so far this year.
+TOP STORY
+Is Volkswagen okay?
+German automaker Volkswagen has long been synonymous with the kind of all-round reliability that can get you to Vegas and back when Spirit Airlines lets you down. But Germans may now be re-thinking those vibes after Monday’s news.
+Volkswagen CEO Thomas Schaefer has circulated an
+internal memo
+- now
+backed up
+by his boss and group CEO Oliver Blume - flagging the possibility of closing factories in Germany for the first time in the company’s 87-year history.
+To boot, they’re also looking to rescind VW’s long-time pact with German labour unions, which would’ve barred layoffs until 2029.
+Why?
+A
+ccording to the executives, VW isn’t on track to meet its 2026 annual savings target of $11B, and it’s now facing an “
+extremely tense situation
+”.
+So okay… why?
+Here are four big drivers, and why they matter
+:
+A big bet on China
+While Volkswagen was born and raised in Europe, its biggest market today is in China. And that’s by design. VW made the same bet that
+many
+multinationals made: there are 1.4 billion folks in China, so
+let’s go sell a billion cars, right?
+Kinda. Local Volkswagen deliveries are down 7% year-on-year, its China market share is now down to ~14% (from ~20% five years ago), and China now makes up maybe 12% of VW’s total operating profit (down from ~40% at its peak).
+So what happened? China’s economic woes mean its consumers are watching their spending. And for reasons we’ll explore below, when folks
+do
+spend, they’re
+now more likely to buy local
+- VW lost its crown as China’s top-seller in 2022.
+More competition back home
+VW is still Europe’s (and the world’s) top automaker by sales, but it’s not feeling it lately. First,
+EU sales
+are still below pre-Covid levels, meaning the two markets where VW sells
+three quarters
+of its cars (China and Europe) are both now cooling.
+But second,
+competition is now fierce
+: Japan’s brands now have a 13% EU market share, followed by Korea (9%) and China (3%). But what’s really spooking auto executives is this: China’s
+EV
+market share is expanding rapidly, from 0.5% in 2019 to more than 8% last year. And that takes us to…
+Weak EV execution
+Nearly a fifth of all cars sold globally were EVs last year - the world now sells as many EVs in a week as it sold
+each year
+a decade ago. But while Tesla and BYD together sold nearly 5 million units last year,
+Volkswagen Group only sold 700,000 across all its ten brands
+(from Audi and Bentley to Porsche and VW).
+A big part of the problem is execution, with consumers not loving VW
+software
+, for instance. And VW’s long
+product development cycle
+means it takes years (rather than ~20 months in China) to course-correct with better products.
+But that’s arguably all a symptom of
+a deeper challenge
+: it’s tricky to pivot a massive, 87-year-old automaker with 650,000 employees and 115 factories. Which leads us to…
+High costs
+VW’s
+profit is still a cool $5B per quarter
+, but it’s shrinking. Folks often blame Europe’s high energy costs, but the reality goes deeper than that: even after Russia’s invasion spiked energy costs ten-fold, energy still contributed maybe $750 in costs per vehicle.
+And sure, that’s a lot when the VW brand is skating on
+2.3% margins
+. But VW’s rivals in China enjoy a cost advantage of
+20-30%,
+partly due to state subsidies.
+That’s why, as you weigh up all these drivers, it makes sense that Europe’s automotive boardrooms have been giving off stressed vibes lately
+.
+INTRIGUE’S TAKE
+It’s not just Europe’s boardrooms that are on edge here.
+Cabinet
+rooms are fretting, too. Why?
+It took Europe’s (and the world’s) top phone-maker
+Nokia
+just
+six years
+to lose 90% of its market after the iPhone arrived, and yet…
+Unlike Nokia, Europe’s auto sector accounts for ~7% of the region’s GDP and ~6% of its jobs, thanks to the sector’s
+17,000
+suppliers
+.
+Of course,
+VW has a plan
+: it’s buying new stakes in US and China-based EV players; it’s circling back to hybrids as EV sales cool; and it’s pushing the EU (via Berlin) to avoid getting slapped with retaliatory tariffs from China.
+But none of that will be easy. Even internally, any major changes need
+VW’s
+board
+, which includes (for example) leaders from the German state of Lower Saxony, key union reps, and members of the powerful Porsche family.
+And
+if
+the board agrees, layoffs in Europe are then costly, and angry workers can then head to the ballot box, sweep new governments into power, and point the EU in very different directions.
+So all that to say… yes dear Intriguer, your choice of car helps you look awesome while picking young Billie up from soccer practice. But it also kinda shapes our world.
+Also worth noting:
+Manufacturing contributes around a fifth of Germany’s GDP, and Germany is the biggest economy in the EU.
+VW has around 39 plants and 90,000 employees in China. Its main China-based rival (BYD) is opening its first factory in Europe (Hungary) next year.
+Check out our Intrigue merch!
+MEANWHILE, ELSEWHERE…
+🇮🇳
+India
+: A top regulator is considering a plan to ease the
+registration process for foreigners
+looking to invest in Indian government bonds. Foreigners injected a net $2.8B into India’s index-eligible bonds last month, a figure the country is hoping to increase by lowering the access guardrails.
+🇺🇦
+Ukraine
+: Several cabinet ministers (including the foreign minister) have
+submitted their resignations
+as President Zelensky kicks off a broader reshuffle ahead of his planned US visit next week. Zelensky has said Ukraine must
+“configure”
+its institutions to defend against Russia.
+🇳🇿
+New Zealand
+: The main Kiwi intelligence agency has labelled China a
+“complex intelligence concern”
+in its annual threat report. The report is part of New Zealand's efforts to better inform its citizens about key risks, after Prime Minister Christopher Luxon said the country can no longer depend on its
+“splendid isolation.”
+🇺🇸
+US
+: The US justice department has announced it’s
+indicting six Hamas leaders
+on terrorism-related charges in connection with the group’s October 7 attacks against Israel last year. The attacks led to the deaths of at least 43 US citizens.
+🇪🇹
+Ethiopia
+: Africa’s biggest airline (Ethiopian Airlines) has announced it’s suspending flights to and from the capital of neighbouring Eritrea, citing
+“difficult operating conditions”
+.
+The two long-time foes resumed air links after
+inking a historic peace agreement back in 2018, but Eritrea suddenly announced in July it was suspending flights for reasons that are still unclear.
+EXTRA INTRIGUE
+👀
+Here’s what folks have been googling
+🇩🇰
+Danes
+looked up
+‘Caroline Wozniacki’
+as the country’s tennis star competed in the
+US Open in New York
+, losing in a marathon match against Brazil’s Beatriz Haddad Maia, who now heads to the quarters.
+🇨🇱
+Chileans
+searched for
+‘
+Lollapalooza
+’
+as the massive music
+festival announced its 2025 lineup
+for Argentina, Brazil, and Chile, featuring names like Justin Timberlake and Tan Biónica.
+And in
+🇰🇿
+Kazakhstan
+, folks were all about the
+‘President 2024 message’
+after Kassym-Jomart Tokayev used his state of the union address to announce
+a referendum in October
+on whether to build a new nuclear power plant.
+FLAG OF THE DAY
+Qatar marked 53 years of independence from the UK this week, so what better time to take a peek at its flag, no? Known as 'Al Adaam', Qatar’s flag borrows its maroon colouring from the
+traditional dye
+out of Bin Ghannam Island (aka Purple island), an hour from Doha.
+As for those nine triangular points? They’re a nod to the Trucial Coast Convention of 1916, which saw Qatar become the area’s ninth British protectorate as the Ottoman Empire withdrew.
+DAILY POLL
+Do you think states should help struggling companies?
+🛡️ Yep, everyone's now doing it
+🤔 Yep, but only under certain conditions (tell us which!)
+⚖️ Nope, let the market figure it out
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about foreign courts seizing presidential jets?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 If it's lawful and necessary, then fine (70%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+🔥
+It's better handled between governments, to avoid inflaming tensions (25%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (5%)
+Your two cents:
+👍
+M.C:
+“A couple more long-haul economy class seats for world leaders would do wonders for global governance!”
+🔥
+E.H:
+“Can you imagine the chaos if some other country tried to impound Air Force One? I would expect a military response… and I expect other sovereign states to be treated with the same respect.”
+✍️ A.D:
+“If these jets are involved in criminal activity then courts have every right to get involved, just as long as they follow the correct procedures.”
+✍️
+T.F:
+“Where can I watch the TV show?”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

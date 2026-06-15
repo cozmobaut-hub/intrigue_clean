@@ -1,0 +1,240 @@
+URL: https://archives.internationalintrigue.io/p/friday
+Title: 🌍 The five highlights from this year’s Zhuhai Airshow
+
+In partnership with
+IN TODAY’S EDITION
+1️⃣ 5 highlights from China’s Zhuhai Airshow
+2️⃣ Temu’s latest move in Mexico
+3️⃣ Fruit of the day
+Hi {{ First name | Intriguer }}.
+A smug thing to do at parties is to talk about malapropisms. That’s where you accidentally use a word that
+sounds
+similar, but means something amusingly different. So if someone starts telling you about malapropisms at a party, you’ve gotta one-up them by talking about malapropisms
+in another language.
+Here are a couple of my favourites from my stint in the Spanish-speaking world:
+In Mexico, there are a few English words where the Spanish version is just the same English word, but with a Spanish ending tacked on. For example, if you wanna ‘chat’, it’s ‘chat
+ear
+’. Anyway, someone figured she’d very meekly ask a friendly dog-owner if it was okay to ‘pat
+ear
+’ their golden retriever. But of course, ‘patear’ means to kick. Hence the look on the owner’s face.
+Oh, and in formal situations, it’s common to address someone by their title. You got a PhD? You’re ‘doctorado’. Got yourself a bachelor’s degree? Well you’re ‘licensiado’. But don’t mix up a
+single
+syllable, mind you. I once spent an entire meeting addressing someone as ‘licuado’ (smoothie). Hence that look again.
+Anyway, let’s look at what China just unveiled at its premier airshow, shall we?
+P.S.
+- Welcome to our newest Intriguers who’ve just joined us from
+The Ruck
+! We recently acquired the national security newsletter, and we’re chuffed to have you onboard. Hit reply and let us know what you think!
+THE HEADLINES
+Musk meets Iran’s ambassador.
+The New York Times is reporting that billionaire Trump-backer
+Elon Musk recently met with Iran’s envoy to the UN
+at a secret location to discuss how to defuse tensions between the US and Iran. Iran’s supreme leader banned direct talks with Washington after Trump withdrew the US from the JCPOA nuclear pact in 2018.
+Trump’s latest cabinet picks.
+Trump’s newest picks include Robert F Kennedy Jr (known for his vaccine-sceptic activism) as Health Secretary, and North Dakota Governor Doug Burgum as Interior Secretary. He’s also tapped business-friendly
+ex-regulator chair Jay Claton
+as US attorney for the Southern District of New York - a prestigious post with oversight of Wall Street.
+North Korea orders ‘mass production’ of attack drones.
+State media outlets in the hermit country are reporting that supreme leader Kim Jong Un has called for
+accelerating the mass production of drones
+, noting they’re becoming crucial in modern warfare. The announcement comes after Kim accused democratic South Korea of sending its own drones to drop propaganda leaflets over Pyongyang.
+18 US states sue the SEC over crypto.
+Eighteen Republican attorneys-general have
+sued the federal Securities and Exchange Commission (SEC)
+for overstepping its authority in cracking down on the cryptocurrency sector. After previously dismissing crypto as a scam, Trump has now vowed to make the US the “
+crypto capital of the planet
+”, including by replacing the head of the SEC. Meanwhile, Reuters is reporting that
+Trump’s transition team plans to end a key electric vehicle
+(EV) tax credit, potentially tapping the brakes on the country’s already stalling EV transition (to the detriment of Tesla boss and Trump backer, Elon Musk).
+Argentina walks out of COP climate talks.
+Buenos Aires has
+withdrawn its delegation from the UN’s COP climate talks
+in Azerbaijan, saying it’ll now “
+re-evaluate
+” its future role in the talks. There’s speculation Javier Milei’s Argentina might become the second country to withdraw from the landmark Paris Agreement altogether, as Donald Trump did when he first took office (and has vowed to do again). And as we foreshadowed last week, France has also skipped this month’s summit, after the Azerbaijani leader threw colonial shade at Paris.
+China’s economy picks up but needs help.
+The latest data dropped just hours ago showed
+signs of improvement last month
+, with higher retail sales and steady investment in fixed assets. But industrial production slowed and the property sector remained in a deep slump. These figures, combined with Trump’s return to the White House, will pile pressure on Beijing to provide more support to its economy.
+TOP STORY
+The five highlights from this year’s Zhuhai Airshow
+The newly-unveiled J-35A stealth fighter jet.
+On Tuesday, military and aviation buffs from around the world tuned into the Zhuhai Airshow as China’s aerospace and defence manufacturers showcased their latest gadgets.
+But if there’s one thing we know about these kinds of events, you’ve gotta avoid getting sidetracked by the flyovers and gift bags.
+So
+here are five highlights you should know
+:
+J-35A stealth fighter jet
+The topic on everyone’s lips was China’s new stealth fighter jet, which made its debut on opening day (Tuesday) by performing a series of sweet sweet stunts. There’s much we still don’t know about the J-35A, but it seems to have air-to-surface and air-to-air strike capabilities, plus there’s a J-35 variant that seems able to take off from aircraft carriers.
+The J-35 also
+looks familiar
+. And that’s revived a big debate around the extent to which the J-35 is a carbon copy of America’s F-35. While China has of course made its own advancements, a Los Angeles court already
+sent a guy to prison
+for his role in stealing
+terabytes
+of F-35 data for Beijing. And you can see the result in the J-35’s external features, which reflect stealth tech design choices first pioneered in the US.
+The J-35 also
+sounds
+familiar
+(
+J
+-35 vs
+F
+-35); while its initial name was different, this newer label and marketing (the US pitched F-35 as a ‘quarterback’, while China now pitches the J-35 as a ‘point guard’) now aims to send a signal, both to Beijing and prospective buyers abroad: we’re hit parity with the US. But only time will tell how much this signalling matches reality — there’s no sign yet, for example, of a
+hover mode
+.
+Hypersonic weapons
+Meanwhile, the hypersonic debate is a little clearer:
+China leads the world
+in developing, testing, and deploying hypersonics. They’re basically capable of travelling several times the speed of sound, making them harder to hit with existing air defence systems.
+Russia has used its Kinzhal variant against Ukrainian cities (though there are doubts around its claimed speeds), and the US hasn’t yet revealed a hypersonic capability. Meanwhile, China just unveiled its latest concept called the
+GDF-600
+, a hypersonic boost-glide weapon developed by its Guangdong Aerodynamic Research Academy.
+Basically, it aims to carry
+multiple mini-weapons
+(including more missiles and drones) which it can then deploy as it approaches a target (at Mach 7) — it’s just a concept at this stage, as deploying munitions at hypersonic speeds faces several technical barriers.
+Russia and Saudi Arabia were there too
+The Russians were there, showing off their own latest 5th generation stealth jet, the
+Sukhoi Su-57
+. Moscow only has maybe a dozen in service (for comparison, the US has 186 of its equivalent Raptor, and ~
+700
+F-35s). These Russian jets are costly and slow to produce, and that’s all made worse by Western sanctions. These days, Russia has been losing fighter jets to Ukraine faster than it can replace them.
+So Moscow has tried to keep its fancy Su-57s out of harm’s way, partly scared that their failure in Ukraine will harm export sales (as we’ve seen with other Russian systems). But even this week’s softball appearance in China hasn’t helped —  China’s social media quickly blew up with photos of the Su-57’s shoddy workmanship.
+Oh, and the Saudis
+were there too
+, signalling (like the Russians) their close ties with China, which is only too happy to host one of the world’s biggest potential customers.
+A glimpse of China’s
+next
+fighter jet?
+Much like Netflix already starting work on season 3 of
+The Diplomat
+before season 2 even dropped, China’s engineers already started working on the ‘White Emperor’ before the above J-35 even dropped. The White Emperor is being designed with all sorts of
+sci-fi capabilities
+, including breaking through the Earth’s atmosphere and operating in space.
+But the only thing we’ve seen is a mock-up at this year’s airshow, so it’s too early to tell how much is real, and how much is PR to wow onlookers, impress friends, and rattle rivals.
+A flying car?
+This one is less about China’s military capabilities, and more about what happens when your engineers get hold of too much cash. The XPENG Land Aircraft Carrier (dubbed the flying car) is a boxy ‘
+family multi-seater meets cyber truck
+’ contraption that carries around a
+small helicopter in its trunk
+, which you can then fly pretty much anywhere. Stuck in traffic? Just hop in this roflcopter and off you go.
+Does it solve a pressing problem? No. Is it fun? Yes.
+INTRIGUE’S TAKE
+Theodore Roosevelt said he was quoting a West African proverb when he famously urged the US to “
+speak softly and carry a big stick
+”. Today we’ve focused on the ‘stick’ bit, not for the lulz, but because it’s
+partly
+what makes others listen to the speaking bit.
+Of course, the causality works the other way, too: it was General Mattis who famously
+told
+Congress, “
+if you don't fully fund the State Department, please buy a little more ammunition for me because I'm going to need it”.
+But it’s yet another general (Joe Dunford) whose
+quote
+really comes to mind today: “
+US troops should not be sent into a fair fight
+”. He was talking about the way US military superiority ought to (in theory at least) end conventional wars before they even start.
+And that’s maybe the point today: it doesn’t
+really
+matter exactly how China’s J-35 compares with America’s F-35. Rather, it’s about whether China is closing the capability gap. Because
+that
+’s what raises doubts in DC, which in turn shapes US decisions.
+Also worth noting:
+China is the world’s fourth-largest arms exporter (after the US still at #1).
+Senator Marco Rubio, Donald Trump’s pick for Secretary of State, just released
+a new report
+tracking China’s efforts to close (and even surpass in some cases) the technological gap with the US.
+MEANWHILE, ELSEWHERE…
+🇦🇫
+Afghanistan
+: An Indian delegation has visited Kabul in what could be an attempt to sideline India’s main regional rival, Pakistan. It seems Delhi is
+hoping to divert trade
+away from rival Pakistan’s ports and land routes to a port just over the border in Iran, now being managed by an Indian company.
+🇧🇾
+Belarus
+: The local electoral commission has announced
+the next Belarusian presidential
+✌️
+elections
+✌️ will take place on January 26.
+President Lukashenko, a staunch Putin ally, has been in power since 1994 and likely lost the last election in 2020, but he promptly clung to power via a brutal crackdown.
+🇳🇿
+New Zealand
+: Proposed edits to a founding 184-year-old treaty (between Indigenous Māori and the British Crown) are
+causing uproar in New Zealand’s parliament
+. While the bill is unlikely to pass, the debate has been heated, with some Māori lawmakers performing the
+haka
+custom on the legislative floor.
+🇲🇽
+Mexico
+: Toyota plans to
+invest $1.45B into renovating its auto-manufacturing facilities
+in Mexico. A company rep says geopolitical shifts have highlighted the need for ‘nearshoring’, with the auto-giant already using its Mexico footprint to supply the US market.
+🇩🇿
+Algeria
+: Defence spending is about to hit a
+record $25B, an annual increase of 16%
+, as the energy-rich nation warns of growing regional threats. A look at a regional map spells out why, with neighbours like Western Sahara (controlled by rival Morocco), restive Libya, and coup/insurgency-hit Mali and Niger.
+EXTRA INTRIGUE
+Here are four stories we couldn’t shoehorn in this week…
+Door-to-door
+saleswomen are apparently helping China’s e-commerce giants
+like Temu and Shein win market share in Mexico.
+Sotheby’s is
+forking over $6.25M to New York state
+after allegedly advising clients to say they were purchasing art for
+“resale”
+to avoid paying sales tax.
+A debate is brewing in South Korea over who’s
+responsible for stray cats
+, with communities split over how to care for the felines as temperatures drop.
+And Meta boss Mark Zuckerberg has
+recorded a cover of early-2000s hit ‘Get Low’
+with rapper T-Pain, in a tribute to the tech tycoon’s wife Priscilla.
+FRUIT OF THE DAY
+Swedish media outlets are going bananas
+(sorry) after a tabloid reported that Cabinet Minister Paulina Brandberg has a strong aversion to the yellow fruit. Her team ensures there are
+“no traces of bananas”
+in meetings she’s attending or on any official visits.
+You see?
+This
+is why you read Intrigue.
+FRIDAY QUIZ
+Today marks the International Day for the Fight Against Organised Crime.
+1) Which country is ranked worst on the Organised Crime Index?
+Bulgaria
+Myanmar
+Venezuela
+DR Congo
+Login
+or
+Subscribe
+to participate
+2) How big is the global illicit drug trade?
+~ $150 billion
+~ $250 billion
+~ $500 billion
+~ $800 billion
+Login
+or
+Subscribe
+to participate
+3) When was Interpol founded?
+1923
+1938
+1958
+1999
+Login
+or
+Subscribe
+to participate
+FROM OUR SPONSORS
+The $9M Market Cap Mystery: Why We Believe This Stock is Grossly Undervalued.
+Bank of America analysts forecast gold could reach $3,000 by 2025, and this under-the-radar stock is primed for even greater gains.
+With gold's post-election dip, now is the ideal time to invest. Savvy investors recognize the power of gold and gold stocks in their portfolios, and this stock has already surged more than 220% in recent years.
+Plus, insiders are consistently adding to their positions. Make sure to keep it on your watchlist.
+Discover This Hidden Stock Pick
+This is a sponsored advertisement on behalf of Four Nines Gold. Past performance does not guarantee future results. Investing involves risk. View the full disclaimer here: https://shorturl.at/73AF8
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

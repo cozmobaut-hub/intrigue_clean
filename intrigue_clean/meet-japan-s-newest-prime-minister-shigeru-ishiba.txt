@@ -1,0 +1,250 @@
+URL: https://archives.internationalintrigue.io/p/new-post-9a10
+Title: 🌍 Meet Japan’s newest prime minister: Shigeru Ishiba
+
+IN TODAY’S EDITION
+1️⃣ Meet Japan’s newest PM
+2️⃣ Why folks in the UAE are googling ‘Sudan’
+3️⃣ Border of the day
+Hi {{ First name | Intriguer }}.
+Many of my most-watched childhood TV shows were Japanese ones. It’s hard to pick a favourite, but there were some strong contenders.
+I’d start my day with a bowl of Fruit Loops served with
+Dragon Ball Z
+,
+Sailor Moon
+, and
+Pokemon
+(in that order), which of course made me perpetually late for the school bus.
+Then the real good stuff would air at night or on weekends, beginning with the legendary gameshow
+Takeshi’s Castle
+, followed by
+Iron Chef
+, and then the
+Most Extreme Elimination Challenge
+.
+Why do I mention these shows? Because the
+newly-appointed Japanese prime minister
+also gets the cultural significance of these shows! And he even levelled up his dedication through cosplaying in recent speaking engagements. Let’s dive into that and more in today’s top story.
+PS - Don’t miss
+our next in-person event in DC
+. More details below!
+THE HEADLINES
+Israel launches ground offensive against Hezbollah in Lebanon.
+The Israeli military says it’s now
+launched “
+limited, localized and targeted raids
+” against Hezbollah sites in southern Lebanon
+that pose "
+an immediate threat to Israeli communities in northern Israel
+”. In response, Hezbollah's deputy leader Naim Qassem says the listed terrorist group is ready, and warns the battle "
+may be long
+".
+US East and Gulf Coast port strike begins.
+Dockworkers at major ports on the
+East and Gulf Coasts are now officially on strike
+after their contract expired on September 30. We
+wrote last week
+about what this strike, the first of its kind in half a century, means for the US and global economy.
+SoftBank to invest $500M in OpenAI.
+The Japanese multinational has announced plans to join investors Microsoft and Thrive Capital in
+OpenAI’s latest funding round
+, which could see the AI pioneer’s value reach $150B. Apple reportedly dropped out of the round last week.
+Russia to hike 2025 defence spending by 25%.
+Moscow’s finance ministry says Russia’s
+defence budget will set a new home record
+, while its grinding invasion of neighbouring Ukraine fuels inflation and labour shortages.
+Mexico’s new president to be sworn in today.
+Claudia Sheinbaum, Mexico’s first female president,
+takes the reins from her left-leaning mentor
+Andrés Manuel López Obrador. And talking about inaugurations, former
+Dutch PM Mark Rutte
+has now stepped in as NATO’s next secretary-general, replacing the long-serving Jens Stoltenberg. We
+wrote recently
+about the NATO inbox now awaiting Rutte.
+TOP STORY
+Meet Japan’s newest prime minister: Shigeru Ishiba
+Shigeru Ishiba in a business suit vs rocking cosplay back in 2018.
+New month, new prime minister. Japan’s 67-year old
+Shigeru Ishiba
+is now officially the boss after today’s inauguration ceremony in Tokyo, following his shock victory in last week’s internal Liberal Democratic Party (LDP) leadership race.
+It caps off (but also kinda unleashes) quite a bit of drama, so it’s worth a look. First, Ishiba barely won Friday’s internal ballot, beating Shinjiro Koizumi (who would’ve been Japan’s youngest-ever PM) and Sanae Takaichi (who would’ve been Japan’s first female PM).
+In the end, the second round of voting tipped in Ishiba’s favour, 215 to Takaichi’s 194.
+So who’s Ishiba?
+He’s a political veteran and former defence minister who’s been gunning for the top job since at least 2008, with four (!) previous unsuccessful runs.
+And the LDP’s political calculus here is intriguing
+:
+it’s picked someone more popular with the public than within his own party. He’s a straight-talker with occasional cavalier disregard for the LDP. Why? Partly because he can: he has his own rural power base, having spent most of his career outside the LDP’s Tokyo power circles.
+So it’s the combination of this rural base and outsider vibes that got him over the line, but some LDP folks still hold a grudge, like from when he ditched the party back in the 90’s.
+And that’s why, facing a dash of dissent and a public tiring of the LDP brand, Ishiba’s first move has been to call
+national elections for October 27th
+. He says it’s
+important the
+“new administration is judged by the general public as soon as possible.”
+How’d we get here?
+For starters, Ishiba’s emergence is a signal the LDP wants to clean house after party  scandals torpedoed the last guy. But also, and just in case Japan has fallen off your radar (headline real estate is a little tight these days), Ishiba is inheriting:
+A cost of living crisis (household staples like cabbage are up 28%)
+An ageing population (the median age is now ~50, versus 39 in the US)
+Meh growth (Japan’s economy just slipped to 4th place after Germany), and
+An increasingly assertive neighbour to the west (China).
+So how have markets reacted to Ishiba?
+With a wince. Japan’s benchmark Nikkei 225 index tumbled ~5% yesterday (Monday), the first trading day after Ishiba’s win on Friday.
+Why the wince?
+Partly because markets had expected the dovish Ms Takaichi to win. But also, Ishiba seems hawkish, having criticised the ultra-low rates and stimulus previously used to jump-start the economy. He’s even hinted at tax hikes. And markets typically want the opposite: low rates, low taxes, and lots of that sweet sweet stimulus.
+So with markets offering an early verdict, Ishiba now has four weeks to win over the voters. His party’s domination of Japanese politics means it’ll retain power, but Ishiba really needs a
+solid
+win to assert his leadership.
+So his first order of business will be
+forming a cabinet
+, and the early signals suggest he’s promising more continuity than revolution: ex chief cabinet secretary Katsunobu Kato will take finance, while fellow ex-defence minister Takeshi Iwaya will handle foreign affairs.
+But then it’s about
+selling his vision
+, and that’s the bit that’s long been tough to pin down. We’ve touched on his economic views above, but the other big question will be how Ishiba sees Japan fitting into the world:
+In a sense, he wants more of the same, including a
+military build-up
+(in response to China) and burying the hatchet with ex-colony
+Korea
+(also a response to China)
+But there’s evidence Ishiba wants to go further, including by ‘rebalancing’ Japan’s 1960s-era arrangement for hosting
+US troops
+(edgy for the US), pushing for an ‘
+Asian NATO
+’ (edgy for China), and even sharing control of the US nuclear deterrent (edgy for all). But much depends on who’s next in the Oval Office.
+And yet despite all that, Japan’s elections (like anywhere else) still depend a lot on
+vibes
+, and folks just seem to
+like
+Ishiba: he has a history of campaigning door-to-door, wearing his heart on his sleeve (he wiped away tears on Friday), slamming down the odd whisky, and even dressing up as Majin Buu from Japan’s iconic anime
+Dragon Ball
+(see above).
+INTRIGUE’S TAKE
+So when faced with a young dynastic reformer or a female firebrand nationalist, yes, Japan’s ruling party went with
+a safer third option
+: the 67-year old middle-of-the-road political veteran. But that doesn’t mean there’s no change ahead.
+We need only look at Ishiba’s 2012 run when he lost narrowly to a ‘failed’ former prime minister trying to make a comeback. That leader went on to become Japan’s longest-serving and arguably most consequential leader in decades: the late Shinzo Abe.
+So it could now be Ishiba’s turn to remake Japan in his own image. But while we’ve pieced together some clues above, Ishiba has really spent most of the last two decades in Japan’s political wilderness. So we don’t
+really
+know what he has in store, or if he even knows that himself.
+Also worth noting:
+Interestingly, Ishiba is a member of Japan’s tiny (~1.5%) Christian community. Notwithstanding that minority status, Ishiba is Japan’s
+ninth
+Christian PM.
+INTERNATIONAL INTRIGUE PRESENTS
+Join us in Washington, DC for
+“Securing Tomorrow: The Future of Cyber Threats and Global Defense”
+on
+Thursday, October 24 at 6 PM EDT.
+In an increasingly interconnected world, the stakes in cybersecurity have never been higher. We’re convening top minds to explore the
+cutting-edge of cyber defense
+, covering the escalating
+global cybercrime industry
+, the shadowy realm of
+industrial and state-sponsored espionage
+, and the critical need for
+international cooperation
+.
+Looking ahead, we’ll explore the future of defense and the innovations shaking up our security landscape. Get the scoop on the strategies and tech that will shape the next era of global protection.
+Register now!
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: The White House has approved its largest-ever
+military aid package for Taiwan
+, with $560M in unspecified “
+defense articles and services
+”. In response, China has said that “
+no matter how many weapons the United States supplies to Taiwan, it will never weaken our firm will in opposing Taiwanese independence
+”.
+🇬🇧
+UK
+: The
+UK’s last coal-powered power plant
+has now closed, ending the country’s 142-year streak of burning coal for energy. Under the UK’s emissions targets, it’s driven coal down from 39% in 2012 to zero today, while expanding renewables from 7% to more than half the UK’s energy mix earlier this year.
+🇹🇭
+Thailand
+: Google has unveiled plans to invest
+$1B to build new data centres in Thailand
+, as US tech giants race to expand their AI and cloud infrastructure across fast-growing Southeast Asia. Thailand’s new-ish PM Paetongtarn Shinawatra made the announcement.
+🇭🇹
+Haiti
+: The UN Security Council has voted unanimously to
+renew for another year
+the ongoing multinational policing operation in Haiti. Rumour has it that the US dropped its efforts to convert the operation into a formal UN peacekeeping mission after facing opposition from Russia and China.
+🇬🇶
+Equatorial Guinea
+: The Spanish-speaking West African nation of Equatorial Guinea has asked the International Court of Justice to
+reject neighbouring Gabon’s claims
+over several islands in the Gulf of Guinea. Gabon argues a 1974 treaty gives it sovereignty over the potentially oil-rich area, while Equatorial Guinea questions the validity of the treaty, which has so far only appeared as an unauthenticated photocopy.
+EXTRA INTRIGUE
+Here’s what people googled yesterday
+Folks in
+🇪🇪
+Estonia
+searched for ‘
+Kris Kristofferson
+’ after the
+US country singer died
+at the age of 88.
+Netizens in the
+🇦🇪
+UAE
+googled ‘
+Sudan
+’ after the Sudanese military
+damaged the UAE ambassador’s residence
+while seeking to retake Khartoum from a rival paramilitary (which Sudan accuses the UAE of helping).
+And
+🇰🇪
+Kenyans
+looked up ‘
+Gachagua impeachment
+’ as a
+political drama
+heads towards the possible impeachment of Kenya’s deputy president, Rigathi Gachagua.
+BORDER OF THE DAY
+A picture of the Swiss Morteratsch Glacier this past February. Sent in by an Intriguer who prefers to remain anonymous.
+Border disputes are often bloody affairs, but not this one.
+On Friday, Switzerland and Italy agreed to redraw part of their mountainous border after rising temperatures melted the snow and glaciers that have long defined their frontier.
+Since 1850, glaciers in the Alps have lost 30-40% of their surface area, and researchers project Switzerland could lose over half its remaining small glaciers in the next 25 years.
+Authorities hope the new border will make it easier for Swiss and Italian authorities to maintain the local area, which is close to the Matterhorn and several popular ski resorts.
+DAILY POLL
+What should Ishiba focus on first?
+📈 The economy
+🔫 An 'Asian NATO'
+🤝 Mending domestic political ties
+✍️ Other (Write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Iran will step up its support of its proxies in the region?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🤝
+Yes, if it doesn't it'll lose credibility (50%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️
+🎯
+No, it doesn't want to draw Israel's target on itself (49%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (1%)
+Editor’s note: our closest-ever result!
+Your two cents:
+🤝
+R.L:
+“It really has no choice. Like it has so far this year, it'll be a muted response aimed at limiting any provocation but still beyond total inaction.”
+🎯
+J.G:
+“Iran wants to finish its nuclear weapon. It doesn’t need Israeli bombs intruding.”
+✍️
+E.M:
+“Iran won’t need to do much stepping up - Hezbollah will regroup and rebuild. Though not on Iran’s side, people in the region will want to push back [against Israel]. Iran will understand and seize on this in the background, being careful not to take centre stage.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

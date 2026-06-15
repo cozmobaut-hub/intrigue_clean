@@ -1,0 +1,223 @@
+URL: https://archives.internationalintrigue.io/p/france-detains-telegram-ceo
+Title: 🌍 France detains Telegram CEO
+
+IN TODAY’S EDITION
+1️⃣ France detains Telegram CEO
+2️⃣ US rapper cancels Dubai show over Sudan
+3️⃣ Tradecraft of the day
+Hi {{ First name | Intriguer }}.
+It’s not easy being a diplomat online - your boss watches every tweet, then dunks on you for being too boring, too spicy, too personal, too
+im
+personal, or too loose with the approved messages.
+And news outlets keep an eye on your feed until BAM! - they dunk on you for any mistake or controversy, and you stagger back into the embassy where your boss is waiting to immediately dunk on you again (see above).
+Oh, and then various foreign intelligence services file it all away to help them identify targets, build a profile, and tailor an approach to recruit and/or blackmail you. Too much dunking for me, so I mostly stayed offline.
+But when I left the service? Ufff, I’ll be darned if I didn’t immediately get online and do the thing I’d spent 14 years itching to do: tell
+the ridiculous but true story
+of how I once met Russell Crowe.
+Anyway, all this to say that today’s briefing leads with an update on yet another global tech tycoon (from Telegram) bumping up against yet another national legal system (France). So let’s get to it, shall we?
+THE HEADLINES
+Israel and Hezbollah trade massive attacks.
+Israel says it
+carried out a pre-emptive strike
+on thousands of Hezbollah rocket launchers on Sunday, the biggest attack on Lebanese territory since the 2006 war. Hours later, Hezbollah launched over 300 rockets and drones towards Israel. Both sides now seem to be back-channelling that they’re not looking to escalate any further.
+Mass Russian attacks disrupt Kyiv power and water.
+Ukraine was under aid raid alert earlier today (Monday) as a
+barrage of Russian missiles arrived
+, killing at least three. Initial reports suggest power and water supplies in Kyiv have now been compromised as a result. Ukraine also marked its independence day over the weekend and, weirdly enough, got a
+congratulatory tweet
+from Iran (which is providing attack drones to Russia).
+China’s engineers are still accessing Nvidia chips.
+The Wall Street Journal is reporting that China-based AI engineers have now responded to stringent US export controls on advanced Nvidia chips by
+anonymously renting computer power abroad
+.
+German authorities detain knife attacker.
+A 26-year-old Syrian national has
+turned himself in
+as the knife-wielding attacker who killed three people during a festival in Soligen, Germany. ISIS has claimed responsibility for the attack, though there’s been no independent confirmation yet. The man was reportedly due to be deported after having his asylum request denied.
+Pacific summit kicks off.
+Pacific Island leaders have arrived in Tonga for
+this year’s Pacific Islands Forum
+, the main regional summit. The agenda includes climate change, economic development, and the ongoing US-China competition for influence in the region.
+TOP STORY
+France detains Telegram CEO
+Telegram CEO Pavel Durov in his trademark black. Telegram’s logo features a paper plane.
+War bloggers and small-time weed dealers alike will have woken up this morning to some pretty bad news for their favourite messaging app.
+French authorities arrested the Russian-born CEO of Telegram over the weekend: 39-year-old Pavel Durov. He’d just flown in on his private jet from Azerbaijan, and French authorities are due to release a statement today (Monday).
+In the meantime, bits have been leaking out via French media. Let’s take a look.
+First, who's Pavel Durov?
+He founded
+VK
+(Russia's Facebook clone) back in 2007, but says the Kremlin later strong-armed him into selling it to oligarchs. He then founded Telegram in 2013, and claims he fled Russia in 2014 after a dispute with the Kremlin. He's now worth billions, is based in Dubai (as is Telegram), and has UAE and French passports (it's unclear if he still has Russian citizenship).
+Second, what's Telegram?
+It's kind of a cross between WhatsApp (private messaging) and Facebook/Twitter (broadcasting to vast audiences), with almost a billion users.
+Telegram’s lax moderation means it's also kinda
+the Wild West
+: this initially made it popular among dissidents in Russia, Belarus, and Iran, but you can now find anything there, from chats about horse-riding and updates from your dad, to a portal for CIA recruits, (dis)information on the Russo-Ukraine war, plus
+a lot
+of criminal stuff.
+So, why do folks use it?
+In addition to its approach to content, Telegram brands itself as encrypted and therefore secure, but there are a couple of sources of doubt here -
+First,
+the tech itself
+:
+a) you've gotta manually turn encryption on each time (most don't)
+b) your host devices can still be seized, stolen, or compromised (as with any other ‘encrypted’ app)
+c) endless third party applications bring a whole other source of risk, and
+d) the app's vaunted privacy also means spooks can (as on other platforms) go old-school and pose as a fellow dissident.
+Second, some dissidents now
+suspect
+the app has ties with Moscow
+, citing instances of authorities seemingly using Telegram to locate, detain, and threaten them, not to mention the possible sources of leverage via the app’s dependence on Russian users, revenues, and (reportedly) bond-holders.
+And that's all after Moscow went from
+an attempted
+ban
+on Telegram in 2018 to a sudden ‘agreement’ in 2021 (something the app denies). Nowadays, you can see a Telegram exec on
+stage
+with Russia's deputy PM one day, and
+reports
+of Telegram pulling down a quarter million posts at Moscow's request the next.
+So then, why detain Durov?
+French outlets say a child-protection unit first submitted the warrant request, leading to a broader probe around alleged terrorism, drug trafficking, fraud, and beyond. The reported allegations aren't that Durov is doing this stuff himself, but that he’s breaching French laws requiring he take measures to stop it on his app.
+Meanwhile, Telegram has
+released
+a statement saying it's "
+absurd to claim that a platform or its owner are responsible for abuse of that platform
+". And Russia is
+citing
+his Russian roots to demand consular access, while
+highlighting
+the whole saga as evidence of Western hypocrisy around freedom of speech.
+INTRIGUE’S TAKE
+While we await further official info from Paris, and watch pundits shoe-horn Durov's arrest into whatever their latest pet issue is, it's worth noting there's a difference between governments pressuring platforms to:
+a) hand over user data (Moscow's
+crackdown
+on democracy activists)
+b) better moderate content (as Paris seems to be pushing here), and
+c) both of the above (eg, Berlin once got Telegram to hand over data on
+users engaged in terrorism
+and child exploitation; and Delhi even got Telegram to cough up data on
+teachers sharing copyrighted material
+).
+But with trust in such short supply, shoe-horners will still inevitably characterise any attempt at nuance as a figleaf for malfeasance.
+Either way, we’d love to hear what you think in today’s poll 👇.
+Also worth noting:
+US-based platforms like Facebook, Instagram and Twitter remain restricted in Russia via a wartime measure.
+The US-based
+National Center for Missing and Exploited Children
+has
+reported
+on how many tip-offs each internet platform is submitting - last year, WhatsApp lodged ~1.4 million, while Telegram lodged zero.
+A MESSAGE FROM NICE NEWS
+Wake up happier with one of our favorite newsletters.
+Nice News is one of our favorite daily newsletters (and we know a thing or two about newsletters). They send you only positive news stories which helps you start your day with a happier mindset.
+Some recent stories include:
+The nicest moments from the Paris Olympic games
+The 7 types of friendship everyone needs
+A newly discovered blood type
+See why over 800,000 readers start their day inspired with Nice News.
+Sign up now.
+MEANWHILE, ELSEWHERE…
+🇰🇿
+Kazakhstan
+: The local foreign ministry has
+summoned the Belarusian ambassador
+after Belarusian dictator Aleksandr Lukashenko accused the Kazakhs of not doing enough to support Russia. In the same media interview, Lukashenko also asked “
+who needs Armenians?”,
+leading to folks pelting the Belarusian embassy in Armenia with eggs
+.
+🇺🇦
+Ukraine
+: A Russian Iskander missile has
+killed one Reuters employee
+and injured two other journalists, after hitting their hotel in the eastern Ukrainian city of Kramatorsk on Saturday night. Ryan Evans, the Reuters safety advisor killed, had previously served in the British military and had advised the news agency on procedures in Ukraine, Israel-Gaza, and the Paris Olympics.
+🇨🇳
+China
+: The US national security adviser, Jake Sullivan, is
+due in Beijing from tomorrow (Tuesday)
+until Thursday, for his fifth dialogue with China’s foreign minister and his first in Beijing. The lengthy agenda will inevitably include disputes around Taiwan, trade, and tech.
+🇲🇽
+Mexico
+: Mexico and the US are in another diplomatic row after the
+US ambassador to Mexico City (
+Ken Salazar)
+critiqued proposed changes to Mexico’s judicial system, including for judges to stand for election. Mexico’s president (‘AMLO’) has called the statements
+“disrespectful”
+and says his country is sending a diplomatic note in protest.
+🇸🇩
+Sudan
+: American rapper Macklemore has
+cancelled an upcoming October concert in Dubai
+, citing the UAE’s alleged role “
+in the ongoing genocide and humanitarian crisis
+” in Sudan. According to a UN report, there’s “
+credible
+” evidence the UAE is backing a Sudanese paramilitary group in the conflict, which has killed almost 20,000 and led to famine.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+An AI founder has had to
+program his AI not to ‘rickroll’ people
+(one of our favourite internet pranks - it’s explained
+here
+).
+Authorities in the UK are investigating claims that a snail farm in an office building is actually just a
+tax avoidance
+scheme.
+The family of French film star Alain Delon has
+overruled the late actor’s request to euthanise his dog
+so the two can be buried together.
+As if we didn’t have enough to worry about, we must apparently also now
+worry about our bicycle gear shifters being hacked
+.
+And authorities have detained a Florida man on
+accusations he ran an elaborate scheme
+to trick tourists into believing he was a beloved pizza establishment, only to then deliver them gross pizzas instead.
+TRADECRAFT OF THE DAY
+Credits: NYT
+There are a couple hundred ambassadors in Washington, so it can be hard to stand out. That’s why Finland’s embassy has long deployed its secret weapon: the sauna.
+Finnish diplomats host contacts at embassy saunas all around the world, often with a splash of Finnish vodka, all while generating the occasional news article by bemused local media.
+The latest example comes courtesy of The New York Times, which just featured an
+interview
+with the Finnish ambassador, Mikko Hautala. He’s guaranteed some extra attention by pointing out that shvitzing semi-naked apparently allows for ‘better networking’, whether with top US officials, media moguls, or socialites.
+DAILY POLL
+What do you think about Durov's arrest in France?
+👍 Good - you can't allow impunity when it comes to child exploitation online
+👎 Bad - it's all a pretext to further restrict speech
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Do you think we're headed towards an EU-China trade war?
+🟨
+🟨
+🟨
+🟨
+🟨
+🟨
+💥
+We're already there (37%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 We're not there yet, but it's unavoidable (38%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ 👎 No, it's all carefully calculated, because the stakes are too high (24%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (1%)
+Your two cents:
+✍️
+E.K.H:
+“A full trade war is coming soon if no one changes course. But nothing is unavoidable.”
+👎
+S.B.P:
+“China can't be saved, but the world can't afford to let it implode either.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

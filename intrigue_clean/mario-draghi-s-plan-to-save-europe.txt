@@ -1,0 +1,297 @@
+URL: https://archives.internationalintrigue.io/p/mario-draghis-plan-save-europe
+Title: 🌍 Mario Draghi’s plan to save Europe
+
+IN TODAY’S EDITION
+1️⃣ Can Mario Draghi save Europe?
+2️⃣ An intriguing chopper crash in El Salvador
+3️⃣ Pay cut of the day
+Hi {{ First name | Intriguer }}.
+My perpetually jet-legged co-founder Helen Zhang finds herself in Sydney this week, having just delivered remarks to the United States Studies Centre comparing the tech policies of the Harris and Trump campaigns, explaining why she thinks regulating AI will be a bipartisan issue, and what the rise of defence tech in Silicon Valley VC circles means for future wars.
+The United States Studies Centre (USSC) is the pre-eminent Australian think tank dedicated to “
+deepening Australia's understanding of the United States
+”. Personally, I learned everything I know and will ever need to know about America from The Simpsons, but jokes aside, speaking at the USSC is an honour, and I’m very proud to be building Intrigue with Helen.
+Meanwhile, 10,404.49 miles to the northwest of Sydney, former president of the European Central Bank (and former Italian prime minister)
+Mario Draghi
+has unveiled his 400-page “
+Report on the Future of EU Competitiveness
+”.
+But don’t hit that snooze button: it’s a much more important document than it sounds and, luckily for you, one of our specialties is turning boring but important reports into gripping page scrollers that make you look like you read the whole darn thing. How can you not read on?
+THE HEADLINES
+Trump and Harris prepare for presidential debate.
+The debate kicks off at 9pm EDT tonight (Tuesday), which is 2am Wednesday in London, 6.30am Wednesday in Delhi, and 11am Wednesday in Sydney.
+Hosted by ABC News
+, it’ll take place in Philadelphia's National Constitution Center but won't have a live audience.
+Russia claims to have downed 144 drones in early morning attack.
+Russian authorities have reported one casualty, while closing three Moscow airports temporarily. Ukraine hasn’t yet commented on the attack, which would be
+one of Ukraine’s largest
+since the beginning of the war. Meanwhile, NATO members Romania and Latvia have accused Russia of violating their airspace while conducting drone attacks on Ukraine.
+Israel and Hamas trade accusations over latest Gaza strike.
+At least four missiles have reportedly
+hit Gaza’s al-Malwasi area
+, which Israel previously designated as a humanitarian zone. Dozens have been reported dead or wounded. Israel says it was targeting a Hamas command centre, while the group denies it was in the area.
+Google and Apple lose EU antitrust appeals.
+The EU’s top court has
+delivered two separate rulings
+ordering Apple to pay Ireland $14B in unpaid taxes, and fining Google $2.7B in connection to unfair monopoly practices in its shopping service. The two cases were seen as a key test of the EU’s ability to rein in some of the world’s biggest tech companies.
+Pope Francis Mass draws huge crowds in Timor-Leste.
+Around 600,000 people (
+nearly half the country’s population
+) have gathered in a seaside park to attend the Pope’s service. The last time a Pope visited the Catholic-majority nation was in 1989, when John Paul II drew international attention to Timor’s independence push against Indonesia.
+TOP STORY
+Mario Draghi’s plan to save Europe
+Possibly our finest work?
+“Urgency and concreteness”
+are the two words Mario Draghi said he’d use to sum up the highly-anticipated 400-page report he dropped on us yesterday (Monday).
+Titled ‘
+The future of European competitiveness’
+, EU leader Ursula von der Leyen commissioned Draghi to lead
+the report
+last year as part of a broader strategy to help the bloc adapt to global changes.
+And Europe’s Mr. Nice Guy was a popular if bold choice -
+popular
+, because he’s still beloved as the one who saved the euro, calming markets everywhere with his famous “
+whatever it takes
+” pledge at the height of the eurozone crisis in 2012.
+But also
+bold
+, because his stint as European Central Bank chief and then Italian prime minister revealed he’s not the type of guy who was going to
+ctrl-c
+and
+ctrl-v
+his way through this thing.
+So, we’ve leafed through all 400 pages, with a little help from our esteemed colleagues Jack Daniels and Tim Hortons, to get you the top five quotes:
+“
+We lack focus on key priorities, we don’t combine our resources to generate scale and we do not coordinate the policies that matter
+”
+Draghi dropped this line at his press conference in Brussels, and it encapsulates much of the report’s opening vibe that the bloc has really struggled for
+cohesion
+. Draghi blames this for several of the EU’s downstream problems:
+US
+incomes
+have grown
+twice
+as fast in the last couple of decades
+The EU has lost 30% of its tech
+unicorns
+(mostly to the US) since 2008, and
+The EU hasn’t created a single €100B company from scratch in the
+last half century
+, while the US has created
+six
+firms valued at more than a
+trillion
+euros over the same period.
+“
+Europe has the foundations in place to be a highly competitive economy
+”
+Draghi mentions
+“
+competitive
+”
+a cool 782 times. Heck, it’s in the title. But while his more dramatic lines will make the headlines, it’s important to note he believes the foundations to recover EU competitiveness are already there.
+He wants much more, though. How? With Europe’s population set to decline, Draghi wants more
+productivity
+. So in addition to things like centralising market supervision, relaxing antitrust rules, and pushing for a genuine single EU market, he says a big priority is to foster more
+innovation
+. That means things like:
+Better commercialising the EU’s ideas, fostering sharper digital skills, and streamlining unwieldy EU regulations to help stem the startup outflow.
+“
+We are punching under our power
+”
+Interestingly, Draghi also sees
+defence spending
+as part of the solution. He points out that 78% of the $86B that EU governments spent on defence last year departed Europe, with most of it filling the coffers of US companies.
+So he wants to re-shore that spending. We’ve written previously how these kinds of pro-EU rules can sometimes result in slow-EU outcomes. But with a
+war
+at Europe’s doorstep, economic
+malaise
+in the air, and tech
+innovation
+lagging, Draghi sees defence onshoring as a three-birds-one-stone kinda situation.
+He also wants Europe to curb its other
+dependencies
+, including by securing its own critical raw material supplies (currently dominated by China).
+“
+If we fail to coordinate our policies, there is a risk that decarbonisation could run contrary to competitiveness and growth
+”
+To illustrate this point, Draghi drops arguably his
+spiciest line of all
+, referring to the EU’s
+automotive woes
+as an example of “
+applying a climate policy without an industrial policy.
+” To put it another way, he’s saying the EU charged ahead with its climate policy, without thinking what this would mean for one of Europe’s biggest industries: cars.
+But to be clear - he’s not urging the EU to tap
+the energy transition
+brakes. To the contrary, he’s calling for more - and better coordinated - investment in decarbonising European industry. And he argues that’ll bring energy prices back down nearer to the US (where it’s two to three times cheaper), and thereby win over more European voters as their bills go down.
+“
+Do this, or it's a slow agony
+”
+Draghi dropped this line at his press conference, amusingly pushing back on a journalist’s suggestion that his report was a list of “
+do or die
+” demands for the EU.
+But however you want to describe it, his report has
+170
+recommendations across 10 sectors. And they’re
+not cheap
+. In fact, they’d cost an extra
+$850B
+, or 4.5% of the EU’s GDP… per year! With his finely tuned ear for a headline, Draghi likened it all to the vast Marshall Plan for Europe’s post-WWII reconstruction. But as a percentage of GDP, this full Draghi plan would be
+triple
+the Marshall Plan.
+And if Europe’s 27 members aren’t buying it? Draghi also dropped this line: “
+For the first time since the cold war we must genuinely fear for our self-preservation
+”.
+INTRIGUE’S TAKE
+Ahhh… Europe. In 24 hours, you can flex your French in Marseille, punish some pizza in Naples, then maybe climb Mt Triglav in Slovenia. It’s a backpacker’s paradise. But over the past ~20 years, Draghi says some of this same
+kaleidoscopic wonder has become a weakness
+, with divergent national industries and interests producing the opposite of synergy - maybe
+ant
+ergy?
+But 400 pages and thousands of headlines later,
+will Draghi’s report make a difference?
+At the heart of Draghi’s report is arguably a view that the European project is incomplete: it needs
+more
+joint markets,
+more
+joint investments, and
+more
+joint spending. But he’s making that case to many Europeans who’ve just elected
+more
+Eurosceptics.
+Even relatively pro-Europe lawmakers will baulk at parts. For example, the Draghi plan will need to be co-financed via more joint debt. But guess how long it took Germany’s fiscally-hardline finance minister to say
+nein
+? Three hours.
+Oh, but Draghi has a solution for that too: he suggests the EU move away from its current system that often allows single countries to veto big changes.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: Around 60 countries, including the US, have agreed to
+establish a blueprint for the use of AI
+in military applications at this week’s AI security summit in South Korea. China was one of around 30 other participants that declined to endorse the non-binging text.
+🇩🇪
+Germany
+: Authorities have
+imposed temporary controls
+on Germany’s land borders with all nine of its neighbours, in an effort to limit irregular migration. The extra controls will last for six months, and come after a quarter million undocumented migrants arrived last year.
+🇮🇳
+India
+: A new study has ranked India as the
+world’s top plastic polluter
+after finding the country contributes around a fifth of all global plastic pollution. Nigeria and Indonesia came a distant second and third, while China has now dropped to fourth after years of significant waste management progress.
+🇸🇻
+El Salvador
+: A police helicopter carrying a fugitive former bank director has crashed,
+leaving nine dead
+including El Salvador’s chief of police. President Bukele has queried whether it was an accident and has ordered an investigation, noting the police chief was a key player in the president’s crackdown on armed gangs.
+🇩🇿
+Algeria
+: In a plot twist, President Abdelmadjid Tebboune has joined the opposition in criticising the country’s electoral commission after the body
+announced contradictory results
+for the weekend’s presidential election. Tebboune claimed a North Korea-style 95% of the vote, but the electoral commission said turnout was either 48% or 23%.
+EXTRA INTRIGUE
+Here’s what folks around the world have been googling
+People in
+🇰🇭
+Cambodia
+looked up
+‘Apple’
+for the latest on the
+new iPhone 16 and ‘Apple Intelligence’ launch
+.
+🇿🇦
+South African
+sports fans googled ‘
+Burundi vs Senegal
+’ for an update on the African Cup of Nations qualifier, which
+ended with a 0-1 Senegal win
+.
+And movie buffs in
+🇧🇩
+Bangladesh
+searched for
+‘
+Eden
+’, Ron Howard’s
+historical thriller
+which just premiered at the Toronto Film Festival.
+PAY CUT OF THE DAY
+Credits: State Department.
+Just as US diplomats around the world were heading to bed last week, or dropping that first pop-tart in the toaster, an email hit their inbox advising that, from October 1st, they might see their pay slashed by 22%. The text messages, group chats, and Reddit sub-forum notifications then started to roll in.
+Everyone was thinking a variation of the same thing:
+what the…?
+You see, when serving abroad, US diplomats get ‘
+Overseas Comparability Pay
+’ -
+the idea
+is to correct an anomaly from a 1990 law, which led to US diplomats earning a much
+lower
+base salary when serving abroad. But here’s the thing: the periodic congressional approval for that funding now seems to have slipped through the cracks. It’s now due to expire October 1st.
+The union for US diplomats, known as the
+American Foreign Service Association
+(AFSA), told Intrigue it learned about the upcoming lapse back on July 11th, but the State Department asked it to keep things on the DL while negotiations continued. So in the meantime, AFSA told us it recently wrote to congressional leaders for action - one (the House Minority Leader) has responded so far.
+But as that October deadline approached, the union decided to inform its members of the news, hence last week’s doozy of an email. Mid pop-tart, too.
+In order to correct the lapse, Congress now needs to introduce a stop-gap funding bill, which looks veeeery tricky to get across the line by September 30th. That’s just 20 days, to get through a divided Congress, in an election year.
+So how are the 11,000 or so impacted US diplomats taking the news of their impending 22% pay cut?
+“People are pissed”
+,
+one diplomat serving in Southeast Asia told us.
+Another, who asked not to be named as they’re just a
+“cog in the machine”
+,
+likewise told us US diplomats are
+“shocked”
+.
+There’s now a blame game around how this all dropped off the legislative calendar, but US diplomats told us they’re also frustrated at their own union for not giving them an earlier heads-up.
+Either way, with the world looking wild and US influence under pressure just about everywhere, this is shaping up to be an ill-timed own goal.
+DAILY POLL
+Do you think the EU is in decline?
+📈 Yep, but it'll pick up again
+📉 Yep, and it's inevitable
+👍 No, the EU's doing just fine
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about the US levelling-up its chip-making?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💽
+Costly but worth it (84%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+😩
+An exercise in futility (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 🛡️ It'll leave Taiwan more vulnerable (8%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (1%)
+Your two cents:
+💽
+L.B:
+“Regardless of the Taiwan situation, the US should be a major developer of high-end chips for national security reasons, let alone economic ones.”
+😩
+R.J:
+“At best it’ll be years before they are producing chips in any meaningful numbers to change the geopolitical problem the CHIPS act was enacted to solve.”
+🛡️
+C.B:
+“The global supply chains for chips and lithography equipment are so interlinked that even with an Arizona plant, a war in the Taiwan Strait would have massive ramifications for the whole world.”
+💽
+J.D.G:
+“With most of the world’s silica sand needed for advanced chips produced in North Carolina, it makes the most sense to produce them here in the US.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Corrections corner
+Thanks to those eagle-eyed Intriguers who spotted two typos yesterday!
+The
+Tiktok-induced cucumber shortage
+is happening in
+Iceland
+(not Ireland) - that’s a sentence we never thought we’d type.
+Oh, and Mexico’s hefty 636kg cheese would translate to
+1,400
+lb.

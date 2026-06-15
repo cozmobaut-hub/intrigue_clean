@@ -1,0 +1,233 @@
+URL: https://archives.internationalintrigue.io/p/worlds-biggest-miner-launches-bid-become-copper-superproducer
+Title: 🌍 World’s biggest miner launches bid to become copper super-producer
+
+IN TODAY’S EDITION
+1️⃣ A mining giant’s race for copper
+2️⃣ A naughty diplomat
+3️⃣ A mysterious artwork of the day
+Hi {{ First name | Intriguer }}.
+When we pick the top stories for Intrigue, we sometimes go for the ones that aren’t as flashy, but have a potentially huge impact on the world.
+That’s today, as we dive into
+Australian mining giant BHP’s bid to buy a top rival
+, Anglo American. While the story may seem niche, the bid could have a huge impact on the world’s electrification, energy transition, and beyond.
+So, to paraphrase a certain White House hot mic moment, it’s a big… deal. And we’d best wrap our heads around it.
+THE HEADLINES
+Blinken meets Xi.
+US Secretary of State Antony Blinken has
+met China’s leader Xi Jinping
+in Beijing earlier today (Friday). According to China’s initial
+read-out
+(
+🇨🇳
+), Xi struck a conciliatory tone, saying “
+China would like to see a confident, open, prosperous and developing United States. We hope that the United States can also take a positive view of China's development.
+” During an earlier
+five-hour meeting
+, China’s foreign minister struck a similar tone, though cautioned relations could end up in a “
+downwards spiral
+” if the US keeps crossing Beijing’s “
+red lines
+”.
+Japanese yen falls to fresh low.
+Japan’s yen has dropped to a
+34-year low against the US dollar
+today after the Bank of Japan kept its monetary policy unchanged, with no indication of rate rises in the near future. Higher-for-longer rates in the US are contributing to a historically weak Japanese currency.
+More Huawei phones with advanced chips.
+It seems Huawei’s newest smartphones, the Pura 70 series, are
+all made with an updated version of the advanced, China-made semiconductor
+first revealed last year. The 7-nanometre chips were initially thought to be beyond the capacity of China’s industry, but the Pura 70 suggests China’s
+Semiconductor Manufacturing International Corp
+can now sustain 7-nanometre production. US officials have been weighing further chip sanctions against China.
+Macron urges Europe to find its own path.
+French President Emmanuel Macron has reiterated his call for a
+more independent Europe
+, warning that “
+Europe is mortal, it can die
+”. Calling for a stronger defence and industrial policy, he said: "
+The era of basing our production in China, of delegating our defense to the U.S., and of getting our energy from Russia is over. The rules of the game have changed.
+"
+Countries renew call for hostage release deal.
+Eighteen countries, including the US, UK, and Thailand, have issued a
+joint call
+for Hamas to release all hostages, and reiterated that “
+the deal on the table to release the hostages would bring an immediate and prolonged ceasefire in Gaza
+”. Negotiations between Israel and Hamas have been frozen for weeks. Meanwhile, the US has begun work to
+construct a pier
+to deliver humanitarian aid to Gaza.
+TOP STORY
+World’s biggest miner launches bid to become copper super-producer
+Escondida mine, Chile. Credits: BHP Group.
+Australia’s BHP, the world’s largest mining company, wants to get just a little bit larger. Yesterday (Thursday) the firm announced it had made a $39B bid for one of its main competitors, London-listed Anglo American.
+In what we’re declaring a master-class in playing it cool, Anglo American casually confirmed it had received the “
+unsolicited, non-binding and highly conditional combination proposal
+”, before then
+rejecting
+BHP’s offer hours ago.
+Under the UK’s takeover rules, BHP now has until May 22 to submit a formal (higher) bid.
+So let’s take a
+closer look at both companies
+.
+Headquartered in Melbourne and listed in Sydney, the 139-year-old and $150B
+BHP Group
+has mining operations in ~25 countries.
+Meanwhile in London, the 107-year-old
+Anglo American
+is roughly a third the size, though it has a portfolio including platinum and 85% of diamond giant, De Beers. Its crown jewels are its stakes in four huge copper mines in Peru and Chile.
+And copper is key
+.
+The world’s energy transition needs electrification, which needs copper. That’s why
+the US
+declared
+it a ‘critical mineral’ last year
+, following the EU, Japan, India, and China. This demand - fanned by a broader commodities bull run - has clashed with tighter supply (eg, a mine closure in Panama) to drive prices higher.
+So now, if this deal still proceeds, it’ll not only be the sector’s biggest in history, but will also deliver roughly 10% of the world’s copper output to BHP’s hands. That’d
+make BHP the world’s largest copper producer
+, up from third place last year after Chile’s Codelco and USA’s Freeport-McMoRan.
+The proposed acquisition comes after a bumpy few years at Anglo left it vulnerable, but mergers are also on-brand for miners; while there’ve been duds, buyers still see them as ways to drive scale up and costs down to ride out the industry’s boom-bust cycles. It’s also increasingly just cheaper to buy existing assets rather than develop new ones.
+But BHP’s plan is already facing some serious hurdles
+:
+Price
+- Anglo has its problems (its profits just plunged 94%), but if BHP wants that copper, it’ll need to bid much higher to convince Anglo’s board
+and
+shareholders that it’s worthy of their vote.
+Rivals
+- In the meantime, other mining giants like Rio Tinto (
+🇬🇧
+🇦🇺
+) and Glencore (
+🇨🇭
+) will already be weighing up their own interest (because copper), though they’re laying low for now.
+Governments
+-
+And then,
+even if
+(did we mention ‘if’?) BHP manages to fend off rivals and make an offer that wins board and shareholder approval, it then arrives at the ultimate hurdle: countries that supply copper (
+Peru, Chile
+) and buy it (
+China
+) prefer negotiating with a few small
+er
+miners rather than one or two giants. That’s partly why Beijing had an infamous
+role
+in thwarting BHP’s last mega-takeover in 2008. Plus,
+South Africa
+(where Anglo was founded and still has assets) is already
+voicing
+concern, while
+Botswana
+(diamond mines),
+Australia
+, the
+UK
+,
+and others will also get a say.
+These government decisions will all depend on a heady mix of law (anti-trust), politics (unrest in Peru, elections elsewhere), and geopolitics (control of critical minerals).
+So while it’s only been 24 hours since BHP announced its first offer, and three hours since Anglo rejected it, it’s hard (though not impossible) to see this landing.
+INTRIGUE’S TAKE
+As trust among nations collapses, just about every industry and - heck - every avenue of human endeavour, becomes a venue for competition. EVs, AI, aviation, mining, energy, education, tech, the arts, sports, etc. It’s all fair game.
+Mining is particularly sensitive due to its long and complicated history, its global supply chains, its far-reaching implications for our future, and its tangible impacts on the present (tax revenues, jobs, holes in the ground etc).
+It also depends heavily on government permits and community sentiment, which is why it’s been marred by claims of espionage, bribery and beyond.
+It’s also why, as more sectors become venues for competition, any ability to help navigate governments and communities will be a prized worker skillset.
+Also worth noting:
+China has around half the world’s copper refining capacity.
+BHP stands for Broken Hill Proprietary Company, named after the
+famous
+outback Australian town where BHP began mining in 1885.
+SHOP THE INTRIGUE STORE!
+T-shirts and hats, phone cases and mugs - oh my!
+Many of you have asked us, time and time again, “
+how can I get my hands on one of those sweet sweet Intrigue t-shirts?
+”
+Good news! We’ve launched our first-ever merch storefront, with a few choice pieces to get you started. We’ll add more as inspiration strikes (if you’ve got a great idea for a bit of merch, let us know!).
+Happy shopping!
+MEANWHILE, ELSEWHERE…
+🇸🇬
+Singapore
+: A senior official at Singapore’s foreign ministry has pleaded guilty to charges relating to
+his misuse of Singapore’s diplomatic bag service
+. He used the bag, which typically has diplomatic immunity, to help a friend bypass customs for 21 luxury watches.
+🇺🇦
+Ukraine
+: Agriculture Minister Mykola Solskyi has
+handed in his resignation
+following allegations he was involved in illegal land deals before joining the government. Solskyi, who denies the allegations, is the highest-ranking member of President Zelensky’s government to be named a criminal suspect.
+🇲🇲
+Myanmar
+: An ethnic militia has withdrawn from a key town along the Thai border, after a
+counter-offensive from Myanmar’s ruling junta
+. A separate militia with a history of shifting allegiances appears to have helped the junta retake the town, just weeks after the junta lost it.
+🇭🇹
+Haiti
+: The beleaguered de facto prime minister of Haiti, Ariel Henry, has resigned now that
+a new transitional council has been sworn in
+. The council is seeking to restore order and democracy and is backed by other Caribbean nations and the US, but it’s been opposed by the gangs that now control most of Haiti’s capital, Port-au-Prince.
+🇨🇩
+Democratic Republic of Congo
+(
+DRC)
+: International lawyers for the DRC have written to Apple CEO Tim Cook
+seeking information on Apple’s supply chain
+, claiming it may be tainted by ‘blood minerals’. DRC is the world’s top producer of cobalt and tantalum, which are used in smartphone batteries and capacitors respectively.
+EXTRA INTRIGUE
+Some recommendations from Team Intrigue if you’re planning to spend the weekend indoors
+Read
+: Discover how AI is impacting lives far beyond Silicon Valley in ‘
+Code Dependent: Living in the Shadow of AI
+’.
+Watch
+: If you’re looking for a gripping sci-fi series, ‘
+3 body problem
+’ might be for you.
+Listen
+: What do heavy metal music, the CIA, and the USSR have in common? Find out on ‘
+Winds of change
+’.
+ARTWORK OF THE DAY
+Credits: im Kinsky auction house in Vienna.
+An unfinished painting by Austrian artist Gustav Klimt sold for $32M at auction in Vienna on Wednesday. The piece has fascinated art buffs and historians for decades because nobody knows for certain
+who
+it depicts, nor where it went after it last appeared in public a century ago.
+Extra fun fact:
+The portrait doesn’t bear Klimt’s signature.
+FRIDAY SURVEY
+We’re always working to ensure Intrigue is as valuable to you as possible, so our sincere thanks in advance for answering these three questions!
+🙏
+How would you feel if you could no longer read the 'Intrigue's take' at the end of each top story?
+1 - Very disappointed
+2 - Somewhat disappointed
+3 - Not disappointed
+Login
+or
+Subscribe
+to participate
+How likely are you to recommend Intrigue to others?
+And feel free to drop us a line telling us why!
+1 - Very likely
+2 - Likely
+3 - Unlikely
+4 - Very unlikely
+Login
+or
+Subscribe
+to participate
+Which Intrigue section would you miss the most?
+Headlines
+Top story
+Meanwhile, elsewhere... (map)
+Extra intrigue
+The "thing" of the day
+Polls
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Corrections corner
+Thanks to our fellow
+Simpsons
+fans who pointed out that yesterday’s classic Ed Begley scene is from 1999 (not 1989). How can you not love a geopolitics community that also brings deep
+Simpsons
+expertise.
+😍

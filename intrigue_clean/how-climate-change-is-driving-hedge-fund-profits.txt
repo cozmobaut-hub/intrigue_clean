@@ -1,0 +1,219 @@
+URL: https://archives.internationalintrigue.io/p/climate-change-driving-hedge-fund-profits
+Title: 🌍 How climate change is driving hedge fund profits
+
+Hi {{ First name | Intriguer }}.
+Early in my career, I watched with interest as an investment bank ploughed cash into real estate across northern Mexico. To investors, local gang violence just meant the assets were cheap.
+That’s standard for savvy investors, right? Let the headlines startle your competitors or draw the herd, while you look at the underlying value.
+Today’s briefing leads with one such story of how hedge funds somehow managed to earn killer returns last year, thanks to some investments linked to natural disasters.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+The US and UK hit the Houthis again.
+The US and UK carried out further missile strikes against Houthi military targets in Yemen yesterday (Monday), marking the eighth US operation against the Houthis in 12 days. In response, a Houthi leader
+tweeted
+, “
+your strikes will only make the Yemeni people stronger and more determined to confront you
+”.
+Israel reports 24 troops dead in a single day.
+This is Israel’s highest daily death toll since the beginning of its operation in Gaza. Authorities there estimate 25,000 Palestinians have been killed since the start of hostilities. Israeli troops are now pushing deeper into Khan Younis, southern Gaza’s biggest city.
+India’s stock market overtakes Hong Kong.
+The total value of shares listed on Indian exchanges reached $4.33T yesterday, slightly more than the $4.29T registered for Hong Kong. Investors are attracted to India’s policy reforms and growth prospects, as China’s lagging economy taps Hong Kong’s brakes.
+Apple pays Russia $12M fine.
+The US tech giant has paid a hefty fine into Russia’s coffers after a court there found it had abused its monopoly power by not informing customers they could make payments outside the App Store. It’s the second fine Apple has paid Russia since the start of the Russo-Ukraine War.
+New Hampshire primaries kick off.
+Republicans in New Hampshire will today (Tuesday) choose between former president Donald Trump and former US ambassador to the UN, Nikki Haley. Results are expected later tonight.
+TOP STORY
+Why hedge funds just had a bumper year
+Hedge funds saw eye-popping profits last year thanks to ‘catastrophe bonds’ and other insurance-linked products, according to new data from
+Bloomberg
+.
+The words ‘
+hedge fund
+’ and ‘profit’ often appear in the same sentence, as the former’s whole
+raison d’etre
+is about chasing the latter. Investors place their cash with hedge funds, which promise bigger returns via riskier strategies while earning themselves handsome fees along the way.
+And one hedge fund strategy that’s currently hot involves
+catastrophe bonds
+,
+or cat bonds. They first emerged in the 1990s as a better way for insurance companies, burnt by costly natural disasters, to manage risk:
+Hedge funds promise to pay insurers a specific sum if a specific disaster (like a category 5 hurricane) hits within a specific time (say three years)
+In return, insurance companies promise to pay the hedge funds a fixed interest rate until the disaster happens or the agreed timeframe ends
+Insurance companies are happy because they can pay a predictable interest rate to help smooth out Mother Nature’s unpredictability. And hedge funds are happy because they earn higher interest to compensate for the higher risk they’re accepting (which they hedge by diversifying across lots of investments).
+Why have cat bonds become more popular?
+All the
+research
+we’re seeing indicates that climate change is making natural disasters more frequent and more intense
+This means the
+damage bill
+from natural disasters continues to grow, hitting $250B last year (only $95B of which was insured), and
+That damage bill has been exacerbated by inflation, spiking both the value of insured assets and the cost of repairing or rebuilding them
+This all means insurance companies are issuing more (and bigger) cat bonds, covering more types of disasters. And that means that, while the total cat bond market is still relatively small ($45B), it’s growing.
+So then, why are hedge funds making so much money off cat bonds?
+It’s partly a function of supply and demand - i.e., more insurers are looking to offset more risk, meaning they’re having to offer higher returns to lure investors.
+But it’s also just a function of luck: US hurricanes were relatively mild last year.
+So that’s why a handful of hedge funds enjoyed 20% returns in 2023, compared with an 8% average across the broader hedge fund industry.
+INTRIGUE’S TAKE
+Three things come to mind here.
+First, it’s interesting to see markets driving this adaptation themselves while international climate negotiations inch onwards.
+Second, investing is about spotting gaps, and the gap here is between fear (more disasters) and reality (a relatively quiet year).
+And third, that gap will narrow: at one end, more investors will want a slice of those sweet, sweet returns, putting downward pressure on the rates they can all earn.
+At the other end, quiet years will inevitably be followed by eventful ones, wiping out returns, spooking investors, and driving rates back up again.
+But while these cyclical factors play out, the underlying structural drivers seem here to stay: more disasters, higher risks, and a gradual process of adaptation. Insurers are already declaring parts of our world as simply
+uninsurable
+.
+Also worth noting:
+Berkshire Hathaway lost
+$3.4B
+in 2022 (pre-tax) after Hurricane Ian hit the US east coast.
+There are around 3,500 active hedge funds in the US. One famous decade-long
+study
+found that the typical hedge fund consistently
+under
+performed the S&P500 (a US market index).
+SUPPORTED BY SEMAFOR
+What do people in Congress, executives on Wall Street, and UN Ambassadors all have in common?
+They read
+Principals
+, a totally free political newsletter by Semafor, delivering distilled yet insightful quips into Washington’s halls of power.
+Subscribe for free here
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: China
+imported 14% more advanced chip-making machines
+last year, despite a drop in total Chinese imports more broadly. Manufacturers in the country are looking to stock up on sensitive machinery in view of US curbs on its semiconductor industry.
+🇮🇹
+Italy
+: Foreign Minister Antonio Tajani says Italy
+halted all weapons exports to Israel
+(
+🇮🇹
+) at the onset of the current Israel-Hamas conflict. Italy sold €120M in arms to Israel between 2013 and 2022.
+🇦🇺
+Australia
+: Australia has ended its
+golden visa scheme
+, which granted visas to wealthy folks in exchange for investment in the country. In explaining its decision, the government said the visas were “
+delivering poor economic outcomes
+”.
+🇧🇷
+Brazil
+: President Lula da Silva has launched a new
+‘re-industrialisation’ plan
+using state credits and subsidies to help boost the Brazilian economy. But Brazil’s currency fell after the announcement, as investors saw it posing risks to the country’s fiscal health.
+🇨🇲
+Cameroon
+: The World Health Organisation’s
+first mass children vaccination campaign
+against malaria kicked off in Cameroon yesterday (Monday). It involves distributing 25 million doses to combat the disease, which causes over 600,000 deaths globally per year.
+EXTRA INTRIGUE
+Here’s what people tweeted about yesterday (Monday)
+🇮🇩
+Indonesians
+were tweeting about former Jakarta governor “
+Anies Baswedan
+”, a
+dark horse presidential candidate
+gaining ground with his promise to tax the rich and create millions of green jobs.
+🇧🇩
+Folks in
+Bangladesh
+were focussed on the 17th season of “
+Bigg Boss
+”, the
+hit Indian reality TV show
+now airing across the region.
+🇧🇷
+And
+Brazilians
+were tweeting about “
+Campeonato Paulista
+”, the
+country’s oldest established football league
+(in the state of São Paulo) that kicked off this week.
+STATUE OF THE DAY
+Credits: Ocean Sole
+Folks who’ve visited Nairobi National Park might’ve noticed this 1.8m (6.2ft) green lion near the entrance. It’s made up entirely of 3,200 discarded flip-flops pulled out of local waterways. The Kenyan artisans at the non-profit
+Ocean Sole
+spent six months collecting the flip-flops for the statue, which was commissioned and then donated by the Irish Embassy.
+DAILY POLL
+What do you think is the single most important risk for global insurance companies today?
+⚔️ Geopolitical risk
+🌊 Climate change
+💻 Cybersecurity
+🌍 Economic headwinds
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+If you had a cool million to invest, which sector would you choose?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💻 AI  (22%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🚜
+Agriculture  (11%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🌬️ Green energy  (22%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️
+💉
+Bio-med (20%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+📰
+Media & communications (2%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💸
+Finance (6%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+💄
+Beauty  (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🚢
+Trade  (1%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🚀
+Aerospace (6%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (5%)
+Your two cents:
+💻
+A.D:
+“A.I. (if invested properly) can have a great influence on all of these, further bolstering the investment.”
+🌬️
+A.H:
+"Not only is green energy something that's going to grow (so a financially sound decision), but also, ethically, it's the only thing I'd really feel comfortable investing in.”
+🚜
+D.F.W:
+“Land is an excellent long term asset. People will always need to eat. It is a boring industry, but will always give a return with a long term capital asset.”
+✍️
+D.T.K:
+“Invest in them all using an index fund.”
+✍️
+S.T:
+“Anything to do with senior citizens.”
+Honourable mentions:
+the gaming industry, real estate, defence, mining, conservation land trusts, and research into under-funded but increasingly common illnesses like chronic fatigue syndrome.
+Share the Intrigue

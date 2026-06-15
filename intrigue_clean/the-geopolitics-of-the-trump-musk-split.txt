@@ -1,0 +1,215 @@
+URL: https://archives.internationalintrigue.io/p/the-geopolitics-of-the-trump-musk-split-39cba6cf62203272
+Title: 🌍 The geopolitics of the Trump-Musk split
+
+Today’s briefing:
+— The geopolitics of the Trump-Musk feud
+— Why you shouldn’t impersonate your sis
+— An awkward naval moment
+Good morning {{first_name | Intriguer}}
+. I was off moving house last week, and it went
+exactly
+as expected: a raw, pure, undiluted, fan-forced, emotion-laden hot-mess. Speaking of which, our briefing today leads with
+the geopolitics of the Musk-Trump split
+. Enjoy.
+Date of the day
+1965
+That’s the last time a US president deployed federalised troops without the backing of the relevant state governor, when LBJ famously federalised the Alabama National Guard. President Trump has now sent in ~2,000 California National Guard troops over the weekend in response to unrest around ICE attempts to detain undocumented migrants.
+Break-up of the century?
+There’s now another entry etched into the pantheon of history's break-ups. Outta the way Brangelina (2016), Bennifer (2004 & 2024), and Haylor (2013). It’s time for Edon (2025).
+When
+the Hollywood version
+drops, the first act will wrap with an upbeat montage (to
+Walking on Sunshine
+by Katrina & the Waves) as Elon Musk and Donald Trump campaign together, cut waste together, meet presidents together, and even hawk Teslas together.
+But right around the second act turning point,
+it’ll all fall in a heap
+as
+a)
+Musk calls the president's budget bill a pork-filled abomination,
+b)
+Trump argues Musk just wanted DC's EV subsidies, and
+c)
+Musk then threatens to ditch critical SpaceX contracts the US needs.
+Then as we approach
+the film's climax
+, just as we're wondering if these two might find a way to make up, and whether there's still time to swing by Chipotle on the way home, Elon publicly aims to link (in a tweet now deleted) the president of the United States with the crimes of the notorious Jeffrey Epstein. Roll credits. Get to Chipotle before it closes.
+But that's where Intrigue comes in. This is not just
+E! News
+stuff, but really a significant geopolitical event that foreign capitals will be tracking closely. Here are three reasons why:
+👨‍💻
+US tech vs political power
+At the heart of Trump 2.0's campaign was
+an alliance
+between his populist base and Musk's brand of broligarch: Trump leveraged Musk's money, platform, and talents, while Musk gained proximity to (and therefore influence over) the heart of US political power.
+But that alliance has now ruptured, and in doing so, it’s arguably illustrating in the US the same trend we've long tracked elsewhere:
+tech is a globalising force in a de-globalising world
+, and governments are reasserting themselves in response. President Trump is not Silicon Valley's guy. He's Trump's guy. And with that now laid bare, this fact will (or should) shape ties between the Valley and the White House ahead, including in other fights like…
+🇪🇺
+US tech vs the world
+That Trump-Valley alliance was partly seen as a strategic move by tycoons hoping a more sympathetic White House might take a more assertive stance in pushing back on (say) the
+EU's regulation of US data, content, and tech market dominance
+.
+But while the EU has continued to fine US tech firms, the alliance driving America’s assertive response might've now crumbled. So as the president negotiates with dozens of capitals around trade, defence, and beyond, will he continue to prioritise extracting more US-friendly tech regulations? Or
+will he trade all that away
+for other US priorities like…
+🚀
+US space vs the world
+In what’s widely seen as a response to the president’s falling-out with Musk, Trump has also withdrawn his nomination of Musk ally
+Jared Isaacman
+to head up NASA. And that’s not just about Musk losing an ally at the head of an agency critical to his own SpaceX venture. Rather, it leaves NASA in limbo at a critical crossroad between:
+a)
+doubling-down
+on NASA's costly and delayed legacy programs like Artemis and the Space Launch System, or
+b)
+pivoting
+towards more of a SpaceX-inspired model promising to unleash more US start-ups to advance US leadership to Mars and beyond.
+Isaacman was vowing to steer things more towards option
+b
+, but instead, NASA now continues to tread water between the two while facing 25% budget cuts ahead, right as China continues its own race towards a moon landing and a Starlink rival by 2030.
+While political infighting consumes US attention at home, the world just keeps spinning.
+Intrigue’s Take
+This whole saga had the most predictable ending since Ryan Gosling and Emma Stone got together at the end of
+Crazy, Stupid, Love
+(one of the all-time great romcoms btw).
+But predictable doesn't mean dull, nor does it portend a smooth landing. To the contrary, the implications we've explored above could genuinely echo throughout history.
+Here’s just one more possibility: up until now, all three sides of
+the Trump-China-Musk triangle
+have assumed Tesla’s continued success in China (via ~$3B in investments and 37% of the firm’s global sales) was also a broader
+US
+interest the White House would value. But with the
+Trump-Musk
+side of that triangle now ruptured, might we see Tesla’s interests get traded away as part of any broader US-China deal now under discussion?
+Anyway, enjoy your Chipotle.
+Sound even smarter:
+Tesla shares were down nearly 15% by the end of last week.
+Meanwhile, elsewhere…
+🇨🇳
+CHINA
+-
+Prices slump again.
+Both consumer and producer prices fell in China again in May, playing into growing fears of deflation. Meanwhile, China’s official
+export
+stats recorded another 5% growth despite also clocking the steepest fall in exports to the US since 2020. (
+CNBC
+)
+Comment:
+Ahead of the next round of US-China trade talks in London tomorrow (Tuesday), Beijing will still draw confidence from those gravity-defying export states, which (if accurate) reflect the very imbalance President Trump says he’s trying to address: the world’s heavy dependence on China.
+🇮🇱
+ISRAEL
+-
+IDF boards Greta’s Gaza-bound boat.
+Israeli forces have boarded the Gaza-bound
+Madleen
+, pledging to return Greta Thunberg and her fellow activists home, while distributing the vessel’s aid via established channels in Gaza. The
+Freedom Flotilla Coalition
+was protesting against Gaza's aid crisis and Israel's naval blockade of the Strip, which Israel describes as preventing Hamas from importing arms. (
+SMH
+)
+🇮🇳
+INDIA
+-
+Coal is so back.
+The world’s largest coal-producing company (
+Coal India
+) is planning to reopen 32 defunct mines this year, citing an inability of renewables to keep up. (
+FT
+$)
+Comment:
+India is the world’s second-largest coal consumer (70% of its electricity mix), but tends not to attract as much international attention given it gets around three quarters of its coal from home rather than (like China) abroad. The fact Delhi is pushing its coal phase-down out to 2070 suggests it’s in no hurry to pivot.
+🇷🇺
+RUSSIA
+-
+Flyers beware.
+Russia briefly closed two major airports serving its capital city during Ukraine’s weekend drone counter-strikes, just a day after Moscow hit Ukraine’s second-largest city with another mass bombing raid. (
+Politico
+)
+Comment:
+This doesn’t get airtime, but when Ukraine’s president talks about urgently bolstering his air defences, he’s talking about the US
+selling
+him more Patriot defence systems, not donating them.
+🇰🇭
+CAMBODIA
+-
+Border disputes.
+Days after a skirmish along the disputed Cambodian-Thai border left a Cambodian soldier dead, both sides have now agreed to retreat from their positions, and Cambodia will now fill trenches it dug last year. (
+Bangkok Post
+)
+🇨🇴
+COLOMBIA
+-
+Assassination attempt rocks nation.
+Miguel Uribe Turbay, a 39-year-old Colombian senator and presidential hopeful, is fighting for his life after a 15-year old hitman shot him in the head at a campaign event in Bogotá. (
+Miami Herald
+)
+Comment:
+It’s an example not only of Colombia’s deteriorating security situation, but also the country’s increasing political polarisation: there’s not been an attempt like this since the dark days when Uribe’s own mother was kidnapped by the Medellín cartel. His conservative family (including Uribe’s ex-president grandfather) has long pushed for a tougher stance against Colombia’s organised crime and leftist rebels.
+🇷🇼
+RWANDA
+-
+Bye, bye!
+Rwanda has left the
+Economic Community of Central African States
+(ECCAS), after the regional bloc thwarted Kigali’s scheduled rotating presidency over Rwanda’s continued role in backing armed groups across the DR Congo. (
+BBC
+)
+Comment:
+The bigger question is whether Rwanda and the Congo might sign their rumoured peace agreement later this month, after seemingly endless US mediation.
+Extra Intrigue
+🤣
+Your roundup of the world’s lighter news
+If you need to freshen up your oral hygiene routine, KFC just
+dropped a new fried-chicken flavour
+toothpaste (you’re welcome).
+Pakistani authorities have arrested a local after he took
+one of his lions for a stroll through town
+.
+Speaking of wild animals, Tennessee authorities have used a chopper to catch a
+pet zebra who ran away for over a week
+.
+In another exotic animal headline (sorry!), a hungry
+elephant has wandered into a grocery store in Thailand
+and helped itself to “
+about nine bags of sweet rice crackers
+”.
+And a Pennsylvania woman has
+tried to escape arrest by impersonating her sister
+, only to get arrested anyway because police were also looking for her sister.
+From our sponsors
+For Burned-Out Professionals.
+When work leaves you feeling tapped out, you don’t just have to push through. Therapy gives you space to breathe, reset, and figure things out. BetterHelp makes it easy to connect with a therapist who understands burnout - on your schedule, from anywhere.
+Sessions are rated 4.9/5 based on 1.7 million reviews. For a limited time, new users
+get 25% off the first month.
+Mishap of the day
+The ship in question. Credits: Australia’s defence department.
+You know that feeling when you go visit a friend, but accidentally spill an entire glass of merlot all over her brand new white linen sofa? No…? Just us…?
+Well bear with us, because it’s possibly how Australia feels right now after it sent a naval ship to New Zealand to help celebrate those close Aussie-Kiwi ties, only for that ship’s electronics to end up accidentally blocking internet across much of New Zealand for hours.
+Today’s poll
+Who do you think will lose *more* from this Trump-Musk falling out?
+🏛️ This is Trump's loss: Musk was his top backer
+🚀 Musk loses more here: those government contracts are critical
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Who do you think has more influence over Iran around a nuclear deal?
+🇷🇺
+Russia (35%)
+🇨🇳
+China (25%)
+🇶🇦
+Qatar (10%)
+🇸🇦
+Saudi Arabia (27%)
+✍️ Other (write in!) (4%)
+Your two cents:
+🇷🇺
+R.K
+: “Russia has greater influence in the Middle East than you’d think.”
+🇸🇦
+M.M
+: “The Saudis have the most influence over global oil prices. If these were higher, the impetus for a deal to get Iranian supply back online would be higher.”
+🇨🇳
+J.G
+: “China buys a lot of Iranian oil.”

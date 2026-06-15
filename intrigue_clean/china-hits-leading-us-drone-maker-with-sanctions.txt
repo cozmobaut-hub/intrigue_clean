@@ -1,0 +1,209 @@
+URL: https://archives.internationalintrigue.io/p/china-hits-leading-us-drone-maker-with-sanctions
+Title: 🌍 China hits leading US drone-maker with sanctions
+
+IN TODAY’S EDITION
+1️⃣ China sanctions the top US drone-maker
+2️⃣ Why PNG is skipping the next COP
+3️⃣ Hoax of the day
+Hi {{ First name | Intriguer }}.
+Let’s wrap this week with a movie recommendation, shall we? This one is a genre film, and it’s often easy to dismiss those: sci-fi is just about spaceships, fantasy is all about wizards, romcoms are nothing but abs, etc.
+But the best genre films really just use the spaceships, wizards, and abs to explore some universal truth in a new way. And the
+really
+good ones can change the way you think about that truth.
+Joe Biden famously changed the way he thought about artificial intelligence, for example, after seeing the latest
+Mission Impossible
+. And today’s briefing is about
+drones
+, so that’s as good an excuse as any to mention the movie that changed the way I think about drones:
+Oblivion
+(2013). I don’t want to spoil it, so I’ll just let you know that Tom Cruise plays a drone technician in an eerily familiar, post-apocalyptic world.
+Thoughts?
+THE HEADLINES
+Oil jumps on reports of Iranian retaliatory strike.
+The price of crude jumped 2.1% after Axios reported that Iran is preparing to
+strike Israel from Iraqi territory
+, possibly before Tuesday’s US presidential election. In familiar style, the top commander of Iran’s Revolutionary Guards has warned that Tehran’s response to the latest Israeli strike will be “
+unimaginable
+”.
+Apple posts better-than-expected results.
+Revenue
+numbers for Q3 rose to $94.4B
+, beating expectations. Crucially, sales of iPhones increased 6% after two consecutive quarters of decline. However, Apple shares fell as investors were disappointed by December holiday sales forecasts and weak numbers in China.
+Botswana ruling party loses first election in 58 years.
+Voters have punished the Botswana Democratic Party, which has been in power since the country’s independence in 1966 — remarkably, the incumbent party
+won only one parliamentary seat
+. Botswana now looks set for a government led by the Umbrella for Democratic Change, which will have to address the country’s diamond dependency and inflation issues.
+Death toll in Spanish floods passes 150.
+The country has announced
+three days of mourning
+, while authorities urge people to remain home as weather forecasts warn of more heavy rain.
+Mauritius suspends social media until election day.
+Authorities have asked telecom companies to
+suspend access to social media platforms
+until November 10 (one day before elections), for fear of “
+illegal postings that may impact national security and public safety
+”. The order comes after phone calls of politicians, journalists, and foreign diplomats were leaked online.
+TOP STORY
+China hits leading US drone-maker with sanctions
+You might recall a few months back, China
+vowed
+to take “
+forceful measures
+” to protect its sovereignty after the US approved the sale of $360M in drones and missiles to Taiwan.
+Well, China now appears to have made good on that promise in the form of sanctions on a range of US companies including Skydio, the largest US drone manufacturer.
+Skydio
+is a California-based dronemaker founded in 2014 by three friends from MIT. It started out focusing on consumer drones to capture videos cool enough to earn you some sweet sweet likes on Instagram.
+But in 2023, Skydio
+pivoted
+, retiring its entire consumer business to focus instead on enterprise and public customers (i.e., the US government). Today, the firm’s drones fly for every branch of the US military plus over 200 public safety agencies.
+The company really drew international attention, however, on the frontlines in Ukraine, where Skydio’s small and easily manoeuvrable drones help mostly with intelligence gathering and reconnaissance missions. Its latest model (the X10) was
+apparently
+the first US drone to pass Ukraine’s electronic warfare testing (ie, to resist Russian jamming).
+So, why did Skydio end up getting sanctioned by China?
+The answer to this question, just like any properly made lasagne, has many layers.
+The first crispy cheese layer of explanation, according to Skydio CEO Adam Bry in a
+note
+to customers, is that
+Skydio supplies drones to Taiwan
+. That made it an obvious target, though Skydio is quick to note its only Taiwanese customer is the National Fire Agency.
+But in the middle of a tit-for-tat trade war (the US imposed sanctions on Chinese drone parts manufacturers just a few days later) this rationale doesn’t seem to count for much.
+Dig a little further into the lasagne, and you’ll see the
+US is already in a long-running quarrel with Skydio’s China-based competitor DJI
+, the world’s largest drone-maker.
+The Pentagon classified DJI as a Chinese military company back in 2022, then just last month, DJI
+lawyered up
+, arguing the Pentagon was stigmatising it because DJI “
+is neither owned nor controlled by the Chinese military
+” and “
+sells only consumer and commercial - not military - drones
+” (both Russia and Ukraine have still used them).
+So interestingly, both the US and China’s top drone-makers have now effectively used the same argument (“
+chill, they’re not military drones
+”). And both Washington and Beijing are responding with the same scepticism.
+Dig a smidge further into that lasagne, and there’s the fact
+Skydio is a drone supplier for Ukraine
+. And that raises the question: does the Moscow-Beijing ‘no limits’ partnership extend to China actively torpedoing US firms helping Ukraine as a favour to Russia, like how Putin
+reportedly
+asked Elon Musk to block Starlink in Taiwan as a favour to Xi?
+Then dig right down to the bottom of the dish, and there’s the fact that DJI and Skydio are also just competitors in the fast-growing $35B global drone market, though that competition is limited by a) DJI’s global market dominance, and b) the fact Skydio already exited the consumer drone sector (in part due to DJI’s dominance).
+Still, Skydio’s CEO has had to
+deny
+claims it’s been lobbying Washington to ban competitors like DJI rather than compete on product and price. And either way, as the US seeks to reduce its reliance on critical Chinese inputs, Beijing may well see value in kneecapping America’s largest drone-maker from the outset.
+So what do the sanctions mean for Skydio?
+The firm assembles its drones in the US, but its batteries come from a single supplier in China. These new sanctions mean Skydio no longer has access to that battery supply.
+So you’ll see in the CEO’s note above, the company is now working to find new suppliers, but that’ll take time (at least until Q2 next year), and it’ll be hard to match Skydio’s last supplier on product or price any time soon (China mostly leads the world in batteries). In the meantime, Skydio says it’s got stockpiles it can use, though they’re limited: it’s already rationing batteries to one per drone.
+INTRIGUE’S TAKE
+This is 100% intriguing, and 0% surprising. China’s leadership in (and dominance of) the global battery sector is
+well documented
+. In fact, way back in 2022 (remember then?) we wrote that “
+any country not in Beijing's good graces might find it hard to secure the batteries they need
+”. And now that’s what’s happening.
+So the only surprising bit of this story is the fact that America’s leading drone-maker, with NatSec clients in the US, was still somehow entirely reliant on a country that those very same US clients are openly
+calling
+a threat. Israel’s pager attack on Hezbollah was a reminder just how much damage you can do via a supply chain vulnerability.
+Anyway, the Skydio CEO argues that “
+if there was ever any doubt, this action makes clear that the Chinese government will use supply chains as a weapon to advance their interests over ours.
+” We’d just add that if there was ever a story to encapsulate the general vibe of current US-China ties, this is it.
+Also worth noting:
+A bipartisan
+US ban on DJI drones
+seems likely at this point (it’s already passed the House), though various DJI-dependent public safety agencies have raised objections.
+You asked, we answered! Intrigue Virtual Events
+Don’t miss out!
+Join International Intrigue for
+“Global Plot Twist: The New President’s Agenda for a Tumultuous World”
+on
+Tuesday, November 12 at 11:00 AM ET / 8:00 AM PT / 4:00 PM GMT.
+With the ongoing
+Russo-Ukraine War
+, changing dynamics in the
+Middle East
+, and a complex
+relationship with China
+, future White House decisions will be as crucial as ever. So we’ll explore how the
+president-elect’s stance on
+major global challenges
+could influence the world.
+International Intrigue invites you to break away from the mainstream and join us for an exclusive deep dive into these critical topics. Expect candid conversations, insider perspectives, and bold analyses you won’t find anywhere else.
+Sign up here.
+MEANWHILE, ELSEWHERE…
+🇳🇵
+Nepal
+: The Himalayan nation’s central bank has selected a firm from neighbouring China to print its own
+new 100-rupee notes, featuring an updated map
+of Nepal. But that’s angered Nepal’s other giant neighbour (India), because the updated map includes three contested regions currently controlled by Delhi.
+🇫🇮
+Finland
+: Helsinki says it’s
+detected increased disturbances to its satellite navigation
+systems in the Baltic Sea since April, and it’s alleging Russia is doing it to help oil tankers visit the sanctioned country without being tracked. Finland says it’s causing ships to become lost at sea, and raising the risk of an oil wreck.
+🇵🇬
+Papua New Guinea
+(PNG): The foreign minister of PNG (Justin Tkatchenko) has told reporters his country will be
+skipping the UN’s COP climate talks
+in Azerbaijan this month. Calling the summit
+“a total waste of time”,
+Tkatchenko said PNG, home to the planet’s third-largest rainforest, is tired of attending while the conference gets
+“nothing done.”
+🇨🇦
+Canada
+: Two of Canada’s largest energy companies have
+announced they’re cutting back on oil drilling
+as fuel prices stagnate. Despite a war in the Middle East, oil prices have stayed stable over the past year, while warmer temperatures in North America have delayed folks activating their power-hungry heaters.
+🇦🇪
+UAE
+: The
+Emirates
+airline has pointed the finger at Boeing and Airbus delivery delays for hurting
+its own growth plans, with the UAE carrier now spending $4B
+to upgrade its existing fleet while it waits. Emirates isn’t the only airline complaining, with Germany’s Lufthansa also throwing some shade earlier this week.
+EXTRA INTRIGUE
+Four stories we couldn’t shoe-horn into our briefings this week
+The Israeli Knesset has
+passed a bill aimed at blocking the opening of a US consulate
+for Palestinians in Jerusalem.
+China’s authorities have
+clamped down on Halloween
+in Shanghai this year, after many young people used last year’s festivities as a rare public outlet for dissent.
+Like many other foreign ministries, you might be interested to know that the US State Department has a ‘Director of Art in Embassies’ who
+sources art for individual ambassadors
+representing the US abroad.
+And Sweden is now
+abolishing its 3 kroner ($0.28) tax
+on plastic bags, four years after introducing it.
+HOAX OF THE DAY
+Photo credits: @ArturMartins on X
+Thousands of locals lined the streets of Dublin for last night’s Halloween parade, but there was just one problem: the parade never came. Rather, the widely circulated parade announcement seems to have come from an ad revenue scam: setting up a website and using AI to quickly generate content on trending topics, all to attract some sweet sweet clicks.
+In this case, a US-registered website announced the Dublin parade the day before Halloween, and it quickly took off with a little help from social media. Turns out it was more trick than treat.
+FRIDAY QUIZ
+Today is World Cities Day!
+1) Tokyo is the world's biggest city by population. How many inhabitants does it have?
+~ 12 million
+~ 23 million
+~ 37 million
+~ 41 million
+Login
+or
+Subscribe
+to participate
+2) Which famous city was once called Granville?
+Cape Town
+Vancouver
+Portland
+Birmingham
+Login
+or
+Subscribe
+to participate
+3) What percentage of the world population lives in cities?
+36%
+42%
+50%
+56%
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

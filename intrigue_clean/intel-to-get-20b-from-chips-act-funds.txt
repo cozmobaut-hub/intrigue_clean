@@ -1,0 +1,196 @@
+URL: https://archives.internationalintrigue.io/p/intel-get-20b-chips-act-funds
+Title: 🌍 Intel to get $20B from Chips Act funds
+
+Hi {{ First name | Intriguer }}.
+Our co-founder Helen is currently somewhere over the Pacific Ocean en route to Sydney, Australia for our first ever in-person Intrigue event tomorrow!
+I’ll be there too, perhaps leading a slow-clap to build up the anticipation. Or maybe chewing thoughtfully on my glasses from the back row. I haven’t decided yet (and I don’t use glasses).
+We’re excited to see many of you there. For everyone else, fret not - we’ll take some pics, and hopefully see you at one of the other events we’re planning around the world.
+In the meantime, let’s dive chin-first into today’s briefing on the US decision to approve a record
+$20B in financing for US chipmaker, Intel
+.
+- Jeremy Dicker, Managing Editor
+P.S. It’s the final stretch of our
+two awesome giveaways
+- simply share Intrigue using your unique referral code at the end of this briefing for…
+A chance at 2 tickets to
+Lovett or Leave It
+in D.C. on 25 April, and
+Access (this weekend) to our chat with spy-turned-author ‘
+Jack Beaumont
+’!
+TODAY’S NEWS
+US calls for Gaza ceasefire in UN resolution.
+The US has submitted a
+draft UN Security Council resolution calling for an immediate ceasefire in Gaza linked to the release of hostages. The US previously vetoed three resolutions calling for a ceasefire but has recently upped its pressure on Israel to call off its planned Rafah ground operation. Secretary of State Antony Blinken shared the news of the new UN resolution during his current Middle East trip.
+The Fed stays its hand.
+The Federal Reserve has opted to leave interest rates unchanged at a range of 5.25% to 5.5% while indicating it still expects cuts later this year. Financial markets reacted positively to the news, with gold, the S&P 500, Nasdaq, and Japan’s Nikkei index all soaring to new highs.
+Irish PM steps down.
+Taoiseach Leo Varadkar has unexpectedly stepped down from his post for unspecified “
+personal and political
+” reasons. His replacement will be selected next month after a party leadership contest.
+US exploring plea deal with Julian Assange.
+The US Justice Department is reportedly exploring whether to allow the WikiLeaks founder to enter a guilty plea in exchange for a reduced sentence and an end to his protracted legal battle. Assange was charged with espionage offences after publishing thousands of classified US military and diplomatic records around 2010.
+Prabowo officially wins Indonesian presidency.
+Indonesia’s electoral commission has confirmed former
+general
+Prabowo Subianto won last month’s election. Prabowo, who remains a controversial figure in part due to allegations of human rights violations during his military career, has pledged to work “
+toward prosperity and justice
+”. He takes office in October.
+TOP STORY
+The US goes all in on Intel with $20B package
+Washington has awarded US chipmaker Intel up to $8.5B in grants and $11B in loans to lift local semiconductor output. The package,
+announced
+yesterday (Wednesday), is the biggest yet under America’s 2022 CHIPS and Science Act.
+The idea is to help drive Intel’s $100B plan for new, expanded, and modernised chip foundries (‘fabs’) across Arizona, Ohio, New Mexico, and Oregon.
+Why?
+While the US still dominates chip design, manufacturing has gradually shifted to Asia - particularly to Taiwan’s TSMC (for advanced chips) and Korea’s Samsung.
+And it’s been
+a wild ride for Intel
+, which was once the world’s largest chipmaker before it started missing opportunities (like mobile and AI chips) while losing its fab edge. It’s now worth just $180B, versus $600B at TSMC and $2.2T at Nvidia.
+So by reversing Intel’s decline, the US hopes to help rebuild the country’s chip manufacturing capabilities and:
+Retain its edge on a tech with massive economic and military implications
+Reduce its reliance on (and vulnerability to) overseas manufacturers
+Back its own ability to curb China’s access to advanced chips, and
+Continue to revive US manufacturing (which also helps in an election year)
+As US
+Secretary of Commerce Gina Raimondo
+put it:
+“We rely on a very small number of factories in Asia for all of our most sophisticated chips, [...] That’s untenable and unacceptable. It’s an economic security problem, it’s a national security problem, and we’re going to change that.”
+So then why back Intel, specifically?
+Intel was always going to be a winner
+from the Chips Act, not because everyone loves Intel, but because it’s the only major US player that retained a manufacturing capability rather than (like Nvidia and AMD) outsource it to Asia.
+So will this work?
+Semiconductors are arguably the most advanced tech that humans have ever made, and folks lucky enough to visit fabs in Taiwan tend to stagger out afterwards, stunned. So this stuff is hard to manufacture, and the US is behind.
+Let’s crunch some numbers (the smaller the size, the more advanced the chip): back in 2006, Intel was the first to make 45 nanometre chips, but it then struggled for years to progress beyond 14nm before hitting today’s 10nm. Meanwhile, China
+surprised
+everyone last year with a 7nm chip, and TSMC is already selling
+3
+nm chips.
+So it’s not just a matter of building a fab in the US and churning out chips. Ask TSMC, which has struggled building a first 4nm plant in Arizona, partly due to:
+High costs
+A lack of nearby suppliers
+Differences in work culture
+A gap in specialised labour, and
+Lags in dishing out Chips Act funds.
+As a US company, Intel may not need to learn all these same lessons the hard way, but others are more structural - e.g., very few folks in the world know how to install the Dutch
+extreme ultraviolet lithography
+machines needed in a fab.
+And it’s those kinds of structural barriers that explain why, just as it took decades for the US to lose its edge, it might take another while to claw it all back.
+INTRIGUE’S TAKE
+Sometimes world history looks like a straight path, while other times it looks like a pendulum swinging back and forth through the centuries.
+This feels more like a pendulum day, with at least two big ones swinging right through this semiconductor story:
+1️⃣ Industrial policy
+: the first English reference to capitalism was
+potentially
+in Alexander Hamilton’s 1791
+vision
+for a government-led shift to a manufacturing economy. The pendulum then swung away from government intervention last century, and now it’s swung back again with the Chips Act and other forms of industrial policy.
+2️⃣ Foreign policy
+: the US has historically lurched between periods of wanting to venture out to slay foes, and other periods of wanting to hunker down and pull up the drawbridge. Reviving its home chipmaking is another possible sign the US is hunkering back down.
+Both pendulums (or ‘pendula’
+🤓
+) look to us like a response to the same thing: a world that’s appearing less friendly to the US.
+Also worth noting:
+Separately, the US is
+investing
+$3.5B in a little-known ‘secure enclave’ program for Intel to produce military and intelligence chips.
+Taiwan accounts for 90% of the world’s production of the most advanced chips.
+SUPPORTED BY QUARTZ DAILY BRIEF
+Gain a deeper understanding of the global economy
+Gain a deeper understanding of the global economy by signing up for the Daily Brief from our friends at Quartz. You’ll join over half a million readers who rely on this free newsletter for their essential briefing on what’s happening in the business world every day. Get your insights today on everything from generative AI to global trade.
+Sign up now
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: At least eight crewmembers have died after a South Korean-flagged chemical
+tanker capsized
+off the coast of Japan during a storm. The vessel ​​was transporting 980 tonnes of acrylic acid from the Japanese port of Himeji to Ulsan in South Korea.
+🇪🇺
+EU
+: European lawmakers have agreed to a provisional deal to
+limit duty-free agricultural imports
+from Ukraine after a series of protests by EU farmers objecting to competition from cheaper Ukrainian grain. The new benchmark will be set using Ukraine's pre-war export figures.
+🇻🇳
+Vietnam
+: President Vo Van Thuong has
+submitted his resignation
+following days of speculation around possible political turmoil in the country. An official statement said Thuong’s departure was linked to unspecified “
+shortcomings
+” that “
+negatively impacted
+public opinion
+”.
+🇨🇦
+Canada
+: Foreign Minister Mélanie Joly has announced Canada will
+halt future weapons exports to Israel
+following a non-binding parliamentary motion. Israeli Foreign Minister Israel Katz called the decision “
+regrettable
+”.
+🇪🇹
+Ethiopia
+: The country’s biggest bank is reportedly attempting to
+recover over $40M in funds
+after a technical glitch allowed customers to withdraw more than their account balance. The issue seems to have been caused by a system update rather than a cyberattack.
+EXTRA INTRIGUE
+What’s going on in other worlds?
+Science
+: Researchers at the University of Amsterdam have caused some buzz after presenting
+initial findings
+that suggest gene-editing technology could eradicate the human immunodeficiency virus (HIV).
+Sports
+: The 13th annual
+African Games
+will wrap this Sunday in Ghana, with Egypt currently leading the total medal count, while Mauritius has dominated the cycling.
+Culture
+: Denmark’s culture minister, Jakob Engel-Schmidt, has asked the organisers of the
+Professional Gamers League
+(PGL) Counter-Strike 2 tournament (which starts today) to ban participation by Russian gamers.
+REPORT OF THE DAY
+Data: World Happiness Report 2024.
+What on earth is going on over in Finland and its Nordic hood?! The
+World Happiness Report
+just dropped, and the happiest countries are (again) all in northern Europe, with Finland in the lead, followed by Denmark, Iceland, and Sweden. We have our theory, but we’d love to hear yours 👇
+DAILY POLL
+Which of the following do you think contributes most towards the making of a happy nation?
+The variables are those identified by the World Happiness Report
+1️⃣ GDP per capita
+2️⃣ High levels of social support
+3️⃣ Healthy life expectancy at birth
+4️⃣ Freedom to make life choices
+5️⃣ Cultivating a generous society
+6️⃣ Perceptions of corruption
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think a wider regional war in central Africa is likely this year?
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️ ⚔️ Yes, tensions are high and armed conflicts are already breaking out (43%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🤔
+Continued insurgencies yes, but nothing wider for now (50%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 🕊️ Instability will linger in some parts, but Africa will soar (5%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (1%)
+Your two cents:
+🤔
+K.L:
+“Large-scale wars are so 20th century. Way too costly and an unreliable way of getting what you want (just ask Putin). Insurgencies and asymmetrical warfare are far cheaper, harder to counter and more effective at disrupting the enemy nowadays.”
+✍️
+H.R:
+“So long as superpower countries keep involving themselves in the conflict for their own economic benefit it’ll be difficult for the DRC and its neighbours to come to a resolution.”
+🕊️
+A.W.K.B:
+“Despite the DRC situation, Africa on the whole is on the rise. Countries are more willing to cooperate on major issues than ever before. An AU-brokered DRC peace plan, for example, is not out of the question.”
+Share the Intrigue

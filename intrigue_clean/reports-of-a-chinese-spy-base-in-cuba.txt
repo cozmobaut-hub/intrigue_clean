@@ -1,0 +1,229 @@
+URL: https://archives.internationalintrigue.io/p/new-template-partially-uploaded-12june-june-2023
+Title: 🌍 Reports of a Chinese spy base in Cuba
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+It’s been a
+big few days for former world leaders: one’s been
+hospitalised
+in Italy, another’s been
+indicted
+in the US, a third has abruptly
+quit parliament
+in the UK, and a fourth in New Zealand has signed a huge
+book deal
+(after being knighted last week). And this is all before the milk splashed your Monday morning cheerios.
+Today’s briefing is a 5 min read:
+🇨🇺
+A mysterious Chinese spy station in
+Cuba
+.
+🌍
+The clock ticks for the latest
+cyber
+-ransom victims
+.
+➕
+Plus:
+Norway loves EVs, how the papers are covering the Sunak-Biden meeting, and Apple takes its ducking time.
+⏱️ Around the world in sixty seconds
+🇹🇲
+Turkmenistan
+: The US will work with Turkmenistan to help
+cut its methane emissions
+. The methane leaks from two Turkmen gas fields alone are greater than the UK’s annual carbon emissions.
+🇮🇹
+Italy
+: Rome has agreed to a
+major overhaul of EU migration policy
+. Under the new deal, states will choose between accepting a certain number of asylum seekers or helping build migration facilities elsewhere.
+🇧🇩
+Bangladesh
+: Officials have closed thousands of schools in response to the country’s
+worst heat wave
+in decades. The high temperatures are also leading to unprecedented electricity cuts.
+🇭🇳
+Honduras
+: President Xiomara Castro
+arrived in China
+on Friday (9 June) for her first visit since switching Honduran recognition from Taiwan in March. Castro is seeking to attract Chinese investment for Honduras.
+🇮🇷
+Iran
+: US and Iranian officials have denied reports they’re
+moving towards a deal
+to limit Iran’s uranium enrichment in exchange for US sanctions relief. Israel says it won’t be bound by any US-Iran agreement.
+🇨🇺
+Cuba | Intelligence & security
+Reports of a Chinese spy base in Cuba
+China and Cuba have reportedly agreed to build a secret “eavesdropping facility” in Cuba to intercept US communications, according to
+The Wall Street Journal
+(WSJ).
+But the word
+“reportedly”
+is doing a fair bit of heavy lifting in that sentence. Both
+Cuba
+and
+China
+were quick to deny the report, which is hardly surprising. But then
+US officials
+started denying it, too. So what’s going on here?
+First, there’s nothing new about spies in Cuba
+:
+🇷🇺
+Russia ran its largest signals intel facility in Lourdes until 2001
+🇮🇷
+Iran once used Cuba to
+jam
+critical broadcasts out of the US
+🇨🇺
+A US spook just did two decades in jail for
+spying for Cuba
+, and
+🇺🇸
+The US has intel capabilities on its Guantanamo base there
+But there’s not even much new about
+China’s
+spies in Cuba
+:
+📡
+It’s long had
+access
+to an intel facility at Santiago de Cuba, and
+🏗️ It was already
+rumoured
+to be upgrading another one at Bejucal
+So then… what’s the big deal?
+First, it’s China: America’s top
+“
+strategic competitor
+”
+Second, it’s Cuba: the last time a strategic competitor aimed something at the US from so close, we almost had a
+nuclear war
+And third, the WSJ said China was building an
+entirely new base
+Things got a
+little
+clearer over the weekend:
+a US official
+clarified
+that China upgraded its intel facilities in Cuba back in 2019. So it’s possible the WSJ report was referring to this 2019 renovation.
+Intrigue’s take:
+Just as we were recovering from
+balloon-gate
+, this story breaks. And while it seems maybe there’s no
+new
+Chinese intel facility in Cuba after all, there’s a bigger picture here.
+Like the spy balloon saga, this latest story is a reminder that Washington’s rivalry with Beijing is no longer limited to the far side of the Pacific Ocean.
+Whether it’s floating 22km above the US mainland, or sitting 160km off the Florida coast, or steaming through the South China Sea… US-China competition is global.
+Also worth noting:
+China is now Cuba’s
+main trade partner and tech provider
+, and Cuban President Diaz met Chinese President Xi
+in Beijing
+last year.
+The UN General Assembly has passed
+a resolution
+every year since 1992 calling for the end of the U.S. embargo on Cuba.
+📰
+How newspapers covered…
+The meeting between UK Prime Minister Rishi Sunak and US President Joe Biden:
+London, UK
+“Sunak talks up free trade on his way to Washington DC to meet Biden”
+Washington DC, US
+“Biden, Sunak Announce Partnership on Clean Energy, New Technologies”
+Kyiv, Ukraine
+“Biden and Sunak affirm joint support for Ukraine during meeting at White House”
+Today’s newsletter is supported by: atlas.co
+Beautiful, custom travel maps - starting at $20.
+Atlas is the only map company that lets you add your custom route to your personalised map. The process is simple:
+Select your trip type
+Style your map, move/edit your labels
+Select your size and material type and submit your order!
+Make your map today.
+🌍
+Global | Cybersecurity
+Russia-based cyber gang claims massive hack
+A notorious Russia-based cybercrime gang (‘Clop’) is
+threatening
+to publish data stolen from “hundreds” of organisations this Wednesday (14 June), unless the victims start ransom negotiations beforehand.
+For its attack, Clop (
+again
+) exploited a vulnerability in a popular file transfer platform.
+So its list of victims is long and getting longer. It includes the BBC, British Airways, Canada’s Nova Scotia province, the US state of Illinois, and more.
+Intrigue’s take:
+Meanwhile, the list of options for victims is grimly short:
+Refuse to pay, and watch reams of your data go public, or
+Pay the ransom, but embolden cyber criminals in the process.
+For everyone else, the lesson is clear and getting clearer: yes, cybersecurity is expensive. But
+not
+having it is even costlier.
+Also worth noting:
+Clop
+issued instructions to victims
+via a blog post. It’s possible the sheer number of victims made individual ransom emails impractical.
+Clop
+conducted its attack
+over the Memorial Day weekend. Hackers often attack during holidays when staffing is reduced.
+🎧 Today on
+Intrigue Outloud
+Getty Images
+What does a 2,700km ‘wall of sand’ have to do with a decades long territorial dispute?
+Find out here!
+➕
+Extra Intrigue
+Your weekly roundup of the world’s more extravagant news:
+Japan’s opposition politicians
+served beer out of backpacks
+during a
+Democratic Party for the People
+fundraising rally.
+Three Brits were rescued after their
+giant inflatable duck
+(nicknamed Quackers) drifted out to sea.
+A cocker spaniel in Scotland broke a Guinness World Record by dropping
+23 coins into a piggy bank in 1 minute
+.
+Three
+giant seagulls charged unsuspecting passers-by
+in Singapore and even gate-crashed a job interview (they were operated by Australian puppeteers).
+Apple will
+finally stop autocorrecting ‘ducking’
+(about ducking time).
+🗳️ Poll time!
+Should companies pay cyber ransoms?
+👍 Yes, the ransoms are tiny compared to the cost of not paying
+😨 No, paying the ransom just perpetuates the cycle
+Login
+or
+Subscribe
+to participate
+📊
+Chart of the day
+Credits: Chartr
+Nobody loves electric vehicles more than Norway.
+The Nordic country has been topping the charts for years when it comes to EV sales per capita. China and the US rank 15th and 17th, respectively.
+Thursday’s poll:
+Do you think China's GDP growth rates have peaked?
+🟩
+🟩
+🟩
+⬜️⬜️
+💸
+Yes, the 10% growth rates of the 2010s are a thing of the past (77%)
+🟨
+🟨
+⬜️⬜️⬜️
+🙏
+No, have a little faith  (22%)
+⬜️⬜️⬜️⬜️⬜️ ✍️ Other, write in!  (1%)
+Your two cents
+:
+💸
+N.B:
+“China has major demographic problems that can not be corrected. Their economy will not continue to grow at rates seen over the last decade or two.”
+🙏
+M.G:
+“[China] continues to show prescient forethought about emerging technologies. They appear to be ready to dominate EVs for the next 20+ years, which will lead their economy into the latter 21st century.”
+✍️
+C.M:
+“You can't trust the numbers coming out of China, so saying whether something has peaked or not is not possible.”

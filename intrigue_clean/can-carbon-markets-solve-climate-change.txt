@@ -1,0 +1,161 @@
+URL: https://archives.internationalintrigue.io/p/can-carbon-markets-solve-climate-change
+Title: Can carbon markets solve climate change?
+
+Hi there {{ First name | Intriguer }}.
+There’s nothing worse than unnecessary verbosity on a Friday. 😉
+Today’s briefing is a ~5.0 min read:
+🌱
+Countdown to COP
+: How carbon markets of the future might work.
+➕ Plus:
+A tentative peace in Ethiopia, leaders meet at the Arab League Summit, and Benjamin Netanyahu mounts a comeback.
+📰 GLOBAL HEADLINES
+Stories:
+The Irish Times
+,
+Milenio
+,
+Liberty Times
+,
+Al Watan
+,
+Mozambique News Agency
+Our take
+: Of the almost 90 newspapers we looked at from around the globe, we found only one front-page story about the start of the COP27 climate conference in Egypt this Sunday, and it was in Egyptian newspaper Al-Ahram. Perhaps set your expectations for the conference accordingly.
+🌱
+COUNTDOWN TO COP 27
+This will be the last instalment of our ‘Countdown to COP27’ series because the summit begins this Sunday! We’ll update you on any significant developments of what is shaping up to be a fairly low-key summit.
+Carbon markets - what are they, and how do they work?
+In brief:
+Indonesia wants to use blockchain technology to build its new emissions trading scheme, allowing companies to trade carbon credits on the open market more efficiently.
+Some experts believe that technological advances alone won’t make carbon trading schemes more effective unless they’re coupled with an increase in the price of carbon credits.
+The news
+Techcrunch reported this week
+that the Indonesia Stock Exchange plans to work with a Singaporean startup called Metaverse Green Exchange to "
+build a carbon registry and exchange
+".
+While blockchain technology has been touted as the solution to just about everything but your uncle’s gout, it could solve what’s known as the ‘
+double counting problem
+’ in carbon markets.
+A licence to pollute
+‘Carbon credits’ or ‘emission credits’ are essentially permits to emit pollution. Companies earn credits by pursuing pollution-reducing projects and can then sell those credits to other firms struggling to reduce their own carbon emissions.
+For example, electric carmaker Tesla
+has made billions
+by selling its carbon credits to higher-polluting car manufacturers looking to meet their emission targets and avoid hefty fines.
+👩‍💻 How technology can help:
+Blockchain technology can be used to create an immutable, tamper-proof record of the ownership of emissions credits, which in turn will help build trust in carbon emissions trading schemes as a whole.
+Carbon markets sound good in theory...
+...but some experts aren't fans. For example, climate governance expert Professor
+Jessica F. Green
+:
+❝
+"Governments, nongovernmental organizations and companies now have about a quarter-century of experience in carbon trading ... [t]o date the record is very mixed, showing the limited ability of these markets to produce significant reductions."
+In a
+research paper
+published last year assessing the impact of carbon markets, Professor Green found that:
+Carbon markets
+only reduce emissions by 0%-2% per year on average.
+Carbon
+taxes
+are more effective in lowering emissions.
+Can we make carbon markets more effective?
+Three IMF analysts say yes, but we must
+increase the price of emissions
+.
+One ton of carbon dioxide currently goes for a measly US$6
+(a Halloween pumpkin purchased at our local grocery store last week cost $7).
+To make a dent in global warming, the IMF estimates that the per-ton price needs to hit  $75 by 2030.
+As the IMF analysts note:
+❝
+“Carbon pricing, in one form or another, is likely to be an essential element of mitigation strategies as the world transitions to net zero over the next three decades.”
+The perfect is the enemy of the good:
+Indonesia’s plan to use blockchain technology to improve carbon markets might not succeed, but it is precisely the kind of experimentation that could help the world meet its emissions reduction targets.
+🤝 SPONSORED BY FINNY
+Finny sends you free personal finance insights so you can make better money moves 💰.
+When it comes down to learning good money habits, there’s so much jargon out there. Finny's newsletter, The Gist, is different.
+Twice a week, you’ll get simple 5-minute breakdowns of top money trends, personal finance, and investing tips delivered right to your inbox—for free.
+Sign up today to get the insights you need to build good money habits.
+Subscribe for free!
+🔦 REGIONAL SPOTLIGHT
+Africa & the Middle East
+🇩🇿 Algeria
+Leaders across the Middle East and North Africa gathered in Algeria on Tuesday and Wednesday for the first
+Arab League Summit
+in three years.
+Talks primarily focused on the regional cost-of-living and humanitarian crises that have worsened since the start of the Russo-Ukraine War.
+Leaders remain sharply divided over issues like normalisation with Israel and whether or not to re-welcome Syria, which has been barred from the group since 2011.
+🇬🇶 Equatorial Guinea
+Equatorial Guinea has
+closed its land borders
+with Cameroon and Gabon ahead of its election on 20 November.
+According to Vice President Teodoro Nguema Obiang Mangue, the measure is designed to
+“prevent the infiltration of groups who may attempt to destabilise the campaign.”
+Despite the negative impact on cross-border trade, Equatoguinean officials have regularly closed the country’s land border since an alleged coup attempt in 2017.
+🇪🇹 Ethiopia
+Good news alert! The Ethiopian government and rebels in the country’s northern Tigray region have agreed to “
+a permanent cessation of hostilities
+.
+”
+This is big news: if the truce holds, it will end the two-year civil war that has claimed the lives of over half a million people.
+The agreement includes provisions to provide humanitarian assistance to Tigray, and re-integrate its regional assembly into the central government.
+🇸🇦 Saudi Arabia
+Intelligence officials in Saudi Arabia warned that Iran might be
+planning an attack
+on the Kingdom.
+The report, which led American defence officials to place troops on high alert, speculates that Iran would use an attack to distract from domestic turmoil.
+Iran has denied the allegation.
+🇸🇴 Somalia
+More than 100 people were
+killed in a car bomb
+attack outside the Ministry of Education in Somalia’s capital, Mogadishu, last Saturday.
+The Al-Qaeda-backed terrorist group Al Shabab claimed the attack, the deadliest since 600 people were killed in Mogadishu in 2017.
+The attack comes amid rising tensions between Al Shabab and government-backed militias.
+🗞 IN OTHER NEWS...
+Boss Bibi is back
+Benjamin Netanyahu was Israel's Prime Minister from 1996-1999 and 2009-2021, and is expected to be Prime Minister again.
+Miss me?
+After five elections in four years and a mere 17 months out of office, Benjamin 'Bibi' Netanyahu is set to return as Israel’s Prime Minister.
+The official governing coalition will not be formed for several days
+, but his right-wing nationalist and religious partners have secured a mandate by winning at least 64 out of 120 seats.
+The outgoing pluralist coalition - which for the first time included an Arab party - won only 51 seats, with the stalwart left-wing party Meretz ousted from Israel’s parliament for the first time since 1992.
+Controversial new faces:
+The new governing coalition will likely include relative political newcomer Itamar Ben-Gvir, whose Religious Zionism Party (RZP) won the third-most votes.
+Members of the far-right RZP frequently call for Israel to annex the West Bank
+, and
+critics worry
+that including them in the government could undermine Israel’s
+“fragile democratic character.”
+What it means...
+1. 🕊️ ...for the peace process
+Even if Bibi has tepidly supported a two-state solution in the past, coalition partners like Ben-Gvir will almost certainly put the kibosh on peace talks.
+According to Palestinian analyst
+Reham Owda
+:
+❝
+"With Netanyahu, the slogan will be: no peace, no two-state solution, more settlement and the focus will be on Iran […] His biggest challenge will be how to regain calm in the West Bank, face Palestinian escalating resistance, and protect settlements and settlers."
+2. 🤝 ...for normalisation with neighbours
+Netanyahu oversaw the initial process of normalising ties with several former adversaries in the Middle East. However, the probable inclusion of right-wing extremists like Ben-Gvir
+is causing concern in the Gulf.
+Even the Biden Administration
+is
+leaning towards not engaging with Ben-Gvir
+if he is made a minister.
+It looks as though Bibi’s 16th, 17th, 18th, and 19th years as Israel’s Prime Minister (assuming the government lasts that long) may be his most consequential yet.
+🍸 GAME TIME!
+Have a crack at the Friday Intrigue crossword
+here
+. It’s hard, but the answers are at the bottom of the newsletter if you get stuck.
+😬 CORRECTIONS
+To the eagle-eyed Intriguers who wrote in yesterday to point out that we referred to the upcoming US midterms as the '2020 midterms’, we apologise. We have reset the counter accordingly.
+What did you think of today's newsletter?
+😍 Loved it!
+🫤 Meh.
+👎 It wasn't for me.
+Login
+or
+Subscribe
+to participate
+Answers: Across
+- 2. Mongolian 3. Egyptian 6. Mexico 8. United Kingdom 9. Persian 10 Italy
+Down
+- 1. United States 4. China 5. Germany 7. Australia

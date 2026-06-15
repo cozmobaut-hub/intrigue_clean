@@ -1,0 +1,203 @@
+URL: https://archives.internationalintrigue.io/p/friday-07ae
+Title: 🌎 Four global lessons from earnings week
+
+IN TODAY’S EDITION
+1️⃣ What earnings week tells us about the world
+2️⃣ Intrigue’s weekend recommendations
+3️⃣ Boss of the day
+Hi {{ First name | Intriguer }}.
+I love memes. Do you love memes? I do.
+Aside from being a very public form of humour-therapy to help process the 14 years I spent (and loved) on the inside of diplomacy, memes have also helped connect me with many of you, not to mention some intriguing folks out there on the world stage.
+One is a guy who’s personally navigated some of the world’s toughest geopolitical challenges, whether it’s life as a NATO ally right next door to Russia, or grappling with China’s economic coercion after backing democratic Taiwan. I’m talking, of course, about Lithuania’s high-profile young foreign minister who’s just stepped back from politics to take a break:
+Gabrielius Landsbergis
+.
+So I was delighted when Gabrielius accepted our invite for
+a candid online chat with Intrigue
+— it’s Wed Feb 12th, 10.30am ET, and free to
+register here
+. Don’t miss it.
+Now, let’s get you the latest on what some big earnings calls can tell us about the world this week.
+PS
+- Will you be at the upcoming
+Munich Security Conference
+? Intrigue will be there too, so reach out and maybe we can grab a frozen yoghurt or something?
+THE HEADLINES
+Gold hits record high on trade war fears.
+Gold has briefly touched the $2,800 per ounce
+threshold for the first time after Donald Trump vowed to follow through with plans to impose tariffs on Canada, Mexico, and China tomorrow (Saturday). Trump is considering exempting oil from the 25% tariffs on his neighbours, who are America’s #1 (Canada) and #2 (Mexico) external suppliers.
+China is building a mega military command centre.
+The new complex near Beijing is slated to be
+ten times bigger than the Pentagon
+. Heavy construction kicked off last year, as leader Xi Jinping pursues the modernisation and expansion of the People’s Liberation Army ahead of its centenary in 2027.
+Sweden probes foreign links in anti-Islam activist death.
+Security services are investigating Wednesday’s assassination of Salwan Momika in Stockholm, after determining there’s a “
+risk that there were
+links to foreign powers
+”. Momika was known for his Quran burnings, which nearly derailed Sweden’s NATO bid due to objections from Turkey.
+Myanmar junta delays elections, again.
+In the twist everyone saw coming, the ruling military junta has extended the ongoing
+state of emergency for another six months
+, citing the ongoing civil war with ethnic militias. The military rulers are still promising to hold a vote in 2025, despite now controlling less than a third of the country.
+TOP STORY
+Four global lessons from earnings week
+Earnings calls used to be the exclusive domain of cigar-chomping capitalists, perhaps yelling “
+sell
+” at some quivering underling off-camera while an old-school ticker-tape hums.
+But we can confirm cigar-chomping
+diplomats
+also now follow this stuff — or should. If you’re willing to sift through the euphemisms and spin, these corporate events are full of insights into how influential people see the world and what might be coming next.
+So, here are four of the most intriguing quotes from the latest Q4 earnings calls:
+“
+At Tesla, we're making sure that we can continue to manufacture our stuff even in the event of geopolitical tensions rising to very high levels
+” - Elon Musk, Tesla
+Tesla’s earnings report for 2024 missed forecasts, with revenue up 1% and profits down. But while Tesla stocks initially dipped on the news, they then did something odd: they went back up. It’s
+a bet that Musk can execute
+on his self-driving and robocab vision.
+And while that’s an interesting reminder of the pace at which tech continues to disrupt (or try to disrupt)
+inherently geopolitical industries
+like auto and energy, we were more interested in one of Musk’s lines towards the end of Tesla’s
+earnings call
+, when he pledged to continue EV production no matter what the world might throw.
+His comments come just weeks after Tesla completed its
+second mega-factory
+on the outskirts of Shanghai, and just hours before 1 February, the Trump Administration’s mooted deadline to impose additional 10% tariff on all China-made goods.
+While Musk’s initial
+Shanghai play
+was as a low-cost way to ramp up manufacturing, it’s also now looking more like a way to localise production in the world’s largest EV market and thereby duck escalating US-China tariffs. So rather than diversifying away from China, he’s doubling down. Realistically, that’ll also risk Musk — a Trump backer and confidant — becoming even more vulnerable to pressure from Beijing. And speaking of which…
+“
+Taiwan will always be first
+” - C.C Wei, TSMC
+Across the Taiwan Strait, the democratic island just relaxed a rule against its chipmakers building overseas fabs with its
+latest
+domestic tech.
+The law has long guarded Taiwan’s tech edge, which in turn pays economic and security dividends. But
+the thinking has shifted
+as TSMC, Taiwan’s main chip giant, has explored building new fabs in the US, Japan, and Germany — it’s partly a response to Western pleas for help to secure their chip supplies. It’s also partly just smart diversification.
+But while there’s always been
+a fear that eroding the West’s dependence on Taiwan
+could weaken the West’s support for Taiwan (which China continues to
+threaten
+), TSMC’s CEO revealed some of his thinking on that front during the company’s latest
+earnings call
+: “
+the initial phase of the ramping-up always comes from the fab close to R&D
+”. And guess where TSMC’s R&D happens? Yes, in Taiwan. Ie, even when TSMC makes chips abroad, it’s still merely rolling something out that’s really been pioneered in Taiwan.
+“
+We continue to work with the regulators and will release it as soon as we can
+” - Tim Cook, Apple
+Which regulators, Timbo? He’s talking about the ones in Beijing. That’s because, while Apple recorded 4% revenue growth, dig deeper and you’ll see some interesting nuance.
+The big one for us is the
+11.1% decline in Apple’s China sales
+, which Cook partly attributes above to the fact that China’s regulators haven’t yet green-lit sales of Apple’s new suite of AI products, which are driving sales elsewhere. It’s a reminder how governments can really hit your bottom line. But yes, governments can also boost it: Apple is hoping to benefit from a new Beijing subsidy targeting consumer electronics.
+“
+I am confident of the 156, and I think it will come from strong demand from the U.S. government and from our international partners
+” - James Taiclet, CEO, Lockheed Martin
+156, you say? That’s the number of F-35 fighter jets Lockheed aims to keep producing each year. But shares in Lockheed Martin fell this week after the company announced
+lower profits
+, partly due to questions around the feasibility of that 156 number.
+With all the wars and rumours of wars, you might think these are boom times for defence players. And yes, they are — global defence spending keeps smashing its own records.
+So what’s going on?
+The issue for Lockheed is that
+a)
+it’s struggling to keep up with demand (particularly its F-35 software upgrade), and
+b)
+some also question the durability of that demand.
+But the Lockheed CEO is bullish on ironing out the supply issues, and is confident F-35 demand will persist: “
+part of deterrence theory is that you have to have the capability to make the adversary reconsider an adverse action against you.”
+INTRIGUE’S TAKE
+So there you have it, folks — whether you’re selling some sweet wheels, a cool phone, an angel of
+death
+deterrence, or the high-tech chips that power them all, you’re now bumping up against some pretty similar issues: costs, supply chains, government decisions, and wars.
+Also worth noting:
+The US government approved the sale of
+32 F-35 jets to NATO ally Romania
+last September, in a deal worth over $7B.
+And while we’re talking about the F-35, Lockheed’s CEO also flagged the jet can now control eight unmanned drones, and that the world’s top drone producer (China) is also boosting investment in its own answer to the F-35. It’s an interesting — if unsurprising — answer to speculation about the F-35’s future.
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: A new documentary released on North Korean television appears to have let slip
+where DPRK soldiers trained
+before deploying to Russia: Koksan base, located 85km east of Pyongyang. The revelation could help analysts monitor for signs of additional deployments.
+🇳🇴
+Norway
+: The
+Norwegian government collapsed this week
+after discussions over EU energy directives pushed its Euro-sceptic party to ditch the ruling coalition. While Norway isn’t an EU member, its European Economic Area agreement requires it to adopt certain EU laws, something the departing party opposed.
+🇭🇰
+Hong Kong
+: Following the introduction of a US bill that could see Hong Kong judges sanctioned by Washington, a Hong Kong lawmaker has suggested
+Beijing could just take over national security trials
+instead. But that’s led to a debate, with others warning that more mainland involvement in the city’s legal system could just invite more Western sanctions.
+🇳🇮
+Nicaragua
+: Long-time strongman Daniel Ortega has further
+cemented his power
+after his loyal legislature extended presidential terms and granted him more influence over the media. The changes also allow Ortega to promote his wife (now his VP and widely seen as the power behind the throne) to
+“co-president”.
+🇨🇩
+DR Congo
+: Protestors have attacked several embassies
+in the DR Congo’s capital of Kinshasa
+this week, voicing anger at what they see as the international community’s failure to halt
+rebel advances in the east
+. The embassies of France, Uganda, Belgium, Kenya, the Netherlands, the US and Rwanda (which backs the rebels) all reported damage, as the UN Security Council continues to weigh up its options.
+EXTRA INTRIGUE
+Intrigue’s weekend recommendations
+Click through
+this
+interactive story
+on what China’s Year of the Snake means for you.
+Watch
+Marco Rubio’s first
+long-form interview
+as secretary of state, covering everything from Colombia and Panama to Russia, China, and Greenland.
+Cook
+chocolate sesame dumplings
+, a gluten-free treat that could somehow satisfy both your savoury and sweet cravings (you may need to open an account).
+And read
+how Vietnam has deployed its defence ministry to help
+build robots to meet the growing e-commerce
+demand.
+BOSS OF THE DAY
+Credits: Strait Times.
+While most CEOs played their earnings week the usual way, with PR teams pumping the airwaves with carefully-worded, focus group-tested lines… one CEO in China opted for something a little different. A lot different, actually.
+Henan Mining Group’s Cui Peijun was so pumped by his profit of 260 million yuan (~$36M), he decided to spread the joy by dumping $32M in cash onto a massive table, then
+designing some team-based games
+for his employees to compete for the spoils.
+Seriously, the coolest prize we got in the foreign service was a certificate and some Domino’s.
+FRIDAY POLL
+It’s independence day for the tiny Pacific Island nation of Nauru (pop: 12,000)
+Which country recently struck a big security deal with Nauru?
+China
+Australia
+New Zealand
+Japan
+Login
+or
+Subscribe
+to participate
+Which natural resource once made Nauru one of the world's richest countries per capita?
+Phosphate
+Gold
+Oil
+Diamonds
+Login
+or
+Subscribe
+to participate
+What is the name of Nauru's de facto capital city?
+Nauru City
+Palikir
+Kiribati
+Yaren
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Corrections corner
+Thanks to those Intriguers who pointed out yesterday’s edition made a reference to Russia’s Syrian bases being just across the Caribbean rather than the Mediterranean
+😭

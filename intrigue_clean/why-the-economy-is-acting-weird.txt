@@ -1,0 +1,219 @@
+URL: https://archives.internationalintrigue.io/p/why-economy-acting-weird
+Title: 🌍 Why the economy is acting weird
+
+Today’s briefing:
+— Why the economy is acting weird
+— The best way to go missing
+— This celeb wants to be a diplomat
+Good morning {{first_name | Intriguer}}
+. It might’ve been professor and educator William Purkey who first coined the classic line about how “y
+ou've gotta dance like there's nobody watching
+”.
+Purkey passed away at 94 last year, but I can’t help but wonder how he’d feel about a Wall Street giant now extrapolating his famed adage out to “
+invest like the future is watching
+”.
+Our future selves will either chuckle at today’s gullibility or weep at our scepticism, but in the meantime, all we can do is brief you today on
+some weird things in the economy
+.
+P.S
+: We’re hosting our annual soirée with the Australian Embassy in Washington, D.C. on November 20th, discussing how AI is reshaping geopolitics and power.
+Sign up as seats will go fast!
+Number of the day
+6
+That’s how many US House seats are up for grabs in elections tomorrow (Tuesday), while two states will elect new governors and lawmakers (New Jersey and Virginia). Some ~200 cities will also elect mayors (including
+New York
+, Detroit, Seattle, Boston, and Miami).
+It’s the economy, stupid
+Sometimes we find ourselves pondering why the Duolingo owl is so passive-aggressive. Other days we end up wondering
+what's
+really
+going on with our world’s economy
+.
+Today falls into the second category for
+five reasons
+, starting with...
+Three million
+That's
+how many cars will get repossessed
+in the US this year, the most in recorded history (yes, more than during the Great Recession). And that's got tongues wagging because auto-loans are the second-largest consumer debt category after mortgages.
+Now, maybe this is just a subprime (struggling) household thing, with little broader risk given auto-loans are barely an eighth the size of mortgages. Or maybe it’s cyclical. Maybe it’s Maybelline. Or maybe (in a 2008 repeat) it's a canary in America's economic coalmine.
+Anyway, speaking of the automotive industry…
+"
+When you see one cockroach, there's probably more
+" - Jamie Dimon, CEO of JPMorgan
+That was the billionaire Wall St titan's answer when a journalist recently asked about the collapse of
+an obscure sub-prime auto-lender
+out of Texas last month.
+And that collapse itself was interesting, not so much because of how bad the lender's business model was (it sucked), but because of
+who got burnt
+when it imploded: some of the biggest names in finance had loaned these cowboys more than half a billion dollars! We're talking shops like JPMorgan, Barclays, and Fifth Third (with 1,100 branches).
+So for some of the sharpest (or at least best-paid?) minds on Wall Street to lose steaming piles of cash on such an obviously-bad deal, it's sparking
+worries about America's broader private credit boom
+(recap: as traditional banks tightened lending after 2008, money pivoted into the high-yield, high-risk, and low-regulation world of direct lending).
+Now zooming out a little, the boffins at the IMF just highlighted three more vulnerabilities in their latest
+Global Financial Stability Report
+, starting with...
+"
+Well above fundamentals
+"
+That's how the IMF described some asset valuations, including US tech stocks. Of course, those valuations might reflect genuine optimism around AI's transformative potential (we
+explored
+the contrarian 'AI bubble' case on Thursday).
+The thing is, if sentiment suddenly shifts (on the fundamentals or not), there’s the risk of what the IMF charmingly calls a "
+disorderly
+" correction (something Intrigue would non-charmingly call a sh!tshow).
+And sure, there are ordinarily ways to hedge against that sort of outcome, but...
+"
+One of the most troubling shifts is the potential erosion of the hedging role of longer-term bonds
+"
+That hedge role is weakening for all kinds of reasons, like more supply (ie more government borrowing) and weaker fundamentals (ie weaker ability to repay). The result is bond markets aren't behaving as the ideal hedge they used to be. And a weaker hedge means (say) a tech or private credit crash might cascade more rapidly across the economy.
+And that process can now play out even more quickly, because there are...
+"
+Stronger interconnections between banks and nonbank financial institutions (NBFIs)
+"
+As we hinted above in the 'private credit boom' bit, there are increasingly blurred lines between banks and NBFIs (asset managers, hedge funds, private credit lenders etc). The result is both banks and NBFIs often hold similar exposures, including via bonds — eg, many NBFIs hold massive bond positions backed by bank loans.
+The result of these blurring lines is, rather than
+absorbing
+shocks, bonds can (via NBFIs) now transmit them.
+So that's why Uncle Gus falling behind on his F-150 repayments might auger our next crash. Or maybe not?
+Intrigue’s Take
+The IMF report uses some evocative language, arguing that "
+global financial markets appear calm, but beneath the surface, subtle shifts are taking place.
+"
+We explore those subtle shifts here every day, ranging from tech and energy through to security and supply chains. But across them all, a few common themes emerge.
+First
+, there’s our
+two-speed world
+, both…
+Within
+economies (running hot on optimism and liquidity, while also straining under debt and inflation), and…
+Across
+economies (the various haves and have-nots across AI, solar, et al).
+Second
+, there’s the way
+stability often masks transition
+: our jobs, repayments, rates, politics, and security can seem stable and inevitable until they’re not.
+And
+third
+, there’s the way these themes all
+increasingly interconnect
+, with one more easily snowballing into the other: a world gripped in transition — whether tech, political, energy, or economic — seems less likely to rush to the aid of Sudan or anyone else.
+Anyway, we remain truly hopeless optimists, but it’s good to anchor that optimism in reality, even if it’s acting weird lately.
+Meanwhile, elsewhere…
+🇺🇦
+UKRAINE  — Key town in the balance.
+Ukraine has deployed special forces in an attempt to stop Russian troops seizing the eastern city of Pokrovsk. The city lies on a key military supply route and would be Russia’s most significant gain since the fall of Avdiivka 18 months ago. (
+Guardian
+)
+🇲🇽
+MEXICO — Assassinated.
+President Claudia Sheinbaum has promised justice will prevail, after a gunman shot dead an outspoken anti-crime mayor in the middle of his Michoacán town’s
+Day of the Dead
+celebrations. (
+NYT
+$)
+Comment
+: Carlos Manzo said he didn’t want to be just another name on Mexico’s long list of mayors gunned down by organised crime, and the response to his death might prove a vindication: in addition to all the international attention, it’s triggered fiery local protests repeating his demands for an end to violence and corruption.
+🇳🇬
+NIGERIA — Another US intervention?
+President Tinubu has pushed back on Donald Trump’s
+tweet
+that if Nigeria “
+continues to allow the killing of Christians
+”, the US will “
+wipe out the Islamic Terrorists who are committing these horrible atrocities.
+” Tinubu says the US position is inaccurate and doesn’t reflect Nigeria’s efforts to stop the violence, though says he welcomes US help in tackling Nigeria’s insecurity. (
+AfricaNews
+)
+Comment:
+Groups like Boko Haram and the Islamic State in West Africa Province have killed tens of thousands and displaced millions in their efforts to establish a caliphate since 2009. It’s one of several overlapping threats that military operations managed to semi-curb in the mid 2010s, but it’s resurged in the last couple of years. So rather than foreshadowing an actual US operation, Trump’s tweet looks more like an effort to pressure Nigeria into curbing the violence again, which might be more feasible now that Nigeria’s economy seems to be stabilising.
+🇨🇳
+CHINA — Talk to me.
+The US and China have agreed to revive direct military-to-military communications dormant since Nancy Pelosi’s visit to Taiwan in 2022. Defence Secretary Hegseth says it’s to “
+deconflict and deescalate any problems that arise
+”. (
+Hegseth via X
+)
+Comment:
+There’s lots of speculation on whether the US might be tweaking its approach to China: for example, Hegseth just highlighted the need for a “balance of power”, while “co-existence” is getting another run after last month’s RAND report. But Hegseth also just urged Southeast Asian nations to beef up their navies to counter China’s “destabilising” actions, while warning about China’s efforts to “dominate” the region. The conflicting messages — together with this revived comms channel above — look to us more like a continuation (rather than abandoning) of US attempts to deter without destabilising, though with a more clear-eyed sense of China’s strengths.
+🇵🇭
+PHILIPPINES
+— Let’s train together.
+Canada and the Philippines have signed a pact to hold more joint military exercises. (
+Independent
+)
+Comment:
+It’s a way to help counter China’s push in the South China Sea, and beef up Canada’s military presence after years of under-investment.
+🇮🇩
+INDONESIA — Derailed.
+Jakarta is now in talks to restructure its loans from China, as the new Beijing-backed bullet train from Jakarta to Bandung continues to rack up losses. (
+FT
+$)
+Comment
+: Nobody likes a told-you-so, but we flagged this debt risk when the ‘WHOOSH’ train (a Bahasa acronym) first opened back in 2023. Both countries now have a lot riding on finding a quick solution. Otherwise, this all risks confirming both a) the region’s fears that China’s infrastructure largesse comes with too much debt; and b) the fears of President Prabowo’s critics who question the sustainability of his big-spending agenda (even if this particular project predates his presidency).
+🇨🇺
+CUBA — Minister charged.
+Authorities have charged former economy minister Alejandro Gil with espionage and embezzlement, without mentioning the country he allegedly helped. (
+Al Jazeera
+)
+Comment
+: The Cubans are most likely nodding at possible US involvement here, though Gil has been on the outer since his big 2021 monetary reforms backfired amid Cuba’s economic collapse. So the accusations might just be the figleaf for a purge.
+Extra Intrigue
+🤣
+Your weekly roundup of the web’s lighter news
+It turns out a missing man in Germany simply
+fell out a pub window
+and into a butcher’s shop, where police found him quietly snacking on sausages.
+President Lula da Silva has declared he wants Brazil (in South America) to become a full
+member of the Association of
+Southeast Asian
+Nations
+(ASEAN).
+A French man has paid for his wedding by
+selling ad space on his suit jacket
+.
+The New York Times has done some in-depth reporting on whether the woman who appeared on a protest balcony earlier this year
+was a famous ghost
+.
+And the Times of London has
+learned the hard way
+that the Bill De Blasio interview they just published was not in fact with the former NYC mayor, but rather a random guy called Bill De Blasio.
+Future diplomat of the day
+Credits: New Yorker Festival, Intrigue subtitles.
+Spot the actor above?
+Why, that’s none other than Sarah Jessica Parker, the star who gallivanted around the Big Apple as a young columnist in
+Sex and the City
+.
+She’s had quite the career since then, including stints on Broadway, founding a production company, and starting a shoe line. But she isn’t quite done yet: when
+asked
+if there’s something she still would like to do, SJP said she wants to be a diplomat.
+We’re not sure if anyone’s told her about the fresh hell that is organising endless congressional / ministerial visits, but actually…
+“As I left the diplomatic reception, I got to thinking: was the French ambassador really charmed by my Manolos, or was she just fishing for intel on how to enforce stricter carbon border adjustment mechanisms on imported aluminium?”
+Today’s poll
+How do you feel about the world economy right now?
+🌡️ It's just warming up
+❄️ Winter is coming
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think we're in an AI bubble?
+✅
+Yes, and it'll burst  (48%)
+📉
+Yes, but it'll just course correct (44%)
+🚀
+No, we're on the cusp of machine-god! (7%)
+✍️ Other (write us!) (1%)
+Your two cents:
+✅
+C.R:
+“Money is being passed through AI companies in a circle and I sincerely doubt they will generate enough revenue to keep the hype high enough to continue doing so for long.”
+📉
+R.L:
+“Like the dotcom bubble, many AI and products companies will die out, but the underlying technology does have value and other companies and products will thrive.”
+✍️
+B.J:
+“Shake out to come and remaining players will then seriously get on with the dominant strangle hold.”

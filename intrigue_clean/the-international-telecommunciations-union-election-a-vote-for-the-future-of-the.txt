@@ -1,0 +1,155 @@
+URL: https://archives.internationalintrigue.io/p/sep15-itu-elections
+Title: The International Telecommunciations Union Election: a vote for the future of the internet
+
+Hi there {{ First name | Intriguer }}.
+While nothing can compete with the Smithslap Oscars, this year's Emmy Awards show was entertaining in its own way. 'Ted Lasso' won Best Comedy again because of course it did, 'Squid Game' star Lee Jung-jae became the first Asian actor ever to win the Lead Actor award for a drama, and 'Succession' won Outstanding Drama Series.
+Oh, and hey, hi, wow, gosh!
+Jennifer Coolidge finally won an Emmy!
+Today's briefing is a ~5.0 min read:
+🌐
+Regulating the Internet
+: a vote for the future of the web.
+➕ Plus:
+Tigray rebels call for African Union-brokered peace, Argentina gets a thumbs-up from the IMF, and the UK prevents Bermuda from legalising weed.
+📰 GLOBAL HEADLINES
+Stories:
+Dawn
+,
+BBC
+,
+VN Express
+,
+The Guardian
+,
+Los Tiempos
+What do you think of our Global Headlines section?
+😍 Love it
+👎 Replace it with something else
+Login
+or
+Subscribe
+to participate
+🤿 DEEP DIVE
+A vote for the head of the Internet
+In brief:
+The 'International Telecommunications Union' (ITU), a UN body, will hold elections at the end of September to choose its next Secretary-General.
+The two candidates gunning for the position are from Russia and the US, each promoting competing visions for regulating the Internet.
+The ITU is even older than this if you can believe it. Source: Giphy
+The oldest UN agency you’ve never heard of
+We love an election here at Intrigue, so much so that we spend our days scouring government gazettes for even the slightest hint of a ballot.
+That's why we’re delighted to inform you that the International Telecommunications Union (ITU)
+will shortly hold elections
+to replace its Secretary-General Houlin Zhao and four other senior management positions.
+But first things first…
+What is the ITU?
+If you’ve never heard of the ITU, don’t worry - you’re not alone. The union was founded way back in 1865 and is one of the UN’s oldest bodies.
+Its wide-ranging mandate covers most things information and communication related, including managing radio-frequency spectrums, satellite orbits, technology operational standards and cybersecurity.
+So basically, when your wifi drops out for no discernible reason, feel free to blame the ITU.
+What's at stake?
+❝
+“The upcoming ITU Secretary-General election isn’t just a vote for the next SG- it’s a vote on the future of cyberspace & everyone should be watching.”
+Geopolitics and tech analyst
+Mercedes Page
+The two candidates vying for the position are
+Doreen Bogdan-Martin from the US
+and
+Rashid Ismailov from Russia
+.
+That matters because, as you might expect, the ITU Secretary-General has considerable influence over the body’s administrative, technical, and policy direction.
+The fact that one of the candidates is Russian is cause for concern among those who favour a free Internet because in June 2021, Russia
+signed an agreement with China
+to “
+preserv[e] the sovereign right of States to regulate the national segment of the Internet
+”.
+Russia has also made a habit of
+enthusiastically cracking down on Internet freedoms
+.
+But not everyone agrees:
+The current Deputy Secretary-General of the ITU, Malcolm Johnson, says the geopolitical tensions between the US and Russia have prompted the media to sensationalise the upcoming election.
+During a press conference we (Intrigue) attended, Johnson explained that the committee of the ITU must reach decisions unanimously, so
+“there’s no way one person - even the Secretary-General - can take a decision in isolation”.
+Timing is everything
+Johnson’s explanation is calculated to be reassuring, but many tech analysts say he is downplaying the critical timing of this ITU election.
+Over the last few years, tech companies and the idea of a free Internet have come under pressure from governments uneasy about
+their inability to control the flow of information
+.
+Therefore, the ITU election can be seen as a showdown between two differing visions of how to regulate the Internet and how to set international standards for emerging technologies like AI.
+Who will win?
+Intriguingly, the election will be conducted via secret ballot, so we won’t know for whom each of the ITU’s 193 voting members will have voted.
+At this stage, the US candidate is tipped to win, but it's entirely possible that the Russian candidate has more private supporters than pundits predict.
+Whoever wins, let’s hope Deputy Secretary-General Johnson is correct when he says everything will be fine, so we can all go back to forgetting that the ITU even exists.
+Sponsored by
+2032: The Year A.I. Runs For President
+What if the person we need to lead us isn’t a person at all?
+In our near future, a tech billionaire reveals an innovation that could save a broken and divided America: Algo, an A.I. candidate for president. It is heralded as an efficient, rational, and seemingly incorruptible leader, underpinned by the brainpower of a million minds. To many, it will seem like a dream come true. But… who is really pulling its strings?
+2032: The Year A.I. Runs For President
+is a gripping new political thriller and a chilling look into a potential dystopian future far closer than we would like to think. Available now in the
+US
+, UK and
+Australia
+.
+Read more...
+🔦 REGIONAL SPOTLIGHT
+The Americas
+🇦🇷 Argentina
+The International Monetary Fund has
+praised Argentina’s new Economy Minister Sergio Massa
+for taking “strong steps” to stabilise the Latin American economy.
+Argentina has cycled through three economy ministers in less than a year as its ongoing economic crisis threatens to spiral out of control.
+Massa’s meeting with the IMF was aimed at securing the lender’s support in a review of a $44B loan program signed this March.
+🇧🇲 Bermuda
+The UK has blocked a Bermudian bill to
+legalise the use and sale of cannabis
+, threatening to start a constitutional crisis on the island.
+Last year, Bermuda's Prime Minister David Burt stated that a refusal to approve the proposal would “destroy” relations between Bermuda and Britain.
+Bermuda is a British Overseas Territory, and Bermuda Governor Rena Lalgie said last week that she'd been “instructed” by the UK's Foreign Secretary to refuse to give royal assent for the cannabis law.
+🇨🇦 Canada
+Canada’s labour force has
+shrunk over the summer
+as thousands of Canadians aged 55-64 chose to retire.
+Economists are concerned this wave of retirements might threaten the country’s economic recovery.
+The government has been making a concerted effort to entice migrants to move to Canada - it is on track to exceed its goal of granting permanent residency to nearly half a million people.
+🇲🇽 Mexico
+US Secretary of State Antony Blinken
+met with Mexican Foreign Minister
+Marcelo Ebrard on Monday to discuss trade, drug trafficking, and migration.
+Tensions between Mexico and the US flared when Washington lodged a complaint against Mexican President Lopez Obrador's energy policies earlier this year.
+But judging by the 100% accurate method of handshake analysis, Blinken and Ebrard's relationship appears friendly, which is good news for the relationship more broadly.
+🇺🇸 The US
+Nothing scares Wall Street more than
+unexpectedly high US inflation data
+,
+apart from when their boss sends them a "pls fix" email right before they were supposed to get rowdy at happy hour.
+US markets suffered their worst sell-off since June 2020 (right when the seriousness of the pandemic was becoming clear) after the Labor Department’s inflation report dampened hopes of a softer Fed policy.
+Prices rose 0.4 percentage points in July, so the Federal Reserve will likely keep increasing interest rates to cool down the economy.
+📢 IN OTHER NEWS...
+A glimmer of hope in Ethiopia?
+Source: AFP
+The news:
+The Tigray People’s Liberation Front (TPLF) has signalled its willingness to participate in an
+African Union negotiated ceasefire
+.
+The move comes after fighting between the TPLF and Ethiopia’s government forces resumed last month, ending a five-month-long truce.
+Some context
+: Hostilities between the rebel TPLF forces and the Ethiopian military started in late 2020 after Tigrayans held elections in defiance of the central government headed by Prime Minister Abiy Ahmed.
+Since then, as many as
+half a million
+people have died.
+Why it matters:
+The ceasefire proposal is good news, but there are plenty of reasons to be cautious.
+The issue of
+who
+within the AU should lead negotiations is contentious and hasn’t been resolved.
+Several external militia groups and regional governments have become involved in the conflict, which will likely make peace negotiations more complex.
+And let’s not forget that a ceasefire is not the same as a peace agreement - the most recent ceasefire was broken less than a month ago.
+What’s next?
+Prime Minister Abiy has yet to respond to the offer of talks, but his government previously said it is open to AU-brokered talks “anytime, anywhere”.
+But only days after the ceasefire reports started circulating,
+Ethiopian forces launched an air raid
+on the Tigrayan capital of Mekelle, so maybe don’t hold your breath.
+🤔 WE'RE INTRIGUED BY...
+The rise and fall of colonialism in the Americas
+Many are still mourning Queen Elizabeth II's passing, while others are less enthusiastic to celebrate the monarch's life. Putting that aside, our friends at Latinometrics created this fascinating chart of the steep increase in the number of British territories in the Americas between 1600-1670. Britain's territorial rule in the region began to decline with the Queen's ascension to the throne in 1952.
+Check out the full piece
+here
+.

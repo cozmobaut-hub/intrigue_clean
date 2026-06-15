@@ -1,0 +1,166 @@
+URL: https://archives.internationalintrigue.io/p/apple-diversifies-iphone-manufacturing-process-showing-india-vietnam-can-viable-alternatives
+Title: Apple shifts iPhone manufacturing from China to India
+
+Hi there {{ First name | Intriguer }}
+.
+Exciting news: We’ll send the monthly Intrigue Diplomatic Club briefing this weekend! This edition features an extended interview with a supply chain expert about what he sees as the world's biggest geopolitical risks. It’s also chock full of other fun and useful information. To receive it, get five friends to sign up for International Intrigue using your referral code at the bottom of this newsletter, and you’ll get instant access to the club!
+Today's briefing is a ~5.0 min read:
+🍎 Geopolitics meets manufacturing
+: Apple moves (some) iPhone 14 production to India.
+➕ Plus:
+Cuba legalises same-sex marriage, scandal hits the Inter-American Development Bank, and a most dastardly sabotage in the Baltic.
+📰 GLOBAL HEADLINES
+Stories:
+Tehran Times
+,
+VN Express,
+Argumenty i Fakty
+,
+El Nacional
+,
+Guineematin.com
+🤿 DEEP DIVE
+Designed in California, Made in India
+In brief:
+Apple has announced it will start manufacturing iPhone 14s in India, signalling a shift away from its historic manufacturing hub in China.
+Relocating operations away from China might help Apple avoid the geopolitical fallout of the US-China decoupling, though India and Vietnam aren't serious threats to China’s manufacturing sector just yet.
+Source: Macrumours
+The manufacturing migration
+When Apple unveiled its new iPhone 14 at the beginning of September, it didn’t announce one of its most significant updates: that some of those new iPhones
+will be manufactured in India
+.
+Apple, which commands ~17% of the world’s smartphone market, is slowly shifting parts of its manufacturing capacity away from long-time partner China to redistribute risk along its supply chain.
+The shift was expected:
+India’s more prominent role in the tech company’s supply chain is entirely in line with analysts’ expectations.
+According to a
+leaked memo
+by JP Morgan, Apple plans to move ~25% of its manufacturing capacity outside of China by 2025.
+Putting your Apples in more than one basket
+Apple decided to diversify its manufacturing process for a few important reasons:
+🚚 Supply chain strategy
+China’s strict Covid-19 measures have made manufacturing there less dependable, which is bad for business. According to a recent
+position paper
+by the European Union Chamber of Commerce in China:
+❝
+“The country is now being seen as less predictable, less reliable and less efficient. This is leading to a loss of business confidence, opening the doors for other emerging markets to fill the vacuum”.
+🌎 Geopolitical risk
+Apple is an American multinational company that manufactures products in China, which makes it very susceptible to trade and workforce disruptions caused by the deteriorating China-US relationship.
+Apple has thus far dodged most of the blows exchanged between the two powers, but it did recently find itself in a little hot water:
+This summer,
+Apple asked its Taiwanese partners
+to make sure they label all components as being made in "Taiwan, China" or "Chinese Taipei", sparking worldwide backlash.
+💰 Competitive alternatives
+China’s neighbours have been paying attention: India and Vietnam have worked hard to present themselves as attractive alternatives to Chinese manufacturing.
+Both countries possess large and young labour forces, ports in the Indo-Pacific, geopolitical stability (relatively speaking), and a more welcoming attitude towards foreign investment.
+The China + one strategy
+Of course, Apple isn’t the only company spreading its operations across Asia. The strategy is so popular that it has a name: ‘China + one’ or ‘China + two’, depending on the number of extra hubs chosen.
+But as the name suggests, China retains a central role in most companies' strategies, and for good reason: in 2019, the country was responsible for
+~30%% of global manufacturing output
+.
+So, for now, India and Vietnam will remain supporting actors in this manufacturing story. But, as the world becomes more volatile, more and more companies will be looking to hedge their bets and diversify their risk in much the same way Apple has.
+Sponsored by The Merge
+If you like business and technology, you'll LOVE this...
+The Merge dispenses weekly knowledge bombs on the intersection of defense business, technology, and industry happenings—with a sprinkle of history, policy, and strategy for good measure.
+It’s written by fighter pilots who are dedicated to making sense of defense in an edgy, enjoyable way. Get smarter in five minutes each week—for free.
+People in the Pentagon and Congress read it, and so should you.
+Check it out.
+🔦 REGIONAL SPOTLIGHT
+The Americas
+🇧🇷 Brazil
+The first round of the presidential election will be held this Sunday, with polls suggesting Luiz Inácio Lula da Silva is only a few points away from
+being elected outright
+.
+But if Lula doesn’t get more than 50% of the votes this Sunday, a second round of voting will be held between the two frontrunners on 30 October.
+According to the latest numbers shared by Brazilian pollster IPEC, Lula is cruising with 48% of the vote, while President Jair Bolsonaro trails behind him with 31%, a margin that might be hard for even Bolsonaro to dispute.
+🇨🇺 Cuba
+In a referendum held last Sunday, Cubans
+overwhelmingly voted
+to legalise same-sex marriage and adoption.
+Over 66% of the votes were cast in favour of ratifying the new family code, which also includes a provision to encourage an equal share of domestic rights and responsibilities in the home.
+Cuba is now the first Communist state to legalise same-sex marriages, and the 32nd country to do so worldwide.
+🇪🇨 Ecuador
+Ecuador reached a
+debt restructuring deal
+with China worth $1.4B last week as the Latin American country tries to avoid a sovereign default.
+The Ecuadorian government was able to extend its loans’ maturity and reduce their interest rates.
+China has been increasingly willing to offer bailouts to struggling countries - it makes economic sense and helps Beijing look like a responsible global power.
+🌎 Regional
+The Inter-American Development Bank, Latin America's largest source of development financing, has
+fired its president for inappropriate behaviour
+.
+Mauricio Claver-Carone was fired for giving outsized raises to a subordinate he was in a relationship with.
+Many at the IDB aren’t sad to see him go - questions linger about his qualifications, and his nomination by ex-US President Trump broke with tradition of electing presidents from LatAm.
+🇺🇸 The US
+Russia has
+granted citizenship rights to Edward Snowden
+, the former-US intelligence contractor who exposed a vast surveillance scheme by the National Security Agency.
+Snowden has been living in exile in Russia since 2013 to escape prosecution in his home country.
+His decision to leak thousands of classified documents revealed the vast extent of the NSA’s surveillance program, although critics accuse him of endangering US national security.
+🗞 IN OTHER NEWS...
+Sabotage! In the Baltic!
+A photo of the gas leak in the Baltic Sea. Credits: Norwegian Armed Forces via Twitter.
+The news:
+In a story ripped straight from the pages of a Tom Clancy novel, European authorities suspect several
+suspicious gas leaks
+along the Nord Stream 1 and 2 pipelines were caused by international sabotage.
+The episode is likely to be the final nail in the coffin for the Nord Stream projects, which transport(ed) natural gas from Russia to Europe.
+The immediate consequences
+: Europe’s energy supplies haven’t taken a hit. The NS2 pipeline was never operational, and the NS1 pipeline has been closed for weeks (even though it wasn’t empty).
+Danish Climate Minister Dan Jorgensen was
+quoted in the Washington Post
+saying it might take a week to stop the gas leaking into the Baltic Sea.
+It’s too early to tell what the environmental impact of the leaks will be, though surely spilling vast amounts of natural gas into the ocean can’t be a good thing.
+Sabotage or accident?
+The Swedish National Seismic Network registered two explosions that probably damaged the pipelines. According to energy analyst
+Javier Blas
+:
+❝
+“The two areas of the leaks [are] so far apart (~75 km) that natural events [...] can be almost certainly ruled out. The same goes about ships dragging anchor or fishing nets from trawlers, or a submarine colliding by chance. This is deliberate.”
+Who did it?
+Nobody knows, but that doesn't stop us from guessing!
+🇷🇺 Russia did it:
+This is the theory most European leaders and analysts are endorsing, but
+some are wondering
+what Moscow hopes to achieve by damaging its own infrastructure and further undermining its influence over Europe (other than acting in spite).
+🇺🇸 The US did it:
+Former Polish Defence Minister Radek Sikorski
+posted a cryptic tweet
+seemingly thanking the US for attacking the pipelines to force Europe to quit Russian gas cold turkey, though that version of events seems a little farfetched.
+🇺🇦 Ukraine did it:
+The thinking here is that much like the US, Ukraine wants to force Germany to give up Russian energy immediately, but the risk of getting caught and harming their relationship with Europe makes this theory highly unlikely.
+As for our guess, we’re with geopolitical analyst and friend of the show
+Jacob Shapiro
+, who tweeted yesterday
+: “
+Not ashamed to say I have no earthly clue what happened with NS1 and NS2 -- and I haven't seen a theory out here yet that makes sense to me.
+”
+Who dunnit?
+🇷🇺 Russia
+|
+🇺🇸 The US
+|
+🇺🇦 Ukraine
+|
+☠️ Spectre
+Login
+or
+Subscribe
+to participate
+TOGETHER WITH THE ADVISORY BOARD CENTRE
+Navigating our volatile new world
+At International Intrigue, we bang on a lot about how t
+he world is entering a period of increased geopolitical and economic volatility.
+But then again, that’s our job!
+The next question we should all be asking is: okay, so what? How do we go one step beyond everybody else? How can we see the world as it is and take advantage of it?
+These are big questions, to be sure. They were prompted by
+the Advisory Board Centre’s State of the Market report
+, which assesses the impact of having external advisers - the kinds of folks who can help you answer those questions - as a regular part of your organisation.
+The report found that
+90% of businesses reported a positive impact from having an advisory board
+or group of external advisors.
+To paraphrase a former-US Secretary of Defense:
+❝
+There are known knowns and there are known unknowns. But there are also unknown unknowns—the things we don’t know we don’t know. Those are the things to watch out for.
+Having extra sets of eyes helping your organisation scan the horizon can only be a good thing, right?
+*This is sponsored content from our partners at the
+Advisory Board Centre

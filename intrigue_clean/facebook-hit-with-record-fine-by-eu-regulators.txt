@@ -1,0 +1,213 @@
+URL: https://archives.internationalintrigue.io/p/facebook-hit-record-fine-eu-regulators
+Title: 🌍 Facebook hit with record fine by EU regulators
+
+Hi there {{ First name | Intriguer }}.
+Heard of toponyms? They’re words named after places. E.g., those spotted dogs from Croatia’s Dalmatia region; the healthy sprouts first grown near Brussels; or the mid-calf pants that became a hit on the Italian isle of Capri. Does this seem a little… academic? Well even ‘academic’ traces back to Akademos, the grove where Plato first dropped his knowledge.
+Today’s briefing is a 4.3 min read:
+💸
+Facebook
+hit with record fine over data transfers to the US.
+🇺🇦
+Anti-Kremlin militia groups mount a cross-border raid in
+Russia
+.
+➕
+Plus:
+An AI image spooks the stock market, how the papers are covering ongoing debt ceiling negotiations in the US, and some intriguing stats on Facebook.
+🎧
+Today’s Intrigue Outloud:
+What the heck just happened in Russia?
+Listen here!
+🗺️ AROUND THE WORLD
+🇹🇼
+Taiwan
+: The World Health Organisation has
+blocked Taiwan from participating
+as an observer in its annual assembly. Critics have accused the WHO of bowing to China’s pressure in the past.
+🇧🇾
+Belarus
+: President Alexander Lukashenko has
+pardoned Roman Protasevic, a Belarusian dissident blogger
+, more than two years after Minsk diverted his Ryanair flight and hauled him off the plane. Protasevic released a series of apologetic statements, which his friends and family have said were products of coercion.
+🇹🇭
+Thailand
+: The leading
+Move Forward Party
+has
+signed a coalition agreement
+with seven other parties, promising a new constitution, reforms to the military, and an end to Thailand’s “quiet diplomacy” abroad. A military government has ruled Thailand since a coup in 2014.
+🇪🇨
+Ecuador
+: Ecuador’s electoral commission has provisionally
+scheduled the next general election for 20 Augus
+t. The streets have mostly remained calm since President Guillermo Lasso dissolved the National Assembly last week.
+🇹🇷
+Turkey
+: Turkey’s third-placed candidate has
+endorsed President Recep Tayyip Erdoğan’s re-election
+bid in this Sunday’s upcoming run-off vote. Erdoğan is now widely seen as the front-runner.
+💸
+EU | TECH & SECURITY
+In one way, out the other.
+Facebook hit with record fine for EU data breach
+Briefly:
+Tech giant Meta has been hit with a
+record €1.2B ($1.3B) fine
+by Irish regulators and ordered to suspend all EU user data transfers to the US. The penalty is the biggest fine in EU data protection history.
+Regulatoooors
+(sorry, big
+Warren G
+fans here) accuse Facebook of unlawfully transferring data from European
+users to the US, where the company’s vast ad-targeting operation is headquartered.
+This week’s ruling was in response
+to a
+2013 lawsuit filed after Edward Snowden leaked ~1.7 million classified US files. The litigant (a privacy activist) argued the US offered no protection against surveillance of EU data.
+Since then, Brussels has been wary of sending yottabytes (yep) of Europeans’ data across the Atlantic. And attempts to hash out a deal keep getting quashed:
+An EU court struck down one US-EU deal in 2020 for being too lax
+EU officials are still scrutinising another deal reached last year, and
+This week’s decision says Meta can’t rely on
+standard contractual clauses
+either…
+Intrigue’s take:
+If you share Intrigue on Facebook (please do), and someone across the Atlantic ‘likes’ it (please do), where does that data get stored? And how? Traditionally, US firms have often just stored it in the US under US law.
+But this week’s EU ruling potentially changes all that.
+And while engineers figure out the specifics (new data centres? end-to-end encryption?), boardrooms will be coming to a stark realisation: they can no longer assume the whole world is their market.
+Also worth noting:
+Meta’s head of global affairs is Nick Clegg, the UK’s former deputy prime minister. He’s
+said
+the company is appealing this week’s decision.
+Meta has previously
+suggested
+it might pull out of the EU if regulators ban data transfers to the US. Others assess this is unlikely, as Meta generates a
+quarter
+of its $114B revenue in Europe.
+Meta
+says
+it has 21 data centres around the world: 17 in the US, plus one each in Denmark, Ireland, Sweden and Singapore.
+📰
+GLOBAL PERSPECTIVES
+How different newspapers covered
+: Ongoing discussions on the US debt ceiling.
+Links
+:
+The Guardian
+,
+Washington Post
+,
+China Daily
+.
+Today’s briefing is sponsored by
+The Progress Network
+Can’t stop doomscrolling?
+There's a lot going right in the world, but you wouldn't know it from the news. Check out The Progress Network’s free weekly newsletter, What Could Go Right?, for some balance.
+It covers the work being done to solve the world’s most complex issues and shares constructive ideas for a better future.
+When you sign up, you’ll also get their free reading and listening guide on the progress humanity has made in just the past few decades.
+Try a new approach to the news and sign up now.
+🇺🇦
+UKRAINE | DEFENCE
+Anti-Putin militias mount attack inside Russia
+Briefly:
+A contingent of Russian nationals from two anti-Putin militias mounted a
+cross-border assault
+from Ukraine into the Russian region of Belgorod on Monday (22 May). Russia said it repelled the attack on Tuesday.
+Both groups
+have previously described operating under Ukrainian command, and video suggests they were using equipment also employed by the Ukrainian military. Of course, Kyiv says the militants were acting on their own initiative.
+For its part, the Kremlin called them “saboteurs” and “terrorists”.
+Intrigue’s take:
+These fighters were back in Ukraine a couple of days after first entering Russia. So what was their objective? It seems there were three:
+Embarrass the Kremlin
+Undermine Putin’s domestic narrative of invincibility, and
+Force Russia to reallocate resources from the frontlines to its vast border
+The incursion probably achieved objective #1, and the Kremlin’s control of Russian media makes #2 difficult to measure. As for #3, time will tell.
+Also worth noting:
+One of the groups, the Russian Volunteer Corps, claimed responsibility for a
+similar attack
+in the Russian region of Bryansk back in March.
+The
+previous attack
+in March prompted Russia’s president to cancel a planned trip and convene his security council.
+👀
+EXTRA INTRIGUE
+Some intriguing stats on Facebook, the world’s third most popular website:
+2.04 billion
+- Facebook’s daily active users as of early 2023
+10%
+- the proportion of total Facebook users residing in the US and Canada
+4 million
+- the number of ‘likes’ placed on the platform every minute
+$562B
+- Meta’s market value as of May 2023, placing it among the top ten most valuable companies in the world by market cap
+📸
+(FAKE) PHOTO OF THE DAY
+An AI-generated image of an explosion at the Pentagon caused a
+stir
+on social media after a fake Bloomberg account tweeted it (and
+Russia Today
+later retweeted it). The stock market dipped briefly during the confusion.
+🗳️ POLL TIME!
+Do you agree with France's decision to ban air routes that can be covered by a train journey of less than 2.5 hours?
+🧑‍✈️ Yes, and high time too!
+🛩️ No, it's a symbolic (and annoying) move!
+🖋️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which country has the best coffee?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🇪🇹
+Ethiopia (15%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇨🇴
+Colombia (26%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🇮🇹
+Italy (15%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇻🇳
+Vietnam (5%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇧🇷
+Brazil (7%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇮🇩
+Indonesia (4%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇰🇪
+Kenya (7%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇹🇷
+Turkey (5%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+🇦🇺
+Australia (11%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇱🇧
+Lebanon (2%)
+Your two cents:
+R:
+“The correct answer is Panama. This year we hope to beat our record, $6,000 a pound (NOT a kilo); in an exclusive
+on-line auction
+.”
+🇻🇳
+H.H.O:
+“Vietnam is known for producing high-quality coffee and is one of the world's largest exporters of coffee beans. […] Vietnam's unique coffee culture, favourable growing conditions, and dedication to quality have certainly played a significant role in establishing its reputation for excellent coffee.”

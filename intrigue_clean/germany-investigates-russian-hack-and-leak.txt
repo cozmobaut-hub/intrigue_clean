@@ -1,0 +1,216 @@
+URL: https://archives.internationalintrigue.io/p/germany-investigates-russian-hackandleak
+Title: 🌍 Germany investigates Russian hack-and-leak
+
+Hi {{ First name | Intriguer }}.
+I saw a spy chief give an address a couple of years ago, and she made an interesting admission - before any public engagement, she always takes a moment to very intentionally reflect on which things she can say publicly, and which things she can’t.
+It’s a familiar feeling for anyone working with sensitive information, as your life starts to grow into distinct work and non-work spheres. If you’re interested, it’s a feeling taken to its extreme in the brilliant TV series,
+Severance
+.
+But as today’s story on
+Russia’s hack-and-leak against Germany
+shows, when you drop your guard and let your two spheres blur, things can get messy.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+China keeps 5% growth target.
+China’s leaders unveiled a set of key economic targets for the year ahead,
+including holding its growth target at around 5%. This target seems ambitious given the state of China’s economy, but it might be an attempt to boost confidence, and/or signal a willingness to use more stimulus. Premier Li Qiang, who delivered the report, acknowledged “
+it is not easy for us to realise these targets
+”.
+Supreme Court rules that states can’t remove Trump from ballot.
+The US Supreme Court has struck down a move by a Colorado court, which sought to use an anti-insurrection clause in the US constitution to exclude the former president from the presidential ballot. In a unanimous decision, the Supreme Court found that only Congress has those powers.
+UN report on sexual violence by Hamas.
+A
+report
+by UN special envoy Pramila Patten says there are “
+reasonable grounds to believe
+” Hamas members committed sexual violence during the October 7 attacks on Israel. The report also says there is “
+clear and convincing information
+” that some hostages taken by Hamas have been subjected to sexual violence, which may still be ongoing for those in captivity. Patten’s investigation also included a stop in the West Bank, where her team received information
+about
+“some forms of sexual violence against Palestinian men and women in detention settings, during house raids and at checkpoints
+”.
+North Korea hacks South’s chip-makers.
+South Korea’s National Intelligence Service says North Korean hackers have breached the servers of two chip equipment firms and acquired access to product designs. Seoul suspects North Korea is trying to produce its own chips for its weapons program “
+in the face of difficulties in procuring them due to sanctions”
+.
+Indonesia’s president-elect vows 8% yearly growth.
+Incoming President Prabowo Subianto has laid out a plan to use investor-friendly policies to boost growth, while vowing to maintain fiscal discipline by increasing tax collection and privatising some state-owned companies.
+TOP STORY
+Russia pulls a classic hack-and-leak on Germany
+Lookin’ leaky, Germany.
+If you’re wondering where the German military is keeping its tail these days, the answer is firmly between its legs. On Friday, the head of Russian state-controlled news outlet ‘RT’ published a 38-minute recording of a conversation among senior German air force (Luftwaffe) officers.
+In response, German Defence Minister Boris Pistorius accused Russia of waging an “
+information war
+” and Chancellor Olaf Scholz has ordered a probe, though we’re happy to save everyone the trouble and just let you in on
+what happened
+.
+The German officials were using a non-encrypted videoconferencing service (by WebEx), making it easier for Russian intelligence to intercept their chat - the culprit was most likely Russia’s military intelligence outfit, the GRU.
+Of course, there’s a fine line between analysing information warfare, and amplifying it. So join us as we tread that tightrope.
+What did the German military folks discuss on their leaked call?
+It was a chat between Lt Gen Ingo Gerhartz (the head of the Luftwaffe) and three officers, preparing for a meeting with the German defence minister last month.
+Their main topic was hypothetical -
+if
+German leaders were to authorise sending
+Taurus
+missiles
+to Ukraine, how would this work?
+To understand why this matters, it’s worth looking quickly at the Taurus, which is a German-Swedish missile also used by Spain and South Korea:
+Taurus is one of those excellent acronyms (Target Adaptive Unitary and dispenser Robotic Ubiquity System), which also means ‘bull’ in Latin
+It has stealth tech and flies just above ground, making it hard to detect
+When it finds a target, it climbs then plummets in a vertical nosedive, and
+Its charges break through protective walls, before a full detonation inside
+So it’s an advanced weapon and - crucially - has a range of 500km (310 miles). That’s roughly the distance between Paris and London, or LA and San Francisco.
+This means it’s almost custom-built to destroy
+Russia’s Kerch Bridge
+, the critical link between Russia and its occupying forces on the strategic peninsula of Crimea, where Russia maintains five airfields to attack Ukraine. That’s why Ukraine has been asking for Taurus missiles for months.
+But German leader
+Olaf Scholz has consistently declined
+for a few reasons: the weapon’s range means it could also strike targets in Moscow; its sophistication means it needs German troops to help with training and targeting; and Scholz says this all raises the risk of Germany becoming more directly involved in a war with Russia.
+So then,
+why did Russia intercept and leak this conversation?
+The technical term is ‘shit-stirring’, with a few specific objectives here.
+First, there are
+Russian domestic factors
+at play: the leak could’ve been timed to distract from Alexei Navalny’s funeral the same day. And it came ahead of Vladimir Putin’s re-election bid against token opposition later this month, playing into Putin’s branding as a national protector against a hostile West.
+Second, there are also
+German domestic factors
+: a leak like this can undermine leaders’ trust in officials, and the public’s trust in its leaders, while flaring up divisions within the ruling coalition: eg, Scholz and his foreign minister (from different parties) have since reiterated their divergent views on the Taurus.
+And third, there are
+international factors
+: a leak like this can irritate allies, whether through a
+sense
+that Germany isn’t pulling its weight, or that Germany can’t keep a secret - eg, the leak seemed to suggest that British troops are (in small numbers) more involved on the ground in Ukraine than initially thought.
+But our
+favourite revelation
+from this leak? It shows that Germany’s military isn’t immune to McKinsey speak. One of the officers on the call says, “
+we should not only talk about problems but also about solutions.
+” Give that guy a raise.
+INTRIGUE’S TAKE
+So what does this all really mean?
+First, the decision to drop this leak probably reflects an implicit acknowledgement by Russia that the Taurus missile in Ukrainian hands would do some damage. The leak aimed to prevent that from happening.
+Second, while the leak has already led to further
+allied pressure
+on Germany to share the Taurus, it’s bolstering domestic opposition at the same time. Scholz is unpopular, the economy is in recession, and this isn’t a fight he wants right now, particularly ahead of
+EU parliamentary elections
+.
+But third, after decades of relatively cordial if not codependent ties, this whole saga might further nudge Germany to reassess any notion that its relationship with Russia could be - or should be - salvaged any time soon.
+Also worth noting:
+Russian spooks pulled a similar stunt in 2014, leaking a
+conversation
+between two US officials frustrated at the EU’s approach to Ukraine. One of the US officials infamously said “
+f**k the EU
+”, though we can confirm we’ve heard much worse language in the halls of diplomacy.
+In total, Germany is now the second-largest supplier of
+military aid
+to Ukraine after the US (at
+$19B and $47B respectively
+).
+SUPPORTED BY MONEY PICKLE
+Retirement Regrets: Not Making the Most from your Money
+Choosing a financial advisor is a pivotal decision, one that can significantly impact your retirement comfort. A staggering 60% of US adults acknowledge their financial planning needs improvement, yet only a third have sought professional advice. Why the hesitation? The task of selecting from thousands can be tedious, and the stakes are high—your financial future.
+Consider this: investing $500,000 could grow to $3.4 million in 25 years with a financial advisor, compared to $1.69 million through self-management. That's the power of professional guidance, potentially offering a double return on your investment.
+Don't navigate this crucial process alone. Money Pickle's free tool effortlessly matches you with a vetted advisor at a time that best suits you. Avoid common pitfalls and step confidently towards a more prosperous retirement.
+Take Retirement Quiz
+MEANWHILE, ELSEWHERE…
+🇰🇿
+Kazakhstan
+: Kazakhstan has left the club of the world’s 22 multi-timezone countries
+to adopt a single time zone
+, in response to local expert advice. The Central Asian country measures 2,930km (1,820 miles) east to west, or over half the breadth of the continental US.
+🇪🇺
+EU
+: The EU has
+fined tech giant Apple $2B
+after an investigation revealed it limited competition from rival music streaming apps such as Spotify by not informing customers of cheaper payment options beyond its AppStore. This is the first time the EU has fined Apple.
+🇸🇬
+Singapore
+: Local authorities are
+downplaying the size of the grants
+awarded to convince pop star Taylor Swift to make Singapore the exclusive Southeast Asian stop for her Eras Tour. Legislators in the Philippines and Thailand have accused Singapore of depriving their economies of a substantial boost through anti-competitive behaviour.
+🇨🇱
+Chile
+: The body of a
+Venezuelan dissident
+has been found in Chile ten days after his disappearance. Authorities suspect Venezuela’s Maduro regime is behind the death, which came after the dissident was kidnapped by men dressed as Chilean police. Venezuela denies any involvement.
+🇪🇬
+Egypt
+: Suez Canal authorities are conducting feasibility studies to
+further expand the waterway
+and shorten transit times for the 12% of global maritime trade that passes through each year. The expansion idea emerged in 2021 after the ‘Ever Given’ ship infamously became stuck and blocked the passage for nearly a week.
+EXTRA INTRIGUE
+Here’s what folks around the world have been googling lately
+🇦🇺
+Australians
+looked up ‘
+gold price
+’ as investors continued to
+search for a safe haven
+, driving the metal’s price near record highs.
+🇰🇷
+Koreans
+wanted the latest on 송영길 (‘
+Song Young-gil
+’), a former opposition leader whose
+trial on bribery charges
+kicked off yesterday.
+And
+🇪🇸
+Spaniards
+googled ‘
+Ramón Masats
+’, the iconic photographer known for
+capturing the essence of Spain’s former dictatorship
+- he died yesterday, aged 92.
+ALBUM OF THE DAY
+The album cover for  Shervin Hajipour’s ‘Baraye’
+Iranian singer-songwriter Shervin Hajipour dropped a
+power ballad
+called ‘Baraye’ in 2022, inspired by the death of 22-year-old woman Mahsa Amini and the mass anti-government protests that followed. Iranians soon began tweeting their reasons for taking to the streets, with posts beginning with ‘
+baraye
+’, or ‘for’.
+Hajipour’s tribute song became known as the ‘anthem’ for the protests, and even won a Grammy last year. On Friday, an Iranian court sentenced him to four years in prison for creating anti-government propaganda and provoking riots.
+DAILY POLL
+Do you think the leak will impact Germany's calculus on whether or not  to send Taurus missiles to Ukraine?
+⛓️ Yes, the frenzied public reaction rules out any Taurus delivery for now
+🤝 Yes, Berlin will double down on its support for Ukraine longer term
+🤷 No, it'll make no real difference
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think tech companies should make their tech freely available to the public?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ 💻 Yes, it would benefit society as a whole (39%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💰 No, why would anyone invest in new tech for free? (55%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (6%)
+Your two cents:
+💻
+J:
+“Many companies have proven that they can flourish around free software. They know it the best and can monetize the services that they built around it. At the same time, those interested in the system can work with it, question it, contribute to it AND increase our knowledge.”
+💰
+K:
+“Not if the tech is dual-use, e.g. frontier language models that could enable cyberattacks, bioweapon design, targeted disinformation campaigns, nonconsensual deepfakes, etc.”
+✍️
+S.S.D.B:
+“I am in favour of public/private partnership. This way companies can work on tech that might not be profitable but would be helpful to society”
+💻
+A.W.K.B:
+“Technological progress, like academic research, isn't helpful if it is kept behind closed doors and paywalls.”
+💰
+M.D:
+“So who is going to pay for the development? The taxpayers.”
+Share the Intrigue

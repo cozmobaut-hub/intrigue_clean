@@ -1,0 +1,208 @@
+URL: https://archives.internationalintrigue.io/p/friday-9559
+Title: 🌎 OPEC extends production cuts
+
+IN TODAY’S EDITION
+1️⃣ OPEC’s latest move
+2️⃣ Meme of the day
+3️⃣ Your weekly quiz
+Hi {{ First name | Intriguer }}.
+They say that graduate schools are competitive to get into in the US. But in my opinion, it’s actually the classes that one has to bid for at these schools which are much tougher to get into.
+Take for example the 'Geopolitics of Energy’ course which was super popular while I was at grad school. Students spent their ‘bidding points’ to outbid each other in order to enroll in the course - in part because the subject matter is so interesting.
+A big part of the course focused on the correlation between the US’s rising energy independence (transitioning from a net energy importer to exporter) and the country’s decreasing appetite for dealing with OPEC.
+As we’ll see in today’s top story, OPEC itself is about to brace for some policy changes heading into 2025.
+THE HEADLINES
+Macron vows not to step aside.
+We left you on a cliff-hanger yesterday: with President
+Macron’s hand-picked government collapsing
+after a record 90 days, what would he do next? Well, he’s now asked his outgoing prime minister (Barnier) to continue in a caretaker capacity until
+Macron appoints a new prime minister “
+in the coming days
+”
+. Most of the possible PM names doing the rounds are broadly fellow centrists. Macron himself has also reiterated he won’t leave office until the end of his term in 2027.
+Syrian rebels capture Hama.
+Just days after (re)capturing Syria’s major city of Aleppo, Syria’s Islamist-led rebels have now
+stormed the city of Hama after regime forces withdrew
+. That brings the rebels one step closer to the capital Damascus. There’s no immediate sign of Assad’s allies Russia or Iran — both preoccupied with their own crises — coming to his rescue this time around.
+EU set to finalise historic South American trade deal
+EU chief Ursula von der Leyen has touched down in Uruguay amid signs the Europeans could be on the
+verge of signing a long-awaited free trade pact with Mercosur
+(the South American bloc with major agricultural players like Brazil and Argentina). Negotiations have run for decades and there’ve been false dawns before, but word is the deal could be announced today (Friday). France has long been a vocal critic of the negotiations, but it’s a little preoccupied at home right now (see above).
+South Korean president’s own party calls for his suspension.
+The head of President Yoon’s own ruling party has called for the swift suspension of the president’s powers, citing “
+credible evidence
+” he
+planned to arrest political leaders
+after briefly declaring martial law earlier this week. The main opposition party has  scheduled an impeachment vote for tomorrow night (Saturday) and needs at least eight ruling party lawmakers to defect, before the constitutional court would then have final say.
+Trump names ex-senator David Purdue as ambassador to China.
+Donald Trump has nominated the former senator for Georgia and ex-CEO of Dollar General, David Perdue, as
+the next US ambassador to China
+. He previously lived in Hong Kong and Singapore during his decades as a business executive.
+Russian FM Lavrov confronted by Western ministers in Malta.
+Russia’s Sergei Lavrov has travelled to an EU member state for the first time since Russia’s full-scale invasion of its neighbour in 2022, to attend a meeting of the
+Organization for Security and Cooperation in Europe
+(OSCE) in Malta. Several of his Western counterparts used Lavrov’s appearance to condemn the invasion of Ukraine, and he left the room for the US secretary of state’s address.
+TOP STORY
+OPEC’s dilemma: income vs influence
+The Organization of the Petroleum Exporting Countries, aka OPEC+, just announced (as expected) that it’s maintaining its production cuts at least through until April next year.
+OPEC+, you say? Yes,
+OPEC+
+. Pay attention. OPEC is the body representing 12 of the top oil producers including the Saudis, Emiratis, and Venezuelans. The cartel then signed a pact with another 10 players (like Russia, Oman, and Mexico) to form OPEC+ in 2016.
+Together, they now pump around
+half the world’s oil
+, and their goal is simple: by acting as a group rather than alone, OPEC members aim to wield enough influence to set global oil prices in their favour. By agreeing on oil production targets, OPEC can decide when to inflate prices by tightening supply, and when to ease prices by opening the spigot.
+Sounds simple, right? But at the heart of OPEC’s simplicity lies its vulnerability: there are some big egos and divergent interests in that group, so
+finding agreement is hard, and getting harder
+.
+For example, the
+Saudis
+(the world’s top oil exporters) have gradually emerged as OPEC’s unofficial leader, setting the agenda and periodically strong-arming others around to the Saudi point of view. But that’s often to the dissatisfaction of others. Case in point: Angola left OPEC altogether just last year after continued frustration.
+So, back to yesterday’s meeting (Thursday).
+As expected, members of the group
+announced
+they’re again prolonging their production cuts until the end of Q1 2025 in the name of “
+market stability
+” (translation: higher prices).
+OPEC+ has been withholding ~5.86 million barrels per day via a series of production cuts since 2022, and the idea was to re-open the spigot earlier this year, but the group keeps delaying.
+Why?
+Even with these production cuts, oil prices are still lower than OPEC wants: Brent crude has been hovering around the $70-$80 mark, below the ~$90 several members need to avoid budget deficits.
+In fact, the Saudis are in the odd position of having among the lowest-cost oil ($10 per barrel), but needing some of the highest prices to break even ($100) — that’s because the Crown Prince is absolutely
+fire-hosing cash
+to diversify and modernise his economy.
+So he’s pushed hard to extend production cuts a little bit longer to prevent prices from dropping even lower — he even flew to the UAE over the weekend while his energy minister (and half-brother) held talks with the Russians and Kazaks. And one way he gets others over the line is by agreeing to absorb the biggest voluntary production cuts himself.
+But even still, not all
+OPEC members are on board
+.
+The
+UAE
+(a regional rival) has hammered out a deal to increase production from January
+Iraq
+,
+Kazakhstan
+and
+Russia
+have all just ignored their daily production quotas when it suits them, and
+An official from
+Iran
+(another regional rival) just said the quiet bit out loud via a (since
+deleted
+) commentary describing Saudi Arabia’s cuts strategy as a failure.
+Iran’s point is that non-OPEC members (like Canada, the US, Brazil, and Guyana) have simply
+increased
+production to seize any market share OPEC leaves on the table. And once you lose market share, it’s hard to claw it back.
+Meanwhile, the world’s top oil buyer (China) is still grappling with a sputtering economy at home, which is further suppressing oil demand (and thus prices).
+So, what’s next?
+Well, part of the reason the Saudis got their way and OPEC+ agreed to extend the status quo is because much of the world is currently playing ‘wait and see’ ahead of Trump 2.0:
+His nominated treasury secretary (Bessent) wants the US to
+pump more oil
+, which would push prices even lower
+And Trump himself wants to hit China with higher
+tariffs
+, which could tap the brakes on China’s growth and (by extension) push oil prices lower again
+But both Trump and his pick for secretary of state (Rubio) also want a ‘maximum pressure’ approach to
+sanctions
+on Iran and Venezuela, which could push prices higher.
+Anyway, as OPEC again kicks the oil can down the road, it’s starting to look a tad less in control of its own (and everyone else’s) destiny.
+INTRIGUE’S TAKE
+Vienna is famous among diplomats as the espionage capital of Europe, if not the world. And one of the top targets is the OPEC headquarters there — that’s partly because OPEC members like Iran and Venezuela turn up, and it’s not every day you get to eavesdrop on (let alone recruit) officials from these isolated regimes. But it’s also because of what they’re discussing: energy. Whether you’re a buyer or seller, it’s existential.
+But that energy intrigue really only makes sense in a world of energy scarcity, and our energy transition is promising a future that looks rather different: energy abundance. It’ll take decades, but the rush to dominate key inputs is already there for all to see.
+Still, for the foreseeable future, the world will keep burning oil. And that means, squabbling or not, OPEC’s members will still have influence, plus the continued attention of intel services everywhere. Just maybe not so much in Vienna: in an effort to plug leaks (and entrench Saudi dominance), the last three OPEC meetings have happened online, essentially rubber-stamping whatever deal the Saudis can work out beforehand.
+Also worth noting:
+The
+coming and going
+of OPEC members is nothing new: Ecuador, Indonesia, Gabon, Qatar, and Angola have all withdrawn or suspended their membership at least once since the cartel’s establishment in 1960.
+MEANWHILE, ELSEWHERE…
+🇦🇿
+Azerbaijan
+: Baku’s foreign ministry has found itself in
+a spat with the British, Swiss, EU, and US ambassadors
+, who’ve all accused the ex-Soviet state of wrongfully detaining various journalists and rights advocates. Azerbaijan, which just hosted COP29, claims the ambassadors are interfering with active investigations.
+🇮🇸
+Iceland
+: Reykjavik’s outgoing conservative government has
+extended whale hunting permits
+until 2029, triggering criticism from animal welfare groups. Iceland briefly suspended whaling last year after an official inquiry concluded the specific methods in use violated animal welfare laws.
+🇲🇾
+Malaysia
+:
+Former leader Najib Razak has filed a new bid to
+serve his remaining prison time under house arrest
+, appealing a lower court’s earlier decision denying the request. A court jailed him back in 2022 over his role in an infamous mass embezzlement of one of the country’s state funds.
+🇵🇾
+Paraguay
+:
+The only South American country still recognising Taiwan has
+kicked out an envoy from Beijing
+, declaring him
+persona non grata
+after he reportedly broke protocol and urged Paraguay to switch ties to China instead. The envoy was in town to attend a UNESCO meeting but ditched it and headed across town to lobby Congress instead, causing quite a stir.
+🇿🇦
+South Africa
+:
+Authorities have recovered six bodies — and fear hundreds more people may be inside — at an
+abandoned, illegally operated mine
+150km out of Johannesburg. Police have surrounded the mine and restricted food and water supplies to pressure the miners to emerge, but an unknown number are reportedly hunkering down rather than risking arrest by resurfacing.
+EXTRA INTRIGUE
+ICYMI: Intrigue’s top stories this week
+🗞️
+In
+🇰🇷
+South Korea
+,
+President Yoon flirted briefly (if dramatically) with martial law, and now seems to be hanging on to power by a thread
+.
+Here’s why
+.
+In 💻
+Silicon Valley
+, tech giant Intel’s chief resigned less than a week after securing a $7.9B grant from Washington.
+Here’s why
+.
+And in
+🇸🇾
+Syria
+,
+rebel groups are capturing key cities from the Assad regime, adding Hama to their haul just hours ago.
+Here’s why
+.
+MEME OF THE DAY
+Ever wondered what it’s like to be a diplomat? Well, our meme lord Jeremy has prepared a helpful illustration above. You see, many of us join the service with grand hopes of pursuing world peace. If you’re lucky, that’s generally synonymous with the thing you’re
+actually
+paid to do: pursuing the national interest.
+That often means greasing the wheels between governments, which often means making the arrangements when a senior official comes to town. And that, in turn, means producing vast reams of documentation to help those senior officials know what to say in their meetings.
+It’s more fun than it sounds.
+FRIDAY QUIZ
+The world celebrated World Soil Day yesterday (Thursday).
+1) What percentage of global soil is considered moderately or severely degraded?
+10%
+15%
+30%
+50%
+Login
+or
+Subscribe
+to participate
+2) How many organisms can one gram of soil support?
+A million
+~100 million
+~500 million
+A billion or more
+Login
+or
+Subscribe
+to participate
+3) What are soil scientists mostly commonly called?
+Solumologists
+Pedologists
+Uzologists
+Terrologists
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✏️ Corrections corner
+Thanks to those who pointed out that the standard English translation for Marine Le Pen’s party is
+National Rally
+, and that while the French government’s 1962 collapse was in the wake of the Algerian War, the immediate causes of the collapse were distinct.

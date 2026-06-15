@@ -1,0 +1,150 @@
+URL: https://archives.internationalintrigue.io/p/antichina-chip-export-control-club-growing
+Title: 🌏 The anti-China chip export control club is growing
+
+Hi there {{ First name | Intriguer }}.
+If you ever feel embarrassed about messing up at work, take solace in the fact you did not just
+lose a minuscule radioactive capsule
+in the middle of the Australian outback. An emergency search of a ~1400km stretch of highway is currently underway to find the potentially lethal pea-sized capsule. Somehow, Australia just got even deadlier.
+Today’s edition is a 4.5 min read:
+👩‍💻
+Two new countries will join the US’
+tech export ban
+.
+🇨🇿 A former NATO commander becomes the new
+Czech
+president.
+➕
+Plus:
+Some confused messaging from the US military, how the papers covered the bombing of an Iranian defence facility, and two more Russian spies arrested in Europe.
+- VC & EP
+🗺️ AROUND THE WORLD
+🇸🇬
+Singapore
+:
+PM Lee Hsien Loong hosted Malaysian PM Anwar Ibrahim
+on Monday. Relations are stable, but irritants include the price of Malaysian water, the status of a rocky outcrop, and a 2022 chicken export ban that spooked import-reliant Singapore.
+🇸🇮
+Slovenia
+: Authorities have detained
+two suspected Russian spies
+with false identities in real estate and antiquities trading. They are the latest in a string of arrests by European counterintelligence, degrading Russian capabilities across the continent.
+🇰🇵
+North Korea
+: Officials have reportedly lifted a
+five-day lockdown
+in Pyongyang that was implemented to contain an unspecified respiratory illness. North Korea didn't acknowledge a COVID outbreak until May 2022; it then declared 'victory' in September.
+🇸🇻
+El Salvador
+: Human Rights Watch has obtained a leaked document detailing
+abuses in El Salvador’s justice system
+. The country's legislature has extended a state of emergency order ten times since March, as it continues its 'war' against criminal gangs.
+🇹🇳 Tunisia:
+Only
+11% of the Tunisian electorate
+voted in Sunday’s parliamentary run-off in a clear rebuke of President Kais Saied’s ongoing power grab. The first round vote in December saw 8.8% turnout.
+💾 UNITED STATES | TECHNOLOGY
+Via: Giphy.
+The Netherlands and Japan join the US to curb semiconductor tech sales to China
+Briefly:
+Japan, the Netherlands and the US reached a deal on Friday (27 January) to restrict exports of advanced semiconductor technology to China. The agreement will prevent Dutch firm ASML and Japanese firms like Nikon from selling state-of-the-art chip manufacturing equipment to China.
+Last October,
+the Biden Administration announced a series of
+unilateral export controls
+to slow China’s military modernisation. The executive action also forbade foreign semiconductor companies that use any American-made inputs from selling chips to China.
+But until now, those restrictions didn't apply to certain advanced manufacturing equipment (
+ultraviolet lithography machines
+) that ASML, Nikon, and others produce. In other words - potatoes and cooking oil were already off-limits; now, the deep fryers are too.
+While the deal has not been formally announced,
+it represents another step forward in the Biden Administration’s efforts to coordinate with allies on China. Without ASML, which produces 90% of the world’s lithography machines, China’s technological development could be set back several years.
+Intrigue’s take:
+The USA-NED-JPN agreement will play into pre-existing fears in Beijing that the West is out to ‘get’ China. The deal will also be seen as proof by Chinese officials that their goal of technological self-sufficiency is the right one. The US effort to tap China’s brakes may ultimately end up hitting the accelerator instead.
+Also worth noting:
+China’s
+top nuclear lab
+has continued to use advanced US semiconductor chips despite a decades-long export ban.
+On Friday, China’s Ambassador to the World Trade Organization said that American trade restrictions violated
+international rules
+.
+📰 GLOBAL PERSPECTIVES
+How different newspapers covered:
+the bombing of an Iranian defence factory in Isfahan.
+Links:
+Euronews
+,
+Times of Israel
+,
+IRNA
+.
+Sponsored by
+The Daily Upside
+Founded by investment bankers, The Daily Upside
+is the premium source for business news that’s actually worth reading.
+The Daily Upside is jam-packed with equal doses of charisma and insight.
+Want to know how Buzzfeed is scaling its business using AI?
+Or if Ryanair will be the only low-cost airline to survive?
+The Daily Upside goes a level deeper to instantly boost your business IQ and upgrade your investing know-how. Simply put, it’s a must-read.
+We read it every morning and you should too.
+Subscribe for free.
+🇨🇿 CZECH REPUBLIC | POLITICS
+Have no fear, NATO Santa is here!
+Former NATO commander defeats former prime minister for Czech presidency
+Briefly:
+Former NATO commander Petr Pavel has won a
+landslide victory
+to become the Czech Republic’s new president, beating former Prime Minister Andrej Babiš by a 16-point margin.
+The defeated Babiš has been a controversial fixture of Czech politics for a decade. But his populist appeal seems to have worn off; he was even forced to backtrack after suggesting he would not come to the aid of Baltic NATO countries in the event of a (Russian) attack.
+Intrigue’s take:
+Saturday’s (28 January) election has attracted plenty of international attention, not least because the victorious general looks like Tom Cruise playing ripped Santa. More importantly for leaders in Kyiv and Taipei, with whom the Czech president-elect has already spoken, Pavel’s victory is a signal that European voters may be
+turning away from isolationists
+and Eurosceptics.
+Also worth noting:
+The outgoing Babiš has recently been cleared of
+fraud allegations
+concerning his agribusinesses’ EU subsidies.
+Czech public support for sending military equipment to Ukraine
+fell
+slightly
+between May and October 2022, though it still remains above 50%.
+💬 QUOTE OF THE DAY
+The US is giving us mixed messages...
+… Especially when it comes to the possibility of conflict in the Taiwan Strait. According to a leaked memo,
+General Minihan
+believes a Chinese military invasion of Taiwan is just around the corner.
+But Minihan’s estimations directly contradict the official US position.
+Neither US Secretary of Defense Lloyd Austin nor US President Joe Biden expect (publicly, at least) a hot war anytime soon, so why isn’t everyone on the same page?
+Experts are equally baffled
+by the comms faux-pas
+, with China scholar
+Ryan Hass
+commenting that
+“the stakes are too high for undisciplined public messaging on Taiwan [...] at a time when it is imperative for the US to be projecting steady, confident determination to uphold peace and stability.”
+👀 EXTRA INTRIGUE
+We’re very online, so you don’t have to be:
+Vast Maya kingdom is revealed in Guatemalan jungle
+($)
+Gandhi’s Life in Photos, 75 Years After His Assassination
+When Americans lost faith in the news
+Can Germany be a great military power again?
+Togo promises development, not democracy
+($)
+🗳️ POLL TIME!
+Is the Biden Administration going too far too fast in its pressure campaign against China?
+🔴 Yes, they're risking a dangerous escalation
+🟡 Not yet, but they need a clearer long-term strategy
+🟢 Not at all, full steam ahead
+Login
+or
+Subscribe
+to participate
+Yesterday's poll:
+Is the US-Israel relationship at risk of fraying?
+🟨🟨🟨⬜️⬜️⬜️ 🥶 Yes, their politics are just too different  (33%)
+🟩🟩🟩🟩🟩🟩 💪 No chance, their strategic partnership is too important   (67%)
+Your two cents
+:
+💪
+S.H:
+“We have few friends in that area of the world. Can’t afford to alienate Israel.”
+🥶
+J.G:
+"...Expect a lot of stress arising from the more liberal and Reform-oriented Jews who comprise the vast majority of American Jews.”

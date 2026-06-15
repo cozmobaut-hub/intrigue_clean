@@ -1,0 +1,201 @@
+URL: https://archives.internationalintrigue.io/p/why-piracy-in-asia-just-quadrupled-837c671de0e706e9
+Title: 🌍 Why piracy in Asia just quadrupled
+
+Today’s briefing:
+— Why piracy in Asia just quadrupled
+— Cartels with drones
+— Meme of the day
+Good morning {{first_name | Intriguer}}
+. In my research about
+pirates
+for today’s story, I spent far too much time on
+this website
+, which not only suggests a personalised pirate name but also generates a whole backstory. Anyway, here’s mine as ‘Captain Helen Harpoon’:
+“
+Captain Helen Harpoon grew up in a bustling coastal village, where tales of legendary pirates enthralled her as a child. Her father, a humble fisherman, was lost at sea during one of the fiercest storms, leaving Helen with a burning desire to conquer the waves. Tired of the mundane life ashore and driven to honor her father's memory, she took to the seas, forming a fierce crew of outcasts like herself. With each daring raid, she now carves her name into the annals of piracy, proving that a woman can lead the charge on the high seas.
+”
+Definitely using that as my new LinkedIn bio. Let’s dive into today’s story.
+Speech of the day
+10:00am
+(US eastern)
+That’s when the world will tune in to see US Fed chief Jerome Powell deliver his high-stakes speech at Jackson Hole today (Friday), as he grapples with pressure from President Trump plus debate around the immediate trajectory of both US inflation and growth.
+Set sail
+We’ve saved plenty of things from the 17th century: champagne, the barometer, the telescope, the foreign ministry’s IT system, and… pirates.
+Sure, they’ve
+swapped their swords for semi-automatics
+, and they’re more focused on ransoms than rum, but pirates still sail the seven seas.
+And while the world has long focused on the pirates in East Africa thanks to their sharper methods plus that stand-out
+Tom Hanks
+performance in
+Captain Phillips
+, by many measures the world’s most pirate-infested waters are now in Asia’s Straits of Malacca and Singapore (aka ‘
+SAMS
+’: the narrow stretches between Indonesia, Malaysia, and Singapore).
+Really?
+Yes, piracy and armed robbery attempts in the area have
+quadrupled
+in the first half of 2025 (yoy). And that’s a big deal for waters home to (or near) the world’s key shipping routes, hosting 20-30% of all global maritime trade.
+The latest International Maritime Organization
+stats
+suggest ~60% of all the world’s piracy-related incidents now take place in the Asia-Pacific. And of that, the region’s main anti-piracy initiative (
+ReCAAP
+) suggests 84% happens in the SAMS area.
+Why?
+The drivers include…
+Geography
+The vaguely cone-shaped waters measure just 65km (40 mi) at their narrowest, funnelling the world’s ships into an orderly and low-speed conveyor belt of wealth. Sometimes that conveyor belt doesn’t move at all because of…
+Geopolitics
+Houthi attacks on Red Sea shipping have spurred firms to avoid the Suez Canal, instead taking the long way around Africa and exacerbating Malacca bottlenecks. That’s partly why captains are now
+reporting
+average local wait times of more than a day, leaving them sitting ducks (a fifth of all local piracy incidents hit idle ships). And speaking of idle…
+Socioeconomics
+We’ve previously seen local piracy rates surge during the Asian Financial Crisis and Covid, as some of the poorer coastal communities in Indonesia and Malaysia get desperate.
+So shouldn’t these governments tackle all this piracy? They do, but…
+Coordination
+It can be tricky to police waters when they straddle the high seas plus multiple national borders, particularly as these neighbours still have border disputes. They’ve been working to accelerate security cooperation in parallel, but the stats suggest gaps remain.
+So
+who cares?
+For one, Japan does! Its foreign ministry just issued a
+warning
+, and if you’re wondering why Tokyo would get involved, remember that up to 90% of its oil imports arrive via that same narrow SAMS shipping lane. It’s the same for South Korea and even China.
+And when you’ve got that number of people with that level of energy dependence on that tiny a waterway, you can see how everyone starts to take notice.
+Intrigue’s Take
+It’s worth keeping in mind that piracy rates in Southeast Asia are still below the dark days of the 1990s, and a lot of the reported incidents these days involve (say) sneakily yoinking ship parts at night rather than going full Tom Hanks and getting nominated for an Oscar.
+But for us, this piracy spike is about more than just supply chain fragility. It’s also a reminder of the
+broader strategic implications
+of maritime chokepoints: in the event of a war over (say) Taiwan or the South China Sea, it’s widely assumed the US navy and/or its partners would rush to control Malacca and thereby sever China’s key energy artery.
+China’s strategists have been fretting about that since at least since 2003 when the then president (Hu) flagged this broadly as
+China’s “
+Malacca Dilemma
+”
+. And you can see China’s response everywhere, whether in its energy transition, its overland pipelines, or its ‘string of pearls’ strategy (ports and bases), all helping dilute that same Malacca Dilemma.
+But of course, you can see it in
+DC’s strategy, too
+, whether re-upping its grip over the Panama Canal, or (despite occasional grumbles) still maintaining a massive naval presence around the Red Sea.
+So maybe the lesson here is that small boats in narrow straits can hint at very big problems for global powers ahead.
+Meanwhile, elsewhere…
+🇨🇴
+COLOMBIA
+-
+Chopper down.
+At least 17 people have died in two separate attacks attributed to a dissident faction of the now-defunct ‘FARC’ rebel group. Assailants reportedly used a drone to kill 12 police travelling in a helicopter to eradicate coca crops, while a car bomb left another five dead near a military aviation school. (
+AP
+)
+Comment:
+President Petro’s ‘total peace’ now lies in tatters. The question is which way Colombia’s voters will go at next year’s elections (Petro himself is termed out).
+🇮🇱
+ISRAEL
+-
+Settlements
+.
+The Israeli government has approved a new plan for settlements that could cut the West Bank from East Jerusalem, with 25 Western capitals
+calling
+the move “
+a violation of international law
+” that hobbles prospects for a two-state solution. (
+BBC
+)
+🇪🇺
+EU
+-
+Stricter chips
+.
+The EU will reportedly harmonise its chip security laws with the US to “
+avoid technology leakage to destinations of concern
+” (aka China), as part of ongoing trade talks. (
+SCMP
+)
+Comment:
+This European move will be well-received in DC, where there’s long been a lingering sense that Brussels wanted to have its mooncake and eat it too.
+🇮🇹
+ITALY
+-
+Nord Stream.
+Authorities in Italy have arrested a Ukrainian national suspected of co-plotting the 2022 sabotage of Russia’s now-defunct Nord Stream gas pipelines into Europe, marking the first known arrest linked to the case. (
+Euractiv
+)
+🇦🇺
+AUSTRALIA
+-
+Ship happens
+.
+Australia’s postal service is suspending ‘transit’ shipping to the US ahead of the US axing its
+"de minimis"
+exemption for low-value packages. (
+ABC
+)
+Comment:
+Several countries ship things to the US via hubs like Australia — this ‘transit’ shipping is often because there’s not enough volume to justify shipping it all direct. But the issue is that many postal carriers are still figuring out how (and who) to manage collecting the taxes mandated in President Trump’s executive order.
+🇰🇬
+KYRGYZSTAN
+-
+Leave us out of it
+.
+President Japarov has used his state news agency Kabar to accuse Western leaders of “
+politicizing the economy
+”, after the UK joined the US in sanctioning a local bank for helping Putin’s invasion of Ukraine. (
+The
+Times of Central Asia
+)
+🇮🇷
+IRAN
+-
+Naval action
+.
+Tehran is holding its first military drills since its 12-day war with Israel, with naval vessels reportedly launching missiles at test targets in the Gulf of Oman and out in the Indian Ocean. (
+TRT
+)
+Comment:
+It’s an attempt to project strength at home and abroad after taking such a beating. Iran’s small navy emerged largely unscathed from the brief war, though it usually leaves the most critical Hormuz chokepoint to Iran’s Revolutionary Guards.
+Extra Intrigue
+Intrigue’s weekend reccs
+👟
+Photography:
+As (the northern) summer comes to an end, take a look at
+this week in photos
+— from swimming in the Seine to Indonesia’s national day.
+Eat:
+It’s
+almost
+soup season, so try some new flavours like
+Bún Bò Huế
+, which Vietnam recognised earlier this summer as part of its national heritage.
+Listen:
+To renowned historian Margaret MacMillan on why America now appears to be
+going it alone in the world
+.
+Meme of the day
+Courtesy of our meme-lord Jeremy (@DickerPicss on Insta)
+Did we miss anything above?
+Ah yes, there’s also…
+Acquitting that $12 taxi receipt
+Juggling vacation dates to avoid leaving the embassy empty
+Packing (and more packing), oh, and
+Ensuring the minister gets to stay at The Montage.
+FRIDAY QUIZ
+Pirates, obviously. Arrrrrrr!
+1) What % of world trade is transported via sea?
+50%
+60%
+80%
+Login
+or
+Subscribe
+to participate
+2) The Malacca Straits and Singapore had the world's highest number of piracy incidents in 2024. Which region came second?
+According to the International Maritime Organisation
+Indian Ocean
+East Africa
+Arabian Sea
+Login
+or
+Subscribe
+to participate
+3) What was the name of the flag commonly used by European pirates in the 18th C?
+Bloody banner
+Jolly Roger
+Black Johnny
+Login
+or
+Subscribe
+to participate

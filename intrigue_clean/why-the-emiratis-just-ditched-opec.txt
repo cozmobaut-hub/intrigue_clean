@@ -1,0 +1,223 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-549519e21cc012d9
+Title: 🌍 Why the Emiratis just ditched OPEC
+
+Today’s briefing:
+— Why the Emiratis just ditched OPEC
+— Go direct sparkling flavours Down Under
+— Meme of the day
+Good morning {{first_name | Intriguer}}
+. Before we explore
+why the Emiratis just ditched OPEC
+, a quick shout out to King Charles III (and speechwriter) for his
+many good lines
+as Britain’s second monarch ever to address Congress, like…
+“
+We have really everything in common with America nowadays… except, of course, language
+” (the Oscar Wilde classic)
+“
+250 years ago — or, as we say in the United Kingdom, just the other day
+”, and
+“
+If it wasn’t for us, you’d be speaking French.
+”
+Speeches come and go, but this one landed — helping a polarised nation smile, applaud together, and remember what still binds it both at home and with allies abroad. Well played?
+Number of the day
+$38M
+That’s the figure at the centre of the ongoing Musk-Altman court battle over the future of OpenAI. Musk claims he donated the sum believing OpenAI would remain a non-profit. Altman’s team argues Musk is just trying to take out a competitor to his xAI venture.
+Crude joke.
+Some love stories are so powerful, you remember when they end. Like when Jennifer Lopez and Ben Affleck broke up in 2004, or when Jennifer Lopez and Ben Affleck broke up in 2025, or when the United Arab Emirates announced they’re breaking up with the
+Organization of the Petroleum Exporting Countries
+, aka OPEC.
+That last headline just broke, with the UAE pulling the ripcord on
+a petrostate cartel
+that’s shaped global oil prices since the 1960s — prices too low? Tighten the spigot. Prices too high? Let it rain. Backing Israel during the Yom Kippur War? No oil for you!
+So… more than half a century later,
+why did the UAE just ditch OPEC?
+The official
+statement
+cites the UAE’s “
+long-term strategic and economic vision
+”, which is diplomatic speak for “
+it’s not you, it’s me
+”, but the Emiratis realistically had four reasons.
+First
+,
+rivalry
+— OPEC technically runs on consensus, but consensus almost always bends towards the Saudis who can ramp output up or down the hardest, single-handedly enforcing or breaking the group’s solidarity.
+That gives leverage to the Saudis, who also happen to be
+the UAE’s main regional rival
+— and as Sweet Brown once said, ain’t nobody got time for that. This leads us to…
+Second
+,
+flexibility
+— the UAE has long bristled at Saudi-led OPEC’s 3.5 million bpd ceiling on Emirati oil output, particularly given the Emiratis just poured billions into ramping their capacity up closer to ~4.5mbpd. The UAE was sneakily exceeding that limit, but the gap just became unsustainable —
+habibi
+are you in OPEC, or are you out?
+Third
+,
+geography
+— whereas other OPEC members like Kuwait, Iraq, and Iran are now effectively trapped by duelling Hormuz blockades, the Emiratis (like the Saudis) have a pipeline to partially bypass Hormuz. It’s not massive (~1.8mbpd) but probably gave the Emiratis enough confidence to prioritise national output over OPEC solidarity.
+And
+fourth
+,
+reciprocity
+— the news came just days after US Treasury Secretary Bessent publicly backed the Emirati request for a $20B currency swap. So while there’s no leaked “
+swap-for-OPExit
+” memo (yet?), the sequence is too tight to ignore: the US grants the UAE a wartime financial buffer in return for the Emiratis helping the US further weaken OPEC.
+Ok, but why
+now
+?
+The Iran war was really
+the last straw
+, straining not just the UAE’s entire hub-and-energy model, but also its ties with Gulf Cooperation Council (GCC) neighbours: Iran aimed ~83% of its GCC retaliatory strikes at the Emiratis, and yet a top Emirati advisor (Gargash) blasted the broader region’s response as “
+the weakest historically
+”.
+So there’s now a sense of
+if you won’t stand with us, why should we stand with you?
+Anyway, if that’s why the Emiratis just bailed on OPEC (effective from this Friday),
+what does that mean for everyone else?
+Energy markets
+will enjoy more Emirati supply and lower prices
+longer term
+, but there are still immediate logistical/Hormuz constraints, and the UAE is assuring everyone it’ll avoid any sudden shocks and instead bring extra crude online gradually.
+OPEC itself
+will hurt, though it’s already been haemorrhaging members for years, with its weakening grip on oil markets both a cause and effect around each departure: think Indonesia in 2016, Qatar in 2019, Ecuador in 2020, and Angola in 2024. And we wouldn’t be surprised if Venezuela — now taking orders from DC — is next.
+Saudi Arabia
+in particular is now in a bind after the departure of OPEC’s fourth-biggest producer — the Saudis can either keep absorbing most output cuts in hopes they can still drive prices higher, or try to spread cuts out across OPEC members but risk another revolt. Their huge recent budget deficits don’t leave a lot of manoeuvrability.
+And as for
+t
+he US?
+Anything that weakens OPEC’s oil leverage is a win for the US, further strengthening its own hand as the world’s single-biggest energy producer.
+Intrigue’s Take
+OPEC’s slow death might now speed up, as each departure weakens the club’s leverage, in turn making the next departure not only easier, but more logical. So we might see a more volatile break-out as high-cost producers rush to pump what they can, while they can.
+One key driver behind all this has been
+America’s rise as an energy superpower
+— the shale boom has
+tripled
+US output since 2008, delivering history’s fastest scale-up to become history’s first ~15mbpd producer.
+But the other driver is the
+energy transition
+, which is still happening for raw economic reasons even if that reality doesn’t make as many
+political
+headlines these days — for the first time in history, clean energy growth exceeded the world’s new electricity demand last year. Solar did most of the heavy lifting, growing 18 times more than natural gas, which was the only fossil fuel to see any increase at all (
+in the context of power generation
+).
+That’s a massive shift from 2024, when demand was still growing faster than supply — we’ve gone from renewables struggling up a down-escalator, to now running faster than the stairs. And while it’ll take years to play out, it all risks rendering any single OPEC exit from this point a little like trying to squeeze the last drops from a shrinking straw.
+Sound even smarter:
+The expanded OPEC
++
+group also includes Russia, Azerbaijan, and Kazakhstan, accounting for around half the world’s oil supply in 2025.
+In
+2025
+, the US produced 15mbpd, while Russia and Saudi Arabia each pumped ~9.5.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES — He sells sea shells…
+The justice department has brought new charges against former FBI boss James Comey, arguing his old social media post of seashells spelling ‘86 47’ constituted a threat against the president: ‘86’ allegedly slang for ‘kill’, and ‘47’ referring to the 47th president (Trump). The DoJ’s earlier Comey charges (lying to and obstructing Congress) failed on procedural grounds. (
+Guardian
+)
+🇨🇦
+CANADA — Sovereign wealth, baby!
+Prime Minister Carney has launched Canada’s first national sovereign wealth fund (SWF), aimed at financing projects across energy, infrastructure, mining, agriculture, and tech. The
+Canada Strong Fund
+will begin with an initial $18.4B seed. (
+Global News
+)
+Comment
+: It’s on-brand for Carney (of central banking and climate finance fame), and aims to reduce Canada’s US reliance. But critics note Canada (unlike SWF pioneers such as Norway) runs deficits — he’s hoping it’ll crowd in private investment.
+🇦🇲
+ARMENIA — Border towns.
+Long-time rivals Turkey and Armenia have agreed to push ahead with reopening the long-shuttered Kars–Gyumri railway, forming a joint working group to restore a key cross-border link that’s been closed for political reasons since 1993. (
+AA
+)
+Comment:
+Armenia gets to diversify away from Russian-controlled rail routes and claim an early win ahead of critical June elections, while Turkey gets to revive its poorer eastern provinces and double-down on its regional hub ambitions.
+🇵🇱
+POLAND — პოლონელები მოდიან.
+Poland’s foreign ministry and broadcaster have launched a Georgian-language news service aimed at countering Russian disinformation, adding to Warsaw’s new channels for Moldova (February) and Armenia (March). (
+Notes from Poland
+)
+Comment:
+We
+wrote yesterday
+about the growing role of influencers, but this is a timely reminder that traditional channels in local languages still pack a punch. It’s also a reminder how the Polish miracle (~18% growth since 2019 vs ~1% in the UK) seems set to reshape Eastern Europe.
+🇹🇭
+THAILAND
+— Pay to play.
+Thailand is considering reviving a 1983-era 1,000 baht (~$31) exit fee for its citizens travelling abroad, to fund a domestic tourism incentive scheme. (
+The Straits Times
+)
+Comment:
+Why? Amid a softening baht and consecutive quarters of capital outflow, Bangkok hopes to tax outbound consumption and redirect it inward. Using that old 1983 law allows leaders to bypass lengthy parliamentary debates.
+🇻🇪
+VENEZUELA — Subtle.
+Venezuela's Delcy Rodríguez has used a visit to Barbados to dangle the prospect of cooperation on energy and food production. (
+AP
+)
+Comment:
+Barbados isn’t going to bankroll Venezuelan oil and gas. Rather, Rodríguez is there to
+a
+) normalise her role as president,
+b
+) butter up PM Mia Mottley (a Caribbean heavyweight), and
+c
+) try to counter rival Guyanese influence across the regional CARICOM block — lest anyone had doubts, Rodríguez even wore a pin asserting Venezuela’s claim over the oil-rich Guyana-controlled Essequibo region.
+🇳🇬
+NIGERIA — On someone else’s dime, you say.
+Former oil minister and OPEC’s first female leader, Diezani Alison-Madueke, is back in a London courtroom as her long-running corruption trial enters its final stages. She’s arguing her millions in London luxury all entailed official business rather than any oil executive bribes. (
+BBC
+)
+Extra Intrigue
+The Intrigue jobs board
+💼
+Policy, Chemical Weapons and High Yield Explosives @
+Anthropic
+in US
+Senior Director, Sparkling Flavors
+@
+Coca-Cola
+in Sydney
+Project Coordinator, Medellin Mayors Challenge
+@
+UNDP
+in Medellin
+Information & Publications Officer
+@
+East-West Center
+in Hawaii
+From our sponsors
+You read about geopolitical crises every morning.
+But could you lead through one? The Oxbridge Diplomatic Academy’s Executive Programme on Geopolitics & Leadership brings together a handpicked cohort of corporate leaders and diplomats for a week at Rhodes House, Oxford, from 26-31 July.
+Over five intensive days, participants learn directly from former prime ministers, foreign ministers, and ambassadors, through crisis simulations, negotiation exercises, and high-level roundtables on geopolitics, disruptive technology, and the future of global governance.
+Apply now at
+www.oxbridgediplomaticacademy.com/apply-now
+.
+Intrigue readers get a special 20% discount on the course fees until April 30th.
+Meme of the day
+Believe us when we tell you that most embassies run not on ambassadorial egos, nor on underling ambitions, but rather on an underpaid and overworked cadre of local employees who often make up the overwhelming majority of each embassy’s footprint!
+They’ve seen every snafu, know where the bodies are buried, and are usually best placed to explain why maybe it’s not a great idea to host July 4th fireworks during Friday prayers.
+Today’s poll
+Do you think this is the end of OPEC?
+💥 Yes, it's running out of market power
+🛢️ No, OPEC members are still stronger together
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the free world should work more with influencers?
+👀
+Yes, you can't argue with that reach (32%)
+❌
+No, it's fickle (65%)
+✍️ Other (write us!) (3%)
+Your two cents:
+✍️
+A.A:
+“I don't think the free world has a choice.”
+❌
+S.B:
+“An influencer you pay to endorse you today might take more money to undermine you tomorrow.”
+✍️ D.M:
+“Marketing is marketing, just keep in mind which companies (not countries) own the platforms these people influence on.”

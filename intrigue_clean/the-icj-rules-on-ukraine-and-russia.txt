@@ -1,0 +1,212 @@
+URL: https://archives.internationalintrigue.io/p/icj-rules-ukraine-russia
+Title: 🌍 The ICJ rules on Ukraine and Russia
+
+Hi {{ First name | Intriguer }}.
+Hands up if you think last week’s interim ruling by the ICJ will end the Israel-Hamas conflict in Gaza.
+🦗
+Yeah, me neither. But the power of international law has always been more in its political symbolism.
+Keep that in mind as you read
+today’s lead story
+on two different but no less important ICJ cases about Russia and Ukraine.
+- John Fowler, Co-Founder
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Done deal.
+Hungarian Prime Minister Viktor Orbán has just lifted his veto on a ~$54B aid package for Ukraine, allowing EU leaders to give the green light after a delay of nearly two months. European Council President Charles Michel
+announced
+the deal, saying it’ll provide long term stability to Ukraine.
+The Fed stays put.
+The S&P 500 fell by 1.6% on Wednesday after the Federal Reserve left interest rates unchanged at 5.25-5.5%. Fed Chair Jerome Powell threw additional water on Wall Street’s hopes by saying rates aren’t likely to be cut at the next meeting in March either.
+Iran pulls top officers out of Syria.
+Iran’s senior Revolutionary Guards in Syria have withdrawn after a series of recent Israeli attacks
+killed
+at least six of their members, according to a Reuters exclusive. Tehran’s decision looks partly dictated by its reluctance to be drawn into an all-out conflict with Israel.
+Tech CEOs grilled by Senate again.
+The CEOs of Meta, TikTok, Snapchat, Discord, and X (né Twitter) testified before the US Senate Judiciary Committee yesterday, fielding some tough questions on their efforts to keep children safe online. Meta CEO Mark Zuckerberg was most in the firing line, while TikTok head Shou Chew was again grilled on his company’s links to China.
+Podesta to replace Kerry as climate envoy.
+White House senior adviser John Podesta will soon take over John Kerry’s responsibilities (but not his title) as climate envoy. Kerry announced his decision to step down to focus on Biden’s re-election bid two weeks ago.
+TOP STORY
+The International Court of Justice considers Ukraine and Russia
+Unusually for the tweed-clad world of international law, three International Court of Justice (ICJ) cases are now capturing global attention. The first was Friday's interim ruling on Israel’s alleged breaches of the Genocide Convention (which we wrote about
+here
+).
+Here’s what you need to know about the other two (both
+Ukraine v Russia
+).
+But first, a quick fact: the ICJ can't hear a dispute unless both countries agree. As odd as that sounds, it's the reality of a world made up of sovereign states. The most common way countries ‘agree’ to be sued is by signing treaties.
+So, Ukraine
+lodged
+the
+first case
+against Russia back in 2017 (ie, before Russia's full-scale invasion), alleging
+Russia had breached two treaties
+.
+On the first, Ukraine claimed Russia was failing to stop
+terrorist financing
+of pro-Russian separatists in Ukraine. It also sought compensation for the damage those groups had caused (including the downing of flight MH17 in 2014).
+The ICJ
+agreed
+yesterday that Russia has failed to
+investigate
+terrorism financing, but it otherwise rejected Ukraine's terrorist financing claims.
+The court said
+the treaty bans sending
+funds
+to terrorists
+- not arms, nor using those arms to down MH17. So the court couldn’t look at Russia’s responsibility for MH17 (nor any duty to provide compensation).
+On the
+second treaty
+, Ukraine claimed Russia's treatment of ethnic groups in occupied Crimea breached the treaty against
+racial discrimination
+.
+The court agreed Russia had breached the treaty by limiting Ukrainian language education in Crimea, but it otherwise rejected Ukraine's claims.
+It found Russia's treatment of the locals was due to their
+political opposition
+, not race; so it was outside the treaty’s (and court’s) scope.
+Separately, the ICJ will speak tomorrow on Ukraine’s
+second
+case, which it
+lodged
+via the Genocide Convention two days after Russia’s full invasion began in 2022.
+Ukraine’s argument isn’t that Russia is committing
+genocide
+; rather it's arguing that Russia
+made false genocide claims
+against Ukraine to justify its invasion.
+And tomorrow’s ruling is just on whether the court can hear the case at all (a process which will then likely take years).
+INTRIGUE’S TAKE
+As you digest these recent ICJ rulings, it’s hard to miss the idiosyncrasies: the court’s rulings take years, are largely unenforceable, are often ignored, are limited to very specific topics, and are confined to very precise texts. To quote one bewildered Intriguer on all this… "
+how much are we paying these nerds?!
+"
+It's an understandable (if amusingly worded) sentiment, and one the judges themselves know well. Just take a look at paragraph 201 of yesterday’s ruling, where they emphasise that just because a court doesn't have jurisdiction over alleged violations, this doesn't mean those violations don't exist.
+Arguably, it’s these same limitations that underpin the court’s role: countries are more willing to submit to the ICJ’s authority when that authority is limited. And it builds over time, as the law develops and evolves incrementally.
+Still, that's all probably cold comfort for Ukraine right now.
+Also worth noting:
+Shortly after Ukraine lodged its genocide case, the ICJ issued an
+interim order
+for Russia to halt its invasion (an order Russia has flouted).
+A Dutch domestic court has
+convicted
+(in absentia) two Russians and a pro-Moscow Ukrainian for their role in the downing of MH17, which killed 298 people in 2014. The Netherlands and Ukraine have also
+sued
+Russia at the European Court of Human Rights over MH17.
+The International
+Criminal
+Court (ICC) has an open investigation into the Russo-Ukraine war, though neither Russia nor Ukraine recognise its authority. The ICC issued a
+warrant
+for Putin’s arrest last year.
+SUPPORTED BY MONEYPICKLE
+Talk To An Advisor You Can Trust, For Free
+Why do less than 32% of investors go to a financial advisor?
+Many reasons:
+It’s difficult to know if you can trust them or if they’re just shilling you expensive financial products.
+Not every advisor is the right fit for you, and finding the perfect one has always been the hardest part.
+That was before -
+today, there’s Money Pickle, which matches you with top financial professionals through an easy, fast, and free process.
+Need second opinions on major decisions? Is it time to delegate your finances to someone you can trust? Their network of vetted advisors are ready to help.
+Third-party advisors at Money Pickle can even assist you in going over your investments, estate, or retirement planning, all through a convenient video call.
+Get Matched With an Advisor
+MEANWHILE, ELSEWHERE…
+🇦🇲
+Armenia
+: Prime Minister Pashinyan has proposed
+a non-aggression pact
+with Azerbaijan in case of further delays in their peace process. The two countries have long fought over the contested region of Nagorno-Karabakh, which Azerbaijan seized in a lightning offensive last year.
+🇷🇺
+Russia
+: Local politician Boris Nadezhdin has submitted the required 100,000 signatures to
+run in Russia’s presidential election
+in March, and is now waiting for the electoral authority’s review. He’s known for his criticism of Putin and has said he’ll end the war in Ukraine in the (unlikely) event he’s elected.
+🇲🇾
+Malaysia
+: Sultan Ibrahim Sultan Iskandar from Johor state was sworn in for his five-year term as
+Malaysia’s new king
+yesterday (Wednesday). Malaysia is considered the only monarchy operating on a rotating system.
+🇻🇪
+Venezuela
+: The US has
+re-imposed sanctions
+on Venezuela’s state-owned gold mining company and warns it’ll do the same with the oil sector if the Maduro administration fails to hold free elections this year. The decision comes shortly after the country’s highest court upheld an electoral ban on opposition leader María Corina Machado.
+🇸🇴
+Somalia
+: Somalia’s intelligence services say they’ve
+taken down 20 Whatsapp groups
+allegedly operated by the jihadist movement al-Shabab. In an effort to disrupt the group’s communication channels, the agency also disabled data services for approximately 2,500 phones.
+EXTRA INTRIGUE
+Here’s what people around the world googled yesterday
+🇩🇪
+German
+fans googled
+‘Adele’
+after the singer announced she’ll take up a “
+random
+”
+mini-residency in Munich
+this summer.
+🇹🇼
+Folks in
+Taiwan
+searched for ‘立法院長’ (
+Legislative Yuan
+) to get the latest on the political drama as the legislature votes on
+a speaker
+.
+🇨🇭
+And the
+Swiss
+looked up
+‘Novartis’
+after their country’s pharmaceutical giant posted lower-than-expected
+Q4 earnings
+.
+TODAY IN HISTORY
+A protest against the military coup in Yangon, Myanmar, 15 February 2021. Credits: Reuters.
+On this day in 2021, the Burmese military toppled Myanmar’s democratically elected government in a coup. Since then, the country has sunk into economic and security chaos as regime forces attempt (so far
+unsuccessfully
+) to quash armed uprisings across the country.
+DAILY POLL
+If you had $1M to give to charity, which issue would you back?
+🖊️ Education
+🚑 Medical research
+🌲 Environment
+🗳️ Democracy
+🐯 Animal welfare
+🍽️ Hunger
+🎀 Gender equality
+💰 Economic development
+🚨 Disaster relief
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Is it ever justifiable for the military to interfere in politics?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤔
+Yes, drastic situations call for drastic measures (17%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎 No, nothing good ever comes from military meddling (80%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents:
+🤔
+L.P:
+“If a president loses an election and refuses to leave office, and then orchestrates a coup or insurrection, then the military should be called in to quell it.”
+👎
+M.V:
+“Trust me, I come from Argentina. Military dictatorships, because they were 'the owners of the truth', are part of our terrible history.”
+👎
+N.J:
+“Democracy is far from perfect. But there is no basis to expect the military to be better. They have the gun so less to fear from the public.”
+✍️
+K.F:
+“Every nation's military is already a political tool.”
+Share the Intrigue

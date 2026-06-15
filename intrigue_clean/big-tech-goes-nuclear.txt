@@ -1,0 +1,255 @@
+URL: https://archives.internationalintrigue.io/p/big-tech-goes-nuclear
+Title: 🌍 Big tech goes nuclear
+
+IN TODAY’S EDITION
+1️⃣ Big tech goes nuclear
+2️⃣ A surprise rate cut in Thailand
+3️⃣ Film of the day
+Hi {{ First name | Intriguer }}.
+Here are a few numbers to think about as we head into today’s edition on
+big tech and their big bets on nuclear energy
+.
+160%
+. That’s how much demand for power will grow by 2030 (according to Goldman Sachs). What’s causing this spike? The data centres which power artificial intelligence and all its supporting computing infrastructure, like servers, data storage, and networking equipment.
+10
+. That’s roughly how many times more energy one ChatGPT query uses than your standard Google search. Remember that as you jump on the latest ChatGPT ‘Dream Life’ trend (which involves users asking ChatGPT to describe a day in the life of their future selves… so I hear).
+3
+. That’s how many eyes the nuclear contaminated fish had in
+The Simpsons
+, which is unfortunately still one of the more enduring pop culture associations with nuclear energy and its potential risks (at least for me, as a cheugy millennial).
+And with that, let’s dive in.
+PS -
+Hey DC!
+Want to score some exclusive International Intrigue swag? We're looking for volunteers to support our program next week. Interested? Shoot us an email at
+events@internationalintrigue.io
+!
+THE HEADLINES
+Israeli strike kills mayor in southern Lebanon.
+An Israeli strike has
+hit Nabatieh city’s municipal headquarters
+, leaving the mayor and 15 others dead — Lebanon’s PM says they were at a meeting to coordinate aid. Israel has said it hit dozens of Hezbollah targets in the area after ordering the city’s evacuation on October 3.
+Zelensky presents victory plan to parliament.
+The Ukrainian president has unveiled his
+much-anticipated ‘victory plan’
+to Ukraine’s parliament, featuring five main points:
+1)
+securing an invitation to join NATO;
+2)
+securing more weapons with fewer restrictions;
+3)
+deploying a non-nuclear strategic deterrent (he didn’t specify the exact weapons, though Western partners are apparently in the loop);
+4)
+joint development with the West of Ukraine’s critical resources (lithium, gas, titanium); and then
+5)
+using battle-hardened Ukrainian troops to help bolster Europe’s security post-war. The plan also contains three secret extra bits which will be shared only with Kyiv’s allies.
+US carries out strikes on Houthi targets.
+The Pentagon says it’s used B-2 Spirit stealth bombers to hit five
+weapons storage locations
+in parts of Houthi-held Yemen, in the first appearance by the B-2 in the region since last year’s Hamas attacks on Israel. US Defense Secretary Austin says the strikes demonstrate America’s ability to target facilities its adversaries seek "
+to keep out of reach
+", which kinda feels like a warning for the main sponsor of the Houthis: Iran.
+New details on Apple’s cancelled EV.
+The US tech pioneer
+secretly started working with China’s EV giant BYD back in 2017
+, aiming to develop a battery system using lithium iron phosphate cells. According to Bloomberg, Apple then spent $1B per year working to build its own EV, before cancelling the project this past February.
+Harris and Trump campaigns continue.
+The VP and Trump have both faced tough questions before national audiences, with Harris sitting down for
+an interview
+on Fox News, while Trump has held
+a town hall
+on Univision (America’s largest Spanish-language network).
+PS
+- we’re now just ~450 hours out from election day, so don’t miss the next edition of
+Election Intrigue
+, our weekly briefing on how the US election impacts the world (and vice versa).
+TOP STORY
+Big tech goes nuclear
+Google has
+announced
+it’s inked a deal with Kairos Power to buy small modular reactors (SMRs) to help power the tech giant’s investments in data centres and AI.
+Google says it chose SMRs due to, well, their small size and modular nature, which in turn can “
+reduce construction timelines, allow deployment in more places, and make the final project delivery more predictable
+”. They’re shooting to have the first reactor online by 2030, with the remaining five or six then completed by 2035.
+Of course, Google isn’t the only tech giant with a sudden thirst for nuclear energy:
+Last month,
+Microsoft
+announced a 20-year power procurement
+deal
+that’ll see the reopening of Three Mile Island (the site of America’s worst nuclear accident)
+In March,
+Amazon
+bought
+a nuclear-powered data centre for $650M
+Just yesterday (Wednesday),
+Amazon
+backed that up by signing
+three new deals
+to help build several new SMRs across the US, and
+Feeling the FOMO,
+Apple
+is now dropping hints it might follow suit, recently
+adding nuclear to the list
+of energy sources it considers “
+clean electricity
+”’.
+So, what’s going on?
+Three big long-term trends come to mind:
+Data centres
+Data centres are already the
+backbone of the internet
+— they’re the world’s ~11,000 football field-sized rooms jammed with servers that store, process, and distribute data. For years, their energy consumption stayed surprisingly stable even as their workloads surged, because engineers kept figuring out ways to boost their efficiency.
+But AI seems to be changing all that because it needs way more energy — a ChatGPT query uses 10+ times more energy than a Google search. And while the rate of change is now making total usage difficult to quantify, we’re talking about data centres collectively consuming
+a Japan or France-worth of electricity
+in the next couple of years.
+And meanwhile, the necessary data infrastructure is so costly, users mostly just rent their processing power from giants like Google and Amazon. So our world is leaning on a handful of firms who are now scrambling to find cheap and secure energy to keep up.
+Energy transition
+While big tech companies have all variously vowed to cut their emissions, some of those pledges are looking tough — Google’s emissions have actually
+jumped
+50% in the last five years, while Microsoft’s Brad Smith recently acknowledged his firm’s own moonshot target is now tougher than it was in 2020: “
+the moon has moved
+”.
+But beyond any PR angle, there’s still a healthy dose of longer-term
+raw self-interest
+driving their targets: boffins at Morgan Stanley and elsewhere have crunched the numbers and found that, for instance, if AI handles half of Google’s search queries, that’ll add an extra $6B to Google’s power bill each year (and rising). So while long-term clean energy prices collapse, big tech will always want to reap that sweet sweet dividend.
+But also, while engineers work to bridge the gaps between renewable energy production and consumption (via innovations in batteries, load shifting, and beyond), there’s still this
+tension
+between tech giants racing to expand their AI footprint on the one hand, while racing to reduce their carbon footprint (and costs) on the other.
+And they’re seeing nuclear as one way to have it both ways. Which brings us to…
+Advances in nuclear
+When it comes to people fearing things that might spontaneously explode, nuclear energy has gotta be right up there with the Ford Pinto. That’s why they’re rebranding Three Mile Island as ‘Crane Clean Energy Center’.
+But public perceptions are already changing, and SMRs have been a key driver. Per the label, they promise to be:
+small
+(some can fit on the back of a truck);
+modular
+(you assemble pre-made components, and can plug extras together as needed); and these two features mean they’re also cheaper and quicker to build.
+That relative simplicity also theoretically promises better safety: reliance on passive systems and natural phenomena (like gravity) will theoretically mean you don’t need a fallible human or gadget to shut SMRs down.
+So, is this nuclear’s moment?
+Well, folks on the inside clearly think so. Matt Loszask, CEO of
+Aalo Atomics
+, told Intrigue, “
+it’s an exciting time for the industry, and this momentum will accelerate the deployment of advanced reactors, helping to secure the U.S.’s leadership in the global energy transition.
+”
+But we’re not there yet — while there are dozens of projects in development, only three countries have
+operational SMRs
+: China, Russia and Japan. And a US project to deploy an SMR in Idaho was cancelled last year after it faced cost blowouts and a lack of subscribers.
+INTRIGUE’S TAKE
+This is all interesting stuff in part because it’s shiny and new, but it’s important to situate it all in the broader context: this year alone, Google has also made its biggest-ever investment in offshore wind (in the Netherlands), its first onshore wind investment in Italy, more solar purchases in Poland, plus two more green energy deals in Belgium.
+And that’s just on a single continent, in a single
+announcement
+, and by a single company (Google’s competitors have been busy, too).
+So
+the broader story
+here is that, to the extent our thirst for energy outstrips our ability (or willingness?) to decarbonise it, the biggest consumers will continue their ‘all of the above’ energy strategy. And so as advancements make more energy sources viable (or at least plausible), we’ll see more of these press releases adding them to the mix.
+Also worth noting:
+The US is the world’s largest producer of nuclear energy — still ahead of China, which has more than tripled its output in a decade.
+A MESSAGE FROM HEAR.COM
+Not Your Grandpa’s Hearing Device
+What happens when you combine German engineering with the world’s most trusted name in hearing care? The biggest breakthrough in hearing technology in more than a decade. Introducing the Horizon IX hearing aid.
+Horizon IX by hear.com is one of the world’s first dual processing hearing aids, which separates speech and background noise to deliver never-before-heard clarity. The best part?
+The Horizon IX hearing aids are nearly invisible
+, tucked away inside or behind the ear, so you can enjoy perfect hearing without the burden of uncomfortable (or awkward) hearing devices.
+Bluetooth/smartphone connectivity and fully rechargeable
+Award-winning customer service
+Insurance and flexible finance options available
+Ready to join 400,000 people hearing better than ever?
+See if you qualify for a 45-day no-risk trial of the award-winning Horizon IX hearing devices!
+Learn more.
+MEANWHILE, ELSEWHERE…
+🇺🇿
+Uzbekistan
+: Uzbekistan is reportedly in talks with the
+Netherlands to accept unsuccessful Afghan asylum seekers
+in exchange for more Dutch opportunities for skilled Uzbek workers. This
+‘to get, you’ve got to give’
+arrangement is similar to one recently announced between Uzbekistan and Germany.
+🇪🇺
+EU
+: The Europeans have held their first EU-Gulf Cooperation Council summit in Brussels, with Middle East heavyweights like Saudi crown prince MBS and Qatari emir Al-Thani in attendance. They
+called for an immediate ceasefire in Gaza and Lebanon
+plus respect for Ukraine’s territorial integrity (though draft references to Russia’s
+“aggression
+” were removed).
+🇹🇭
+Thailand
+: In a surprise move, Thailand’s central bank has cut rates to 2.25%, marking the first cut in four years. While Governor Suthiwartnarueput has emphasised
+the importance of central bank independence
+, the decision follows months of public pressure from Thailand’s government to cut rates and help spur the economy.
+🇨🇱
+Chile
+: The country’s supreme court ousted Justice Angela Vivanco
+on corruption charges
+last week, as part of a broader scandal that continues to engulf members of Chile’s elite. Things first kicked off after someone leaked a series of phone calls involving one of Chile’s top criminal attorneys, who’s now facing charges of money laundering, bribery, and tax evasion.
+🇳🇬
+Nigeria
+: A fuel
+truck has exploded in northern Nigeria
+, killing over 150 people and leaving another 100 injured. Many of the victims were bystanders hoping to gather fuel that had spilt onto the road, as Nigeria’s petrol prices have spiked nearly fivefold since last year.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Tech
+: The US Federal Trade Commission is looking to make it
+easier to unsubscribe
+from subscription and membership services.
+Art
+: The Smithsonian American Art Museum is
+loaning 22 Gene Davis paintings
+for US ambassadors to display abroad (four of the works are already on display at the OECD in Paris).
+Emergency
+: A passing fishing vessel has rescued a man after he was lost for
+67 days on a small inflatable boat
+in the Sea of Okhotsk (north of Japan).
+FILM OF THE DAY
+In this world of ours, you might live in London, speak Estonian with your parents, chat to your partner in passive Italian, then close a business deal in Mandarin. Still, most countries have one official language — the day-to-day tongue for sharing those government updates, closing those juicy deals, and picking up those almond lattes.
+But then there’s Switzerland, which is really showing off with its
+four
+official languages: Italian, French, German, and Romansh. Back in college, a certain member of Team Intrigue used to
+beg
+a Swiss classmate to reveal which language her president would
+really
+use if there was an emergency — but she always confidently argued it’d still be all four of them!
+Anyway, as if to prove that point, Swiss writer-director Peter Luisi has now gone and made a comedy (
+Bonjour Switzerland
+)
+about the Swiss deciding they’re all just gonna speak French from now on, triggering a (very funny) national crisis.
+DAILY POLL
+What do you think about nuclear energy?
+👍 It's a low-emissions and reliable energy source
+☢️ It's dangerous, expensive, and leaves toxic waste
+✍️ It's complicated (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about Canada's handling of its ties with India?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+📣
+Serious crimes need to be confronted publicly (65%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🤫
+A quieter approach might've yielded better results (32%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+📣
+K.S:
+“If you can't do the time, don't do the crime.”
+🤫
+A.P:
+“Public accusations back both parties into corners, whereas subtler diplomacy might’ve yielded more manoeuvrability.”
+📣
+S. R
+: “The quiet approach hasn’t yielded results — imposing a political or geopolitical cost publicly is one of the few remaining options.”
+✍️
+A.A:
+“It sounds like Canada tried a quieter approach first. In a world where norms are failing, Canada’s approach seems prudent.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

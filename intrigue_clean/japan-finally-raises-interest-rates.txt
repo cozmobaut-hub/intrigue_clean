@@ -1,0 +1,238 @@
+URL: https://archives.internationalintrigue.io/p/japan-finally-raises-interest-rates
+Title: 🌍 Japan finally raises interest rates
+
+Hi {{ First name | Intriguer }}.
+Japanese ambassadors often bring
+a chef abroad with them from Tokyo. In addition to preparing their own famous cuisine for each ambassador’s guests, the chefs also prepare dishes from the local host country to keep everyone happy.
+The result is that, if you ever score an invite to a Japanese ambassador’s residence, you’ll end up getting served two (four-course!) meals in parallel.
+Yes, this was one of the many reasons I loved working with Japanese diplomats in my former life. It’s also why I learned to skip breakfast (and often dinner) on days featuring a Japanese working lunch.
+Anyway, today’s briefing takes us back to Japan, where
+central bank chief Kazuo Ueda just made the momentous decision to raise rates
+.
+- Jeremy Dicker, Managing Editor
+🕵️ PS - Wanna know what life’s like as a
+French spy
+? ‘Jack Beaumont’, ex-operative and author of
+The Frenchman
+,
+has told us! Simply share Intrigue with two or more folks (using your unique link down below), and you’ll get all the tea this weekend.
+Shop the Intrigue store!
+TODAY’S NEWS
+US confirms death of senior Hamas leader.
+US National Security Advisor Jake Sullivan has confirmed that an Israeli airstrike last week killed Marwan Issa, the Hamas armed wing’s deputy commander. Issa, a presumed mastermind of the October 7th attacks on Israel, is the most senior Hamas leader known to be killed in Israel’s Gaza operation to date.
+Gaza on the brink of famine.
+An international early warning system has warned that half of Gaza’s population is now on the verge of famine, with 1.1 million people facing “
+catastrophic
+” conditions by mid-July if Israel goes ahead with its planned Rafah ground offensive. US President Joe Biden told Israeli leader Benjamin Netanyahu yesterday (Monday) that a Rafah operation would be a “
+mistake
+”.
+Nvidia unveils new AI-focused chip.
+CEO Jensen Huang unveiled the new Blackwell chips yesterday, and predicted they would become “
+the most successful product launch in our history
+”. The new graphics processing units are several times faster at handling AI models than current products, and will be used by large data centre operators like Amazon and Google. The chips are named after the first Black scholar inducted into the National Academy of Sciences.
+China’s former richest man accused of massive fraud.
+China’s financial markets regulator has accused
+struggling property giant Evergrande and its founder, Hui Ka Yan, of inflating revenues by $78B over 2019 and 2020, shortly before the firm defaulted on its debt. The company, which was ordered to liquidate by a Hong Kong court in January, has been fined around $580M.
+India sets election date.
+The world’s largest election will kick off on 19 April and last 6 weeks, with results to be announced around 4 June. Prime Minister Narendra Modi is widely expected to be re-elected to a third term.
+TOP STORY
+Japan finally signals end to negative rate policy
+The Bank of Japan (BOJ) has
+announced
+it’s hiking interest rates from -0.1% to a 0-0.1% range, bringing to an end the world’s last negative rate regime. The move, which was widely expected, is Japan’s first interest rate hike since 2007.
+Japan has long been an outlier here among advanced economies.
+While many of us have watched rates rise as central banks try to curb inflation, Japan has struggled with the opposite problem (deflation) since its epic property bubble burst in the 1990s. And we’ve
+written before
+about the mysterious forces of deflation, which are associated with all kinds of economic malaise.
+So to try and ‘
+re-flate
+’ its economy, Japan has mostly had ultra-low rates since the 90s, and was the first to drive
+rates
+negative
+in 2016.
+When rates go negative
+, you can end up paying a bank to look after your cash, rather than you earning interest on your savings. And for borrowers, it means paying near-zero interest on loans. So the challenge (and the whole point) becomes finding something productive to do with all this cash, rather than leaving it to wither in a Japanese bank account.
+The result?
+Japanese money has headed overseas
+, making Japan the world’s largest net lender for 31 years straight, while its investors have hoovered up assets everywhere, from skyscrapers in Manhattan to breweries in Australia.
+So, why act now?
+Rumours of an impending rate hike have been circulating for months, as Japan’s inflation rate has remained above the BOJ’s 2% target since April 2022. But the speculation really started to heat up in recent days.
+Just last week, the country’s biggest companies agreed to increase wages by ~5.28% in 2024, the largest pay rise in
+33 years
+(and way more than expected)
+. This should, in theory, lead to households spending more, driving a virtuous cycle to further re-flate the economy, and eliminating the need for negative rates.
+And the BOJ’s decision earlier today (Tuesday) shows it shares that assessment. So
+here’s what higher rates could now mean for Japan and beyond
+:
+It’ll be
+costly for the government
+, which will have to start paying higher interest on its debt (Japan has the highest debt-to-GDP ratio among advanced economies, at around 252%)
+It’ll be
+costly for the BOJ
+too, because higher rates bring lower bond prices, and the BOJ holds
+more than half of Japan’s government bonds
+(though it’s not evident this would pose significant problems for a central bank that’s printing and lending in its own currency)
+If rates keep rising,
+Japanese cash abroad could start to return home
+, strengthening the yen against the US dollar - this would make Japan’s exports less competitive and its imports (like energy) cheaper, while potentially weakening asset prices abroad as Japan’s investors sell up
+And Japan’s
+private banks should see their profits increase
+as they can finally lend at positive rates again, but on the flip side…
+The price of
+mortgages
+(
+70%
+of which are linked to the BOJ’s floating rates) should increase slightly in the medium-term, curbing the enthusiasm of those households enjoying newly fattened pay cheques.
+So while in purely numerical terms today’s hike is pretty slim, it signals the end of an era. And that has the potential for some far-reaching and unpredictable ripples.
+INTRIGUE’S TAKE
+Last year’s appointment of Japan’s central bank chief,
+Kazuo Ueda
+, caught everyone by surprise, and even drove his 2005 memoirs (with the catchy title of ‘Fighting Zero Interest Rates’) to suddenly become a hot item. Why? Nobody expected modern Japan to appoint its first academic economist to such a messy role.
+But Ueda seems to have been
+preparing his whole professional life
+for precisely this moment: check out the
+speech
+he gave in 1999, shortly after he first joined the central bank’s policy board. It’s a good read, partly because it includes a self-effacing economist joke in the opening paragraph.
+But also because it closes with
+a lesson
+that Japan then spent the next quarter of a century re-learning: “
+do not put yourself into the position of zero rates. I tell you it will be a lot more painful than you can possibly imagine
+”.
+So it only feels fitting for Ueda to be at the helm as Japan now steers its way back out.
+Also worth noting:
+While slightly raising rates today, the BOJ also said it’ll continue buying government bonds and maintain accommodative financial conditions.
+Japan narrowly
+avoided a technical recession
+(two consecutive quarters of negative growth) after revising its official data for the final three months of 2023.
+As our friends at
+Lykeion
+point out, Japan’s three rate rise cycles since the 1980s have each occurred ahead of a US recession.
+SUPPORTED BY MONEY PICKLE
+Retirement Regrets: Not Making the Most from your Money
+Choosing a financial advisor is a pivotal decision, one that can significantly impact your retirement comfort. A staggering 60% of US adults acknowledge their financial planning needs improvement, yet only a third have sought professional advice. Why the hesitation? The task of selecting from thousands can be tedious, and the stakes are high—your financial future.
+Consider this: investing $500,000 could grow to $3.4 million in 25 years with a financial advisor, compared to $1.69 million through self-management. That's the power of professional guidance, potentially offering a double return on your investment.
+Don't navigate this crucial process alone. Money Pickle's free tool effortlessly matches you with a vetted advisor at a time that best suits you. Avoid common pitfalls and step confidently towards a more prosperous retirement.
+Take Retirement Quiz
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: The Taliban has accused Pakistan of killing eight civilians in two
+overnight airstrikes
+on Afghan territory. Islamabad has yet to offer details, though the strikes come shortly after Pakistan’s new president (Asif Ali Zardari) vowed to "
+respond strongly
+" to the deaths of seven troops close to the Afghan border.
+🇩🇪
+Germany
+: Cracks look to be deepening within Germany’s
+coalition government
+after a senior figure in Chancellor Olaf Scholz’s party suggested it was time to “
+freeze
+” the Russo-Ukraine War. The comments, plus Scholz’s reluctance to share Taurus missiles with Ukraine, have angered his coalition partners looking for a tougher response to Russia.
+🇮🇳
+India
+: The Indian Navy says it
+recaptured a ship
+from the hands of Somali pirates off the Indian coast on Saturday. The Bulgarian-owned MV Ruen and its 17 crew members had been seized in a pirate attack in December.
+🇨🇺
+Cuba
+: Rare
+protests over food and electricity shortages
+sprung up in Cuba over the weekend, following blackouts that have left residents without power for up to 14 hours a day. In response, President Miguel Diaz-Canel warned that “
+enemies of the Revolution
+” were looking to exploit the situation.
+🇮🇶
+Iraq
+: The International Atomic Energy Agency (IAEA) is in talks with Iraq to help the country develop a
+peaceful nuclear program
+, according to the IAEA head Rafael Grossi. Several other countries in the region, including Egypt, Saudi Arabia and the UAE, have explored or established a domestic nuclear power program in recent years.
+EXTRA INTRIGUE
+Here’s what folks around the world have been tweeting about
+#
+RoyalAnnouncement
+was trending in the
+🇬🇧
+UK
+, following
+reports
+the BBC is “
+on-alert
+” for an unspecified major announcement from the Royals in the coming days.
+#
+StPaddysDay
+was trending in
+🇨🇦
+Canada
+, as thousands attended Sunday’s
+annual parades in Montreal and Toronto
+to celebrate Ireland’s patron saint and all things Irish.
+And #
+DebateChilango
+was trending in
+🇲🇽
+Mexico
+, as ‘chilangos’ (Mexico City locals) tuned in for
+the first debate
+of the mega-city’s mayoral race (former mayor Claudia Sheinbaum is now front-runner to win Mexico’s presidential elections in June).
+SURVIVOR OF THE DAY
+Credits: @marktwarnock (Instagram)
+As ex-diplomats ourselves, we love hearing about former colleagues crushing it. And nobody’s crushing it more than Mark Warnock right now - he’s the first-ever diplomat to compete on Survivor. And not only did he compete but, moments ago on TV screens across Australia, the US and beyond… he
+almost
+won!
+Mark’s sharp tradecraft was on display as he survived 47 days on a remote island in Samoa, all while managing alliances to oust competitors along the way.
+Fun fact: Mark is a member of Intrigue’s exclusive
+WhatsApp DiploClub
+! To join, simply refer five friends to Intrigue, using your unique referral link below! You can also follow Mark on
+Instagram
+. Congrats Mark on an amazing run.
+DAILY POLL
+What do you think is the lesson from negative interest rates?
+👍 They got the job done - call that a success
+🤔 They're useful in emergencies but very costly
+👎 They're mostly a failed experiment
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think Russia's election means?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🔮
+Nothing - the result was pre-ordained (43%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+✊
+Pre-ordained or not, it confirms Putin's total grip on power (35%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+😨
+Putin's efforts to control the process reveal his paranoia (14%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 👍 Like it or not, Putin is still popular in Russia (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (1%)
+Your two cents:
+🔮
+M.M:
+“In Putin's Russia, elections hold you!”
+😨
+L:
+“A result above 80% is staggeringly high, even for a regime like Putin's. This is the highest support figures his administration has ever released, suggesting a desire to demonstrate stronger national unity than ever before. The divergence with the more reasonable aggregate exit poll numbers (~50%) suggests that the regime is nervously attuned to perceptions here.”
+✊
+M.C.M:
+“True or not, the results show that Putin maintains unchallenged control over the state apparatus. Combine that with the apparent lack of manifested public discontent, and our resident autocrat will enjoy his new term as his previous ones.”
+✏️ Corrections corner
+Yesterday’s valiant attempt to cram the intricacies of Argentina’s legislative process into a two-line world map reference… didn’t quite land!
+😂
+Thanks to Guillermo for writing in, and kindly sharing two links (one in
+English
+, another in
+Spanish
+) for folks interested in understanding the process currently determining the fate of President Milei’s ‘mega decree’ of economic reforms.

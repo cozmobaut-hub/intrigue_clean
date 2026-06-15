@@ -1,0 +1,239 @@
+URL: https://archives.internationalintrigue.io/p/eu-drug-shipping-problem
+Title: 🌍 The EU has a drug shipping problem
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+If you’ve found us to be a helpful way to stay on top of the world, please consider sharing Intrigue with a friend or family member. By using your unique referral code down below, you can also earn some pretty intriguing perks.
+Today’s briefing is a 5 min read:
+🇪🇺
+The
+EU
+’s drug problem.
+🇮🇱
+POTUS in
+Israel
+.
+➕
+Plus:
+An outage in Guinea-Bissau,
+an intriguing vulnerability, how the papers are covering China’s latest economic data, and why folks in Hong Kong are googling discounted apartments.
+⏱️ Around the world in sixty seconds
+🇰🇵
+North Korea
+: Russia’s foreign minister
+arrived in North Korea
+yesterday (Wednesday) for a two-day visit. US intel officials
+say
+North Korea has supplied Russia with thousands of crates of weapons in recent weeks.
+🇫🇷
+France
+: Seven airports
+evacuated their terminals
+and rerouted flights yesterday after receiving a series of phoney bomb threats. France has now raised its threat alert to the highest level.
+🇰🇭
+Cambodia
+: A court sentenced an opposition figure to an
+extra three years
+in prison on incitement charges yesterday. He had posted a video to Facebook in January discussing the politically sensitive history of the Khmer Rouge regime’s ousting in 1979.
+🇲🇽
+Mexico
+: The president (‘AMLO’) says he’ll host his Cuban, Venezuelan, Haitian and Honduran counterparts for a
+summit on migration this weekend
+. He recently said up to 10,000 migrants are passing through Mexico on their way to the US each day.
+🇿🇦
+South Africa
+: A court is currently
+determining South Africa’s real Zulu king
+. The dispute began in 2021 following the death of King Goodwill Zwelithini, whose 50-year reign was the longest in Zulu history.
+🇪🇺
+EU | Trade
+The EU has a new anti-drug plan
+A senior shipping industry executive is
+warning
+that drug trafficking gangs have infiltrated shipping supply chains to an “
+extreme
+” extent.
+European authorities have had a busy few years
+, with annual drug seizures consistently breaking new records. But criminal organisations often stay a step ahead:
+They’ve expanded to
+smaller ports
+to avoid detection
+They’ve
+streamlined their operations
+, and
+They’ve boosted
+drug production
+locally.
+So what’s Europe doing?
+In its latest ‘
+roadmap
+’, Brussels introduces the European Ports Alliance, an EU-wide scheme focussed on:
+Customs
+- authorities now inspect less than 10% of all cargo
+Policing
+- there’s not enough police-customs coordination, and
+Companies
+- there’s not enough coordination between shipping firms and law enforcement, either.
+Intrigue's take:
+Most drugs entering Europe essentially hitch a ride on commercial cargo ships, which means any policy aimed at illicit trade will end up impacting lawful trade too.
+So that’s really what this latest plan is about: it’s not realistic to inspect every container; better targeting is key, and that means better coordination.
+Also worth noting:
+The port of Antwerp, Europe’s key cocaine trafficking hub, is aiming to
+inspect all “high-risk” cargo
+by 2028.
+📰
+How newspapers covered…
+China’s latest economic data
+Tokyo, Japan
+“China GDP beats forecast as stimulus measures kick in”
+London, UK
+“China’s Surprise on GDP Partly Due to Revisions, Economists Say”
+Mumbai, India
+“Nomura* upgrades China's YoY GDP growth forecast to 5.1% in 2023 vs 4.8% prior”
+*Nomura is a Japanese investment bank.
+Today’s newsletter is supported by: The Motley Fool
+Making the world smarter, happier, and richer
+The Motley Fool helps millions of people attain financial freedom through our website, podcasts, books, and premium investing services.
+Sign up today.
+Israel-Hamas War
+Biden’s trip to Israel was low-key successful
+He spent a little less than eight hours in Israel
+but got a fair bit done
+, including a Gaza humanitarian aid deal via Egypt’s
+Rafah border crossing
+.
+Biden added that if the aid isn’t intercepted by Hamas - a key Israeli fear - Egypt has agreed it’ll let more in.
+In parallel, Israeli officials are
+saying
+they won’t
+allow aid in
+from Israel’s side of the border until Hamas releases all hostages.
+Biden also reiterated that the US backed Israel’s war against Hamas:
+And he
+said
+US assessments were
+concurring
+with Israel that a stray rocket from “
+the other team
+” (not Israel) hit the Al Ahli Hospital in Gaza yesterday.
+We’re expecting to see declassified US intel soon, adding to the emerging physical evidence at the site.
+Some outlets have walked back their initial reporting on Israeli culpability, but don’t hold your breath for regional governments to follow suit.
+As we foreshadowed, Biden sought to
+walk a fine line
+between showing support for Israel without further angering its Arab neighbours, telling Israelis:
+“
+You can’t look at what has happened here ... and not scream out for justice. But I caution this: while you feel that rage, don’t be consumed by it. After 9/11, we were enraged in the United States. When we sought justice and got justice, we also made mistakes.
+”
+UNSC inaction
+The US vetoed a UN Security Council (UNSC) resolution
+yesterday that would’ve condemned the Hamas attacks while calling for a ‘
+humanitarian pause
+’ to allow aid into Gaza. 12 members voted in favour; the UK and Russia abstained.
+Explaining the US veto, Ambassador Linda Thomas-Greenfield
+said
+the resolution made no mention of Israel’s right to defend itself.
+France’s ambassador lamented the US decision,
+saying
+there’s no contradiction
+between Israel’s right to defend itself and the need to protect civilians and respect international law.
+Either way, this will fuel scepticism that the UNSC is no longer fit for purpose.
+What about Ukraine?
+According to
+the Financial Times
+, the ‘Global South’ is finding contradictions in the West’s approach to Israel
+vis a vis
+Ukraine. An Arab official told the FT:
+“
+If you describe cutting off water, food and electricity in Ukraine as a war crime, then you should say the same thing about Gaza.
+”
+Otherwise, the argument goes, you risk undoing 18 months of work to nudge (for the sake of the international order) countries like Brazil, India, Indonesia, and South Africa to take a stand against Russia’s invasion.
+Russia clearly has an interest in stoking tensions here
+:
+A diminished Russia wields less influence in the region but will (along with China) be happy to see US power consumed there.
+Plus, Russia now relies on Iran for some military kit, a fact Iran will highlight to Moscow when seeking support for its approach to Israel.
+Final thought:
+After 18 months on the front pages, Ukraine now risks losing the world’s attention. And that’s partly what a fraying world order looks like: more conflicts, diluting more of the world’s bandwidth, in turn making each conflict tougher to solve, while allowing additional conflicts to flare up.
+🇬🇼
+Guinea-Bissau | Energy
+Guinea-Bissau’s capital goes dark
+Folks in Guinea-Bissau’s capital (Bissau) have gone without power since early Tuesday after the government missed payments to its energy supplier.
+The Turkey-based power company
+,
+Karpowership
+, has supplied the country with electricity since 2019. But with $17M in unpaid payments piling up, it says it can no longer operate its local power station.
+Intrigue’s take:
+We write often about US-China competition and the way it plays out through infrastructure and debt around the world. But this story is a reminder of how things can look from Bissau and beyond, where options are limited.
+Also worth noting:
+Karpowership shut off electricity in
+Sierra Leone’s capital
+last month due to $40M in missed payments.
+➕
+Extra Intrigue
+Here’s what people around the world were googling yesterday, 18 October:
+🇨🇦
+​Canadians
+looked up a senate
+proposal
+to establish a ‘
+Canada universal basic income
+’.
+🇭🇰
+Folks in
+Hong Kong
+checked out the ‘
+煥然壹居
+’ (
+Huanran Yiju
+)
+housing project
+(
+🇭🇰
+), which will offer its remaining 28 units at a discount from next Thursday.
+🇧🇷
+Brazilian
+football fans googled ‘
+Libertadores Feminina 2023
+’ for updates on the women’s football league
+semi-finals
+.
+🗳️ Poll time!
+Which drugs policy would you enact *first*?
+🧲 More customs scans at ports
+🤝 More collaboration with countries of origin
+💊 Work on decreasing drug demand
+👮 Bolster law enforcement
+🧪 Crack down on local production
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+💬
+Quote of the day
+Cybersecurity researcher Kevin McSheehan seems to have found an intriguing vulnerability: he
+says
+a Twitter/X feature that truncates URLs theoretically could’ve allowed foreign intelligence services to hijack the CIA’s instructions for Russians seeking to make covert contact.
+It looks like Langley has now fixed the issue.
+Yesterday’s poll:
+Do you agree with oil sanctions relief for Venezuela in exchange for fairer elections?
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🖊️ Yes, it's a win-win (25%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⛔ No, Maduro will take the relief then renege on his pledge (72%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents
+:
+🖊️
+F.T:
+“At a time when Saudi oil production has been reduced… it’s a chance worth taking to improve the US economy and help lower inflation. If Maduro reneges, we can reinstate and increase the sanctions.”
+✍️
+C.L:
+“There should be some discussion of sanctions relief and a small incentive with larger relief once the elections are held and determined to have been fair.”
+⛔
+D.E.E:
+“Regimes take advantage of concessions or weakness, then continue business as usual, because they believe (rightly) that there are few repercussions.”

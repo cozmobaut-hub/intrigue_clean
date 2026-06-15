@@ -1,0 +1,218 @@
+URL: https://archives.internationalintrigue.io/p/new-post-e4f3
+Title: 🌍 US dockworkers set to strike
+
+IN TODAY’S EDITION
+1️⃣ US ports to close next week?
+2️⃣ Mexico snubs the king of Spain
+3️⃣ Photo of the day
+Hi {{ First name | Intriguer }}.
+In the early days of Facebook, Mark Zuckerberg told his employees to “
+move fast and break things
+” in an effort to build a culture of calculated risk taking. As my newsfeed is full of mostly esoteric updates from the United Nations General Assembly this week, I’m reminded of a cracking line I once heard that for diplomats, it’s “
+move slow and still break things
+”.
+But those pithy turns of phrase mask a more fundamental clash between the increasing speed of technological advancement and the ability of governments and others to keep up. One timely example is the impending strike by many of America’s port workers who are worried that the adoption of automation technology across the industry is moving too quickly, and that’s the focus of our briefing today.
+THE HEADLINES
+Israel prepares for possible ground invasion into Lebanon.
+Israeli military chief Herzi Halevi has
+told his troops
+the latest strikes targeting Hezbollah sites in Lebanon have been to “
+prepare the ground for your possible entry
+” into “
+enemy territory
+”. Israeli officials have said they want Hezbollah forces to withdraw back behind the Litani River, as demanded by a UN Security Council resolution in 2006. Meanwhile, the US and France are now pushing for a 21-day ceasefire between Israel and Hezbollah.
+Putin makes another threat.
+The Russian president has issued another warning, this time saying that any attack by a non-nuclear country supported by a nuclear power would be
+considered a “
+joint attack
+”
+. By signalling a supposed lowering of Russia’s nuclear response threshold, he’s again hoping to undermine Western support for Ukraine’s self-defence. His latest threat comes after Ukraine destroyed several major Russian arms depots with long-range drones.
+Modern Japan sails warship through Taiwan Strait for first time.
+A
+Japanese naval destroyer
+, accompanied by ships from Australia and New Zealand, has apparently sailed through the Strait for the first time in modern history. The ship was on its way to participate in military exercises in the South China Sea. Japan has previously skirted the route to avoid destabilising ties with China.
+OpenAI to become for-profit.
+Three top employees have announced they’re leaving OpenAI, with one (CTO Mira Murati) saying it’s due to a planned transition from its
+non-profit mission to a for-profit structure
+. The move would apparently award CEO Sam Altman an equity stake.
+NYC mayor reportedly indicted.
+Eric Adams, who was elected to the post three years ago, has reportedly been
+indicted after a corruption probe
+. If confirmed, he’ll become the first New York City mayor to be placed under criminal charges while in office. He’s vowed to remain in office while he fights the charges, but several likely primary challengers are already calling on him to resign.
+TOP STORY
+US dockworkers set to strike from Tuesday
+Spooky season is upon us. And there is nothing scarier than a potential trade bottleneck right at the start of the holiday period.
+Around 45,000 port workers at 36 ports from Houston to Boston are threatening to walk off their jobs after their contract expires on Monday, which means a strike could commence as soon as this Tuesday (October 1).
+Here’s what’s happening.
+The International Longshoremen’s Association (ILA) is locked in a wage dispute with the US Maritime Alliance (USMX), which represents cargo carriers and port operators.
+The ILA is demanding a nearly 80% raise over six years and safeguards against the use of automation. ILA President Harold Daggett
+says
+his union wants a share of the fat
+profits
+earned by foreign shipping companies during the pandemic years.
+For its part, USMX argues a payrise of that size would be way beyond the 32% bump secured by West Coast dockworkers just last summer.
+Negotiations now
+appear
+to have broken down, port operators are already
+planning
+for a shutdown, firms are already
+diverting their cargo
+over to West Coast ports, shipping companies have already issued emergency surcharge notices, and markets are already
+betting
+this will drive shipping profits higher. So a strike looks inevitable at this point.
+But what does it all mean?
+Given these ports handle more than half the container traffic in and out of the US, the fallout would soon go national, with one JPMorgan piece forecasting $5B in costs per day. And given the US makes up more than a quarter of the global economy, that fallout would soon go global.
+Here’s a quick snapshot of just some of the industries in the firing line:
+Agri-food
+- Three quarters of all US banana
+imports
+enter via East and Gulf Coast ports, and their short shelf-life and low unit cost rule out longer and/or costlier routes. That’ll also hit the producers located mostly in poorer markets like Guatemala. Meanwhile, American pork
+exporters
+across a dozen or so states rely on these same ports to get almost half their product out to international markets.
+Automotive
+- The nearest port to the US Midwest auto hub is in Baltimore which, together with others along the seaboard, handles
+three quarters
+of all US vehicle
+exports
+.
+You might think no big deal, six out of seven US-made vehicles are for the domestic market anyway. But… they rely on
+imported
+auto parts from places like Germany and India, which need East Coast ports like Savannah and Charleston.
+Pharmaceutical
+- But don’t let this data get you too sick with worry. Particularly because over 90% of containerised US pharmaceutical products enter via, yes, East and Gulf Coast ports.
+On the brighter side, despite the East and Gulf Coasts including major
+energy
+hubs, oil and gas terminals shouldn’t be impacted directly by the strike action. But here’s a fun fact - something like one in every three containers exporting US plastics and other petroleum derivatives leaves from the Port of Houston (which will be hit by the strikes).
+So what happens next?
+There hasn’t been an East Coast-wide strike since 1977, when the world’s total seagoing tonnage was maybe 400 million (gross registered tonnage). It’s now 11
+billion
+.
+And that strike went on for 44 days,
+ending
+only after the ILA won a 10% raise and a generous worker protection program. This time around, the volume and complexity of global trade means even a two-week strike would cause backlogs, shortages, and associated inflation stretching into 2025.
+INTRIGUE’S TAKE
+There are three other time cycles playing out right now:
+On the
+political
+front, the US election is just 36 days after Tuesday’s strike kicks off. The White House has so far declined to use Taft-Hartley powers to impose an 80-day cooling-off period, likely wary of losing union votes. And given a strike would also hit consumers and employers, neither candidate seems to be highlighting the strike as a campaign issue right now. That might change once the port chaos kicks in.
+On the
+technological
+front, these negotiations really stalled back in June when the union discovered several ports were using an automated gate system in violation of their current union agreements. And interestingly, the industry’s latest offer now preserves the same restrictions against automation, in a concession to workers worried about losing their jobs.
+But that leads us to the
+geopolitical
+cycle, as other major global trading hubs in Asia, the Middle East, and Europe are already charging down the path of port automation, with direct impacts on their broader and longer-term competitiveness.
+Also worth noting:
+Shipping company profits dropped after their pandemic spike, but rebounded to $10B in Q2 this year thanks to bumper volumes and freight rates.
+The union has previously hinted at the possibility of still unloading certain container types (eg, fresh food) during any strike.
+A MESSAGE FROM HEAR.COM
+Groundbreaking devices that make everything loud and clear
+Most hearing aids have one processor. These bad boys have two. They process speech and noise separately.
+What does this mean? It means speech gets clearer and crisper – more than ever before. Conversations and listening become effortless.
+Oh, and they’re so tiny, they’re practically invisible. No wonder over 400,000 customers love them.
+Learn more!
+MEANWHILE, ELSEWHERE…
+🇬🇪
+Georgia
+: Prime Minister Kobakhidze has been
+dis
+invited to a US reception
+on the sidelines of the UN General Assembly in New York this week, after his ruling party pushed through a controversial Russian-style ‘foreign agents’ law earlier this year. Critics say the law, which passed despite months of protests, will stifle freedoms in the country.
+🇪🇸
+Spain
+: Madrid has opted not to attend Mexican president-elect Claudia Sheinbaum’s inauguration next week, after she
+decided not to invite Spain’s king
+. Mexico left the king off the invite list after Spain reportedly declined to respond to a request to apologise for its colonial history in the country.
+🇳🇿
+New Zealand
+: The Kiwis have
+signed their ‘fastest ever’ trade agreement
+with the UAE, with 98.5% of duties set to be removed from NZ exports. The deal is similar to the one Australia signed with the UAE earlier this month - the two neighbours (Australia and NZ) have among the most closely integrated economies in the world.
+🇺🇸
+US
+: Republican House Speaker Mike Johnson has
+called for Ukraine’s ambassador to be fired
+for her role in President Zelensky’s visit to a Pennsylvania arms factory with Democrats, labelling it a
+“clearly partisan campaign event”.
+Democrats say Zelensky’s visit mirrored his July trip to Utah, where the Republican governor also backed Ukraine’s defence against Russia.
+🇱🇷
+Liberia
+: The International Monetary Fund has
+approved a 40-month $210M arrangement with Liberia
+to help mitigate the country’s debt vulnerability. In return, Liberia is implementing a package of measures aimed at cutting non-productive spending and boosting tax revenue, to put the country’s finances on a more sustainable trajectory.
+EXTRA INTRIGUE
+Meanwhile, in other worlds…
+Space
+: Earth will briefly
+get a new mini-moon
+in the coming days, when a tiny asteroid is captured by our gravitational pull for a couple of months before escaping back out to Space.
+Sports
+: Belgian-Dutch F1 driver Max Verstappen will now have to do some
+community service
+after dropping ‘the f-bomb’ during a post-race press conference.
+Science
+: A UK startup aiming to help
+thicken ice sheets in the Arctic
+has seen some encouraging results.
+PHOTO OF THE DAY
+First spotted by iamgarron on Insta
+The duality of man, or just Hong Kong on any given Tuesday? Olivia Rodrigo, the 21-year old pop star who stole American hearts with hits like
+Driver’s License
+and
+Déjà vu,
+swung by Hong Kong on Tuesday as part of her 2024 GUTS World Tour.
+It just so happens that her performance was scheduled at the same time as China’s 5th Belt and Road Initiative
+Tax Administration Cooperation
+Forum in the convention hall right next door. It all just feels very 2024.
+DAILY POLL
+Who do you think will win this game of union vs industry chicken?
+🦺 The labour union, it has the leverage
+🚢 The shipping companies, they can afford to play hard ball
+⛔ Nobody, we all lose
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+If you were President Xi Jinping, where would you focus your economic policy?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💸
+Boost demand with household cash transfers (12%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🚢
+Work to reduce trade tensions (64%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✂️ Further cut interest rates (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🚨
+Prop up failing giants (3%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🩹
+Mortgage relief (10%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (5%)
+Your two cents:
+🚢
+D.M:
+“Like it or not, China needs Western consumer-based economies to continue buying its goods.”
+💸
+R.L:
+“All these factors have led to the Chinese people being reluctant to spend. The best way to fix that is putting money directly in their pockets.”
+✂️
+T.K:
+“Nothing stimulates the economy like the lowering of interest rates to the point where consumers can afford to take on some debt.”
+✍️
+K.J.S:
+“They need to focus on paying off debt, buying back currency, and stockpiling gold.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Corrections corner
+Thanks to Mark for pointing out that Jeremy got the
+Shawshank Redemption
+whispering back to front in yesterday’s intro! It was Tim Robbins who whispered ‘Zihuatanejo’ to Morgan Freeman, and not vice versa.

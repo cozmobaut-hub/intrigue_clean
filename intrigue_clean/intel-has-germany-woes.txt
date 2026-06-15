@@ -1,0 +1,207 @@
+URL: https://archives.internationalintrigue.io/p/intel-germany-woes
+Title: 🌍 Intel has Germany woes
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+It must be tough to come up with a fresh place name that really pops off the map, but that’s no excuse for what they did in
+Tasmania
+. The island is home to Eggs & Bacon Bay, Milkshake Hills, The End of the World, and Nowhere Else.
+Today’s briefing is a 5 min read:
+🇩🇪
+Germany
+’s
+chip plans are colliding with reality.
+🌴
+Indonesia
+launches its carbon market.
+➕
+Plus:
+An update from Antarctica, how the papers are covering elections in Egypt, and India’s spy agencies are under the spotlight.
+⏱️ Around the world in sixty seconds
+🇦🇫
+Afghanistan
+: The Afghan currency (aptly named the Afghan Afghani) has been this quarter’s
+top-performing currency worldwide
+. Stringent currency controls, inbound aid transfers, and an uptick in regional trade all contributed to the currency’s climb.
+🇵🇱
+Poland
+: The US has extended Poland a rare $2B loan
+to help modernise the country’s military
+. The announcement was made shortly after Poland said it wouldn’t send new weapons to Ukraine.
+🇻🇳
+Vietnam
+: The UN has expressed concern at the
+arrest of a green energy expert
+at the hands of Vietnamese authorities. Over the past two years, Vietnam has arrested five environmental activists.
+🇲🇽
+Mexico
+: Mexican goods worth $1B are
+stuck at the US border
+as US authorities close some crossings and ramp up vehicle checks. The traffic jam, which involves around 8,000 trailers, follows an increase in migrant border crossings.
+🇹🇷
+Turkey
+: President Erdoğan has flown to Nakhichevan, an Azerbaijani exclave, to
+meet his Azerbaijani counterpart
+Ilham Aliyev. The two allies discussed establishing a land corridor between Turkey and Azerbaijan via Armenia, an idea Armenia has long opposed.
+🇩🇪
+Germany | Geo-economics
+Intel’s new plant in Germany is facing hurdles
+US-based chipmaker Intel is reportedly encountering bottlenecks in its effort to build a vast new microchip facility in the east German city of Magdeburg.
+Back in June
+, Intel announced it’d build a $33B mega-facility there by the end of this decade, with $11B in subsidies from Berlin. As Germany’s largest ever foreign direct investment, the idea was to:
+📈
+Help lift the EU’s chip output from 10% to 20% of the global total, and
+🚗
+Lower Germany’s reliance on offshore producers for chips in key products like electric cars.
+But
+Jimmy Vielkind
+at the Wall Street Journal has
+shed light
+on some of the local challenges emerging already, including:
+✌️ A tight labour market (only two chip apprentices have signed up)
+⚡ High energy costs (40% higher than in neighbouring France)
+🧑‍🤝‍🧑
+Community concerns in the city of 240,000 people
+🚌
+Lack of schools, housing, and services for worker families, and
+🎤
+Political debate around the incentives and subsidies Intel gets.
+It’s very early days yet, but still… not the smoothest of starts.
+Intrigue's take:
+At their heart, subsidies are basically an attempt to bend an economic reality to a political will.
+Sometimes that reality is flexible enough to work. But when it isn’t, governments face pressure to roll out a second round of subsidies (e.g., for electricity), to nudge the first along. And when that second round needs help, someone suggests a third batch. And… well, you get the picture.
+This isn’t to say that subsidies are inherently bad. They’re just inherently hard, because they’re a static tool trying to shape a dynamic reality.
+Also worth noting:
+Germany is projected to be the only major European
+economy to shrink
+this year.
+Germany is also subsidising a
+major chip plant near Dresden
+for the Taiwanese Semiconductor Manufacturing Company.
+The EU just
+re-imposed
+a $410M fine on Intel for anti-competitive conduct in the chips sector.
+📰
+How newspapers covered…
+Egypt announcing its next presidential election will be in December
+Doha, Qatar
+“Egypt to hold presidential vote in December as economic crisis worsens”
+Jerusalem
+“Egyptian opposition movement to boycott election after its leading candidate jailed”
+Cairo, Egypt
+“Egypt’s election authority pledges transparency in presidential polls, will release timetable Monday”
+Today’s newsletter is supported by: Patent Drop
+If you’re reading this, you need to read Patent Drop next
+International Intriguers know a reliable source of truth when they find one, otherwise this email wouldn’t be in your inbox.
+Since this global affairs briefing is already a part of your media routine, let us introduce you to the twice-weekly tech briefing that will keep you on the front lines of innovation - Patent Drop.
+Unlike any other tech publication, Patent Drop’s team of investigative journalists scour the U.S. Patent & Trademark website to uncover the revolutionary ideas that indicate the direction Big Tech companies are taking our future.
+Join 72,000+ tech professionals from companies like Amazon, Alphabet, and Apple who are future-proofing their inbox with Patent Drop.
+Don’t fall behind, subscribe right now and start reading tomorrow.
+🌴
+Indonesia | Energy transition
+Indonesia starts trading carbon credits
+President Joko Widodo
+launched
+Indonesia’s first scheme to trade carbon credits yesterday (Tuesday), as part of Jakarta’s 2060 net zero pledge.
+How does it work?
+Carbon credits are basically permits for firms to emit a set amount of carbon dioxide (CO2). They can then be bought and sold:
+🌱
+firms that cut emissions get to sell their excess permits for cash
+🏭 big polluters get penalised by having to buy more permits, and
+☀️ governments get revenue for things like the energy transition.
+Indonesia is just the latest in Asia to launch this type of scheme
+:
+🇰🇷
+South Korea
+launched Asia’s first back in
+2015
+🇸🇬
+Singapore
+was then the first in Southeast Asia in 2019 (it now wants to become a regional
+carbon trading hub
+), and
+🇨🇳
+China
+launched the
+world’s biggest carbon scheme
+in 2021.
+Intrigue’s take:
+On paper, carbon credits seem like a win-win: policy-makers set the target and leave the market to iron out the details, generating some much-needed government revenue in the process. But
+calibration
+and regulation are key, and the politics around all this can get messy.
+Also worth noting:
+Indonesia is a
+top emitter of CO2
+due to its reliance on coal.
+A permit for a tonne of CO2 currently sells for around $4.50 in Indonesia. In the EU, the going rate is now around
+$92
+.
+Indonesia’s carbon scheme
+uses blockchain tech
+to record trades.
+➕
+Extra Intrigue
+What we’re reading about Canada-India tensions:
+Trudeau facing cold reality after lonely week on world stage
+FBI warned prominent US Sikhs of threats after murder of Hardeep Singh Nijjar in Canada
+Rift With Canada Puts Spotlight on India’s Security Services
+Trudeau’s Accusation Against India Is Ominous for India-US Ties
+🗳️ Poll time!
+What do you think of carbon trading schemes?
+🎯 They're critical to the world hitting net zero
+💡 They're good in theory, but so messy in practice
+💸 They're just wealth transfer by another name
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+🗺️
+Map of the day
+Credits: National Snow and Ice Data Center
+Sea ice in Antarctica likely reached its seasonal peak on 10 September. But according to
+data
+from the National Snow and Ice Data Center (a US-based NGO), this year saw the lowest peak ice levels since records began in 1978.
+Yesterday’s poll:
+Who do you think is 'winning' in the influence game over the Pacific?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🇺🇸
+US (17%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇨🇳
+China (28%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+👐
+Both  (11%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ ⛔ Neither (17%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️ 🌏 Pacific Islands (26%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (1%)
+Your two cents
+:
+🇨🇳
+M.G:
+“China has already "created" islands in the South China Sea that greatly expand their fishing rights, military reach, and influence. Their largesse comes with strings, however, so we shall see how this plays out. The US is, as usual, reactionary to the issue rather than strategically ahead of the curve.”
+🌏
+R.B:
+“It's not a lot but at this point in our collective histories the Pacific Islands are being considered a somewhat autonomous entity rather than an inferior subject to be controlled.”
+✍️
+J.M:
+“No one is ‘winning’ in the Pacific until we get a firm hold of climate change.”

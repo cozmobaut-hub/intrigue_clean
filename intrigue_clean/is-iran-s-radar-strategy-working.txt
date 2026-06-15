@@ -1,0 +1,305 @@
+URL: https://archives.internationalintrigue.io/p/is-iran-s-radar-strategy-working
+Title: 🌍 Is Iran’s radar strategy working?
+
+Today’s briefing:
+— Is Iran’s radar strategy working?
+— This mountain in Korea went viral
+— China called this baseball fan evil
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Strap in, dear Intriguers, for we are diving right back into
+the latest on Iran
+today, including analysis on how and which weapons are being deployed, the market responses, and how the region is becoming more embroiled.
+These are intense circumstances right now. I hope you’re able to find ways to cope and process the barrage of news, including with the help of Intrigue. It’s been heartening to see some of our readers write in and share their appreciation for Intrigue’s clarity and coverage for these big conflicts when developments happen so fast.
+🙏
+Personally, my mental health coping mechanism for the conflict has been to check in on Punch, the abandoned baby macaque monkey and his toy orangutan in Ishikawa Zoo, Japan. And just this weekend, I discovered a new distraction: AI-generated Chinese micro-drama miniseries starring animals. Yes, you read that sentence correctly — welcome to 2026.
+Number of the day
+21.8%
+That’s how much (yoy) China’s exports grew in the first two months of 2026, highlighting China’s controversial export-heavy strategy just weeks ahead of President Trump’s high-stakes visit.
+It’s day 11
+Here’s what’s happened in the 24 hours since Intrigue last cannon-balled into your inbox:
+The war
+:
+Nato air defences have downed a
+second Iranian ballistic missile in Turkish airspace
+— it’s getting harder for the regime to claim these are accidents.
+President
+Macron
+is deploying two frigates to beef up the EU’s Red Sea ops.
+And new evidence suggests the
+US was responsible
+for the day-one airstrike on a girls' school in southern Iran, killing ~175 (mostly children). One hypothesis blames old intel from before the school was separated from the adjacent base.
+The markets
+:
+The
+G7 finance ministerial
+ended without a decision on whether to release emergency oil reserves to cushion the blow of $100+ oil prices. But
+oil prices kept easing
+anyway, likely because President Trump told reporters the war is “
+very complete, pretty much
+”, though “
+we haven't won enough
+”.
+Iran’s Revolutionary Guards have vowed “
+not a single litre
+” of oil will get out while US and Israeli strikes continue (how about that metric system trolling).
+And the regime says the only exception will be for European and Middle Eastern countries that
+expel their local Israeli and US ambassadors
+— that’s not happening (most of the region doesn’t even have an Israeli ambassador), but it’s interesting to see how the regime views its Hormuz leverage.
+And the miscellaneous
+:
+Australia has started offering asylum to members of
+Iran’s women’s soccer team
+after state TV labelled them traitors for not singing the national anthem at the Women’s Asian Cup (President Trump weighed in for them too).
+As for this briefing’s quick focus?
+US radar systems
+. There’s little surprising about the US/Israeli ability to fry most of the regime’s military. What’s
+maybe
+surprising is the regime’s ability to land big hits back.
+And while headlines naturally gravitate to (say) the world’s tallest building ablaze, or influencers fleeing drones at DXB, Iran’s quieter hits might be more painful.
+Why so quiet?
+Like any military, the US is quick to release its enemy battle damage assessments, but details on its own damage come slowly (if at all).
+That leaves online grifters and spooks to fill the void, but commercial satellite imagery makes it possible to triangulate at least
+two confirmed hits on advanced US radars
+.
+The
+first
+was in
+Jordan
+, where Iran hit a $300M, Raytheon-built
+AN/TPY-2
+radar known for its long range, sharp precision, and full mobility.
+The
+second
+was in
+Qatar
+, where Iran hit a Raytheon-built
+AN/FPS-132
+known for its even longer range (5,000km), multi-target skills, and higher price (~$1B).
+So Iran has now arguably fried the region’s outer US radar layer, plus a ~sixth of its inner layer known as
+the ‘eyes’ of THAAD
+(America’s top-tier ballistic missile defence system).
+There’s also evidence to suggest Iran has damaged US radar domes in
+Kuwait
+, a satellite comms system in
+Bahrain
+, and a radar in
+Saudi Arabia
+— clearly trying to blind US forces.
+And… is all this really a big deal?
+Yes and no.
+No
+,
+in the sense that
+a
+) this damage mostly occurred during Iran’s initial swarms,
+b
+) that swarm capability is fading fast, and
+c
+) the US and its allies still thwart most attacks.
+But
+yes
+it’s a big deal longer term in the sense that these systems are clearly…
+Rare
+: there
+are
+were only six of those Qatar-style systems in the world, and maybe 16 of the Jordan ones
+Irreplaceable
+: that rarer Qatar system is ~half the size of a soccer field and takes
+five+ years
+to build; even the portable Jordan system takes two+ years
+Valuable
+: these high-tech radars are difficult to further harden without degrading their performance, and yet they’re also…
+Vulnerable
+: at least some of the damage seems to have come via cheap
+drones
+.
+And of course, everyone (including China and Russia) is all the while taking notes on what it now takes to
+partially
+blind a wartime US.
+Oh, and lest you have any doubt about the implications, the world’s biggest open-source satellite imagery provider shining a light on all this (Planet) just announced a new 14-day delay for certain Middle East images after ✌️consulting✌️ with DC (aka Pentagon pressure).
+Intrigue’s Take
+One conclusion here is that, while the US military is still
+one heck of a hammer, not every enemy is a nail
+. Of course, that’s hardly a new conclusion: the US already learned this via its post-2001 war on terror (not to mention Vietnam et al).
+But the issue is this terrorism experience only delivered one half of today’s lesson: sure, the US went on to pioneer drones to hit niche targets in (say) the mountains of Afghanistan, but DC is finally waking up to a world where
+your enemy has drones, too
+.
+And there’s really only one place in the free world that’s figured out the answer: with Putin using city drone hits to compensate for his frontline failures, and with DC throttling Patriot access, it’s
+Ukraine
+that’s had to pioneer how to flip that cost asymmetry:
+While the US still mostly burns millions to thwart each $20k drone, Ukraine’s high-speed interceptor drones are $1-5k each, with a claimed ~70% hit rate and rising.
+So that’s how Ukraine’s Zelensky has suddenly popped back on world leader speed-dial lists, with a reported ~11 capitals now seeking his help. And he’s saying yes not just because he’s a stand-out guy, but because:
+a
+) it’s a chance to build much-needed goodwill;
+b
+) it converts Ukraine from liability to asset;
+c
+) it boosts Ukraine’s defence exports and forex; and
+d
+) it hurts Putin (who’s helped Iran’s targeting).
+So in the end, this Middle Eastern conflict might now accelerate a very Ukrainian solution, after the US
+reportedly
+declined a Ukrainian anti-drone tech deal last year.
+In the meantime, we’ve all now witnessed how merely
+hinting
+at this war’s end answered a historic oil price ramp-up with a historic oil price ramp-down. And pending any regime capitulation, that potentially sharpens
+DC’s dilemma
+: end the energy chaos by ending the war, but run the risk of just validating the regime’s entire Hormuz survival strategy.
+Sound even smarter:
+In case you’re wondering, America’s five remaining AN/FPS-132 radar systems are located at Beale (CA), Cape Cod (MA), Alaska, Greenland, and the UK.
+Today’s newsletter is sponsored by
+The Pint
+Imagine The Economist had a drunken love child with a meme page. That’s The Pint.
+Join +16,000 (mostly) sane meme lovers and subscribe to their weekly email newsletter, where they break down the news with memes.
+It’s free, and it goes out every Friday.
+Meanwhile, elsewhere…
+🇱🇧
+LEBANON — My enemy’s enemy.
+In unprecedented remarks, President Aoun has accused Iran-backed Hezbollah of betraying Lebanon, and risking the state’s collapse by fighting Israel. While also condemning Israel’s deadly hits on Hezbollah, Aoun is now proposing direct border talks with Israel. (
+CNN
+)
+Comment:
+Aoun’s
+proposed talks are significant because
+a
+) Lebanon doesn’t even recognise the Jewish state,
+b
+) his proposal openly sidelines Hezbollah, and
+c
+) he even seeks international support to disarm the weakened group. If you want to nerd out, his historic
+statement
+is carefully worded to vent at both Hezbollah and Israel, but ultimately paints a post-Hezbollah future for Israel-Lebanon ties.
+🇨🇳
+CHINA — Summon the ships!
+China has summoned two of the world’s leading shipping companies, Switzerland-based MSC and Denmark-based Maersk, for talks on “
+international shipping operations
+”. (
+Global Times
+)
+Comment:
+It’s presumably linked to Panama’s decision to seize Canal operations from Hong Kong’s Hutchison and temporarily hand them to Maersk and MSC pending a new international tender for permanent concessions.
+🇰🇵
+NORTH KOREA — Running against the grain.
+The hermit state has abruptly cancelled the 2026 Pyongyang International Marathon set for 5 April. (
+The Korea Times
+)
+Comment:
+It’s unclear why, though the marathon has typically been the one time foreigners can enter relatively easily — an opportunity any intelligence agency worth its trench-coats would milk. So a paranoid Pyongyang has presumably concluded the loss of control isn’t worth any fleeting forex or tourism bump.
+🇳🇱
+NETHERLANDS — Subject to review.
+Dutch intelligence is warning Russian hackers are targeting government officials, journalists, and soldiers on Signal and WhatsApp, masquerading as support staff. (
+TechCrunch
+)
+🇺🇸
+UNITED STATES — Right back at you.
+AI firm Anthropic is suing the Trump administration for labelling it a
+“supply chain risk”,
+a move that’s effectively excluded the firm from DC-linked contracts. (
+The Hill
+)
+Comment:
+We explored this DC-Silicon Valley standoff
+here
+. This kind of lawsuit might typically take 18 months or more, though the Pentagon has a history of settling via a quiet truce to avoid problematic precedents.
+🇮🇩
+INDONESIA
+— Buy in.
+Jakarta has agreed to buy the joint India-Russia BrahMos missile system as part of Indonesia’s ongoing military modernisation. (
+The Straits Times
+)
+Comment:
+It’s only the system’s second foreign sale after Manila — Jakarta was presumably impressed by its performance against Pakistan during last year’s India spat.
+🇬🇳
+GUINEA — Last stop coup.
+Guinea’s main opposition leader has called for “
+direct resistance
+” after authorities dissolved 40 political parties for failing to meet dubious legal requirements ahead of May elections. (
+BBC
+)
+Comment:
+Years of political instability haven’t yet disrupted Guinea’s massive new Simandou iron ore operation that’s now helping China diversify away from Australia.
+Extra Intrigue
+What the world’s been googling
+Qataris
+🇶🇦
+looked up
+Belgium’s
+“Horse Inn”
+after the Gulf state transported 75 competition horses there following the wartime cancellation of the Longines Global Champions Tour in Doha.
+Netizens in
+South Korea
+🇰🇷
+were searching for paths up
+Mount Gwanak
+outside Seoul
+after word spread
+it’s an “
+energy hotspot
+”
+that could bring good fortune in the New Year.
+Croatians
+🇭🇷
+and
+Serbians
+🇷🇸
+alike were googling “
+Svadba
+” as the ‘forbidden love’
+comedy
+(starring a star-crossed Serb and Croat) smashes European records.
+Snack of the day
+Credits: @JoshuaMellin, X
+The World Baseball Classic is underway across Miami, Houston, San Juan and Tokyo. But the stadium that’s really making a splash is Tokyo’s Dome, with an ice cream sandwich bearing not only its name, but also its shape. In case you’re wondering (and we know you are), it comes in two options — vanilla and chocolate.
+On a related Tokyo Dome note, Beijing has accused Taiwan’s premier (head of government) of “
+evil motives
+” after he was spotted cheering Taiwan’s team at the stadium over the weekend. Bro just wanted a crisp ice cream sandwich while cheering his team but got called evil because, amid China’s push for “
+reunification
+” with the self-ruled democracy, he’s now Taiwan’s first premier visit to Japan in more than half a century.
+Today’s poll
+What do you think President Trump meant by "the war is very complete, pretty much"?
+✋ It was just an off-the-cuff remark
+✅ He's preparing to declare victory and move on
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think it'll take for Trump to declare victory and head home?
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+♻️ Nothing short of regime change (13%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ ☢️ The end of Iran's nuclear capabilities (23%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ 🛢️ Oil prices above $150 (25%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎
+Loss of support from his base (36%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+👎
+P.H:
+“No matter what happens, the whole world has already lost. Even his billionaire bros are starting to feel the pinch due to the market pain.”
+🛢️
+B.B:
+“The gas industry will press him to stand down. The only issue is if Iran leaders decide to keep pressing the offensive even when Trump tries to withdraw.”
+👎
+L.S:
+“At the end of the day Trump wants and needs Republicans to support him.”
+♻️ S.W:
+“Or at least finding an Iranian ‘Delcy Rodriguez’.”
+✍️ F.D:
+“Some minor symbolic and temporary win.”

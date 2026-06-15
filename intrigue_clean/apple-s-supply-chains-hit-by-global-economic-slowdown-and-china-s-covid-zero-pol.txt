@@ -1,0 +1,171 @@
+URL: https://archives.internationalintrigue.io/p/apples-supply-chains-hit-global-economic-slowdown-chinas-covidzero-policy
+Title: Apple's supply chains hit by global economic slowdown and China's Covid-Zero policy.
+
+Hi there {{ First name | Intriguer }}.
+Mark Zuckerberg fired 11,000 employees last week, while Salesforce and Redfin cut around 1,000 each. And yet, massive layoffs that would normally dominate Western news cycles squeaked by unnoticed thanks to the meltdown of the
+Ponzi scheme
+crypto exchange FTX, whatever Elon Musk is doing to Twitter, the surprising results of the US midterms, and
+the heart-warming scenes from Ukraine
+as Kherson was liberated by Ukrainian forces
+. Living in interesting times is
+exhausting.
+Today’s briefing is a ~4.9 min read:
+🍎
+Apple and China:
+headwinds ahead.
+➕ Plus:
+Nepal prepares for an election, Kazakhstan and the EU sign a green hydrogen agreement, and Legoland brought down the South Korean credit market.
+📰 GLOBAL HEADLINES
+Stories:
+De Standaard
+,
+The Globe and Mail
+,
+Rasmei Kampuchea
+,
+Sermitsiaq
+,
+Daily Nation
+🤿 DEEP DIVE
+China’s poison Apple
+In brief:
+Apple has warned customers they’ll have to wait to get the newest iPhone model because China’s Covid restrictions have impacted its manufacturing capacity.
+Depending so heavily on one country for its manufacturing operations seems to contradict Apple CEO Tim Cook’s ‘doctrine’, but manufacturing its higher-end products in China remains Apple’s best (and perhaps only) option.
+Credit: Dazeinfo Briefs.
+No phone for you
+If you were hoping to treat yourself to a new iPhone 14 Pro this holiday season, prepare to be disappointed.
+In a
+statement
+published last week, Apple warned customers that “
+COVID-19 restrictions have temporarily impacted the primary iPhone 14 Pro and iPhone 14 Pro Max assembly facility located in Zhengzhou, China. C
+ustomers will experience longer wait times to receive their new products.”
+This is the second time this year that Apple has cut its production forecasts
+due to Coronavirus outbreaks and China’s lockdown rules.
+Earlier this year, Apple lost $4B in revenue when factories near Shanghai closed for a city-wide lockdown.
+The ‘Tim Cook doctrine’
+While Apple has tried to shift its manufacturing away from China in recent years, almost 90% of its iPhones are still reportedly produced in China.
+That seemingly contradicts Apple CEO Tim Cook’s own risk management doctrine.
+During a 2009 earnings call, Cook laid out his
+vision
+for Apple’s supply chain:
+❝
+“We believe that we need to own and control the primary technologies behind the products we make, and participate only in markets where we can make a significant contribution.”
+So, why did Apple put all of its err... apples... in the same basket?
+Caught in the middle
+For at least the last fifteen years, the ‘designed in California, made in China’ model has helped Apple become the largest company in the world.
+In return, Apple employed hundreds of thousands of Chinese workers, and the Chinese government gained leverage over one of the most important tech companies in the world.
+The arrangement has worked out perfectly for all concerned, but as analyst
+Matthew Turpin
+explains, the winds of change are blowing:
+❝
+“Apple is discovering that geopolitics drive business models — not the other way around [...] This whole collection of supply chain risks are creating a real liability for them.”
+Besides the domestic risk of doing business in China, Apple is also exposed to the fallout of the China-US economic decoupling.
+Last month, the Biden Administration prohibited US companies from exporting the technology and equipment used to produce advanced chips to China.
+Any Chinese retaliation could catch Apple in the crossfire
+, although Beijing hasn’t announced any specific measures.
+Apple just can't quit China
+Some security experts like
+Nathan Freitas
+argue that Apple and the Chinese Communist Party’s visions aren’t dissimilar:
+❝
+“Apple’s vision of a controlled, locked-down ecosystem for the customer experience maps into the same vision, the same control, that the Communist party wants to have in China.”
+The bottom line:
+Whether you agree with that take or not, the simple fact is that Apple can’t leave China in the near term. Producing Apple’s higher-end products requires advanced manufacturing techniques that places like India or Vietnam can’t yet replicate.
+🤝 SPONSORED BY POCKET CASTS
+Feature packed
+All the features you need in a podcasting app without any of the bloat.
+Pick up exactly where you left off in your favorite podcast. Find brand new ones to fall in love with. Podcast listening turned up to 11.
+Take a listen, and see for yourself.
+🔦 REGIONAL SPOTLIGHT
+North & Central Asia
+🇨🇳 China
+Chinese
+exports have declined
+for the first time since 2020, thanks to the global economic slowdown and its own Covid-zero policy.
+Exports fell by 0.3% in October compared to the previous year, back when economists were forecasting growth.
+🇯🇵 Japan
+Japanese steel giant Nippon Steel is pouring billions of dollars into two new projects to
+expand its operations in India
+.
+While Japanese demand for steel is predicted to decline, Indian demand is forecasted to grow well into the next decade.
+🇰🇿 Kazakhstan
+Kazakhstan and the EU have agreed on a ‘
+strategic partnership
+’ in the areas of raw materials and green hydrogen.
+While Kazakhstan is well known for its oil and mineral resources, it is now aiming to also become a world leader in green hydrogen production.
+🇳🇵 Nepal
+Nepalese citizens will choose between two major coalitions in the country’s
+federal and provincial elections
+later this month.
+The opposing coalitions disagree on some foreign policies, but agree that Nepal should remain independent and non-aligned in their dealings with India, China, and the US.
+🇹🇼 Taiwan
+Taiwan is looking to
+sign a trade agreement with the UK
+and deepen its ties with Rishi Sunak’s government.
+The statement was issued during the UK Minister of State for Trade Greg Hands’ visit to Taipei.
+🗞 IN OTHER NEWS...
+Legoland Korea comes crashing down
+Looks like these legolads are out of jobs. Credit: Legoland Korea.
+The news:
+The developer of Legoland Korea, a theme park built to celebrate the famous brick toys, defaulted last month, sending the
+South Korean credit market into something of a panic
+.
+Plans for Legoland Korea crumbled after the new Gangwon provincial government announced it would not pay for what it said was the previous administration’s “
+vanity project
+”.
+The Gangwon government has since said it will take on the developer’s debts to ensure that any panic over South Korea’s bond markets doesn’t spread.
+Why it matters:
+Rising interest rates and the global economic slowdown is making it harder for South Korean companies to sell bonds and restructure their debt.
+According to
+Hwang Se-woon
+, an analyst at Korea Capital Market Institute:
+❝
+“The credit squeeze came earlier than expected as the Legoland default shook the entire bond market”.
+What’s next:
+Global interest rates are predicted to
+peak in Q1 2023
+, which means we might be looking at a few more corporate defaults before the end of next year.
+But it’s not only corporate defaults that are worrying investors:
+the Financial Times reported last week
+that “
+the cost to insure five-year sovereign debt against default has almost doubled since mid-September
+”.
+All of this is bad news for the South Korean economy, which is expected to go into recession next year.
+STORIES WE ALMOST COVERED
+Here's how 540 of your fellow Intriguers voted last week:
+What should we have covered?
+🟨🟨⬜️⬜️⬜️⬜️ 1. 🇵🇰 Pakistan was removed from the global terrorism financing list (14.1%)
+🟩🟩🟩🟩🟩🟩 2. 🇨🇳 China is accused of setting up illegal police stations abroad (33.9%)
+🟨⬜️⬜️⬜️⬜️⬜️ 3. 🇷🇺 Russia is recruiting former Afghan commandos (8.6
+%
+)
+🟨🟨🟨🟨⬜️⬜️ 4. 🇬🇷 Rising Greece-Turkey tensions are bad news for Europe and NATO (23.7%)
+🟨🟨🟨⬜️⬜️⬜️ 5. 🇨🇳 China’s World Internet Conference and its vision for a new internet (19.7%)
+China’s police stations abroad
+In brief:
+Fourteen countries
+have opened investigations into a series of Chinese “service” offices acting as overseas police stations - The Guardian has a good overview of the story
+here
+.
+In addition to offering a range of diplomatic services, these stations also engage in operations to influence and intimidate Chinese nationals abroad, according to NGO Safeguard Defenders.
+A few thoughts from the team:
+China recently passed a new law allowing its enforcement agencies to pursue suspects of telecom and online fraud abroad. According to
+China Daily
+, “
+public security organs have persuaded 210,000 fraud suspects to return from abroad
+” to face fraud charges. Even a generous reading of this statement raises more questions about how China’s security services operate in other countries than it answers.
+- Helen
+According to the Safeguard Defenders report, there are over 110 overseas police stations in at least 21 countries. In many cases, the stations were located in countries that already have extradition agreements with China, like Brazil and Mongolia. If this was really about going after criminals, why not go through the official channels?
+- Valentina
+It’s clear the Chinese Communist Party considers it has jurisdiction over all Chinese nationals, regardless of where they live. None of this is new; I recall in 2017 when Australia
+cancelled a proposed extradition agreement
+with China at the 11th hour over concerns it could be used to persecute Xi Jinping’s political enemies. Over the next few years, I wouldn’t be surprised to see China push the diplomatic boundaries even further when it comes to controlling the behaviour of Chinese citizens overseas.
+- John
+What did you think of today's newsletter?
+😍 Loved it!
+🫤 Meh.
+👎 It wasn't for me.
+Login
+or
+Subscribe
+to participate

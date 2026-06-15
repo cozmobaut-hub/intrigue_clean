@@ -1,0 +1,221 @@
+URL: https://archives.internationalintrigue.io/p/modi-s-rough-week
+Title: 🌍 Modi’s rough week
+
+Today’s briefing:
+— Modi’s rough week
+— These 3 just ditched the ICC
+— Sorry, this summit is full
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. The first time I worked closely with India’s (very polished) diplomats, I had to do some urgent googling of certain phrases, like…
+“
+kindly do the needful
+” (translation: just take care of this, okay?), and
+“
+let’s prepone our meeting
+” (the opposite of
+post
+pone, of course).
+Thinking of my ol’ pals in India’s foreign service, I can only imagine the sheer volume of needful now being done — and meetings now being preponed — after
+the rough week their Prime Minister Narendra Modi just had
+, our lead for today.
+Number of the day
+8%
+That’s how much Argentina’s stocks soared yesterday (Monday) after US Treasury Secretary Scott Bessent pledged to “
+do what is needed
+” to help stabilise Argentina’s economy. We might know more after today’s Trump-Milei meeting in New York, where both presidents are due to address the UN General Assembly.
+Will New Delhi catch a break?
+One day, India’s Narendra Modi is grinning ear to ear as he clasps hands with China’s Xi Jinping and Russia’s Vladimir Putin on the red carpet in Tianjin.
+The next, he’s copping the coldest of shoulders from President Trump via the gut punch that is US tariffs.
+Now, that’s already lots of anatomical references and we’re only two sentences in. But has Modi now (ahem) recovered that famous bounce in his step? No, for two big reasons:
+Pakistan-Saudi defence pact
+India’s nuclear-armed neighbour and arch-rival, Pakistan, just signed a
+mutual defence treaty
+in Riyadh. On paper, it sounds a lot like NATO’s famous Article 5, warning that “
+any aggression against either country shall be considered an aggression against both
+.”
+And that’s
+a big deal for two reasons
+:
+i) It adds a new layer of
+nuclear deterrence to the Gulf
+, with Pakistan potentially now helping the Saudis deter any big Israeli or Iranian moves in the region, and
+ii) It also signals
+waning Saudi trust in US
+security guarantees amid Israel’s recent Qatar strikes — why seek Pakistani protection if you’ve already got the US?
+The Saudis and Pakistanis themselves argue it’s
+not
+such a big deal
+, as it’s more a formalisation of a six-decade partnership rather than some overnight pivot — there were already Pakistani troops in Saudi Arabia, for example. Plus the pact emphasises consultations over automatic intervention, with any ‘nuclear umbrella’ left unclear.
+But what’s any of this got to do with India’s Narendra Modi having a bad week?
+Well, he’s worked hard to cosy up to the Saudis lately, becoming their third-biggest oil customer and pushing more defence cooperation, all in hopes he might dilute Pakistan’s Gulf influence and blunt Saudi interest in thorny issues closer to home, like Kashmir.
+And yet, just as Modi gains ground… yoink —  the Saudis put a ring on it with Pakistan. And speaking of yoink….
+H-1B visa crackdown
+India’s impact on Silicon Valley is hard to miss, whether it’s via
+a
+) the
+CEOs
+of Google, Microsoft, Adobe, IBM, YouTube, Palo Alto Networks, NetApp, Zscaler, Micron and beyond,
+b
+) the 30% or so of the Valley’s broader tech
+workers
+now with roots in India, or
+c
+) the 71% of approved H-1B skilled worker
+visas
+going to Indian nationals last year.
+That’s why Modi has long
+hoped the US might expand that H-1B
+visa program. It’s also why he’ll have taken it personally when President Trump effectively just did the opposite, announcing hefty new $100K H-1B visa fees. The reality is it’ll make India’s tech talent both more expensive, and harder to get into the US.
+And that not only hits the workers or the US giants relying on them, but also India’s massive outsourcing firms like Infosys, Wipro, and Tata, generating $250B in exports.
+So Modi’s foreign ministry is already warning of “
+humanitarian consequences
+” for India’s families. But speaking of humanitarian consequences, any US sympathies might’ve already faded given Modi’s defiance of calls to stop financing Putin’s war via oil purchases.
+Intrigue’s Take
+You’d think this week’s
+UN General Assembly
+in New York would be the perfect moment for Modi and Trump to get together and hash it all out, right? Wrong. Modi isn’t attending, ostensibly for scheduling reasons, but the reality is any side-line chat (or perceived snub) is high risk for Modi while US-India irritants keep accumulating.
+The two
+foreign ministers
+met yesterday instead, but the US
+read-out
+offers nothing beyond boilerplate references to the
+“critical importance”
+of US-India ties.
+Anyway, we’ve written often about the deft way Modi (with Jaishankar his foreign minister) prosecutes
+India’s omni-directional strategy
+: a seat at every table and a shake of every hand, milking concessions and nuancing commitments as the situation requires.
+But these recent counter-moves from the Pakistanis, Saudis, and Americans are each a timely reminder that everyone can — and will — play that same game as our world goes more and more multipolar. And you know what? It’ll hurt.
+Today’s newsletter is sponsored by
+Minderoo
+Tucked away in the UN Charter is a never-used clause that gives member states the power to hit “reset” on the system.
+And
+🥁
+, it's about to be activated. At UNGA80, the
+Article 109 Coalition
+(backed by Minderoo Foundation) is launching, creating a global push to finally use the hidden-in-plain-sight article to open a pathway to the most significant reform in the UN’s history.
+In many ways, the pitch is simple --- yesterday’s rules weren’t built for today’s problems. Or as Minderoo’s Founder Dr. Andrew Forrest puts it: “
+We cannot solve today’s crises with yesterday’s tools.
+"
+And truth be told,
+sometimes the biggest solutions start with the smallest footnote
+and a legal pathway with private sector push.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Nvidia’s spending spree
+.
+Leading chipmaker Nvidia has pledged to invest up to $100B in OpenAI (of ChatGPT fame). And of course, OpenAI will use that cash to buy millions more Nvidia chips. (
+OpenAI
+)
+Comment
+: Nvidia’s been using its ‘world’s-most-valuable-company’ cash to make a series of strategic investments lately (eg Intel) as the
+US-China AI race
+heats up.
+🇨🇳
+CHINA
+-
+Open
+dialogue.
+Several US lawmakers have met China’s defence minister (Dong) in Beijing as part of the first House visit to China since 2019 (several senators visited in 2023). (
+AP
+)
+Comment
+: The talks seemed to focus on the importance of talks, which is fair enough given the state of US-China ties. Big strategy decisions sit with President Xi, yet the opaque nature of China’s system means nobody really knows what advice he’s getting, or seeking. That’s what makes these face-to-face channels critical, even if not yet with Xi himself (a Trump-Xi meeting will likely happen at next month’s APEC summit in Korea, with Trump then flagging a visit to China early next year).
+🇷🇸
+SERBIA
+-
+Military parade.
+Belgrade flexed its muscle on Saturday, with a military parade featuring tanks, missile systems, fighter jets, and 10,000 troops. (
+Euronews
+)
+Comment
+: Lots on display here: first, there’s Serbia’s flexibility when it comes to defence procurement (with kit from home, China, France, Israel, Russia, and the Emirates); second, there’s what this procurement also says about Serbia’s flexible approach to the world; and third, there’s what it all says about President Vučić himself, hoping to bolster his grip on power after months of student-led protests.
+🇦🇺
+AUSTRALIA
+-
+Out(r)age.
+Canberra is promising consequences after one of Australia’s top two telecom providers suffered an hours-long outage that blocked calls to emergency services, with at least four people potentially dying as a result. The troubled provider is owned by Singtel, in turn owned by Singapore’s sovereign wealth fund. (
+ABC
+)
+🇨🇩
+DR Congo
+-
+Ban lifted.
+The Congolese government is finally lifting its cobalt export ban, imposed in February to boost prices for the critical battery and electronics input. DRC isn’t returning to a free market, however, instead opting for a quota system regulating export volumes. (
+mining.com
+)
+Comment
+: DR Congo typically produces around 70% of the world’s cobalt.
+🇳🇪
+NIGER
+-
+No more ICC.
+The junta leaders of Burkina Faso, Mali, and Niger have announced they’re  withdrawing from the International Criminal Court (ICC), arguing it fails at “
+handling and prosecuting proven war crimes
+”, targeting weaker countries instead (almost all ICC cases have involved Africa). (
+BI Africa
+)
+Extra Intrigue
+Here’s what people around the world are googling
+🇮🇹
+Italians
+searched ‘
+Palestine
+’ as
+pro-Palestinian protestors
+clashed with Italian police, while France, Andorra, Belgium, Luxembourg, Malta, and Monaco joined the list of countries recognising a State of Palestine at the UN this year.
+Folks in the
+🇵🇭
+Philippines
+kept on top of weather news by googling ‘
+super typhoon Nando
+’ (internationally named
+Ragasa
+). The storm forced 10,000 locals to evacuate and grounded all passenger flights in Hong Kong for 36 hours.
+🇨🇺
+Cuban
+football fans looked up ‘
+Balon de oro 2025
+’, as Paris Saint-Germain player Ousmane Dembélé brought home one of the
+sport’s most prestigious awards
+. Spaniard Aitana Bonmati won the Women’s Ballon d’Or for a third time.
+Headache of the day
+Organising a party is hard. A wedding, harder. But an event for ~50,000 officials and others to discuss the environment?
+Almost
+impossible
+,
+as Brazil is now learning.
+The host nation chose its ‘
+Gateway to the Amazon
+’ city of Belem for COP30 to underline what’s at stake in this year’s climate talks. But the city of a million or so was never really built to host a sudden influx of 50,000 visitors — smaller nations are now reportedly getting priced out of hotel rooms, and the UN is even limiting its own attendance, too.
+Today’s poll
+Which foreign problem do you think Modi should tackle first?
+🇸🇦 Reaffirming Saudi ties
+🛃 Lobbying the US to reconsider its visas
+📉 Lobbying the US to ease its tariffs
+🇷🇺 Standing firm on its right to buy cheap Russian oil
+🇵🇰 Stabilising ties with Pakistan
+🇨🇳 Finalising its borders with China
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Russia has succeeded in pushing its cultural clout abroad with Intervision?
+🎤
+Yes, over 20 countries participated (15%)
+👎 No, it still feels like a bad copy of Eurovision (84%)
+✍️ Other (write in!) (1%)
+Your two cents:
+👎
+R.C.O:
+“Poor copies of successful institutions for political purposes rarely work. Look at the Goodwill Games.”
+🎤
+G.P:
+“Yes because... 20 countries participated.”
+✍️
+P:
+“Both versions have cultural and ideological clout.”

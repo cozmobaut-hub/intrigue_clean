@@ -1,0 +1,203 @@
+URL: https://archives.internationalintrigue.io/p/friday-5da2
+Title: 🌏 Why China wants you to buy a new microwave
+
+IN TODAY’S EDITION
+1️⃣ Why China is buying everybody microwaves
+2️⃣ Intrigue’s weekend tips
+3️⃣ Photo of the day
+Hi {{ First name | Intriguer }}.
+Jimmy Carter’s state funeral just took place, and there’s been plenty written about his legacy as US president. But this wild Carter anecdote from a 2005 GQ interview really caught my eye, so I thought I’d share it with you here:
+“
+We had a plane go down in the Central African Republic—a twinengine plane, small plane. And we couldn't find it. And so we oriented satellites that were going around the earth every ninety minutes to fly over that spot where we thought it might be and take photographs. We couldn't find it. So the director of the CIA came and told me that he had contacted a woman in California that claimed to have supernatural capabilities. And she went in a trance, and she wrote down latitudes and longitudes, and we sent our satellite over that latitude and longitude, and there was the plane.
+”
+👀
+Anyway, let’s take a look at
+China’s economy
+, shall we?
+THE HEADLINES
+Venezuela opposition leader detained then released.
+Maduro regime officials
+violently seized opposition figure Maria Corina Machado
+after a rally in Caracas yesterday, reportedly releasing her only after forcing her to record several videos. Long-time autocrat Nicolás Maduro is set to re-inaugurate himself for a third term today (Friday).
+Xi to send senior official to Trump inauguration.
+China’s president will reportedly
+send a senior official to Trump’s inauguration on 20 January
+, potentially paving the way for more high-level engagement between the two leaders. It’s unclear who exactly will represent Xi, but rumours suggest it could be Vice-President Han Zheng or Foreign Minister Wang Yi.
+Aoun elected as Lebanese president.
+As we
+foreshadowed
+yesterday, Lebanon’s parliament ended up electing army chief Joseph
+Aoun as the country’s next president
+with 99 out of 128 votes. His election comes after 12 failed attempts since 2022 and raises hopes for an end to Lebanon’s political and economic crisis.
+Taiwan’s TSMC revenue soars in 2024.
+The world’s top chipmaker ended the year with a
+34% revenue increase
+, bringing yearly sales to a record $88B. The results were thanks partly to the AI chip boom and big investments from tech giants like Microsoft, Amazon, and Google.
+World breaks 1.5°C barrier.
+Last year’s global average temperatures were 1.6°C above preindustrial levels, confirming 2024 as the
+hottest year on record
+.
+US jobs report out today.
+Analysts are bracing for
+the December
+US
+jobs report
+, which is due out today. From a consensus view, economists expect the unemployment rate to hold steady at around 4.2%, but a surprise could shape the Fed’s next rate move and rattle or rev-up markets.
+TOP STORY
+Why China wants you to buy a new microwave
+As clickbaity as it sounds, we’re not making the above title up.
+On Wednesday, China’s policymakers
+announced
+they’ve added all sorts of small electronic appliances — microwaves, rice cookers, water purifiers — to a list of consumer products eligible for a subsidised trade-in.
+We’re not here to dunk on that idea — the US and others have used
+similar methods
+to get folks spending during a downturn. But that brings us to why China is doing this now:
+China’s economy continues to lag
+. So, microwaves and rice cookers aside, it’s time for another quick look at five big trends now featuring in China’s economy:
+Low growth
+President Xi used his New Year’s
+address
+to effectively declare victory in achieving last year’s 5% growth target, arguing the economy has now “
+rebounded and is on an upward trajectory
+.” But there are real doubts around China’s official figures, and Xi
+ordered
+an investigation when prominent local economist Gao Shanwen even
+hinted
+at such doubts last month.
+So what’s the real growth rate? The boffins at Rhodium, for example,
+say
+it’s perhaps as low as 2.4-2.8%. And that’d make sense when you consider China’s struggles with…
+Deflation
+Even according to official statistics, China’s consumer prices rose by just 0.2% in 2024 (ditto 2023) — well below the 3% target, and inching lower with each passing month. A thousand PhDs will explain why this is happening, but it’s likely a toxic mix of:
+China’s
+property
+sector collapse (burning $18
+trillion
+since 2021 by one
+estimate
+)
+A
+balance sheet
+recession (China’s households have ~70% of their wealth in that same troubled sector, so are paying off debt rather than spending), leading to
+Years of possible
+low growth
+ahead like Japan had (though China’s households have additional reasons to cut spending, including a weaker social safety net).
+Meanwhile, producer prices keep sliding down too, which leads us to…
+Bonds
+Bond markets are looking wild everywhere, reminding us of that classic Star Wars line: “
+I have a bad feeling about this
+”. In the end, Han, Luke, Leia, Lando, Obi-Wan, and Darth were right to be worried (and yes, they all said that line). So what about China’s bonds?
+Yields on China’s 10-year government bonds are now at
+record lows
+, and getting lower, leaving the biggest gap with (rising) US yields in history. It’s a complex market, but this likely all reflects China’s souring investor sentiment and expectations of future interest rate cuts, pushing locals to scramble for safe-haven options like longer-term bonds.
+So China’s central bank tried to calm its bond market last month by [*
+checks notes
+*] sternly warning traders against any “
+aggressive
+” moves. But then just hours ago, the central bank went a step further by temporarily
+suspending
+bond purchases altogether!
+It’s likely also an effort to stabilise China’s…
+Currency
+The renminbi has just hit
+a 16-month low
+, partly due to concerns around Trump 2.0’s tariff plans. And sure, a weaker currency helps China’s exporters (their goods get cheaper), but it also brings its own challenges, including further hosing down local demand, and triggering more resentment in the US and elsewhere around China’s trade practices.
+Which leads us to China’s…
+Manufacturing
+China’s factory activity expanded for the third straight month in December, though by less than expected, and the longer-term outlook seems tricky for reasons that go
+well beyond Trump
+: eg, neighbouring
+Vietnam
+just imposed a 97% anti-dumping levy on China’s low-cost wind towers;
+Chile
+is now taxing China’s low-cost steel;
+the EU
+is taxing China’s low-cost EVs, and so on. That’s because many foreign capitals increasingly see the choice as between tariffing China, or watching their own industrial bases crumble.
+And for his part, while there’s plenty of debate, Xi might see the choice as between facing turmoil at home, or keeping his people employed then dumping the surplus abroad. For Xi, the top priority is still security.
+So what to do?
+That’s been the question in Beijing and beyond since China first had its under-whelming post-Covid re-opening.
+Anyway, the lunar calendar says 29 January will kick off the year of the snake, a figure associated with wisdom and agility. Maybe we’ll need it.
+INTRIGUE’S TAKE
+For a while now, much of the world has been urging Xi to announce more stimulus to spark his economy back to life, as he’s done before. But while he hasn’t yet fully hit the gas this time, there’s still been a slow but steady accumulation of supportive measures.
+And so with each passing month of disappointing data out of China, the world’s continued calls for more and more stimulus are starting to remind us of Christopher Walken’s
+calls for more and more cowbell
+- ie, maybe not the answer after all.
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: Takeshi Ebisawa, a Yakuza (mafia) figure, has
+pleaded guilty in a New York court
+to trafficking nuclear materials out of Myanmar to sell to a supposed Iranian general. But he was dealing with an undercover DEA agent, who then uncovered crimes across Thailand, Myanmar, Japan, the US, and Sri Lanka.
+🇫🇮
+Finland
+: The national parliament is now planning to
+ban municipalities from selling water infrastructure
+to private investors on security grounds. Finland, which recently joined NATO, is also considering property seizures near critical infrastructure to ward off sabotage attempts by rivals like Russia.
+🇦🇺
+Australia
+: The UN Human Rights Committee has found that
+Australia’s role in asylum seekers being detained in the Pacific Island of Nauru
+, even after securing refugee status, violated international law. Canberra argued that the alleged violations were outside Australia’s jurisdiction, but the committee disagreed, citing Australia’s funding and construction of the facilities in Nauru.
+🇻🇮
+US Virgin Islands
+: Three top U
+S Virgin Islands officials (one current, two former) are
+now facing federal indictments
+in a case linking them to fraud and bribery. The Caribbean territory, sold by the Danes to the US in 1917, boasts highly favourable tax conditions that attract companies to incorporate there.
+🇮🇱
+Israel
+: The Israeli military has introduced new rules that
+forbid media from publishing the names or photos
+of active duty soldiers amid concerns they may be arrested abroad over war crime allegations. The move comes days after Brazil issued an arrest warrant for an Israeli soldier reportedly deployed in Gaza.
+EXTRA INTRIGUE
+Your weekend recommendations from Team Intrigue
+Watch
+the eulogy
+delivered by the late Jimmy Carter’s grandson Jason, bringing a dose of humour and insight into the former president.
+Cook
+Mulgi puder
+, a traditional Estonian dish made with potatoes and barley,  served in the Mulgimaa region that gained UNESCO status last year.
+Register
+for
+Intrigue’s conversation on January 21st with Congressman Raja Krishnamoorthi
+, Ranking Member of the Select Committee on the Strategic Competition Between the US and the Chinese Communist Party.
+PHOTO OF THE DAY
+Credits: Tagesschau.
+A young woman splattered Germany’s former finance minister and leader of the Free Democratic Party with foamy soap yesterday, while he was giving remarks in Greifswald.
+The politician, Christian Lindner, seemed to shrug it off, throwing some of the foam back at the woman and, according to a
+local paper
+, light-heartedly saying
+“I wear these battle scars with pride.”
+But Lindner is fighting for his party’s future right now — it’s polling around 4%, but needs 5% to retain a place in the Bundestag at next month’s elections.
+FRIDAY QUIZ
+It’s League of Nations Day! The League was the predecessor to today’s United Nations.
+1) What year was the League of Nations founded?
+1918
+1920
+1923
+1946
+Login
+or
+Subscribe
+to participate
+2) The League was a trustee of which territory for 15 years?
+Western Sahara
+Transnistria
+Saar Basin
+Greenland
+Login
+or
+Subscribe
+to participate
+3) Where was the League based before moving to Geneva?
+London
+Paris
+Washington
+Vienna
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

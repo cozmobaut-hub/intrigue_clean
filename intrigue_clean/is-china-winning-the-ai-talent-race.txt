@@ -1,0 +1,248 @@
+URL: https://archives.internationalintrigue.io/p/is-china-winning-the-ai-talent-race
+Title: 🌍 Is China winning the AI talent race?
+
+Today’s briefing:
+— Is China winning the AI talent race?
+— Manhunt of the day
+— They’re warning citizens against
+what
+?!
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. I’m saving some jokes for tonight’s Asia Society event on diplomacy and humour in Sydney (thanks everyone for coming out!), so let’s dive straight into
+whether China is winning the AI talent race
+, shall we?
+Manhunt of the day
+Jan Marsalek
+That’s Europe’s most-wanted man, on the run since his fintech firm collapsed in 2020. But a joint
+Insider
+/
+Der Spiegel
+/
+ZDF
+investigation
+has found the Austrian living in Moscow under a new name (and hairline), a decade after first getting recruited by Russian spooks.
+¡AI, caramba!
+There’s no worse feeling than getting dumped in favour of your rival. Aidan Shaw knows it. Jennifer Anniston knows it. Catherine of Aragon knows it. But does the US know it?
+We ask because there’s been a steady but quiet stream of top AI experts opting to leave the US for China lately, seemingly reversing a decades-long talent trend.
+So what’s going on?
+In one sense, there’s nothing new:
+powers always compete
+, whether it’s for coal in the 19th century, oil in the 20th century, or (say) rare earths in the 21st century.
+Powers have always competed for talent
+, too, whether it’s the French luring British chemists in the 19th century, Americans and Soviets enticing German engineers in the 20th century, or (say) Korean firms trying to poach Taiwanese chipmakers today.
+Nurturing home-grown talent can take a generation, so parachuting a guru into your lab can be an effective (and sometimes the only) way to get things happening.
+So is that what’s now up between the US and China?
+Two of the biggest AI names that often pop up are UCLA professor
+Song-Chun Zhu
+and IBM/Microsoft’s
+Guo-Jun Qi
+. Both earned undergrad degrees in China before racking up PhDs in the US (Qi got two) and working at the top of their fields state-side for years.
+But then Zhu stunned his colleagues by taking up prestigious China university roles in 2020, and now Qi has turned heads with his own big China pivot in 2025.
+As you might imagine, China’s state outlets have milked these stories, whether as patriots returning to the motherland, experts heralding China’s technological ascent, or both.
+And on the tech front at least, there is a real story to tell, with one July
+report
+painting a vivid picture with
+last year’s numbers
+alone:
+China’s AI researchers published 23,695
+articles
+, versus 6,378 in the US, and
+China’s researchers filed 35,423 AI
+patents
+, versus a tenth that number in the US.
+Of course, numbers alone are incomplete: US Patent 223,898 (Edison’s light bulb) has probably had a bigger impact than US Patent 6,637,447 B2 (that’s the beer-brella).
+But still, it’s a big numerical gap, and it’s getting wider, before you even try accounting for the fact that
+many
+of the above US numbers of course feature China-born researchers.
+So what’s going on?
+At risk of casually cramming decades of complexity into a few lines, Beijing has long made
+big tech pledges
+, ranging from China’s 863 Program in 1986, to its 10th and 11th Five-Year Plans (2001-2010) and beyond, all culminating in
+Xi’s big AI plan in 2017
+.
+Meanwhile, initiatives like its
+Thousand Talents Plan
+have used funding and prestige to encourage some of China’s best and brightest to
+repatriate
+, while corporate giants have also managed to poach some big names (eg, Google’s Andrew Ng
+did a stint
+at Baidu).
+And we’ve flagged some of the
+pull factors
+above, but Zhu’s office at Peking University, for example, sits on its own little island at the centre of a stream. And from there, he has access to staggering amounts of cash, data, equipment, and talent to drive his research.
+Compare that to possible
+push factors
+like (say) US funding cuts, toxic DC-university ties, the ‘
+China Initiative
+’ against campus espionage, and growing visa scrutiny. These and other measures often have valid aims, but there’s a chilling effect at play, too.
+So… does any of this mean China is winning the AI race?
+It’s not that simple. The US retains massive related advantages around chips, certain software, and even capital allocation, as it keeps inventing new tech. China, on the other hand, crushes it when it comes to incorporating existing tech into daily life.
+But either way, these two individual, personal relocation decisions above are a reminder that, next time you see headlines about Zuck trying to poach Sam’s nerds with $1B offers, it might be worth zooming out for a bigger picture.
+Intrigue’s Take
+Our managing editor (JD) once met the world’s greatest living mathematician, UCLA’s
+Terry Tao
+. Aside from being a singular mind, the Australian-born Tao is also just a lovely guy. Relaxing in shorts and flip-flops amid walls covered in chalked equations, he was remarkably generous in sharing his time and insights with some random diplomat.
+Why are we talking about Tao? Because he sent nerds into a tizzy a few days ago when asked if he’d consider leaving the US now that his funding has been cut. His
+answer
+?
+It depends
+. And for a mind like Tao to even leave that possibility open should be a big wake-up call for any US lawmaker. He lays out his thoughts
+here
+, in case you’re interested.
+It’s a wake-up call because, while goals like balancing the budget and tackling espionage are clearly critical, free societies need to
+be smart in the
+how
+: if you’re hacking at the very reasons why the world’s brightest minds want to call you home, maybe it’s time to course-correct.
+Today’s newsletter is sponsored by
+Pacaso
+Final Chance to Join Big Investors on This “Unlisted” Stock
+When the former Zillow exec who sold his first company for $120m starts a new venture, people notice.
+Thousands
+of people. 10,000+ regular investors have already joined the early investors behind Uber, eBay, and Venmo as early-stage Pacaso investors.
+Disrupting the real estate industry once again
+, Pacaso’s tech brings co-ownership to a $1.3t market.
+And it works.
+Pacaso has already made $110m+ in gross profits
+in less than 5 years. They even recently reserved the Nasdaq ticker PCSO.
+And you can become a Pacaso shareholder right now. But not for long.
+Invest before this opportunity ends tomorrow night
+.
+Meanwhile, elsewhere…
+🇬🇧
+UNITED KINGDOM
+-
+Touchdown.
+President Trump is in London for his second state visit, featuring a banquet with the king at Windsor Castle tonight (Wednesday) and talks with PM Starmer at Chequers tomorrow. (
+BBC
+)
+Comment:
+The Brits were hoping to trade their trademark pomp for a bit more US tariff relief, but word is US tariffs on British steel are here to stay. Starmer will also be hoping for more Trump buy-in for Ukraine’s (and Europe’s) security.
+🇺🇸
+UNITED STATES
+-
+TikTok deets.
+The Wall Street Journal is reporting that the mooted US-China TikTok deal involves US investors like Oracle, Silver Lake, and Andreessen Horowitz taking an 80% stake in a new US entity operating the ultra-popular video app. (
+WSJ
+$)
+Comment:
+DC’s customary yelling is now focused on who will control TikTok’s powerful algorithm (ie, determining who sees what). There are conflicting
+reports
+stemming from a Chinese official’s remarks in Madrid earlier this week, which some interpreted as suggesting the US app would still use a China-controlled algorithm. But our reading of those comments is they’re just not conclusive either way.
+🇰🇬
+KYRGYZSTAN
+-
+Ready, set, maybe vote?
+Kyrgyz lawmakers look set to vote for the self-dissolution of parliament, meaning elections could come as early as November. (
+Times of Central Asia
+)
+Comment:
+Why would a legislature vote to self-dissolve, we hear you ask? That’s the 20-million Kyrgyz som question: looser campaign finance rules (up to 20M KGS) mean key factions are hopeful they can bankroll their way to more seats in parliament.
+🇪🇸
+SPAIN
+-
+Off the pitch.
+Spain is the latest to say it’ll boycott next year’s Eurovision if Israel participates, joining the likes of Slovenia, Ireland, and the Netherlands (Iceland and Finland are also thinking it through). (
+Guardian
+)
+Comment
+: This’ll reignite an old debate around the politics of Eurovision (something we
+explored
+last year).
+🇸🇧
+SOLOMON ISLANDS
+-
+High tech.
+The folks at Reuters are reporting that China’s police are piloting a Mao-era village surveillance model in Solomon Islands, collecting fingerprints, mapping communities, and promoting
+“grassroots governance”
+to curb unrest. (
+Reuters
+)
+🇨🇴
+COLOMBIA
+-
+Looking within.
+Colombia’s peace tribunal has handed down its first war crimes ruling, sentencing seven former FARC rebel leaders for the group’s policies that led to the kidnapping of 21,000 people. The punishment? Rather than prison time, they’ll do eight years on reparation projects such as recovering bodies and clearing landmines. (
+AP
+)
+🇿🇲
+ZAMBIA
+-
+When mining comes to town.
+Farmers in Zambia have filed an $80B lawsuit against two China-linked mining firms, accusing them of causing an “
+ecological catastrophe
+” after February’s big dam collapse spilt toxic waste into local waterways. (
+BBC
+)
+Extra Intrigue
+The Intrigue jobs board
+💼
+Research Assistant, Center for China Analysis @
+Asia Society
+in DC
+Board & Council Engagement Officer
+@
+European Council on Foreign Relations
+in London or Berlin
+Social Affairs Officer
+@
+Economic Commission for Latin America and the Caribbean
+in Mexico City
+Intern, China Heavy Duty Vehicles
+@
+International Council on Clean Transportation
+in Beijing
+Handbook of the day
+Credits: Taiwan Ministry of National Defence
+Intriguers will recall Sweden’s little yellow
+In Case of Crisis or War
+booklet that went viral last fall (fun if nerdy fact: we ran into the minister at this year’s Munich Security Conference and got ourselves a signed copy!
+🤓
+).
+Anyways, there’s
+a new booklet
+(
+🇹🇼
+) on the block, this time from Taiwan’s National Defense Ministry dropping knowledge
+“on what to do in times of crisis.”
+Interestingly, Taipei’s top tips include avoiding using China-made apps, and in the event of invasion,
+“any news about the country's defeat or the government's surrender would be false news!”
+Today’s poll
+Who do you think is winning the AI race today?
+🇺🇸 The US, with its monopoly on advanced chips
+🇨🇳 China, with its talent pool and real-life applications
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What are you watching most closely this week?
+☢️ IAEA conference (4%)
+🤝
+Arab-Islamic Summit (9%)
+📲
+TikTok sale (11%)
+🏦
+The Fed readout (51%)
+🪖
+Russia-Belarus drills (17%)
+🇨🇳
+Xiangshan Forum (1%)
+🇲🇼
+Malawi elections (1%)
+✍️Other (write us!) (6%)
+Your two cents:
+🏦
+D.D:
+“The Fed has by far the most direct and transparent mechanism for making its decisions matter in the real world.”
+📲
+V.N:
+“Attention is the most powerful currency in the world right now, and TikTok is offering the largest lines of credit.”
+🪖
+C.O:
+“What Russia and Belarus do or don’t do - while the US attempts to thaw relations with Belarus - piques genuine curiosity. Particularly after the drone episode in Poland.”
+✍️ R.M:
+“The real world is a bit much atm, so I'm just re-watching the
+Twilight Saga
+instead.”

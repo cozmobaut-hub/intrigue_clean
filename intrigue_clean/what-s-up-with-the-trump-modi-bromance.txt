@@ -1,0 +1,279 @@
+URL: https://archives.internationalintrigue.io/p/what-s-up-with-the-trump-modi-bromance-e25bbfcfc7974914
+Title: 🌍 What’s up with the Trump-Modi bromance?
+
+Today’s briefing:
+— What’s up with the Trump-Modi bromance?
+— The Intrigue jobs board
+— We’ve got your next binge
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. It’s not Montessori early childhood education unless it’s from the Montessori region of France. Otherwise, it’s just sparkling day-care.
+Now let’s get into
+what went wrong with the famous Trump-Modi bromance
+.
+🔥
+🔥
+🔥
+Number of the day
+12
+That’s how many years Ion Iliescu, Romania’s first (and then third) freely elected leader, held power. He died Tuesday aged 95, leaving a complex legacy spanning Romania’s post-Communist liberalisation, plus charges of crimes against humanity.
+Tortured ties
+If great films like
+Bridesmaids
+taught us anything, it’s that the power of friendship (and Brazilian BBQ) can conquer all.
+But if great shows like
+It’s Always Sunny in Philadelphia
+taught us anything, it’s that maybe there are folks who’d be better off if they weren’t friends? Which (ahem) gets us to…
+The US and India
+have plenty in common:
+t
+hey’re the
+two largest
+democracies
+in the world; they did ~$212B in
+trade
+last year; around 6% of the US immigrant
+population
+hails from India (including the CEOs of Microsoft, Google, IBM, and Adobe), and the two now share a
+rival
+(hint: it starts with C and rhymes with Carolina).
+Now sure, they’ve had the kinds of
+challenges
+essential for any great friendship story: India was hurt when the US sided with Pakistan in the 1971
+war
+, then… India got some sweet sweet
+revenge
+by conducting its famous “
+peaceful nuclear explosion
+” in 1974, effectively declaring itself a nuclear power to DC’s dismay.
+But you need those bitter moments to truly enjoy the up-beat, second-act,
+80s montage
+:
+President
+Bush
+reversing decades of diplomatic deep-freeze in 2008
+President
+Obama
+declaring India a ‘Major Defence Partner’ in 2016
+President
+Biden
+hosting the first Quad leader summit (
+🇺🇸
+🇮🇳
+🇯🇵
+🇦🇺
+) in 2021, and
+President
+Trump
+continuing his famous bromance with India’s Modi, culminating in a signed copy of Trump’s ‘
+Our Journey Together
+’ photo book this February, featuring a personal note reading “
+Mr Prime Minister, you are great
+”.
+Roll the credits? No.
+Get more popcorn
+. Because over the last few days, Trump has…
+Called India’s economy “
+dead
+”
+Hit India with 25% tariffs (higher than rivals like Pakistan and truce-era China), and
+Threatened more pain if India keeps buying discounted Russian oil.
+Why the sudden shift?
+First
+, it reflects President Trump’s evolving stance towards Russia, which…
+Second
+, reflects an acknowledgement his pledge to end Russia’s invasion of Ukraine is still pending, which reflects…
+Third
+, not Ukraine defending itself, but Putin’s continued attacks, largely financed by…
+Fourth
+, oil purchases from China ($62B per annum) and India ($53B), together buying ~85% of Russia’s entire seaborne crude!
+So how has India responded to Trump’s pivot? Its
+messaging
+so far has included:
+Defending
+its oil-buying as a “
+vital national compulsion
+”
+Arguing
+the US once “
+actively encouraged
+” these imports to stabilise markets, and
+Pointing
+back at US imports of Russian uranium ($600M), palladium ($900M), and fertilisers ($1.3B).
+So for now, Delhi is saying it won’t stop buying Putin’s discounted oil, meaning the famous Trump-Modi bromance looks more like a stand-off.
+Intrigue’s Take
+It’s worth quickly reflecting: if China and India are the two pillars now propping up Putin’s economy, why is President Trump just focusing on India right now?
+We see two reasons:
+first
+, Trump is now negotiating an extension of his 90-day trade
+truce with China
+(expiring August 12), and earlier market freak-outs illustrated the limits on his options there until he can de-risk away from China (particularly on things like rare earths, which Beijing is already leveraging to squeeze US defence contractors).
+But
+second
+, Trump likely assesses
+India has more flexibility
+: while local refineries have made a killing as Moscow’s middle-man, Delhi can still get (pricier) oil elsewhere. And it might be
+unlikely
+to respond to US pressure by cosying up further to Moscow or Beijing: Delhi sees the US as part of India’s careful balancing act with all its nuclear neighbours.
+Beijing
+, on the other hand, has made clear it can’t afford for Putin to lose his war in Ukraine: top envoy Wang Yi just said out-loud the quiet bit we’ve been saying for years: Xi fears a Putin loss would then free the US to focus 100% on countering China.
+So that’s why the Trump-Modi standoff is now sharpest.
+But who’ll blink first?
+Both have built
+political brands
+around strength, so there’s a cost to stepping back from the brink. And while India’s economy is much more dependent on US purchasing power than vice versa (18% vs 2% of total exports), that doesn’t mean India has no
+leverage
+: it supplies 40% of all generic drugs used in the US, plus several critical chemicals.
+But while we watch how this might play out, it’s also worth recalling we’re not the only ones: several other emerging players (like
+Turkey
+) are trying their own version of India’s ‘omnidirectional’ or ‘strategic freelancing’ strategy: why choose a camp when you can sell tents to both? Our new multipolar world has made that possible.
+But this Trump-Modi standoff is a reminder: possible doesn’t mean cost-free.
+Today’s newsletter is sponsored by
+MINDEROO
+The Global Plastics Treaty: Crunch time in Geneva
+Governments are back at the table in Geneva for what could be the final sprint to a first-of-its-kind Global Plastics Treaty. The stakes are nothing short of the health of our planet, and ourselves.
+Two camps are digging in. The High Ambition Coalition is pushing for upstream limits on plastic production, while others are happy to clean up downstream messes.
+But as Minderoo’s Professor Sarah Dunlop puts it, this is a matter of humanity’s well-being, as “
+our bodies are polluted
+” with evidence linking plastic chemicals to serious health risks which continue to pile up.
+This is about more than waste. It’s our well-being.
+Learn more.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Open up.
+US artificial intelligence leader OpenAI is publicly sharing two AI models that can mimic human reasoning to complete complex tasks (but not produce images or videos). That means companies and governments will be able to tweak and run these AI models on their own secure systems. It comes months after China’s DeepSeek made waves by first sharing its own advanced AI models. (
+OpenAI
+)
+Comment:
+OpenAI’s closed strategy was becoming a rhetorical vulnerability for the US — we wrote about how it featured at last week’s
+big summit in Shanghai
+. But this is probably more about locking end-users into OpenAI architecture that’s just behind the leading edge, lest those same end users be tempted to defect to more open rivals.
+🇹🇼
+TAIWAN
+-
+Hold it right there.
+Authorities have arrested current/former engineers at the world-leading
+Taiwan Semiconductor Manufacturing Company
+(TSMC), on allegations they tried to steal TSMC secrets for its next-generation 2-nanometer tech — those chips are expected to debut in Apple’s iPhone 18 range from late next year. (
+MacRumors
+)
+Comment:
+TSMC is so far out ahead, yoinking the occasional secret won’t bridge the gap. Still, the main thing surprising about this story is how rare it is. Prosecutors haven’t yet outed the end buyer, but they’re using a law referring to “foreign hostile entities”, which is widely understood to mean firms in mainland China.
+🇹🇭
+THAILAND
+-
+Luxury
+living
+.
+Bangkok has approved the commercial breeding of Thailand’s native
+Asian water monitor
+lizard, with an eye on the luxury leather market. (
+Straits Times
+).
+Comment:
+Pre-empting activist objections, the industry is highlighting that these big reptiles have a lower carbon footprint than rival cattle and buffalo hides.
+🇱🇹
+LITHUANIA
+-
+Air traffic control.
+Vilnius is (again) asking fellow NATO allies to help bolster its air defences after a second Russian military drone violated its air space in less than a month. (
+Euractiv
+)
+Comment:
+Lithuania’s Russian or Soviet neighbours have invaded several times since the 1700s, so you might forgive any perceived border sensitivity here. NATO’s main air defences, however, can cost billions and take years. It’s really the Ukrainians now figuring out (the hard way) the most effective way to counter Russian drones.
+🇨🇳
+CHINA
+-
+Covid flashbacks?
+China is battling its largest chikungunya outbreak on record, with ~8,000 cases of the mosquito-borne virus reported in the last month alone, mostly in Foshan (near Hong Kong). It’s prompted some Covid-style measures like patient tracking, plus mass mosquito control efforts. (
+SCMP
+)
+Comment:
+The virus is not usually fatal, and its spread is limited by the range and behaviour of its two main mosquito vectors (the same ones that spread dengue and zika). This outbreak has coincided with seasonal typhoons and high-density urban living, together leaving more stagnant water for breeding.
+🇨🇴
+COLOMBIA
+-
+Hey, that’s mine!
+President Petro has ruffled a few feathers after accusing neighbouring Peru of annexing the disputed Santa Rosa island on the Amazon River, announcing he’ll head there for Colombia’s independence celebrations later this week. (
+AP
+)
+Comment:
+The tried and tested method for any beleaguered politician (like Petro, according to polls): find a nationalist grievance to help fire up and distract your base. Peru’s sin was a June law incorporating the long-administered island into one of its provinces.
+🇷🇼
+RWANDA
+-
+Irregular migration.
+Rwanda has become the latest (after Eswatini and South Sudan) to sign a deal accepting US deportees, providing an initial cohort of up to 250 with "
+workforce training, health care, and accommodation to jump start their lives in Rwanda
+". (
+BBC
+)
+Comment:
+Word is Rwanda will receive a US grant in return
+.
+We’re curious if these deportees will be housed in the facilities the UK financed for its own third-country Rwanda plan that ultimately collapsed amid legal and political challenges.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Technology Staffer
+@
+The House Select Committee on China
+in DC
+Senior Director, Global Privacy
+@
+Etsy
+in NYC
+President, Response Operations
+@
+World Central Kitchen
+, Remote
+Head of Partnering @
+Nokia
+in Finland
+TV show of the day
+Credits: Hulu
+Call us predictable but yes, we are pumped to see Korea’s new diplomat-espionage thriller
+Tempest
+, with Hulu dropping the first three episodes on September 10th (the
+trailer
+is now live). It’s all in the execution, but on paper, this really hits the sweet spot:
+Korea is already home to Netflix’s biggest series launch to date (
+Squid Game
+), plus NYT’s top film this century (
+Parasite
+), so Korea’s Hallyuwood knows its stuff, plus…
+Korea is a natural setting for intrigue given its permanent state of war with the North —
+Tempest’s
+plot
+has echoes of Korea’s real history, including presidential assassinations and accusations of spying for the North.
+One question we have is around how the series creators might’ve avoided violating South Korea’s strict national security laws, which place limits on how you can depict the North. It was an issue for the team behind
+Crash Landing on You
+, for example, about a billionaire heiress who accidentally paraglides into the North and falls in love with an army captain!
+Today’s poll
+How do you think this Trump-Modi standoff will play out?
+✂️ India will curb its Russian oil purchases
+🛢️ India will keep buying Russian oil
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about Iran slashing currency zeros?
+✅
+All economics is behavioural (33%)
+❌
+It's another empty signal (64%)
+✍️ Other (write us!) (3%)
+Your two cents:
+❌
+D.A:
+“That also means salaries and savings are slashed. It's only meaningful with policy change.”
+✍️
+C.D.K:
+“It's all about Confidence. If the citizenry buys in, it might actually have a positive impact.”
+✍️
+S.M:
+“If they took a zero off their 60% uranium enrichment level, that would send a clearer signal they're serious about a stable economy.”

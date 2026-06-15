@@ -1,0 +1,225 @@
+URL: https://archives.internationalintrigue.io/p/what-keeps-central-bankers-awake-f8f1afe60cafe39b
+Title: 🌍 What keeps central bankers awake
+
+Today’s briefing:
+— What keeps central bankers awake
+— They just evacuated half a million people
+— Heck of a way to say goodbye
+Good morning {{first_name | Intriguer}}
+. You’d be surprised how much diplomatic correspondence is literally just governments wishing one another a happy national day. It often has the kind of rote insincerity you might expect from circa-2010s Facebook birthday greetings: “
+Happy Birthday Republic of Western Azmara! Hope all’s good!
+”
+So it was interesting to see dozens of world leaders take to social media to send public independence day greetings to Ukraine over the weekend. First, because those messages now take on renewed significance as signals of solidarity amid Russia’s invasion.
+But second, because there are also some real curiosities among the group, like why the leaders of China and Belarus congratulated Ukraine on its 1991 independence from the very same capital (Moscow) they’re both now variously helping invade again.
+Anyway, let’s look at some juicy quotes out of
+the big Jackson Hole economic summit
+.
+PS
+— We’ll take
+a quick break this Thursday and Friday
+, but will be back from Monday!
+What keeps central bankers up at night?
+Lagarde, Ueda, and Powell
+The Super Bowl for economists (aka the
+Jackson Hole Economic Policy Symposium
+) just wrapped on Saturday, so let's get you the top three quotes, starting with...
+🇺🇸
+Jerome Powell, Chair, Federal Reserve: "
+There is significant uncertainty about where all of these policies will eventually settle
+"
+There's always been tension in the Fed's dual mandate of chasing maximum employment versus stable prices. But the chair
+suggested
+this tension now looks different.
+Why?
+He argued President
+Trump's various trade, immigration, and regulatory reforms
+mean (for example) that while jobs growth is down, so is labour supply (fewer migrants), leading to a “
+curious
+” new balance: low unemployment, while tariffs nudge at prices.
+But ultimately, Powell made clear he’s now more concerned about a slowing economy than rising prices, making a
+September rate cut more likely
+. So those were the summit’s most anticipated remarks this year. But the
+spiciest
+contribution came from...
+🇯🇵
+Kazuo Ueda, Governor, Bank of Japan: "
+Wages are rising and labor shortages have become one of our most pressing economic issues
+”
+Why so spicy?
+In many ways, Japan now offers a vivid window into the future.
+How?
+While the late prime minister's ‘Abenomics’ helped, Ueda
+suggests
+it’s really now two other things that’ve jolted Japan's economy out of its deflationary spiral:
+i
+) the Covid shock, and
+ii
+) a demographic trend that started in the 80s: its shrinking/ageing population.
+And Ueda used his remarks to map out
+the options ahead
+, including:
+a
+) encourage more
+women
+and seniors to work
+b
+) bring in more young
+migrants
+, and/or
+c
+) deploy more AI/
+robots
+.
+So which way will Japan go?
+Ueda notes Japan already crushed option
+a),
+driving women's participation up from 60% to 78% in just a couple of decades. And option
+b)
+is politically tricky in Japan, where migrants make up just 3% of the workforce.
+So the answer?
+Ueda seems to hint that the path of least resistance is via option
+c),
+with Japan’s AI/automation uptake still just getting started.
+It’s a dilemma that was also tackled on-stage by...
+🇪🇺
+Christine Lagarde, President, European Central Bank:
+“History is a gallery of pictures in which there are few originals and many copies
+”
+Yes, that's an Alexis de Tocqueville quote, but Lagarde
+cited
+it to argue we're now in one of history's few 'original' chapters, with some old economic rules no longer applying.
+An example: Lagarde notes the EU managed to tackle inflation without putting millions out of work.
+How?
+There are technical answers like ‘labour hoarding’, as firms hold workers rather than fire and re-hire later. But Lagarde also highlights immigration, noting Germany's economy would now be 6% smaller than in 2019 if not for foreign workers.
+But like Japan's Ueda before her, Lagarde warns that
+immigration might only achieve so much
+: with the kind of word choice that'd make even the most risk-averse Brussels bureaucrat blush, Lagarde cautions that "
+political economy pressures may increasingly limit inflows
+" (ie, voters are not so keen on immigration as the solution to labour shortages).
+The answer?
+Like Ueda, Lagarde points over the horizon to a future of AI and automation.
+Intrigue’s Take
+It’s been interesting to watch robots and automation go from being a fun tool for life’s menial tasks, to almost a hope and a prayer uttered by some of the world’s most powerful central bankers confronting challenges now beyond their monetary reach.
+And the difference?
+A mere decade or so of continued demographic deceleration.
+The result is now an awful amount of political and economic expectation resting on a tech we’re still getting to know. And it’s not couched as ‘if’, nor even ‘when’, but almost more as the ‘only’ scalable and sustainable solution that might now help advanced economies maintain their output against the backdrop of shrinking pools of human labour.
+Either way, probably time to brush up on Asimov’s three laws of robotics.
+Meanwhile, elsewhere…
+🇺🇦
+UKRAINE
+-
+Independence Day.
+President Zelensky has used independence day celebrations to pledge Ukraine will keep fighting as long as its “
+calls for peace are ignored
+”. VIP guests included Canadian PM Mark Carney, who signed a joint defence production pact (Canada also hosts the world’s second-largest Ukrainian diaspora). (
+Politico
+)
+🇹🇼
+TAIWAN
+-
+New tools.
+Taiwan’s pioneering chipmaker TSMC is reportedly cutting the use of China-made tools from its ultra advanced 2-nanometer chips, to avoid potential US blowback. (
+Nikkei
+)
+Comment
+: This far deep into the chip wars, it’s a little surprising the free world’s most advanced chipmaker was still relying on tools from a hostile neighbour. Some of it is just the same raw material chokepoints everyone else is facing. Other bits come from US tech (like Mattson) that China bought just before the US really rethought ties. But other inputs come from areas (like etching) where China is making rapid progress.
+🇰🇷
+SOUTH KOREA
+-
+Shots fired.
+South Korean troops have fired warning shots after North Korean soldiers briefly crossed the demilitarised zone. Seoul argues it was a Northern flex on the eve of President Lee’s Japan and US trips. (
+BBC
+)
+Comment
+: Newly elected Lee is on an omni-directional charm offensive right now, balancing his meeting with President Trump today (Monday) against a lower-profile delegation he’s sent to Beijing in hopes of normalising frosty China ties.
+🇺🇸
+UNITED STATES
+-
+You’re fired.
+Defence Secretary Hegseth has fired the head of the Defence Intelligence Agency (DIA) for unspecified reasons. (
+WP
+)
+Comment
+: If we had to guess (it’s our job?), we’d wager it’s related to
+the DIA’s initial (leaked) assessment that maybe US airstrikes didn’t fully obliterate Iran’s nuclear program
+.
+🇳🇬
+NIGERIA - Freed.
+The Nigerian air force says airstrikes on a “
+notorious bandit kingpin
+” in northwestern Katsina state have helped free 76 kidnap victims. (
+France24
+)
+Comment
+: Nigeria has been fighting these kidnap-for-ransom gangs for years, but there’s evidence some are aligning more with jihadi groups as Islamist insurgencies gain momentum in the Sahel
+.
+🇻🇳
+VIETNAM
+-
+Time to move.
+Authorities in Vietnam have issued evacuation orders to over half a million people ahead of Typhoon Kajiki, which is expected to make landfall today (Monday). (
+BBC
+)
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news
+As if we didn’t have enough to worry about, Walmart says it might’ve sold
+radioactive shrimp
+.
+A UK study is suggesting we all try
+toothpaste made out of hair
+.
+A luxury Japanese train has paused trips after finding its staff were drinking copious amounts of
+expensive booze in the name of
+✌️
+quality control
+✌️.
+Legendary Philippine fast food chain Jollibee has apologised and blamed AI fraudsters after fake names such as “
+Hobby Dynamics
+” and
+“
+Noble Beer
+” emerged as prize winners
+from an online raffle.
+And passengers are suing United Airlines and Delta for
+selling windowless window seats
+.
+Farewell of the day
+Credits: Guinness World Records.
+There are as many political stunts as there are politicians, but few end up
+breaking a world record
+like Quebecois lawmaker Marwah Rizqy, who just marked the end of her time in politics by donning 360 ties.
+We think there’s something funny about the fact that the Guinness World Record folks legit felt the need to wheel out an accountant to tally the ties.
+Today’s poll
+Do you think robots are the answer for shrinking-ageing economies?
+🤖 Yes, here's why...
+❌ No, here's why...
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Beyond boots on the ground, what do you think the international community should do to help Haiti?
+🚚
+Send more aid (5%)
+🤝
+Facilitate political reconciliation (20%)
+🔫
+Crack down on illicit arms / cash (43%)
+🚨
+Train Haiti's security forces (24%)
+✍️ Other (7%)
+Your two cents:
+🔫
+M.S:
+“The gangs' engine is fueled by weapons and money. You have to starve that engine for anything else to have a chance.”
+🤝
+P.N:
+“No one wants to say it, but dialogue with the gangs must be part of the solution. You don’t make peace with your friends; you make peace with your enemies.”
+✍️
+J.B.M:
+“Leave Haiti alone. The world has been up in Haiti’s business since the first slave rebellion.”
+✍️
+D.D:
+“There is no amount of foreign aid that will help that place. I know, I was part of a military mission that failed to accomplish anything.”

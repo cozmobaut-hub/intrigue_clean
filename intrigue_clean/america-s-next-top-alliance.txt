@@ -1,0 +1,266 @@
+URL: https://archives.internationalintrigue.io/p/america-s-next-top-alliance
+Title: 🌍 America’s next top alliance
+
+Today’s briefing:
+— America’s next top alliance
+— Could Russo-Ukraine peace be near?
+— Meme of the day
+Good morning {{first_name | Intriguer}}
+. You’d be forgiven for assuming ‘
+Pax Silica
+’ was the latest instalment of a dystopian sci-fi blockbuster, dropping just in time for the holidays.
+If, like me, you had to look up what on earth it actually refers to, then you’re probably doing OK on the scale of being chronically online vs hiding from the news.
+Anyway, today’s briefing covers Pax Silica, a brand new “
+strategic initiative
+” from DC to push for a “
+secure, prosperous, and innovation driven silicon supply chain”.
+Number of the day
+$19.5B
+That’s the size of the write-down Ford just announced Monday as it cancels EV models and a related battery joint venture with a South Korean firm.
+New US alliance just dropped
+For those who didn’t blow a decade learning
+Latin
+so you can use the Vatican’s famous Latin-language ATMs,
+pax
+means peace and
+silica
+is the mineral throughout the Earth’s crust, like sand — refine it enough and you get the foundation of modern tech: silicon.
+The State Department just
+launched
+Pax Silica
+as a US-led move to…
+a
+)
+“build a secure, prosperous, and innovation driven silicon supply chain”
+b
+) reduce "
+coercive dependencies
+" (ie, break China’s bottlenecks) and,
+c
+) ensure
+“aligned nations”
+can develop transformative technologies at scale.
+Or to put it another way, from sand in the ground to algorithms in the cloud, the US is trying to corral key players to lock down control of critical 21st-century tech supply chains.
+Or to put it
+another
+another way, the US wants to align export controls, screening, and investment across key chokepoints to get aligned on
+"trusted technology ecosystems."
+The architect of Pax Silica
+?
+That’d be 36-year-old Undersecretary of State,
+Jacob Helberg
+. Aside from his Doogie Howser age or his Silicon Valley pedigree (adviser to the Palantir CEO, married by the OpenAI CEO), Helberg is a China hawk who argues the free world should prevail by…
+a)
+de-risking
+away from China in critical sectors like chips
+b)
+restricting
+China-vulnerable apps like TikTok, and
+c)
+redoubling
+US tech dominance over authoritarian rivals.
+So for a US administration split between
+camp one
+pushing to hook China on the US tech stack, and
+camp two
+wanting to ice China out altogether, Helberg seems a camp two guy.
+You might therefore guess he’s been getting facial twitches as the White House leans the other way, going soft on both TikTok and chips, though keep these three things in mind:
+First
+, Helberg only just got sworn in last month.
+Second
+, his boss (DepSec Christopher Landau) joined the Pax Silica signing, so it’s not entirely a Helberg rebellion. But
+third
+, we’re guessing Helberg internally argues Pax Silica doesn’t clash with camp one at all:
+While the White House aims to hook China on a US chip bottleneck,
+Helberg’s initiative now aims to break China’s upstream silica bottleneck.
+But zooming out from this DC palace intrigue, who else has signed on?
+The first
+Pax Silica summit
+featured critical nodes in the global tech supply chain:
+🇯🇵
+Japan
+and
+🇰🇷
+South Korea
+are major tech manufacturers
+🇳🇱
+The Netherlands
+dominates the futuristic lithography chip-making tech
+🇸🇬
+Singapore
+makes ~20% of the world’s chipmaking kit and 10% of its chips
+🇦🇺
+Australia
+is a mining giant in both deposits and operations (think Rio, BHP)
+🇮🇱
+Israel
+has strengths across R&D, venture capital, and cybersecurity
+🇬🇧
+The UK
+is home to deep capital markets and AI leaders like DeepMind, and
+🇦🇪
+The UAE
+has endless cash and energy, plus regional hub status (like Singapore)
+And of course, the US brings things like Wall Street, Silicon Valley, and the US navy.
+So… who’s missing?
+Obviously,
+China
+is missing — but that’s the point. Beyond its impressive AI investments, Beijing is already flexing a bottleneck on ~90% of the world’s critical mineral processing.
+Then just across the strait is the democratic island China
+still claims as a renegade province
+, single-handedly pumping out 90% of the world’s most advanced chips. Wary of another biff with Beijing, DC just quietly invited
+Taiwan
+as a guest instead.
+Various US allies
+like Germany (Infineon), France (MEMS), and Canada (minerals) are also missing, though they make guest cameos, including via the EU. Plus, their US ties are a tad toxic, so there’d be mutual wariness at publicly rushing back into bed together — almost the same day Pax Silica met, Germany’s Friedrich Merz declared Pax
+Americana
+over.
+Finally,
+India
+is the big absentee given its own tech sector, but its polyamorous approach to the world (Modi hugs many despots) means he never got (or wanted?) this invite.
+Anyway, in a tech-dominated world, maybe Pax Silica draws a line in the sand (literally).
+Intrigue’s Take
+At the heart of Pax Silica are really two big acknowledgements we’ve explored repeatedly:
+first
+, Pax Silica acknowledges the risks of rivals using purely market-driven supply chains to build leverage over the US. It’s the authoritarian
+judo
+concept we
+explored
+last week.
+Second
+, Pax Silica acknowledges the US stands a much better chance at countering China
+in partnership
+with others, in contrast to the White House’s recent alliance scepticism.
+But Helberg seems to have threaded that needle here, partly via his
+word choice
+: he talks more about members being
+aligned
+rather than allied. Ie, all rowing in the same direction, but not necessarily in the same boat.
+He also threads that needle via
+partner choice
+: the pact’s two non-allies (Singapore and the UAE) suggest flexibility, not just from a US hustling for more selective, interest-based ties, but also from these two hubs now seemingly edging a
+little
+closer to the US orbit.
+Sound even smarter:
+Just after the world’s biggest zinc smelter (Korea Zinc) confirmed the US is investing in a $7.4B joint venture to build a plant in Tennessee, the firm’s shares slumped 11% on reports two major shareholders now plan to block the idea. It’s a reminder there will always be commercial hurdles.
+Meanwhile, elsewhere…
+🇺🇦
+UKRAINE
+-
+Sea drones and peace talks.
+Ukraine says it’s hit a Russian submarine with new underwater drones for the first time, a big turning point in naval warfare (ie, crippling a $400M sub with cheap drones). Meanwhile, Germany’s Friedrich Merz has emerged from the latest US-EU-Ukraine talks suggesting there’s now a “
+real chance
+” at peace. (
+EuroNews
+)
+Comment
+: What might’ve triggered such optimism from a German, you might ask? Apparently, the US and European leaders have offered Ukraine NATO-style security guarantees, although the precise details remain unclear.
+🇦🇺
+AUSTRALIA
+-
+More details on Bondi.
+Police say the father and son who massacred attendees at Sunday’s Hanukkah gathering on Sydney’s Bondi Beach were inspired by Islamic State, and had recently visited parts of the Philippines where IS-linked groups operate. (
+CNN
+)
+Comment
+: We wrote about the global implications of this terror attack
+here
+.
+🇫🇷
+FRANCE
+-
+Trade deal blocked?
+25 years after talks first kicked off, and a year after Europe and South America’s Mercosur bloc finally signed their massive trade deal, Paris is now pushing to delay the final approval vote: French farmers already fear an influx of cheap imports, and are now protesting mass cattle culls in response to a viral outbreak. (
+France24
+)
+Comment:
+This might just be brinkmanship, with Paris wanting more farmer sweeteners while Brussels tries to avoid re-opening Pandora’s Box. But the stakes are high: France’s razor-thin governing coalition can’t afford more protests at home, but  (amid US tariffs) other European economies need more market access abroad.
+🇮🇱
+ISRAEL
+-
+Not happy, Bibi.
+President Trump is reportedly unhappy with Israel’s Netanyahu, after an Israeli airstrike killed a Hamas commander during the US-brokered ceasefire. It comes as the two allies differ over the second phase of Trump’s peace plan: Israel wants its final hostage body back first, plus clarity on who’ll disarm Hamas. (
+TOI
+)
+Comment:
+On that final question, the US is today (Tuesday) hosting a conference in Doha to nudge more contributions to Gaza’s International Stabilization Force — there’s been little news since the UN backed the idea a month ago.
+🇸🇬
+SINGAPORE
+-
+Signatures ready!
+Singapore and China signed a record 27 deals on Monday, across finance, tourism, logistics, healthcare, education, ICT, and beyond. One of the deals involves a pilot for Singaporean tourists to use digital renminbi in China. (
+Straits Times
+)
+Comment
+: The timing of these talks in China (coinciding with Monday’s Pax Silica talks in the US) won’t have been accidental — the city-state is signalling balance.
+🇧🇷
+BRAZIL
+-
+Struck gold.
+China-based mining giant CMOC has announced a $1B deal to buy several Brazilian gold mines with eight tons of combined annual output. CMOC just bought a Canadian goldminer earlier this year to tap Ecuador’s largest deposit. (
+SCMP
+)
+🇦🇿
+AZERBAIJAN
+-
+Feeling magnanimous.
+President Aliyev is reportedly weighing up granting amnesty for ~ 20,000 prisoners, the largest such move in the country’s history. (
+Reuters
+)
+Comment
+: Rather than release the country’s political prisoners, the draft suggests this partly helps those involved in — or related to someone involved in — Aliyev’s lightning 2023 operation to seize the ethnic Armenian-held Karabakh. It’s a post-victory flex.
+Extra Intrigue
+What people around the world are googling…
+🇧🇷
+Brazilians
+looked up ‘
+Rob Reiner
+’ after the
+Hollywood director (
+When Harry Met Sally
+) and his wife were found dead
+at their LA home.
+Folks in
+🇸🇬
+Singapore
+asked ‘
+is Spotify down
+’ as the music streaming platform
+experienced a major outage
+.
+And
+🇳🇬
+Nigerians
+searched for ‘
+police recruitment portal
+’ after the government announced plans to
+recruit 50,000 new officers
+to boost security.
+Meme of the day
+Courtesy of Intrigue’s resident meme-lord, Jeremy (@DickerPicss)
+Matching the right people to the right role requires careful organisational strategy and attention to detail. So this one’s a shout-out to all the foreign ministries still famously doing the exact opposite.
+There’s even a joke among diplomats:
+What’s the best way to avoid a posting to Russia? Learn Russian.
+Today’s poll
+Do you think Pax Silica will work?
+💽 Yes, they all want to diversify away from China
+🔪 Nope, too many cooks in the kitchen
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think Switzerland's cryptic tweet means?
+🔥
+The Swiss might nuance or ditch their neutrality (15%)
+🤷
+More defence spending, but no change to neutrality (84%)
+✍️ Other (write in!)  (1%)
+Your two cents:
+🤷
+U.B:
+“They’d be more likely to bulldoze the Alps than give up on neutrality.”
+✍️
+R.D.F:
+“There is no way the Swiss are formally abandoning neutrality, but closer cooperation with, say, the EU on defence procurement and interoperability might be on the cards.”

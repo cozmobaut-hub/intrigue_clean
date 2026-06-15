@@ -1,0 +1,243 @@
+URL: https://archives.internationalintrigue.io/p/what-just-happened-in-syria
+Title: 🌎 What just happened in Syria
+
+IN TODAY’S EDITION
+1️⃣ What just happened in Syria
+2️⃣ Japan’s newest drink
+3️⃣ Film of the day
+Hi {{ First name | Intriguer }}.
+Just as we logged off for a quick break last week, Russia’s ruble dropped 7% in a day, mass protests kicked off again in Georgia, and Syria’s rebel forces suddenly seized the country’s largest city (more on that below).
+In earlier times which I somehow mistook for normal, all this would’ve been like a full decade of action, but this 2024 of ours somehow crammed it all into a single day or so.
+And sure, I can understand two common ways that folks often respond: first, by just tuning it all out. But that’s kinda why we're building Intrigue — as a way to tune back in.
+Then second, to believe there’s nothing we can do. And I don't want to get all Tony Robbins on you here, but as we enter this year’s final stretch, let me leave you with this couplet attributed to one of Germany’s great thinkers, Johann Wolfgang von Goethe:
+Whatever you can do, or dream you can do, begin it.
+Boldness has genius, power, and magic in it.
+THE HEADLINES
+Mass protests light up Georgia.
+Protests in the capital have continued for a
+fourth straight night
+, after Georgia’s Russia-friendly government announced last week it was freezing EU accession talks for four years. The country has been in crisis since October’s elections, when the government claimed a surprise victory but opposition groups (and some Western governments) alleged fraud.
+EU leaders visit Kyiv.
+Newly installed European Council chief Antonio Costa and top EU diplomat Kaja Kallas, followed by German Chancellor Olaf Scholz, have all travelled to Ukraine as a show of support during a pivotal time for Kyiv. Meanwhile, Russian leader Vladimir Putin has approved new budget plans, again
+raising defence spending to record levels
+.
+Stellantis CEO steps down.
+Carlos Tavares announced his
+shock resignation yesterday (Sunday)
+as CEO of one of the biggest automotive groups in the world (Jeep, Fiat, Peugeot, etc). Stellantis has lost 40% of its value this year amid slow sales in the US and elsewhere.
+Macron heads to Saudi Arabia.
+The French president has touched down in Riyadh, beginning a three-day visit to the kingdom
+focussed on possible defence deals and regional diplomacy
+. Macron’s trip comes days after Israel and Hezbollah agreed to an initial 60-day truce in fighting, and less than a week after Paris said it wouldn’t carry out the ICC arrest warrant against Israeli Prime Minister Netanyahu.
+Irish elections buck anti-incumbent trend.
+Voters have re-elected the leaders of Ireland’s three main parties, who now start the task of
+forming a new government
+. Prime Minister Simon Harris’s
+Fine Gael
+party could be well placed to return to government with coalition partner
+Fianna Fáil
+, but negotiations might run into the new year. Voter turnout was its lowest in more than a century.
+Biden pardons his son.
+US President Joe Biden has announced he’ll
+pardon his son Hunter
+’s various firearms and tax convictions, insisting he was “
+selectively, and unfairly, prosecuted
+”. It’s a reversal of Biden’s previous stance on the matter, and comes shortly after Donald Trump announced
+Charles Kushner
+(his daughter’s father-in-law, pardoned by Trump in 2020) as his pick for US ambassador to France.
+In Focus: Global Plastics Treaty (Sponsored)
+Global Plastics Treaty negotiation… to continue
+After a week of discussions on the Global Plastics Treaty, no agreement was reached. Negotiators will leave Busan, South Korea, faced with at least another round of talks in 2025 for a follow-up INC5.
+Bans on toxic chemicals in plastic products and the question of whether countries should be forced to reduce plastic production proved key sticking points. The “final” session went on into the wee morning hours. There remains a clear divide. Neither side - the higher ambition countries and the opposition - are willing to concede to reach a consensus.
+See the evidence
+TOP STORY
+What just happened in Syria
+We swan-dived into Thanksgiving last week noting that Hezbollah's retreat could trigger further instability in Lebanon. And hours later, it ended up contributing to a stunning turn of events over the border in Syria. So let's get you up to speed.
+First, some
+quick history
+: after the Ottoman empire and a period of French control then post-independence upheaval, the Assad family emerged in control of Syria from 1971. Fast forward to 2011, and Assad Jr’s brutal response to Syria’s mass Arab Spring protests tipped his country into civil war, leaving half a million dead and prompting millions to flee.
+Multiple outside powers soon then (re)emerged to protect their interests and press their influence. At risk of casually summarising a geopolitical labyrinth in a few dot points...
+Turkey
+wanted to curb rival Kurdish armed groups and return Syrian refugees
+Russia
+wanted to protect its naval base at Tartus and expand its footprint
+Iran
+wanted to protect its supply lines, including for its armed proxies like...
+Hezbollah
+, which in turn wanted to strengthen its own hand against...
+Israel
+, which in turn has fought its foes in a shadow-war back in Syria.
+Anyway, once the civil war kicked off, opposition forces seized much of Syria's largest city (
+Aleppo
+) in 2012, but Assad took it back in 2016 with some brutal help from Russian jets, Hezbollah ground forces, and Iranian logistics. And that's where the battle lines mostly stabilised, with Assad controlling around 70% of his country ever since.
+That was until
+last week
+, when opposition forces suddenly broke through Assad’s lines near Aleppo, then somehow captured the entire economic hub within 48 hours and moved on towards Hama (another step closer to the capital, Damascus).
+So who's behind this?
+We've referred vaguely to ‘
+opposition forces
+’ because it's technically a broad coalition, but the core driver is an Islamist group known as Hayat Tahrir al-Sham (
+HTS
+- not to be confused with Korean boyband BTS).
+Formerly known as al-Nusra Front, it used to be the Syrian branch of al-Qaeda before it publicly cut ties in 2016. Its leader (Abu Mohammed al-
+Golani
+) has since been re-branding HTS in an effort to gain legitimacy among both Syrians and foreign powers, some of whom have seen Assad as the lesser evil: Golani has provided services, worked with aid groups and journalists, met with local Christian and Druze leaders, and issued statements pledging to protect minorities (including Armenians).
+Anyway, while Aleppo's Greek Orthodox community still held
+regular mass
+yesterday (Sunday), it's far too early to know how much of this friendlier face is branding versus reality — HTS forces have been too busy fighting (after
+stopping for some chicken shawarma
+), and it remains a
+listed
+terrorist group in the US, Russia, Turkey and beyond.
+Meanwhile, you can already see some of the cracks in the opposition: some Turkey-backed groups have attacked rival (US-linked) Kurdish groups, rather than Assad's forces.
+So why pull this stunt now?
+HTS has spent years regrouping, but there’ve been three immediate triggers:
+first
+, Assad had intensified his airstrikes against opposition forces over the past month, so this lightning move was a
+response
+to that. Turkish officials are saying they thought it was just going to be a limited counter-attack, so the collapse of Assad's Aleppo unit was a surprise.
+Second
+, months of Israeli airstrikes had already weakened
+Assad
+, culminating in a prescient UN
+warning
+just weeks ago of "
+dangerous and unpredictable consequences
+".
+But
+third
+, Assad's top backers are all stretched thin:
+Putin
+already re-assigned some of his Syrian contingent to maximise gains in Ukraine before Trump 2.0;
+Hezbollah
+is now licking its wounds in Lebanon; and that’s left its backer-in-chief
+Iran
+looking vulnerable.
+So just hours after Hezbollah's ceasefire with Israel kicked off last week, HTS made its move.
+And how has Assad responded?
+There were reports he immediately flew to
+Moscow
+, and the Kremlin's comment that it had "
+nothing to add
+" leaves us assessing those reports are probably true. Either way, Assad was back in Damascus last night (Sunday) in time to host Iran's foreign minister.
+And his troops now seem to have
+stabilised
+after the initial panic, with Russian and Syrian jets now striking opposition positions (plus apparently refugees and a Franciscan convent). Meanwhile, Assad’s foreign backers have again now pledged their support, though there are harder limits to what they can achieve this time around.
+INTRIGUE’S TAKE
+Who's the biggest
+winner
+here? Clearly
+Turkey
+, which has developed functional ties with and influence over HTS and related groups, so it’s now (via this latest HTS move) pushing its reach even deeper into Syrian territory. That strengthens Erdogan's hand not only with Assad, but with Putin and beyond.
+As for the biggest
+loser
+? Beyond the obvious (Assad), it's
+Putin
+: he's been writing geopolitical cheques his country is now struggling to cash, whether that's propping up regimes in the Sahel or Syria, or pushing his ‘three-day’ conquest of Ukraine, all while bumping up more against the realities of labour shortages, inflation, and sanctions.
+So there are some tough choices ahead for Putin, and it's hard to see Assad being top of his list.
+Also worth noting:
+UN Security Council Resolution 2254
+from 2015 laid out a roadmap for peace, noting "
+the Syrian people will decide the future of Syria
+". But Assad and his backers went on to kill hundreds of thousands of Syrians to reassert control.
+Biden's outgoing US national security adviser (Jake Sullivan) has noted concerns about HTS, while
+observing
+“
+we don’t cry over the fact that the Assad government, backed by Russia, Iran and Hezbollah, are facing certain kinds of pressure.
+”
+Donald Trump initially sought to remove the 900 anti-ISIS US troops from Syria during his first administration, but ended up leaving them; his plans for Trump 2.0 are TBC.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: The government has rejected the city of Seoul’s
+proposal to hire foreign bus drivers
+in response to a severe local shortage. The proposal, which would’ve allowed drivers to stay for up to five years, got rejected over concerns about worker qualifications and language proficiency.
+🇽🇰
+Kosovo
+: Kosovo is blaming neighbouring Serbia for an explosion
+that’s damaged a key aqueduct supplying Kosovo’s two largest power plants.
+Serbia has denied responsibility for the alleged terrorist attack
+, which came after a year of rising tensions between the two foes and neighbours.
+🇮🇩
+Indonesia
+: Locals in Sumatra have
+rescued more than 100 Rohingya refugees
+after their boat sank just off the coast. Indonesia isn’t a signatory to the UN refugee convention and is asking others to take in the ethnic Rohingya, who began fleeing ethnic cleansing in Myanmar last decade.
+🇵🇪
+Peru
+: Lima has
+named a new mines and energy minister
+after large protests forced the ouster of his predecessor. Local small-scale (aka ‘artisanal’) miners were angry after the former minister declined to extend a rule allowing folks without mining licenses to operate temporarily.
+🇲🇺
+Mauritius
+: The nation’s new prime minister (Ramgoolam) is
+asking for an independent review of the pact
+his predecessor struck for the UK to cede the Chagos Islands. His government dislikes the fact that the deal (yet to be signed) includes a 99-year lease for the US-UK base on Diego Garcia, while Trump’s pick for secretary of state (Rubio) has criticised the deal for handing the islands to a China-aligned country (Mauritius).
+A message from our sponsor
+Call for International Affairs Experts
+Join a study exploring how features of foreign aid for peace and conflict resolution influence its appeal. Designed for international affairs experts, the survey presents hypothetical aid offers to assess decision-making. Participants include diplomats and senior researchers.
+Register your interest here.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+A popular convenience store in Japan has
+started selling a mayonnaise
+-style drink.
+Orcas in the Pacific have picked a habit back up from the 1980s:
+wearing dead salmon
+on their heads.
+Someone has found a garden gnome in the Netherlands
+made entirely of the drug MDMA
+.
+The crypto-entrepreneur buyer of Italy’s famous $6.2M artwork featuring a banana duct-taped to a wall has now
+eaten the banana
+.
+And a pilot in Alaska has
+air-dropped Thanksgiving turkeys to families
+living off the grid.
+FILM OF THE DAY
+Conclave stars Ralph Fiennes, Stanley Tucci, and John Lithgow. Credits: Imagix.
+The Vatican has (again) received the Hollywood treatment, this time via
+Conclave
+, a taut new thriller where the race to elect a new Pope turns into a high-stakes power play among cardinals. Long-time Intriguers will recall that the Vatican (in the middle of Rome) is actually its own sovereign country replete with a head of state (the Pope), a flag, embassies around the world, plus jet-setting diplomats (one of whom — Archbishop and foreign minister Paul Gallagher — our very own Kristen met on the sidelines of a conference last week).
+As a state, it has a unique approach to the world: for example, it’s one of only 12 to still recognise Taiwan (rather than China), and it uses the Pope’s influence to shape world events (we
+wrote
+earlier this year about his controversial call for Ukraine to “
+have the courage of the white flag
+”).
+DAILY POLL
+Who do you think will benefit most from this weekend's upset against Assad, beyond Syrian opposition groups?
+🇹🇷 Turkey
+🇺🇦 Ukraine
+🇮🇱 Israel
+🇺🇸 The broader West
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Wednesday’s poll:
+Do you think this ceasefire between Israel and Hezbollah will hold?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 👍 Yes, both sides have compelling reasons to stop (37%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎 No, the longer term issues remain unchanged (61%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+👎
+M.L:
+“There is too much hate there for a cease-fire to be long-term effective.”
+👍  E.E:
+“It'll hold for 60 days. But after that? Who knows...”
+✍️ M.M:
+“Maybe for as long as it takes to replenish supplies and rest current troops on both sides.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

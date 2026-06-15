@@ -1,0 +1,236 @@
+URL: https://archives.internationalintrigue.io/p/musk-closes-twitter-office-brazil-disinformation-feud-judge
+Title: 🌍 Musk closes Twitter office in Brazil over disinformation feud with judge
+
+IN TODAY’S EDITION
+1️⃣ Musk vs Brazil
+2️⃣ Adopt an orangutan
+3️⃣ Flag of the day
+Hi {{ First name | Intriguer }}.
+The story of user-generated content platforms over the last decade has been a journey of self regulation and playing offence (through internal ‘trust and safety’ teams) to now compliance and playing defence (through fending off external regulations).
+When I was still at Google, I remember being bamboozled by the hefty demands from local governments. These included asking for company representatives to leave the country unless we complied with their regulations (which were often vastly different to other jurisdictions Google operated in).
+It taught me that our global technologies were now increasingly operating in local environments and subject to distinct government demands, which we’ll see play out in our top story today.
+THE HEADLINES
+Blinken says Israel has agreed to latest US ceasefire proposal.
+The US Secretary of State has called on Hamas to join Israel in
+agreeing to the latest US proposal
+to finalise a deal, though many details are still being hammered out. Meanwhile, Hamas and the Palestinian Islamic Jihad have claimed responsibility for a bombing in Tel Aviv which injured a civilian on Sunday night.
+Australia and Indonesia finalise defence pact.
+Australia’s prime minister and Indonesia’s president-elect / defence minister have
+announced the conclusion of treaty negotiations
+, but they’ve declined to take questions on the deal’s contents. It’s believed to be an upgrade of their existing arrangement, leading to more military exercises and exchanges. Australia has been seeking to deepen its ties with the region in response to China’s growing influence.
+Shipping giant winds down Canada cargo ahead of possible strike.
+One of the world’s biggest shipping companies, Maersk, has announced it’ll
+stop accepting some Canada-bound cargo
+in view of a possible strike by rail workers. The strike could start as early as this Thursday, and would impact most of Canada’s railways.
+North Korean soldier defects to South.
+Another soldier from North Korea
+crossed the highly militarised border with South Korea
+early today (Tuesday), according to local media. It’s the second defection in less than two weeks.
+Biden takes the stage at DNC.
+US President Joe Biden has given a
+valedictory address
+and endorsed Kamala Harris during the first night of the Democratic National Convention (DNC) in Chicago.
+Btw
+- our very own John and Kristen are there on the ground, so don’t miss their weekly
+Election Intrigue
+briefing on what the US elections mean for the world (and vice versa).
+TOP STORY
+Musk to close Twitter office in Brazil over ‘disinformation’ feud with judge
+In the late hours of Saturday as you were fast asleep or deep in a Negroni haze, Elon Musk was closing shop on X’s Brazil offices,
+putting the blame
+squarely on one man – Brazilian supreme federal court judge, Alexandre de Moraes.
+The Moraes-Musk feud, though, goes back
+months
+. And the judge’s quest to protect Brazil against what he deems “
+disinformation
+”, even further.
+Here’s what happened.
+On Saturday, Musk’s team
+alleged
+Moraes had secretly threatened to arrest the firm’s legal rep in Brazil if X (née Twitter) didn’t comply with the judge’s orders from back in April. So Musk said he was closing his Brazilian office altogether, though local users can still tweet, like, and lurk away.
+So… what happened back in April?
+Moraes, with whom Musk has sought to build bridges by nicknaming him
+“Brazil’s Darth Vader”
+, ordered X to block certain accounts accused of spreading disinformation and inciting hatred.
+Those orders are typically sealed from public view (presumably to avoid the
+Streisand effect
+), but many of the accused tweeters are reportedly fans of
+Jair Bolsonaro
+, Brazil’s former president.
+He’s the ex-leader accused of spreading disinformation about Brazil’s voting system, and inciting riots to disrupt the transfer of power after he lost an election. He denies all charges, which he says are political. But there’s a bit of a love-hate triangle here, too, because:
+Judge Moraes
+led last year’s trial that banned Bolsonaro from elected office until 2030, then ordered the seizure of his passport, and
+Bolsonaro personally draped
+Musk
+with one of Brazil’s top honours back in 2022 (apparently the medal’s first such foreign recipient).
+But it’s not just Brazil
+. Since buying Twitter in 2022,
+Musk has wound up publicly feuding with leaders and judges across the world —
+In Pakistan
+, authorities
+blocked X
+around February’s elections, after claiming X ignored gag orders when the opposition called for protests
+In the UK
+,
+Keir Starmer was barely in office a month before a
+clash
+with Musk, who objected to authorities charging people over social media posts that breached UK laws against inciting hatred and unrest, and
+The EU
+continues to investigate X under its far-reaching Digital Services Act, with
+allegations
+the platform’s blue checkmarks, ad transparency, and researcher tools don’t meet standards.
+And lest you think this is all just about Musk
+,
+Brazil
+’s
+Moraes has also previously
+moved
+against Telegram on disinformation grounds, while other countries have feuded with platforms for all kinds of reasons —
+TikTok
+is scheduled for a US
+ban
+in 2025 (unless it’s sold) on the grounds that it’s a ‘
+foreign adversary controlled application
+’ (China)
+Turkey
+just blocked
+Instagram
+for nine days,
+objecting
+to the censorship of posts commemorating an assassinated Hamas leader, and
+Russia
+blocked
+Instagram and
+Facebook
+on ‘extremism’ grounds, to suppress dissent after launching its full-scale invasion of Ukraine.
+So as big as Musk and Moraes may be, there’s much more going on already.
+INTRIGUE’S TAKE
+What’s going on, you ask?
+While Musk and Moraes duke it out, they’re arguably just the inevitable (if colourful) symptom of a much deeper, more consequential issue: tech is a globalising force, and it’s now clashing with a
+de
+globalising world.
+You could say Musk and Moraes are merely accelerating that clash.
+So then… where does this lead? There are a few paths unfolding:
+first
+, China has now effectively created its own internet, while Russia has made a similar (if weaker) attempt. But very few states have the wherewithal for this.
+Second
+- political, regulatory, legal, and industry egos will keep moving to make their name as champions of social cohesion, the national interest, the rule of law, and/or free speech. And that’ll push ad-hoc shifts in each country.
+But
+third
+, the EU has sniffed out an early-mover opportunity as regulator-in-chief via its
+Digital Services Act
+. By seeking to set the rules of the road, it’s also hoping to provide a plug-and-play package for the rest of the world: rules that the platforms already know (if not love), and which purport to set a transparent balance for capitals to draw red lines without imposing full bans.
+If Brussels pulls this off, it’ll give the EU a
+lot
+of new geopolitical clout, while making quite a few new enemies in Silicon Valley.
+A MESSAGE FROM THE DAILY UPSIDE
+Clarity on the news shaping the market.
+If you love getting International Intrigue (we'll assume you do), you must value crisp insights and actionable intel without the BS. The Daily Upside is another great newsletter for globally-minded readers.
+Built with business professionals in mind, The Daily Upside is packed with sharp analysis on finance, economics and markets.
+The best part?
+It’s completely free. We read it every morning, and you should too.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: Beijing has added the
+equivalent of the UK’s entire electricity output in green energy
+generation in the first half of this year, according to the latest data. China is by far the world’s biggest greenhouse gas emitter, and the biggest renewable energy player.
+🇩🇪
+Germany
+: Two German warships are now reportedly awaiting orders from Berlin to determine whether they’ll
+cross the Taiwan Strait
+next month, in a move that’d be sure to upset China. If they proceed, they’ll be the first German warships to undertake the voyage since 2002.
+🇲🇾
+Malaysia
+: Kuala Lumpur wants companies that import its palm oil to
+virtually ‘adopt’ orangutans
+, in an effort to mitigate criticism about the industry’s environmental impact. Orangutans are currently listed as ‘critically endangered’, with palm oil deforestation often blamed.
+🇲🇽
+Mexico
+: Employees at Mexico’s federal courts have gone on strike over
+the outgoing president’s judicial overall
+that would (for example) make all judges stand for election. Critics say the president (‘AMLO’), who’s clashed frequently with the courts, is seeking to undermine Mexico’s judicial independence.
+🇱🇾
+Libya
+: The country’s central bank has reopened after an “
+unidentified party
+” kidnapped then released its
+chief tech officer
+over the weekend. Last week, the bank had come under siege by a group of armed men reportedly attempting to oust the governor, who’s been criticised over his management of oil resources and the state budget.
+EXTRA INTRIGUE
+Here’s what folks around the world googled yesterday
+🇧🇪
+Belgians
+searched for
+‘Bayesian’
+after a luxury yacht with this name
+sank off the coast of Sicily
+, leaving a prominent UK tech tycoon and several others missing.
+🇨🇷
+Sports fans in
+Costa Rica
+googled ‘​​
+r.c.d. mallorca - real madrid
+’,
+as the two teams fought to a draw
+in the opening match of Spain’s La Liga football tournament.
+🇳🇵
+And folks in
+​​Nepal
+looked for ’
+happy raksha bandhan wishes
+’ to share during the popular Hindu celebration of
+sibling love
+.
+Bonus fact:
+Just because we fell down a Google rabbit hole, we can also confirm that Tomato, Bechamel, and Bolognese sauce were the most googled sauces of 2014. You’re welcome.
+FLAG OF THE DAY
+When it comes to ornate flags, nobody flexes harder than Turkmenistan.
+The Turkmen flag features a white crescent moon (a symbol of Islam) on a forest green background and five white stars to represent each of Turkmenistan’s regions. But the most eye-catching feature is the red column with five traditional carpet guls (motifs), representing the country’s five major tribes.
+Turkmenistan settled on this design in 1997 after adding the olive branch (for its peaceful people) to an earlier version.
+Intrigue rating: 9.6/10
+DAILY POLL
+Where do you land on this Musk vs Moraes feud?
+⚖️ Regulations are there to protect us all
+🐦 Free speech is sacrosanct
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think schools should start including AI capabilities in their syllabus?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🤖
+Yep, AI is in their future, whether we like it or not  (35%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⛔ Nope, teach them the basics before equipping them with super-tools (56%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+✋
+Only under certain conditions (tell us which!)  (6%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (2%)
+Your two cents:
+⛔ J:
+“AI right now is just an autocomplete function fed by the internet. As such, it can produce major GIGO (garbage in, garbage out).”
+✋
+N.K:
+“Kids should learn how to use AI tools and how to recognize AI content but they also need to be taught how to do basic skills without AI assistance.”
+🤖
+G.C:
+“Demonizing AI is not the answer. Learning it is. This is a tool today's kids will use increasingly in their lives. While it is hard to sprint ahead of your children to help them compete in
+their
+future, it's also responsible parenting.”
+✍️
+D:
+“This is definitely going to happen, and some countries are better positioned than others. My concern would be that children (or anyone looking to supplement with AI for that matter) need to understand how to leverage the technology and understand it is not a replacement for learning per se.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

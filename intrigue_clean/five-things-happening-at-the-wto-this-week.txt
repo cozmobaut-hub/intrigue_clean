@@ -1,0 +1,195 @@
+URL: https://archives.internationalintrigue.io/p/five-things-happening-wto-week
+Title: 🌍 Five things happening at the WTO this week
+
+Hi {{ First name | Intriguer }}.
+There’s a petition in the Netherlands right now to rename the Russian Embassy’s street after Russia’s late opposition figure, Alexei Navalny. And there’ve been similar pushes elsewhere, ranging from a Zelenskyy Street in Stockholm, a Ukraine Street in Sydney, and even a ‘
+Russian Warship, Go F*** Yourself Street
+’ in Prague.
+The specific merits aside, it feels to me like a collective response to a sense of powerlessness in our world today - wanting to do something tangible here in response to injustice over there.
+My own experience in diplomacy is that a lot of the work is so intangible. But one exception is around trade agreements, which can make a real difference to folks’ lives - mostly (but not always) for good.
+That’s why we’re leading today’s briefing with an update on
+what’s happening at the World Trade Organization this week
+.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Supreme court to hear Trump immunity case.
+The US Supreme Court has agreed to rule on whether former president Donald Trump can claim immunity in the ongoing 2020 election subversion case. It’ll hear arguments the week of 22 April. If the court accepts Trump’s argument for sweeping presidential immunity, it could impact his various other legal cases.
+Israelis and Palestinians march.
+Hamas political leader Ismail Haniyeh has called on Palestinians to march to Al-Aqsa mosque in Jerusalem to mark the upcoming start of Ramadan. The mosque sits on a site considered holy by both Muslims and Jews. Meanwhile, the families of Israeli hostages held by Hamas have embarked on a
+four-day march
+to call for their release.
+US and UK discuss back-to-back elections.
+The US and UK have held high-level talks on the security risks at play from holding their elections close together - the US election is on 5 November, while the British election must be called by 25 January. The two allies are reportedly concerned that rival powers could take advantage of London and Washington’s focus on domestic politics.
+European media companies go after Google.
+32 European media firms have filed a $2.3B lawsuit against Google, accusing the tech giant of unfair advertising practices. Last June, the European Commission
+ruled
+Google had “
+breached EU antitrust rules by distorting competition
+” in its ad business.
+Mitch McConnell to step down.
+Republican senate leader Mitch McConnell has announced he’ll step down from his role in November, ending a record 17-year run in the top job. Announcing his decision to the senate, the 82-year old said, “
+it's time for the next generation of leadership.
+"
+TOP STORY
+Five things happening at the WTO this week
+Canva AI prompt: world trade
+The World Trade Organization (WTO) wraps its biennial (every two years
+🤓
+)
+ministerial meeting
+in Abu Dhabi today. It’s the top decision-making body for the 164 countries in the WTO, which sets the rules for most trade across borders.
+Trade negotiators are a unique sub-species of diplomat, speaking an almost impenetrable technical dialect. So here's a quick translation of the five key issues they’re debating at the WTO this week.
+1) The internet
+WTO members agreed back in 1998 not to impose taxes on digital products, and they’ve extended this deal every two years since. But a quarter century later,
+our world now looks very different
+- we get our Tom Hanks via Netflix, our Harry Potter via Kindle, our Taylor Swift via Spotify, and our work stress via Slack.
+So these days, governments like Indonesia say this
+tax exemption
+should be axed because it's costing them much-needed tax revenue. And of course, those making the digital products (like the US) want the exemption to continue, arguing it keeps prices low, bridges the digital divide, and any lost tax is trivial.
+The thing is, the WTO works on consensus - so it only takes a single holdout for this tax exemption to soon expire. It's possible Indonesia and others (like India) are just bluffing to extract better deals on other issues, but they seem serious, so we might be about to witness
+a real change in the way the internet works
+.
+2) Farmers
+For years, India and others have used government programs to
+buy, stockpile, and distribute food
+as a way to combat hunger. The thing is, India buys the food off its farmers above market prices, which supports farmer livelihoods. But  this can distort global prices, make it harder for farmers elsewhere to survive, and it presumably breaches WTO rules.
+Of course, India points out that wealthier places (like the EU) also
+subsidise their farmers
+. So India has been pushing for years to change WTO rules to protect its own program. But it's a touchy topic, with farmers around the world showing they’re willing to hit the streets in protest, just as dozens of countries go to the polls this year. The stakes are high, and it's hard to see a deal emerging.
+3) Fishing
+The last time WTO trade ministers gathered in 2022, they made history with a ban on government financing for illegal fishing. This year, there are hopes to extend that further with a ban on government financing for vast fishing fleets (like China’s) that engage in
+overfishing
+around the world, putting species at risk.
+A deal looks close, though India wants to phase out its own support for fishing communities over several years; critics say our oceans just don't have that long.
+4) Disputes
+When countries disagree over trade (it happens all the time), there's traditionally been a WTO process to hash things out. Not anymore. The US became increasingly frustrated with the
+WTO appeals process
+, saying it favoured China, and had become too activist and powerful. So the US effectively froze the WTO disputes process in 2019, opening up a debate around what should come next.
+The US wants an 'opt-out' clause for WTO disputes, while India says this just allows the US to shrug off court decisions it doesn't like. Countries have agreed to come up with something this year, but an agreement still looks pretty far off.
+5) Going green
+Meanwhile, Paraguay is looking to
+shine a critical light
+on the US and the EU for the way they're supporting their own industries while going green. In particular, the EU is moving to tax goods from countries with lax climate policies, while the US is dishing out huge subsidies for green tech (think EVs, batteries, clean fuels).
+Critics like Paraguay say this all gives US and EU firms an unfair advantage, while the EU and US say they’re necessary - both as a response to China's own vast government support for its companies, and to be able to hit net-zero.
+INTRIGUE’S TAKE
+The evidence is that trade helps lift people out of poverty, raise salaries, and create jobs. But that doesn’t mean everyone’s a winner all the time, and it certainly doesn’t mean everyone plays fair. So from our perspective, the WTO is looking like an early casualty from a broader crisis of trust.
+We’re seeing more jittery governments look at a
+plan B
+to improve their position: more one-on-one trade deals, ‘plurilaterals’, friend-shoring, de-risking, subsidies, control over critical minerals, stockpiling, plus export limits to keep chicken or rice or gas prices low back home. You get the picture.
+So where does all this lead?
+There’s a lot of talk about our world breaking down into, say,
+regional hubs and spokes
+. But it’s more complicated than that. China’s state-backed economic model, turbocharged by two decades of WTO membership, has enabled (if not necessitated) the hub to start eating its spokes - for
+example
+, it’s making more of its own machines rather than buying them from Germany.
+So while it’s far from perfect, the WTO - and the predictability and stability it provides - is one of those things we’d probably notice (and miss) if it faded away.
+Also worth noting:
+The WTO this week agreed to
+welcome
+two new members - Timor Leste and Comoros - bringing the total number of members to 166.
+The lead US trade agency just submitted its
+annual report
+on China’s compliance with WTO rules. It includes some spicy lines, like this one: “
+China’s so-called ‘socialist market economy’ has
+turned decidedly predatory.
+”
+SUPPORTED BY THE DISPATCH
+One reason so many of us have “news fatigue” is that it’s so hard to make sense of it all. And that—making sense of it all—is what The Dispatch does best.
+Jonah Goldberg and Steve Hayes launched The Dispatch in 2019 to bring fact-based reporting and analysis to people looking for independent journalism with integrity. No insulting clickbait, no false outrage, no annoying auto-play videos—just reliable journalism that prioritizes context, depth, and understanding.
+Today, a growing community of more than 400,000 rely on The Dispatch to help make sense of a political world gone crazy. Get news and analysis that is more than a scripted reality show.
+Intrigue readers: Claim your exclusive 90-day all-access FREE trial today.
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: The world’s lowest fertility rate has sunk even lower: the latest figures show South Korea’s birth rates have fallen almost 8% in 2023 from a year earlier, to
+0.72 births per woman
+. That’s noticeably below the 2.1 rate needed to keep a population at replacement levels.
+🇪🇺
+EU
+: Commission President Ursula von der Leyen has proposed using windfall profits from Russia’s frozen assets to
+fund weapons for Ukraine
+. There are about $325B in frozen Russian sovereign assets now sitting in G7 countries and still accruing profits.
+🇸🇬
+Singapore
+: Singapore’s military has placed an order to acquire
+eight new F-35A fighter jets
+to take advantage of lower prices. Like many of its neighbours, the city-state is boosting its defence spending to hedge against rising tensions in the region.
+🇵🇪
+Peru
+: Authorities have
+declared a health emergency
+in almost all of Peru’s provinces due to a sudden spike in dengue fever. Unseasonably high temperatures and wet weather are helping mosquito populations grow and spread the disease.
+🇹🇩
+Chad
+: Gunfire was heard through the capital N'Djamena shortly after an announcement that Chad would be
+holding its presidential elections
+on 6 May. The country’s authorities say members of an opposition group attacked a national security agency, but order has since been restored.
+EXTRA INTRIGUE
+Here’s what’s happening in other corners of the globe
+Sports
+: The Association of Tennis Professionals (ATP) has announced it’s entering a “
+strategic partnership
+" with Saudi Arabia's sovereign wealth fund to sponsor events and tournaments.
+Science
+: The
+world’s smallest vertebrate
+just dropped - the Brazilian flea toad is just 6.5 millimetres long (and it’s neither a flea nor a toad).
+Society
+:
+Monica Lewinsky
+is modelling for major fashion brand Reformation in a campaign encouraging US voters to participate in November’s election.
+CHART OF THE DAY
+Credits: Statista.
+Global shipping container freight costs are still significantly higher than 2023 levels, but they’ve started decreasing as the shipping industry adapts. Houthi attacks against commercial vehicles in the Red Sea haven’t stopped - a UK cargo ship is currently sinking - but they’ve become less frequent and less precise since the start of US-UK strikes against Houthi targets.
+DAILY POLL
+Should the West use frozen Russian assets to buy weapons for Ukraine?
+EU Commission President Ursula von der Leyen proposed a similar scheme earlier this week
+⚖️ Yes, it's only fair
+💸 No, its a double-edged sword and will trigger a free-for-all
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Did you vote in your most recent elections?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🗳️ Yes, voting is a civic duty  (85%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+📜
+Yes, but only because it's compulsory here (2%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🙅
+No, I didn't dig any of the options on offer (6%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🚫
+No, there's no voting here (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+🗳️
+B.P:
+“Not just a duty, also a privilege.”
+✍️
+M.D.F:
+“If you don't vote, you have no right to complain!”
+🙅
+K:
+“No, I did not vote. It’s a meaningless gesture in our current political structure.”
+✍️
+S:
+“I didn't register to vote in time 🤦‍♂️”
+🗳️
+S.L:
+“I vote even if I don't like any of the options because spoiling the ballot is always an option, and if enough people do it then it sends a clear message to those running for office.”
+✍️
+B.L:
+“I wish I could vote! I’m French, lived in the U.K. for 10 years and now in Canada since 2017. […] So for those who can vote but don’t bother, you have no idea how lucky you are and how infuriating it is!!!”
+Share the Intrigue

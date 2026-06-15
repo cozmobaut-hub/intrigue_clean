@@ -1,0 +1,231 @@
+URL: https://archives.internationalintrigue.io/p/new-post
+Title: 🌍 Israel hits Hezbollah with deadliest strikes since 2006
+
+IN TODAY’S EDITION
+1️⃣ Israel hits Hezbollah again
+2️⃣ Why Emiratis are googling ‘TSMC’
+3️⃣ Time to study AI?
+Hi {{ First name | Intriguer }}.
+I saw my fair share of ‘war game’ exercises when I served in Israel. For those wondering, war games are strategy exercises that simulate how any conflict might unfold from start to finish, based on (nominally) fictional events.
+Players in the game would act based on their assigned roles in the conflict and respond to real-time information updates, which then ultimately determined the game’s outcome. They’re carried out for a bunch of reasons, including to stress-test military decision-making, or to research how changes in force planning might impact multiple domains.
+Most of the war games I saw were based on a simulation in which Israel was engaged in a two-front war, with Hamas in the south and Hezbollah to the north, and a possible regional war looming with Iran.
+As we’ll see in today’s top story, this very simulation now risks playing out in real life as
+things escalate once again in the Middle East
+.
+THE HEADLINES
+China’s central bank unveils latest moves to revive economy.
+Governor Pan Gongsheng’s various support measures
+include lowering rates and cutting the amount banks must hold as reserves. The changes will ease mortgage burdens and free some $142B for new lending, though whether locals still want to borrow is another question. Stocks and bonds across China and beyond have rallied on the news. Meanwhile,
+The Wall Street Journal
+is
+reporting
+that a top economist has now vanished in China after he criticised Xi Jinping’s economic management in a group chat.
+Japan uses flares against Russian spy plane.
+Japan’s F-15 and F-35 fighter jets have apparently used flares for the first time
+to warn a Russian reconnaissance aircraft to leave its airspace
+, in Russia’s first incursion into Japanese airspace since 2019. Japan and Russia have a long-running territorial dispute, and Russia has been conducting joint exercises with China off Japan’s northern coast this month. Meanwhile, Russia’s test of a
+new intercontinental ballistic missile
+appears to have ended in “
+catastrophic failure
+”, leaving a 60 metre (200ft) crater at the launch site.
+Boeing makes “
+final offer
+” to striking workers.
+The union already appears to have rejected Boeing’s “
+best and final offer
+”, which reportedly included a 30% pay rise over four years. Striking workers got their final paycheck last week, and their health insurance apparently runs out at the end of the month. Meanwhile, there are
+reports
+Qualcomm’s rumoured bid to buy struggling chipmaker Intel could face antitrust scrutiny globally. The deal would be the sector’s biggest ever.
+Hurricane John makes landfall in Mexico.
+The major category three storm has hit Mexico’s southern Pacific coast, with President Lopez Obrador
+warning residents to move to higher ground
+. Mexico’s largest state-owned oil refinery is now under a tropical storm warning. Meanwhile, US oil firms are evacuating their Gulf of Mexico staff as
+Hurricane Helene
+approaches from the Caribbean.
+TOP STORY
+Israel hits Hezbollah with deadliest strikes since 2006
+An Israeli strike hits Khiam in southern Lebanon. Credits: Rabih Daher, Getty Images
+World leaders barely had time to touch down in New York for the UN General Assembly before things yet again heated up elsewhere: Israel has now followed up last week’s pager and walkie-talkie attacks with a broader air offensive against Hezbollah.
+Quick refresher
+- Hezbollah is the heavily-armed Iran-backed Shiite group based in Lebanon. It’s listed (in whole or part) as a terrorist group in dozens of countries; it claims 100,000 armed members and an arsenal of ~150,000 missiles and rockets (bigger than most countries); and it’s helped neighbouring dictator Bashar Al-Assad in his war that’s left ~500,000 Syrians dead.
+Hezbollah then (re)started firing rockets and missiles at Israel the day after the Hamas attacks of October 7, and the two have been trading fire ever since. That then
+escalated last week
+:
+Israel’s pager attack killed or injured thousands of Hezbollah members
+Hezbollah leaders then switched to (booby-trapped) walkie-talkies, which Israel then detonated, killing and injuring hundreds more Hezbollah members
+Several top remaining Hezbollah commanders then switched to meeting in person at a secret location in Lebanon, which Israel then bombed.
+The result is that, in a week, Israel has destroyed or disabled much of Hezbollah’s command structure, while its airstrikes have wiped out a vast chunk of its arsenal.
+The result is also that Israel is now facing more allegations its tactics have violated
+international law
+, whether against the use of booby traps or
+disproportionate
+civilian casualties
+: last week’s pager attacks killed at least two children, and Lebanon’s health ministry says Monday’s airstrikes killed nearly 500 people, including dozens more women and children.
+Israel is
+calling
+it all
+“
+de-escalation
+through
+escalation
+” -
+ie, it’s gambling that by ramping up, Hezbollah might back down. As for Hezbollah and broader Lebanon, it’s now seen its deadliest day since the all-out Israel-Hezbollah war of 2006.
+And yet… while Hezbollah has fired 100+ rockets and missiles back into Israel over the weekend, that’s barely a fraction of what it’s long threatened.
+Why?
+There are a few theories here:
+Hezbollah is now being partly run by those not important enough to have HQ-issued pagers last week, and they may not feel authorised to pull the trigger
+Even if any remaining higher-ups wanted them to pull the trigger, there’s no comms system to relay that order, and
+Even if orders
+could
+reach the front, many Hezbollah triggers are now gone.
+Meanwhile, members now seem paranoid at the extent of Israel’s intel penetration, which isn’t surprising — broader Lebanon has been engulfed in a political and
+economic crisis since 2019
+, sending millions into poverty, driving inflation up to 269%, and gutting the lira by 98%. That’s what
+spies
+would call a ‘target-rich environment’, with no shortage of locals willing to trade information about Hezbollah (which many blame for Lebanon’s woes) in return for a few thousand bucks.
+So with each day that Hezbollah delays, it's becoming less a question of when, and more a question of whether
+Hezbollah can strike back at all
+. Against a backdrop of heavy losses, there’s also potentially an incentive for Hezbollah to just fire everything it’s got.
+INTRIGUE’S TAKE
+After the last war of 2006,
+Hezbollah
+went on to invest vast amounts of cash (much of it from Iran) to build up the war machine we’ve outlined above. The result has been a narrative that Israel’s hands were tied: the balance of power seemingly meant any Israeli move would be too costly, particularly while it was already fighting Hamas.
+But of course, it’s now clear
+Israel
+was incorporating its own lessons from that 2006 war, with more of a focus on intelligence. And it’s managed to hold off Hezbollah while pursuing Hamas, rather than fight both at once. So at this point, with Israel now grabbing the upper hand, it’s hard to see a way back out for Hezbollah.
+Either way, that then brings us to its sponsor
+Iran
+, which has now seen two of its key proxies (Hezbollah and Hamas) degraded significantly. But with an ageing supreme leader and discontent in the streets, Iran’s own options seem pretty limited also.
+Also worth noting:
+The Hezbollah leaders killed in recent days include Ibrahim Aqil, who was subject to a $7M bounty over his role in two 1983 bombings that killed 300 people at the US embassy and a US barracks in Beirut.
+The US is now
+sending
+a
+“small number of additional troops”
+to the region.
+Oil prices have now spiked
+on fears of a wider regional conflict (plus a hurricane looming over the US, the world’s biggest crude producer).
+A MESSAGE FROM NAUTILUS
+Sensational Science Without the Sensationalism
+Nautilus is the free science newsletter full of stories that enrich you, not distract you. Every day brings another barrage of flashy headlines about science and technology—so how do you decide what’s really important? That’s where Nautilus comes in. The free Nautilus newsletter delivers sensational science stories without the sensationalism. Our rigorous journalism dives beneath the surface of the headlines to bring you the stories that engage your mind, immersive stories to get lost in, and unique stories you can’t find anywhere else.
+Subscribe to Nautilus for free and get award-winning science journalism delivered to your inbox today.
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: An explosion has hit a
+convoy transporting foreign ambassadors
+(including from Portugal, Iran and Rwanda) to a tourist resort in northwest Pakistan, killing one police officer. The Pakistani Taliban, which operates in the area, has denied any role in the attack.
+🇮🇹
+Italy
+: Italian bank UniCredit has moved to increase its stake in German rival Commerzbank AG to
+become its biggest stakeholder
+, just days after Berlin signalled it wouldn’t approve a takeover. The Italian foreign minister has backed the manoeuvre, suggesting Germany’s opposition to the deal is a case of “
+being pro-European only in words
+”.
+🇳🇿
+New Zealand
+: West Papuan guerrillas have freed a Kiwi pilot they took hostage 19 months ago, after publishing a series of demands related to the group’s
+independence push against Indonesia
+. The ordeal has drawn attention to the ongoing conflict in West Papua, which makes up half the island of New Guinea (the other half is the sovereign nation of Papua New Guinea).
+🇦🇷
+Argentina
+: Central bank figures suggest foreign currency deposits into Argentina have
+increased by $8B
+since President Javier Milei took office last December. He’s enacted a series of policies to attract cash (mainly USD) back into the country as a way to bolster state finances after years of low reserves.
+🇸🇴
+Somalia
+: An Egyptian warship has delivered a
+second shipment of weapons to Somalia
+after the two countries signed a joint security pact last month. The warming ties are raising tensions with neighbouring Ethiopia, which regards both countries as regional rivals.
+EXTRA INTRIGUE
+Here’s what people around the world googled yesterday
+🇯🇲
+Jamaicans
+looked up
+‘
+weather
+’
+updates after the National Hurricane Centre warned another
+tropical storm may hit the Caribbean
+this week.
+🇦🇪
+Emiratis
+googled ‘
+TSMC
+’ after word broke that Taiwan’s giant chipmaker plus Korea’s Samsung are exploring the possibility of
+building new mega-factories
+in the Middle East.
+And
+🇨🇴
+Colombians
+searched for ‘
+Oskar Picht
+’, the German
+inventor behind the first Braille typewriter
+, after Google dedicated a ‘Doodle’ in his honour.
+Extra fun fact:
+The most googled TV shows a decade ago were
+Game of Thrones
+,
+The Walking Dead
+, and
+The Vampire Diaries
+, respectively.
+CHART OF THE DAY
+Credits: WSJ.
+It seems the days of a software engineering degree landing college graduates a $200k salary
+may
+be fading. Postings for coding jobs have declined by 30% since January 2020, while the industry has laid off hundreds of thousands of people since the start of the year.
+Why? Tech companies appear to have switched from a growth-at-all-costs mindset to instead maximising revenue on a leaner staff structure - and they’re hoping AI is the answer. So it’s a good time to brush up on those AI and data science skills.
+DAILY POLL
+How do you think ambassadors should be chosen?
+🖋️ By political leaders
+🏛️ By the foreign ministry
+🎩 By a group of peers
+🗳️ By popular vote
+👵 By seniority
+✍️ Other (Write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about the Quad?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🦜
+Another pointless talk shop (27%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️ 🕊️ A contribution to regional peace and security (34%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🔥
+A naked attempt to contain China (36%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+🔥
+N.B:
+“Enough with demonizing China.”
+🔥
+C.D:
+“A naked attempt but a logical one, since the Chinese Communist Party has been more aggressive towards US allies in the region.”
+🦜
+A.D:
+“Have you ever made so many WhatsApp groups that you can’t remember who’s in each? Yeah, that’s the Quad…”
+✍️
+A.R:
+“COULD be a contribution to regional security… but better communicated goals with more concrete action steps and a timeline would be necessary.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

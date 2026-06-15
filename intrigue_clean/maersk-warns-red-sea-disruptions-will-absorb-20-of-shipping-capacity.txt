@@ -1,0 +1,232 @@
+URL: https://archives.internationalintrigue.io/p/maersk-warns-red-sea-disruptions-will-absorb-20-shipping-capacity
+Title: 🌍 Maersk warns Red Sea disruptions will absorb 20% of shipping capacity
+
+IN TODAY’S EDITION
+1️⃣ Why a global shipping giant is warning of more chaos
+2️⃣ Why Finns are tweeting about Kaliningrad
+3️⃣ Vibe of the day
+Hi {{ First name | Intriguer }}.
+Remember that Seinfeld joke about when a flight departs late, and the pilot says "
+we're going to be making up some time
+"?
+Of course Jerry wonders, “
+if you can go faster, why don't you just go as fast as you can all the time? Come on. There's no cops up here. Nail it. Give it some gas. We're flying!”
+That’s what comes to mind on today’s briefing, which leads with an update from
+shipping giant Maersk on the chaos caused by Houthi attacks
+. The CEO seriously says they’re going to make up time by driving the ships faster.
+Of course, there’s more to the story than that, otherwise we’d just end the briefing here. And there are good reasons why captains don’t just floor-it across the seven seas (fuel usage, engine care, and surge capacity). But still.
+THE HEADLINES
+Israel seizes Gaza side of Egypt border crossing.
+Israeli tanks
+seized control of Gaza’s key Rafah crossing earlier this morning
+after a round of airstrikes reportedly targeting Hamas positions. It’s unclear if this is the beginning of Israel’s long-planned Rafah operation, which allies continue to oppose due to the civilian toll. Israel-Hamas negotiations remain on a knife-edge, and UN Chief António Guterres has called on both parties “
+to go the extra mile needed to make an agreement come true
+”.
+Xi Jinping calls on France to help avoid “
+new Cold War
+”.
+China’s president
+met his French counterpart
+and European Commission President Ursula von der Leyen yesterday (Monday), touching on disputes around the Russo-Ukraine War, trade, and beyond. Macron and Xi also called for a worldwide ceasefire during the Olympic Games that start in Paris in late July. Xi now heads to Serbia and Hungary, where he’ll be expecting a warmer welcome.
+Russia detains US soldier on theft charges.
+Russian authorities
+arrested a US soldier
+last week on charges of “
+criminal misconduct
+”. The serviceman was stationed in South Korea but apparently entered Russia to meet a woman.
+Iran smuggles $1B of oil into Pakistan each year.
+A leaked
+report by Pakistani intelligence
+claims over $1B of Iranian oil is smuggled into Pakistan each year, accounting for ~14% of Pakistan's yearly demand. Despite Western sanctions, Iran is now exporting more oil than at any time over the past six years, bringing in $35B per year.
+TOP STORY
+Maersk warns Red Sea disruptions will absorb 20% of shipping capacity
+AP Møller-Maersk, the world’s second-largest shipping company, just
+told
+its clients that ongoing disruptions in the Red Sea will gobble up 15-20% of the entire shipping industry’s capacity along the Asia-Europe route.
+“
+Disruptions
+” is a very Danish-shipping-giant way to describe what’s going on: Yemen’s Houthis have been attacking commercial ships in the Red Sea since November. And they’ve pledged to keep it up until Israel withdraws from Gaza.
+That’s prompted the West to lead three operations (Prosperity Guardian, Poseidon Archer, and Aspides) to swat Houthi drones and missiles out of the sky and destroy its launch capabilities on the ground. China and others have steamed warships through the area too.
+But somehow,
+Maersk says
+the situation might’ve gotten worse
+. In an advisory letter on Monday and its
+earnings
+report last week, it warns:
+“The risk zone has expanded”
+While most Houthi attacks still target vessels navigating up and down the Red Sea, last month the group hit a ship way out in the north-west Indian Ocean, off the coast of Somalia. So while Maersk was already rerouting its Red Sea ships around Africa’s Cape of Good Hope, it now says its vessels must “
+lengthen their journey further, resulting in additional [shipping] time
+”.
+“
+We are not very optimistic we will be going through Suez any time soon
+”
+That’s what Maersk CEO Vincent Clerc
+told
+FT, going on to say these disruptions could continue into next year. So after seven months, hopes that foreign navies could immediately re-establish Red Sea security have now been dashed.
+And all the while, this turbulence is rocking the entire sector. Maersk says:
+Ships are now burning through 40% more fuel per journey
+Charter rates are now triple their pre-Houthi levels
+Europe-Asia shipping times have now increased by weeks, and
+Clients are now paying an extra risk surcharge to offset costs.
+So what does this mean for everyone else?
+Our world economy is built on modern container shipping, and the Red Sea in particular is a critical artery, carrying around 30% of all global container trade.
+But the impacts are a little less straightforward than you might think.
+First
+, at a country level,
+S&P data
+suggests it’s all
+hitting Europe
+the hardest, though there are reports of vessels now ‘bunching up’ in Asia and elsewhere.
+And while the Houthis have twice vowed
+not to target Russia or China
+-owned ships, Houthis have still
+nailed
+those ships within days of each pledge. This is partly because of shipping’s opaque ownership which is, funnily enough, what helps Russia’s shadow fleet get its sanctioned energy to market in the first place.
+Second
+, at a sector level,
+time-sensitive sectors are feeling it
+most - food & beverage, manufacturing, construction, etc. And that all feeds into inflation.
+But
+third
+, there are some factors that may actually cushion the blow - for example,
+European manufacturing is basically still in recession
+, so longer shipping routes are being offset by
+fewer orders
+. Hardly ‘good’ news, but still.
+Plus, there’s something we
+wrote about
+last year:
+hundreds of new ships are now hitting the water
+through this year and the next, restoring capacity and boosting competition, while putting downward pressure on freight prices.
+Fourth and finally
+, there’s
+Egypt
+, which typically earns $10B per year from traffic through its Suez Canal. But that’s now down
+more than half
+, fuelling a broader economic crisis there, though IMF support has helped stabilise things.
+INTRIGUE’S TAKE
+One of our favourite market gurus said last year that the world could either “
+bomb or bribe
+” the Houthis to stop. But we noted at the time that:
+“
+The Houthis don’t seem too bribe-able
+” given their
+motto
+plus Israel’s pledge to defeat Hamas, and
+“
+The Houthis aren’t so easily bombable either
+”, given they already endured a brutal war with the Saudis next door.
+Our assessment still holds up today. But that’s not to suggest we should just cede control of a global waterways to a group that’s still attacking random seafarers trying to schlep Indian basmati to supermarkets in Croatia. They even hit a ship carrying humanitarian aid for people in Houthi territory.
+Rather, it’s all a reminder that this challenge - like so many others in our world today - is much more complicated and entrenched than it first seems.
+Also worth noting:
+Denmark’s Moller family is still the majority owner of Maersk. The chair of the parent company is Robert Maersk, a direct descendant of the company’s founder.
+Shipping
+costs
+spiked ten-fold when COVID hit, before returning to pre-pandemic levels last October. Costs are now around double what they were before the Houthi attacks began.
+The US
+re-designated
+the Houthis as a terrorist group in January.
+A MESSAGE FROM POLICYWARE
+Online course taught by world-leading experts on the most pressing public policy challenges
+Policyware provides online courses taught by world-leading experts on the world’s most pressing public policy issues such as developments in China’s digital governance, the impact of climate change on international trade, global developments in privacy law and policy, and how labor standards and human rights are being enforced across global supply chains.
+This course from Professor Paul Schwartz of Berkeley Law will help you:
+Learn about the building blocks of privacy law, as well as the key privacy policy institutions throughout the world;
+Learn about the key government actors in the US and the EU shaping privacy outcomes;
+Get the latest on how the US and other nations approach cross-border data flows and protecting privacy; and
+Much more!
+Learn more here.
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: A South Korean research institute claims North Korea asked its people to take loyalty oaths to
+mark supreme leader Kim Jong Un’s 40th birthday
+back in January. A bit needy perhaps, though the hermit state has traditionally marked his father and grandfather’s birthdays in the same way.
+🇩🇪
+Germany
+: Chancellor Olaf Scholz has travelled to Lithuania to iron out a
+planned military deployment to the Baltic nation
+. The move is part of Scholz’s “
+historic turning point
+”, which he declared to parliament just after Russia launched its full-scale invasion of Ukraine.
+🇦🇺
+Australia
+: Canberra has condemned an “
+unsafe manoeuvre
+” by a Chinese fighter jet, which
+released flares in the path of an Australian Navy helicopter
+in the Yellow Sea. Australia says the chopper was there as part of an international effort to enforce sanctions against North Korea.
+🇨🇴
+Colombia
+: The US has issued
+visa restrictions against executives of several Colombian maritime companies
+, citing alleged links to migrant smuggling across the Colombia-Panama border. More than half a million people passed through the infamous Darien Gap last year.
+🇹🇬
+Togo
+: The ruling party led by President Faure Gnassingbe has won a
+majority in last week’s legislative elections
+after ushering in a controversial new constitution last month. The win allows Gnassingbe to skip presidential term limits and extend his family’s decade-long rule.
+EXTRA INTRIGUE
+Here’s what people around the world have been tweeting
+‘Madonna’
+was trending in
+🇧🇷
+Brazil
+after the pop star performed for
+over 1.6 million folks
+in Rio de Janeiro over the weekend.
+🇫🇮
+Finns
+were tweeting about
+‘Kaliningrad’
+after a former Finnish minister
+attended an event by the Russian government
+marking the 300th Birthday of philosopher Immanuel Kant in Russia’s Kaliningrad.
+And ‘
+Starliner
+’ was trending in
+🇭🇹
+Haiti
+after flight engineers postponed yesterday’s
+launch of Boeing’s first crewed space flight
+, citing a possible issue with the separate Atlas rocket.
+VIBE OF THE DAY
+Credits: Justin Lane/EPA.
+As various stars graced the Met Gala red carpet last night, we couldn’t help but take a trip back down memory lane to 2017, when a US diplomat arrived in a capacious, floral Comme des Garçons gown. It was former US ambassador to Japan, current ambassador to Australia, and daughter of JFK, Caroline Kennedy.
+We’re guessing the ambassador didn’t take the subway.
+DAILY POLL
+When do you think full shipping will resume via the Red Sea?
+🚀 Within 2-3 months - the Houthis are outgunned
+⏱️ Not this year - the new routes will take months to unpick
+📜 Whenever Israel withdraws from Gaza
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you see Xi changing his view on trade or Ukraine following his Europe visit?
+⬜️⬜️⬜️⬜️⬜️⬜️ 👍 Yes, China can't afford worsening trade ties with the EU (7%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎 No, he's just playing nice to bide his time (83%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🤔
+Europe will blink first (10%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (0.4%)
+Your two cents:
+👎
+G.S:
+“China is playing the long game. They want to be on top when the Ukraine/Russia/Europe/US monstrosity plays out. Whoever "wins" or rather more "doesn't lose". They want to be on top.”
+👎
+M.F.F:
+“I struggle to see a reason why Xi wouldn't wait it out. A more aggressive Russia and a disorganized and distracted West play right into his narrative at home.”
+✍️
+W.R.K:
+“Europe always blinks when push comes to shove.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

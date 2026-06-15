@@ -1,0 +1,147 @@
+URL: https://archives.internationalintrigue.io/p/latest-imf-loan-may-not-enough-rescue-egypts-economy
+Title: 🌍 The latest IMF loan may not be enough to rescue Egypt’s economy
+
+Hi there {{ First name | Intriguer }}.
+Have you noticed how we’ve barely heard a peep out of Elon Musk since before Christmas? Perhaps setting a new Guinness World Record for
+the
+largest loss of a personal fortune in history
+has convinced Elon that some of his tweets are best left as drafts (he’s lost $182B since November 2021 for those playing at home). Don’t feel too bad for him though; he’s still worth $132B.
+Today’s briefing is a 5 min read:
+🇪🇬
+Egypt’s
+latest IMF bailout comes with conditions
+.
+🇵🇪 Prosecutor describes the violence in
+Peru
+as "genocide".
+➕ Plus:
+China’s fudged oil import numbers, how the papers are covering the battle for the Eastern Ukrainian mining town of Soledar, and yesterday’s poll suggests Intriguers are optimistic about semiconductor reshoring!
+- VC & EP
+🗺️ AROUND THE WORLD
+🇨🇳
+China:
+Chinese authorities have stopped issuing new visas to Japanese and South Korean travellers after both countries instituted strict entry requirements for Chinese visitors due to Covid-19. (
+The Japan Times
+)
+🇩🇪 Germany:
+The president of the German car lobby, VDA, is calling on German and European lawmakers to pass a subsidy package to help the car industry compete with American automakers. (
+Blick
+)
+🇹🇭
+Thailand:
+Prayuth Chan-ocha, who seized power in a 2014 coup before becoming Prime Minister in 2019, has joined a new party after failing to win his party’s nomination for this year’s election. (
+Bangkok Post
+)
+🇭🇹
+Haiti
+: Ten Haitian senators’ terms expired Tuesday morning, leaving the country without *
+any*
+democratically-elected officials. Civil unrest has prevented Haitians from voting since 2019. (
+Le Nouvelliste
+)
+🇺🇬
+Uganda
+: A four-month ebola outbreak in Uganda is officially over, according to Ugandan and WHO officials. Fifty-five people died, far fewer than the 11,000+ who died during the West Africa outbreak from 2013 to 2016. (
+Monitor
+)
+🇪🇬 EGYPT | ECONOMY
+Live look at Egyptian economic planners. Via: Giphy.
+Egypt agrees to restructure its economy to secure another IMF bailout
+Briefly:
+Egyptian President Abdel Fattah al-Sisi has agreed to limit the Egyptian military’s role in the economy in order to secure a $3B International Monetary Fund (IMF) bailout. The IMF’s goal is to
+“[level] the playing field between the public and private sector”
+to encourage foreign investment. The loan would be the IMF’s fourth to Egypt since 2016.
+Egypt’s military economy:
+Sisi was Egypt’s top-ranking military officer before he took power in a 2013 coup. Since then, Sisi has maintained top officers’ loyalties by awarding lucrative contracts to the military. According to
+Carnegie Middle East Center
+, Egypt’s military now
+“manages approximately one-quarter of total government spending in housing and public infrastructure.”
+Intrigue’s take:
+Egypt’s economy is in bad shape. Year-on-year
+inflation reached 21.9%
+in December, and the Egyptian pound’s value has plummeted 40% since March. An estimated 60% of Egyptians live near or below the poverty line. To make matters worse, the Russo-Ukraine War has disrupted supply chains and stunted growth for emerging economies
+across the Middle East
+and North Africa.
+Also worth noting:
+Egypt owed multilateral institutions
+$52B as of March 2022
+, with total external debt obligations of $158B.
+Without support from regional allies - Saudi Arabia, Qatar, and the United Arab Emirates - the IMF expects Egypt to
+default on its debt
+.
+📰 GLOBAL PERSPECTIVES
+How newspapers are covering:
+the battle
+for the Eastern Ukrainian mining town of Soledar. (Check out
+some fascinating pics
+of the Soledar salt mines from before the Russian invasion.)
+Links:
+Le Monde
+,
+Al Jazeera
+,
+Kompas
+Sponsored by
+Patent Drop
+Behind every disruptor (think Netflix, AirBnB, Amazon), there is a laundry list of ground-breaking technologies being tested, proven, and
+patented
+. Discovering where big tech is securing new patents has never been easier with our friends at Patent Drop.
+Sent twice weekly, this no-cost newsletter gives you insight and analysis on everything from Microsoft’s investment in haptic feedback sensory gloves to Ford’s robot-assisted package delivery — and what these innovations actually mean.
+Join 12,000 readers on the bleeding edge of tech - sign up here.
+🇵🇪 PERU | PROTESTS
+Former President Pedro Castillo is casting a long shadow on Peruvian politics.
+Deadly anti-government protests continue weeks after failed coup
+Briefly:
+At least
+17 Peruvian civilians
+and one police officer died on Monday (9 January) in the deadliest day of protests since President Pedro Castillo was removed from office last month. Protesters are calling for Castillo’s successor, Dina Boluarte, to resign and schedule new elections.
+A total of 47 people have been killed during the protests. Peru’s top prosecutor is
+launching an investigation into Boluarte
+on charges of “
+genocide, qualified homicide and serious injuries
+” related to how her government has handled the response.
+Boluarte was sworn in as president
+just last month (7 December) after Castillo attempted to avoid an impeachment vote by dissolving Congress. Castillo is currently being held in pre-trial detention.
+Intrigue’s take:
+Castillo grew up in an impoverished rural region of Peru, and many Peruvians view(ed) him as a champion of the poor. The civil unrest is likely to continue as long as Boluarte is in office. According to analyst
+Nicolás Saldías
+:
+“At this moment, there does not appear to be light at the end of the tunnel as Boluarte is unlikely to resign nor are elections likely to be held in 2023.”
+Also worth noting:
+The UN
+has called on Peru’s security forces to respect protesters’ human rights.
+More than 60% of travel bookings in Peru for the first half of 2023
+have been cancelled
+, and the train service to Macchu Pichu has closed during the protests.
+💬 CHART OF THE DAY
+Chinese imports of Malaysian oil. Credits: Javier Blas on Twitter & Bloomberg.
+The curious case of excess oil...
+Quick maths problem:
+If Malaysia only produces 0.6M oil barrels per day, but China imports 1.2M bpd from Malaysia, where do the other 0.6M barrels come from?
+Most likely,
+the inflated figures are designed to hide imports of sanctioned crude from countries like Russia, Venezuela, and Iran. The waters off the coast of Malaysia are infamous for “
+offshore ship-to-ship crude mixing
+” to hide the origin of the oil.
+👀 EXTRA INTRIGUE
+The big read:
+The New Yorker’s Luke Mogelson has been doing some remarkable reporting from battlefields in Ukraine since the war began. His most recent article, ‘
+Trapped in the Trenches in Ukraine
+’, highlights the experience of Americans, Germans, New Zealanders and others fighting in Ukraine’s war-weary International Legion.
+🗳️ POLL TIME!
+How do you invest your money during economically uncertain times?
+📈 Stocks. They're cheap right now
+💵 Government-issued bonds
+🛏️ Nowhere, I'm waiting til the moment's right
+Login
+or
+Subscribe
+to participate
+Yesterday's poll:
+In the year 2030, advanced semiconductors will be made in...
+🟩🟩🟩🟩🟩🟩 🗺️ Five or more countries - domestic chip industries will thrive (83%)
+🟨⬜️⬜️⬜️⬜️⬜️ 🇹🇼 Only Taiwan - domestic chip industries will fail (7%)
+🟨⬜️⬜️⬜️⬜️⬜️ 🧨 Nowhere - semiconductor fabs can't survive a missile (9%)
+Your two cents:
+🗺️
+J.S:
+“China, USA, Japan are all investing billions in new fabs, all for supply chain/technology self-sufficiency. It will take a few years to build them and years for them to pay off the investment.”

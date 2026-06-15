@@ -1,0 +1,239 @@
+URL: https://archives.internationalintrigue.io/p/wednesday-3e61
+Title: 🌎 Something’s fishy under the Baltic Sea
+
+IN TODAY’S EDITION
+1️⃣ Mystery under the Baltic
+2️⃣ The Intrigue jobs board
+3️⃣ Word of the day
+Hi {{ First name | Intriguer }}.
+I have many fond memories of my 2018 northern Europe trip, when I visited Estonia, Finland, Sweden, Denmark, and Norway. I’d had a fabulous time, despite being there during the depths of winter and being utterly ill-equipped for the Arctic chills, sans waterproof snowboots.
+Memories of my soggy, cold feet aside, I recall being struck by the region’s dynamism. Back then, Estonia was busy launching its ‘data embassy’ and championing the idea of an ‘e-government’ (aptly referred to as ‘e-Estonia’). Finland was similarly charting its way as a global leader in digitalisation (and Moomin diplomacy).
+But recently, the region’s critical infrastructure which supports these digital capabilities has come under threat. As we’ll see in today’s top story, there’s something fishy going on with
+the Baltic Sea’s undersea cables
+. Let’s dive in….
+THE HEADLINES
+Ukraine steps up drone attacks on Russian oil.
+Russia’s
+fourth-largest oil refinery
+(Kstovo, 800km from the front) is now in flames, while its third-largest (Ryazan, 500km) is also offline after several Ukrainian drone strikes in recent days. It’s Ukraine’s way of starving Russia’s war machine.
+The latest from Syria.
+The Israeli defence minister has said his troops will now
+remain atop Syrian Mount Hermon
+indefinitely, while satellite imagery suggests
+the Russian navy has now significantly withdrawn
+from Tartus, though Russian state outlets are issuing denials. Plus, Donald Trump is now reportedly considering withdrawing US troops from Syria, where they’ve worked with local Kurdish-led groups to counter ISIS for a decade.
+OpenAI accuses DeepSeek of IP misuse.
+The US company says it’s seen evidence that China-based rival DeepSeek
+got unauthorised access to OpenAI models
+to train its own low-cost open-source rival that’s taken the world by storm. The release of DeepSeek’s R1 reasoning model triggered a huge crash in US tech stocks on Monday, though markets have since steadied.
+Two million federal workers offered severance packages.
+The Trump administration has offered to pay eight months of wages to
+federal workers willing to resign
+, in an attempt to cut the size of the federal workforce. Opposition lawmakers are questioning the measure’s legality and urging federal workers to stay put.
+Three West African countries officially leave ECOWAS.
+The military rulers of
+Niger, Mali, and Burkina Faso
+have now officially withdrawn their countries from West Africa’s main regional bloc (ECOWAS), likely undermining its regional authority and effectiveness.
+US jet crashes in Alaska.
+A
+pilot is safe
+after successfully ejecting from a F35 fighter jet which crashed at an Alaskan military base, for reasons still being investigated.
+TOP STORY
+Something’s fishy under the Baltic Sea
+The Baltic Sea is crisscrossed by undersea cables. Credits: Submarine Cable Map.
+We’ve long been debating when to brief you on the shenanigans under the Baltic Sea, but another single undersea cable getting severed is never
+quite
+enough to beat a dictator’s downfall, a new US president, or a Wall St meltdown. And that’s precisely the point of hybrid warfare: it’s about inflicting pain that’s
+never
+quite
+enough
+.
+Any damage to critical infrastructure is bad, but when it’s the cables transporting
+90% of our world’s entire telecommunications
+(official, private, military, etc), it’s serious.
+Taken alone, individual cable incidents can often be chalked up to idiocy, inclement weather, or an earthquake.
+It happens
+. But when it happens repeatedly, in strategic locations, and due to rival-linked ships, a more sinister picture starts to emerge:
+In 2023, a China-based and Russia-originating ship dragged its anchor for hundreds of miles, rupturing a gas pipeline and two fibre-optic cables between
+Finland
+and
+Estonia
+. China later confirmed the ship was responsible, but blamed a weather-related accident.
+In November, two more undersea comms cables (connecting
+Sweden
+to
+Lithuania
+and
+Germany
+to
+Finland
+) were damaged within hours. After a diplomatic stand-off, Swedish police finally boarded the China-based and Russia-originating ship last month — the investigation continues.
+On 25 December, a power cable linking
+Estonia
+to
+Finland
+was damaged, and three more Finnish undersea cables were reported damaged the very next day. Finnish authorities are investigating an oil tanker linked to Russia’s shadow fleet.
+And just this past weekend, an undersea data cable linking
+Sweden
+to
+Latvia
+was damaged, prompting Swedish authorities to seize a Bulgarian-owned and Russia-departing ship on suspicions of sabotage, something its parent company denies.
+In total, there’ve been 11 Baltic Sea cables damaged since October 2023.
+So who’s to blame?
+That’s a semi-tricky one, in part because this stuff
+does often
+happen due to ineptitude rather than ignobility — in fact, it happens on average 100 times a year, mostly due to fishing trawlers or ships dragging their anchors across the seabed.
+But that’s exactly what makes undersea cable-cutting
+the perfect form of sabotage
+:
+It’s never big enough to trigger an immediate
+escalation
+, and
+It’s always got an element of plausible
+deniability
+.
+These two factors combined make it hard for governments to calibrate a response. But as these incidents start to
+a)
+accumulate,
+b)
+harm NATO members,
+c)
+harm NATO’s
+newest
+members (Finland and Sweden are the common thread), and
+d)
+all trace back to Russia (and to a lesser extent China), that deniability starts to fade. The
+timing
+also matches Baltic state efforts to disconnect from Russia’s electricity grid in February.
+Still, some believe the root cause is
+Russia’s use of a shadow fleet
+to evade sanctions — they’re crumbling ships with inexperienced crews, making accidents more likely.
+Though you’ve gotta weigh that theory against the fact that some of these captains spent hours dragging their anchor a hundred miles while losing speed and disappearing off automatic tracking. That’s
+an odd combination
+to do by accident.
+Russia’s motives
+would be clear: it’s part of a broader hybrid war against Ukraine’s supporters to impose costs, intimidate voters, sow chaos, undermine government credibility, chew up government bandwidth, and punish Sweden and Finland for joining NATO. It’s not just sabotage, but also assassinations, arson, cyber attacks, and beyond.
+You could
+argue
+China’s motives
+are similar, given its ‘no limits’ partnership with Russia, plus the value of having Western governments distracted in Europe rather than focusing on Taiwan, Hong Kong, or the South China Sea. But Beijing has been semi-cooperative, and there are suggestions Russian intelligence might’ve just used local port visits to induce captains (including from China) to deliberately drop their anchors over cables.
+So what have governments been doing about it?
+We mentioned above the fact that limited scale and plausible deniability can make it tricky for governments to respond, but there’s another, more obvious factor, too: this underwater infrastructure is vast and, yes,
+underwater
+. That makes it tough to secure.
+Still, European and NATO countries have been
+beefing up their maritime security
+and launched the
+Baltic Sentry
+mission earlier this month, including the deployment of frigates, maritime patrol aircraft, and a small fleet of naval drones.
+The
+hope
+is that a more assertive security presence might deter repeats.
+INTRIGUE’S TAKE
+You can add undersea cables to the list of things looking more like a remnant from an earlier, globalised, US-led age — designed to drive globalisation, but now part of a reverse-Uno to inflict harm in a deglobalising world.
+And we might soon add
+the West’s plodding response
+to that same bygone list — methodical investigations, occasional stern tweets, and now some extra patrols. This weekend’s latest incident suggests it all still might not be enough, though the West has its own options to inflict proportional pain in response.
+Meanwhile, Putin’s implicit message here is that the pain stops when the West’s support for Ukraine’s self-defence stops. But this kind of hybrid warfare is really an expression of Putin’s weakness rather than strength — he’s still not managed to eject Ukraine’s counter-attacking troops from his own territory after six months, as his oil assets go up in flames, and his casualty numbers push towards a million.
+Also worth noting:
+The UK last week accused Russia of sending a spy ship into British waters to map out underwater infrastructure.
+MEANWHILE, ELSEWHERE…
+🇮🇳
+India
+: The state of Maharashtra, home to India’s commercial capital of Mumbai, is discussing the prospect of
+banning petrol and diesel vehicles
+in the mega-city. The aim is to tackle the hub’s worsening air pollution, though its EV and public transport infrastructure is still a work in progress.
+🇫🇷
+France
+: Foreign Minister Jean-Noël Barrot has had talks with Denmark about
+sending French troops to Greenland
+following Trump’s threats to take control of the strategic territory. Apparently, it’s not an idea Copenhagen wants to pursue, though Barrot says that
+“if Denmark calls for help, France will be there."
+🇵🇭
+Philippines
+: Manila has announced that US troops will now train a
+Philippine platoon to operate the Typhon
+, a US mid-range missile system. The training will happen just before the two allies kick off joint military drills next month, in a move that’ll see a familiar irritated response from China.
+🇦🇷
+Argentina
+: Buenos Aires is set to
+remove import tariffs
+on low-cost EVs and hybrids, according to the country’s economy minister Luis Caputo. Part of a broader plan to revive the economy by cutting taxes and tackling inflation, the measure will also see lower taxes on higher priced cars and motorcycles.
+🇮🇱
+Israel
+: Benjamin Netanyahu
+will travel to Washington next week
+, receiving Trump’s first foreign invitation since last week’s inauguration. Netanyahu will need to pause his current corruption trial for the trip, which Trump says is to discuss “
+how we can bring peace to Israel and its neighbors, and efforts to counter our shared adversaries.
+”
+FROM OUR SPONSORS
+Hands Down One Of The Best Credit Cards Of 2025
+If you have outstanding credit card debt, getting a new 0% intro APR credit card could help ease the pressure while you pay down your balances. Our credit card experts identified this top credit card that is perfect for anyone looking to pay down debt and not add to it. You can also earn up to 20,000 miles after spending just $500 on purchases in the first 3 months!
+Click through
+to see what all the hype is about.
+EXTRA INTRIGUE
+The Intrigue jobs board is back!
+Executive Officer
+(and
+other
+roles) @
+EU Advisory Mission
+in Baghdad
+Congressional Lead
+@
+LinkedIn
+in Washington DC
+Engagement and Coordination Senior Officer
+@
+Red Cross
+in Brussels
+Chief Risk Officer
+@
+Coinbase
+in Bermuda
+WORD OF THE DAY
+We confess we’ve been watching too many German television segments, candidate interviews, and political speeches ahead of the country’s February 23 elections. And one classically long word has begun to pop up —
+Ellenbogengesellschaft.
+It translates literally as ‘elbow society’, while a more familiar translation would be ‘cut-throat society’.
+Turns out it was actually the German word of the year back in 1982, when West Germany
+won Eurovision
+and hosted the NATO Summit, while Checkpoint Charlie was still in operation. The word is now making a comeback as the election heats up, with competing candidates debating how to drive progress without becoming too cut-throat.
+DAILY POLL
+How do you think the West should respond to hybrid attacks such as undersea cable sabotage?
+🚢 More deterrence (eg patrols)
+💥 More sanctions
+🥷 Proportional hybrid counter-attacks
+👋 Chill, they're a desperate distraction
+🍌 Chill, they're probably accidents
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Hollywood's legendary Lion King composer is now in talks with the Saudis to revamp the kingdom's national anthem. Would you consider swapping your national anthem for a Hans Zimmer epic?
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+🎺
+Yes, it could do with a refresher (30%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⛔ No, my anthem is good as is (67%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+⛔
+C.M:
+“Call me a bit biased, but it's difficult to improve on perfection.” (country not named)
+🎺
+A.N:
+“I think the US could go for something that wasn’t so incredibly difficult for the average person to sing!”
+✍️ K.F:
+“I'd like a national anthem that celebrates my country's advances in human rights and freedoms.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

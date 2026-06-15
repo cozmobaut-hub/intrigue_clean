@@ -1,0 +1,216 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-9de57e44dc9f0fe6
+Title: 🌍 Yemen’s wild plot twists
+
+Today’s briefing:
+— Yemen’s wild plot twists
+— Iran burns
+— Why TSMC makes no sense
+Good morning {{first_name | Intriguer}}
+. There’s an online joke about “
+monitoring the situation
+” — it polishes our obsessive habit of doom-scrolling during dramatic events, but also pokes fun at passive official responses ("
+we’re closely monitoring the situation
+"). Deep down, it’s also just a light way to cope with all the turbulence.
+Here at Intrigue, we have legit monitored situations you would not believe, but right now it just feels like there aren’t enough screens to monitor all the situations. A reader joked in Tuesday’s edition that the Maduro news cycle would move on in a month, but within
+hours
+it’s Greenland, then federal violence in Minnesota, then
+Iran’s unrest
+(see below), while
+Yemen’s civil war
+says hold my chai (see also below).
+But if we’re going to monitor all these situations, dear Intriguer, we’re glad to monitor them with you. So strap in, and let’s monitor (the situations).
+P.S.
+Will any Intriguers be at Davos this year? Hit reply!
+Intrigue insight: Iran on the brink?
+It’s tough to get an accurate read on Iran, not just because the mullahs have now cut the internet, but because so many Iran-watchers are so invested in seeing this regime collapse, blurring the line between analysis and wish-casting. But something has snapped since our last briefing, with the ayatollah now looking much more vulnerable:
+There are now major protests in
+100+ cities
+across all 31 provinces. Protestors have seized and/or
+torched regime sites
+and vehicles in a dozen cities
+The unrest looks most intense in
+Iran’s west/southwest
+, where ethnic and economic grievances intersect most sharply
+The regime is
+deploying the hardline IRGC
+to replace regular police in hotspots. The whole point of the IRGC is regime survival, so keep an eye on any credible reports of
+IRGC retreats, defeats, or defections
+— there’ve been rumours, but it’s tough to verify anything beyond localised tactical setbacks at this stage
+The ayatollah is sounding
+defiant
+amid Trump’s warnings not to shoot protestors
+The regime is glued together by powerful interests invested in its survival, but if something breaks, the
+oil market ripples
+will be bigger than for Venezuela: Iran is producing 3.5 million barrels a day (versus Venezuela’s million), ending up as a fifth of China’s total crude imports (versus 4% from Venezuela)
+As in Venezuela, this also risks becoming
+another visible and embarrassing reminder
+of the regional limits of Chinese and Russian power
+UAE-Saudi power struggle
+One minute you’re snapping selfies on Socotra: turquoise waters, or the rare ‘
+dragon blood
+’ trees long prized as a medicinal option by ancient Greeks and Romans. Maybe slap that
+“never leaving”
+caption before hitting ‘share’, then watch as some wise-ass at International Intrigue notes you might actually never be leaving.
+Reality sets in
+as your flight delay becomes a cancellation, and the airline’s ‘tomorrow’ becomes ‘next week’, before giving way to a more realistic ‘
+we don’t know
+’.
+That’s the situation for
+600 tourists now stranded
+on remote Socotra off Yemen’s coast (nearer to Somalia), with Western consular officials muttering colourful language you absolutely would not believe (translation: why are you visiting a warzone?). That’s because Yemen’s simmering civil war has spun off another subplot this week.
+But first, a quick rewind.
+Yemen effectively split years ago into a Houthi-controlled north and a messy, factionalised south. Then in December, a UAE-backed southern faction (the STC)
+stunned everyone
+by seizing the whole south,
+humiliating Yemen’s Saudi-backed administration
+.
+The emboldened STC started talking about declaring independence and recognising Israel, and many thought that was that. But that was
+not
+that, dear Intriguer, because the
+Saudis have now reversed almost all of those Emirati gains
+in a week, culminating in Saudi-backed troops entering the STC stronghold port of Aden just on Thursday!
+And now, the STC leader has pulled a midnight disappearing act in the face of Saudi-backed treason charges. The Saudis allege the Emiratis helped him flee by boat to Somaliland, where he boarded a jet that routed through Somalia’s Mogadishu en route to a military airport in the UAE’s Abu Dhabi, switching off its transponder along the way!
+So not only are the Saudis now angry that the Emiratis helped him get away, but the Somalians are peeved the escape route went via Somalia’s breakaway Somaliland turf! As for the Emiratis? They’ll neither confirm nor deny any of this.
+Sorry, I’m really tied up with Venezuela and Iran right now. Do I care?
+One reason this is all such a big deal is the way it confirms what everyone’s been whispering for years: the Saudi-Emirati rivalry for regional influence has metastasised from the soft power of “
+haha we just made Ronaldo a billionaire
+”, to the hard power of “
+okay now we are fighting actual proxy wars
+”. We say wars (plural) because the Saudis and Emiratis are also on opposing sides in Sudan, for example.
+And this is all unfolding along one of the world’s most critical sea-lanes, putting us just one miscalculation away from ruining more than just a few selfies on Socotra.
+Intrigue’s Take
+This is what a multipolar Middle East looks like: competing hubs (Riyadh, Abu Dhabi, Tehran, Ankara) pulling conflicts sideways to get a foothold.
+For the Emiratis, we’re seeing an ‘
+arc of secessionists
+’ strategy, backing non-state actors across Yemen, Sudan, Libya, and Somalia; meanwhile, the Saudis keep backing central governments.
+Why is that?
+It’s partly…
+a
+) different
+risk
+appetites: the Saudis have pulled back after getting burnt against the Houthis, and getting caught assassinating Khashoggi
+b
+) different
+priorities
+: the smaller UAE wants depth via proxy ports, whereas the larger Saudi kingdom wants stability for its borders and its Vision 2030 bets, and
+c
+) different
+fears
+: the Emiratis view political Islam as more of an existential threat, and their proxy secessionists and paramilitaries often align on that front.
+Sound even smarter:
+Limited flights to/from Socotra have now resumed.
+The UAE-backed STC has controlled Socotra since a 2020 coup.
+Meanwhile, elsewhere…
+🇨🇳
+CHINA
+-
+AI IPO season.
+MiniMax has become the second ‘AI tiger’ (China-based AI startup) to IPO in Hong Kong this week, after Zhipu. Both have since soared amid wider AI enthusiasm. (
+Reuters
+)
+Comment
+:
+By way of context, the week’s two tigers have a market cap of under $15B each, while US-based OpenAI is valued at ~$500B.
+🇬🇧
+UNITED KINGDOM
+-
+Mining mammoths merge?
+Anglo-Swiss mining giant Glencore has resumed talks about a potential $260B merger with British-Australian multinational Rio Tinto, a move that would establish the world’s biggest mining company. (
+Guardian
+)
+Comment:
+The mining M&A scene remains hot, amid strong commodity prices and the race to secure critical minerals.
+🇰🇷
+SOUTH KOREA
+-
+Our turn.
+South Korea’s shipping ministry has scheduled its first trial Arctic voyage for September, through the Arctic corridor from Busan to Rotterdam. (
+Splash247
+)
+Comment
+: China pulled off its first such Arctic voyage a few months ago, slashing shipping times when weather allows. We explored the significance
+here
+.
+🇺🇸
+UNITED STATES
+-
+That’s enough.
+Senate lawmakers have advanced a motion that would prevent President Trump from taking more military action in Venezuela without Congressional approval. Meanwhile, Trump says US control over Venezuela could last years. (
+CNN
+)
+🇱🇧
+LEBANON
+-
+Remote
+control.
+The Lebanese army has announced it’s taken operational control of southern Lebanon from Hezbollah, per the 2024 ceasefire deal with Israel. (
+Reuters
+)
+Comment
+: Israel has justified its presence (and airstrikes) on the grounds Lebanon’s army hadn’t yet hit this milestone. Bibi’s office has welcomed the announcement but says it’s still “far from sufficient”, arguing Hezbollah is still trying to rearm.
+🇮🇹
+ITALY
+-
+Decisive vote.
+EU members are due to vote today (Friday) on whether to finally approve the bloc’s massive trade deal with Mercosur (Argentina, Brazil, Paraguay, and Uruguay), after a quarter century of talks. The measure needs 15 of the EU’s 27 members (covering 65% or more of the bloc’s population) to pass, with Rome emerging as the deciding vote. The Italians are hinting they’ll vote yes after Meloni’s last-minute handbrake last month managed to extract more sweeteners for farmers. (
+Politico
+)
+Comment
+: That’s a politically convenient outcome for France's Macron — he can tell his angry farmers he opposed the deal, without derailing an outcome the Germans (and many non-farmers across France) need.
+🇸🇬
+SINGAPORE
+-
+World’s tallest farm.
+The city-state has opened the world’s tallest indoor vertical farm, using AI and robots to produce an estimated 2,000 tonnes of greens each year. (
+Straits Times
+)
+Comment
+: It’s no coincidence the island importing 90% of its food is charging ahead with any agritech capable of breaking its dependencies.
+Extra Intrigue
+Some weekend reccs from Team Intrigue!
+Read
+:
+The Missing Kayaker
+, a mysterious true story of the dad who disappeared on a Wisconsin lake, with a twist worthy of Hollywood.
+Listen
+:
+Inside Operation Odyssey Lightning in Libya
+by the Spycast podcast, retelling the efforts by US Marines to push ISIS out of Libya.
+Watch
+:
+In Fukushima’s shadow
+, tracking Japan’s bumpy pivot back to nuclear.
+Mystery of the day
+Taiwan’s chipmaking giant, the Taiwan Semiconductor Manufacturing Company (TSMC)
+Fun fact to bust out on your next date: TSMC shares don’t follow the laws of economics! They now cost ~20% more if you buy them in New York versus in Taiwan, even when adjusting for bundling and exchange rates. That
+really
+shouldn’t be happening.
+How’s that possible?
+Analysts are awash with theories, including technical drivers like regulatory barriers making it harder to buy / sell in Taiwan. But this kind of weird pricing behaviour also has a history of signalling the formation of big tech bubbles in the US.
+Btw, TSMC publishes its December revenue today (Friday).
+Friday quiz
+Have you been paying attention this week?
+1) The US will supply a small modular reactor simulator where?
+Mongolia
+Kazakhstan
+South Korea
+Login
+or
+Subscribe
+to participate
+2) Guinea's ruling general claimed he won what % of the vote?
+54%
+69%
+87%
+Login
+or
+Subscribe
+to participate
+3) South Korean President Lee took a selfie with whom?
+China's Xi Jinping
+India's Modi
+Russia's Putin
+Login
+or
+Subscribe
+to participate

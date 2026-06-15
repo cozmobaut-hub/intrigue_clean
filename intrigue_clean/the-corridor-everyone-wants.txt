@@ -1,0 +1,241 @@
+URL: https://archives.internationalintrigue.io/p/the-corridor-everyone-wantsf8f80432deda5013
+Title: 🌍 The corridor everyone wants
+
+Today’s briefing:
+— The corridor everyone wants
+— What caused the Air India crash?
+— World’s most expensive paperweight
+Good morning {{first_name | Intriguer}}
+. Be nice to the smart kids. Way back at high school, there was a bright young fella called Casey a few grades below. That kind of school-age gap is practically intergalactic, but we crossed paths in the jazz band, which Bleeding Gums Murphy made seem cool at the time.
+Anyway, fast forward a couple of decades to 2017, and I’m in my dream career as a
+jazz musician
+diplomat, wandering through an art gallery in Los Angeles, when standing there is none other than Casey himself, who’s since gone on to get a PhD at Caltech before getting scooped up to work at Hyperloop and then NASA.
+He’s now figured out (among other things) how to make fuel from thin air, and is scaling that tech up via his venture-backed Terraform Industries. Casey might just change the world, so we were delighted to have him join us last week, fresh from appearances in
+The Economist
+and beyond. Our chat is
+free to watch here
+!
+Anyway, be nice to smart kids, and let’s talk about
+an under-reported peace deal
+in the works.
+Number of the day
+$1 billion
+That’s how much the Pentagon will get over the next four years for “
+offensive cyber operations
+”, with a focus on the Indo-Pacific (i.e. China).
+Armenia and Azerbaijan
+President Trump’s
+highly-anticipated announcement
+yesterday (Monday) ended up featuring:
+a)
+an EU-financed plan to keep sending Ukraine the US arms Kyiv needs to defend itself, plus
+b)
+a 50-day deadline for Putin to make peace or face secondary sanctions (ie, hitting China and India with mass tariffs if they buy Putin’s oil).
+But Trump made
+another comment that caught our eye
+: during a quick victory lap around conflicts his administration has helped settle (DRC-Rwanda, India-Pakistan, and a possible Egypt-Ethiopia deal on Nile water flows), the US president mentioned this:
+“We just seem to have
+Armenia and Azerbaijan
+. It looks like that’s going to come to a conclusion, a successful conclusion.”
+The headlines mostly skipped this snippet, or ran with ‘no breakthrough’, but there’ve been consistent rumours something’s happening, and it involves us all. So let’s dive in.
+First, your quick refresh
+:
+After
+wars and skirmishes
+dating back to the collapse of the Soviet Union, Azerbaijan mounted a lightning offensive in 2023 to seize Nagorno-Karabakh, long run by ethnic Armenians but internationally recognised as part of Azerbaijan
+100,000 locals (99% of the enclave’s population) fled for fear of ethnic cleansing
+So Azerbaijan got the upper hand in that part of their feud.
+But there’s still one more big piece to the puzzle before these two rivals sign the peace deal they broadly agreed back in March:
+the Zangezur Corridor
+.
+Armenia doesn’t like that terminology, because it refers to a 32-km path running through Armenia’s own land. But Azerbaijan and its friends in Turkey have been pushing the idea:
+Azerbaijan
+wants unimpeded corridor access so it can connect to its own little territory beyond Armenia, called the Nakhchivan Autonomous Republic
+And
+Turkey
+likes the idea, because that ‘corridor’ would also link to Turkey, boxing out rivals like Iran and Russia while uniting what it sees as the entire Turkic world (Turkey, Azerbaijan, and several of the ‘Stans speak Turkic languages).
+But of course,
+Armenia
+feels uneasy watching its bigger neighbours casually discuss a chunk of its own land like it’s a ‘corridor’ to the lunch room down at the local DMV.
+And other powers are weighing in too:
+Iran
+is in no shape to be calling the shots here, but it’s objected to what it sees as a rival Azerbaijani-Turkish attempt to cut Iran’s access to Europe
+Russia
+has previously supported the idea, but only if Russian border guards are manning it (something nobody in the region really welcomes at this point), and
+China
+also likes the idea, given it could link Beijing’s
+Belt & Road
+infrastructure to new ports on the Black Sea without a Moscow middle-man (though initial reports of China offering to build corridor infrastructure have mysteriously disappeared)
+But you might’ve noticed one big player missing from that crowded chessboard:
+the US
+.
+And that’s where things get intriguing: after
+Steve Witkoff
+’s surprise Baku appearance in March, top US envoy to Turkey,
+Tom Barrack
+,
+weighed in
+on Friday:
+"
+They are arguing over 32 kilometers of road... So what happens is that America steps in and says 'Okay, we’ll take it over. Give us the 32 kilometers of road on a hundred-year lease, and you can all share it’
+".
+It’s the first official confirmation that
+the US is open to an idea
+that’s long been in the rumour mill, building on earlier proposals from Turkey and the EU: US logistics (and possibly security) contractors managing the corridor and sharing the data with all parties.
+Word is both Armenia and Azerbaijan are
+open
+to it, and while Beijing, Moscow, and Tehran will of course dislike any US presence in the region, it’s not really their call.
+So, what next?
+This is far from a done deal.
+The leaders of Armenia (Pashinyan) and Azerbaijan (Aliyev) just met in the UAE, and are due to meet in Dubai again later this month. And any pact will involve tough concessions for Armenia’s leader, who’s already facing protests over concessions ahead of elections next year. But he might see this corridor as a price he’s willing to pay for a final peace deal.
+Intrigue’s Take
+This is such a classic example of the way diplomacy can be about getting creative around wording or ideas that might
+just
+get everyone over the line. History is full of them:
+James Baker helped coin the term “
+all necessary means
+” that got world powers over the line for a UN resolution condemning Iraq’s invasion of Kuwait
+Sleepless nights produced the “
+transitioning away
+” from fossil fuels that got the world to sign the UAE’s COP declaration
+And two years of talks led to the “
+parity of esteem
+” between unionist and nationalist identities that ushered in the Good Friday Agreement.
+But the other thing that grabs our attention here is
+Russia
+: both Armenia and Azerbaijan used to be members of Russia’s NATO (the Collective Security Treaty Organization, or
+CSTO
+). But Azerbaijan ditched the CSTO way back in 1999, and has been dissing Moscow since Putin’s forces downed an Azerbaijani jetliner then killed ethnic Azeris in a police raid.
+As for Armenia, it froze its own CSTO membership last year, after Putin’s peacekeepers just watched as Azerbaijan launched its brief but bloody war for Nagorno in 2023.
+So the notion of these two neighbours now doing a direct deal without Russia, and even over Russian objections? It’s a pretty clear indication of how far Moscow’s influence has faded in what the Kremlin would no doubt regard as its own sphere of influence.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Chip U turn?
+Nvidia is set to resume selling its slower H20 chips to China after reportedly getting DC’s green light. The US-based chip designer specifically developed (and throttled) the H20 to comply with US chip controls on China, maintaining a foothold in China’s lucrative market until the US yoinked its approval earlier this year. (
+Nvidia
+)
+Comment:
+Here’s one way you could look at Nvidia becoming the first firm to cross the $4T valuation mark: the market is betting Jensen Huang’s relentless shuttle diplomacy between DC and Beijing will be enough to keep both capitals happy. And this H20 announcement proves them right, so far.
+🇸🇾
+SYRIA
+-
+Can’t we just get along?
+Sectarian violence seems to be rocking southern Syria, with claims of government forces siding with Bedouin groups against the local Druze minority, leaving at least 30 dead. Syria says it opposes bandits, not the Druze community, while Israel (with its own Druze minority) just hit several Syrian tanks as a “
+warning
+”. (
+Guardian
+)
+Comment:
+Nation-building after a drawn-out civil war and decades of dictatorship was never going to be easy, but this is another mark against Free Syria’s pledge to protect minorities. And we’ve already
+explored
+how that can quickly go regional.
+🇨🇳
+CHINA
+-
+Nice figure.
+China’s June export figures rose 5.8% (yoy) last month, continuing a string of surprisingly robust results amid the
+Liberation Day
+tariff reprieve. Official figures also suggest the economy grew 5.2% (yoy) in Q2, beating expectations. (
+CNN
+)
+Comment
+: We explored
+yesterday
+some of the challenges now facing China’s economy, and we wonder whether this resilient export performance might sap Beijing’s urgency to push the kinds of reforms it really needs
+.
+🇫🇷
+FRANCE
+-
+Makin’ it rain.
+President Macron has announced France will bring forward his 2017 goal to double defence spending by 2030, pledging to hit it with $75B by 2027 instead. He said it’s the cost to be free in this “
+age of predators
+”. (
+Politico
+)
+🇮🇳
+INDIA
+-
+Check your fuel switches.
+The Indian aviation regulator has given local airlines a week to inspect their fuel control switches, after a preliminary report into last month’s fatal Air India crash found the devices might’ve been involved. US regulators have already issued a note advising that the Boeing switches are safe. (
+BBC
+)
+🇨🇺
+CUBA
+-
+Your turn.
+DC has now sanctioned Cuban leader Miguel Díaz-Canel and other senior officials over human rights violations. Marco Rubio announced the measures on the anniversary of widespread anti-government protests in 2021. (
+AP
+)
+🇱🇾
+LIBYA
+-
+Migrants freed from traffickers.
+The local attorney-general says security forces have freed 100 undocumented migrants from a criminal gang holding them for ransom, arresting five suspected traffickers from Libya, Sudan, and Egypt in the process. (
+The Straits Times
+)
+Comment
+: Libya’s state apparatus has crumbled, creating the vacuum that’s allowed this trade to flourish. So any kind of enforcement action like this is remarkable.
+Extra Intrigue
+Here’s what people around the world are googling
+🇫🇷
+French
+folks searched ‘fête du 14 juillet’ (
+14 July feast
+) as they celebrated their national day (Bastille Day) with festivities
+including a military parade
+.
+Travellers in
+🇱🇧
+Lebanon
+looked up ‘
+Turkish Airlines
+’ as the carrier denied reports it had
+suspended flights
+following rumours Iraq had closed its airspace.
+And
+🇰🇪
+Kenyans
+googled ‘
+Epra fuel prices
+’ after the country’s regulator hiked prices citing
+recent attacks in the Straight of Hormuz
+.
+Auction of the day
+The Mars rock in question. Woman for scale? Credits: Sotheby’s.
+Does that embassy desk of yours need a new paperweight, and ideally one not kitted out with surveillance devices planted by local intelligence services? Well, you could buy the above rock —  the biggest chunk of Mars on Earth — for a cool $4M when it goes up for auction in New York tomorrow (Wednesday).
+An asteroid recently dislodged the rock from Mars, sending it hurtling into Niger’s remote Sahara Desert, where a lucky meteorite hunter found it in 2023.
+Today’s poll
+Who do you think gains the most from an Armenia-Azerbaijan agreement?
+🇹🇷 Turkey
+🇮🇷 Iran
+🇺🇸 US
+🇨🇳 China
+🇦🇲 Armenia
+🇦🇿 Azerbaijan
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think we'll have more or fewer states in 50 years from now?
+(
+we were talking about countries, fyi
+)
+➕
+More, here's why... (67%)
+📉
+Fewer, here's why... (22%)
+✍️ Other (write in!)  (11%)
+Your two cents:
+➕
+M:
+“Large states will break into multiple states to better represent their population, ecosystem and priorities.”
+📉
+P.K:
+“Climate change will drown some Pacific islands for sure in a 50 year time span.”
+✍️
+G.C:
+“Imperialism is making a come back after all, and countries like Ukraine, Canada, and Taiwan might get conquered. But on the other hand there's lots of secessionist movements all over the world.”

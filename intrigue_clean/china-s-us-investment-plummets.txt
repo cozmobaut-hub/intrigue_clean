@@ -1,0 +1,241 @@
+URL: https://archives.internationalintrigue.io/p/chinas-us-investment-plummets
+Title: 🌍 China's US investment plummets
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+How long do you think it'd take to visit every country in the world without getting on a plane?
+A Danish man has just done it
+, and it took him a decade (plus 37 container ships, 158 trains, 351 buses, 219 taxis, 33 boats, and 43 rickshaws). His main takeaway? “
+The world is a lot better than what we give it credit for
+.”
+And speaking of travel… get your very own Intrigue carry-on bag just by sharing Intrigue with others (using your unique referral code below)!
+Today’s briefing is a 5 min read:
+🇨🇳
+How
+US-China
+rivalry is impacting the economy.
+🌾
+How extreme weather is impacting
+agriculture
+.
+➕
+Plus:
+The cost of pulling out of Russia, how the papers are covering a deadline in Niger, and why Canada is so far behind on defence spending.
+⏱️ Around the world in sixty seconds
+🇰🇵
+North Korea
+: A Russian Air Force jet made a rare appearance in North Korea last week, fanning
+rumours of an arms deal
+between the two countries. The jet arrived days after Russian Defence Minister Sergei Shoigu’s high-profile visit to Pyongyang.
+🇸🇮
+Slovenia
+: Prime Minister Robert Golob has called for EU and NATO help after a
+weekend of heavy rains and fatal floods
+. The country is seeking special vehicles, prefabricated bridges, and five heavy military helicopters, after what the PM described as the country’s worst natural disaster of this kind.
+🇸🇬
+Singapore
+: A Dutch startup claims it can
+lab-grow a pork sausage in eight days
+(the world’s fastest), with folks in Singapore able to buy the product from next year. Singapore became the world’s first country to allow the sale of lab-grown meat in 2020.
+🇧🇷
+Brazil
+: President Lula da Silva is hosting leaders from the seven other Amazon countries this week. The two-day
+Amazon Summit
+(the first since 2009) focuses on challenges facing the Amazon ecosystem, which is twice the size of India.
+🇳🇬
+Nigeria
+: The World Bank’s chief has said it’s co-funding
+1,000 mini solar power grids
+throughout Nigeria’s underserved communities. Africa’s biggest economy is mainly dependent on
+natural gas
+to generate electricity.
+🇨🇳
+China | Geo-economics
+Investment between China and the US is down
+China’s investment in the US has tumbled in 2023 to its lowest level in 17 years, according to at least
+one measure
+(mergers and acquisitions).
+And the trend goes both ways
+, with
+US investment into China
+on track
+to hit its lowest levels in at least five years, according to a similar measure.
+It’s not just investment, either
+. The US has bought
+24% less
+stuff from China this year, while China has likewise purchased less from the US (factoring in inflation).
+So what’s going on?
+A
+simple
+answer is that commercial ties are responding to strained political ties. The US now:
+🧾
+Has
+tariffs
+on around two thirds of Chinese imports
+🎖️
+Restricts
+US investment into Chinese firms with military links
+👨‍💻
+Limits
+China’s access to certain advanced US tech, and
+💻 Is
+reportedly
+set to announce new restrictions on investment into China’s quantum, AI and semiconductor sectors any day now.
+Meanwhile for its part, China:
+📈
+Restricts
+certain Chinese firms from listing their shares abroad
+🗿
+Limits
+critical mineral exports that are key to the US tech sector
+👮
+Has
+raided
+several US-linked businesses this year, and
+⚖️ Has long faced US
+allegations
+of unfair practices like IP theft, forced tech transfer, and vast subsidies for preferred firms.
+So US-China tensions clearly make for a tough business environment.
+Intrigue's take:
+But of course, the answer is still not quite so simple. China’s investment has dropped
+in multiple countries
+, not just the US. Its inbound investment has dropped
+globally
+, not just from US investors. And China is selling less stuff
+globally
+, not just to the US.
+So US-China ties are clearly a factor, but there’s another story playing out here, too: China’s unique economic model is under pressure; its approach to the private sector has spooked businesses; and so a lot of this feels less about US-China ties, and more about China itself.
+Also worth noting:
+US Treasury Secretary
+Janet Yellen
+said during her visit to Beijing last month that a complete US-China decoupling would be
+“virtually impossible”
+and
+“destabilizing for the global economy”
+.
+McDonald’s
+plans to open ~900 stores in China this year.
+Starbucks
+plans to open ~2,800 stores there within two years.
+📰
+How newspapers covered…
+The expiry of a deadline set by the Economic Community of West African States
+(
+ECOWAS) for Niger’s coup leaders to restore the country’s president to power
+Lyon, France
+“Niger's military shuts down airspace as it warns of an imminent attack”
+Paris, France
+“ECOWAS deadline expires: No consensus on the possibility of military intervention in Niger”
+Doha, Qatar
+“Niger coup: Divisions as ECOWAS military threat fails to play out”
+Today’s newsletter is supported by: 80,000 Hours
+What are the most impactful roles in government and policy?
+We all want to help shape the world for the better.
+But some roles give us much more leverage to do good than others. The question is, which ones?
+The tentative answer suggested by researchers at 80,000 Hours, a nonprofit that aims to help people have a big positive impact with their careers, is that we can do more good by focusing on issues that are large in scale, relatively neglected by others, and where there’s potential to make significant progress.
+Their website has in-depth career reviews on AI governance and coordination, biotechnology policy, and many other areas.
+Their advice is based on research and consultation with experts, and everything they provide is available for free forever.
+Check it out today.
+🌾
+Global | Climate Change
+Extreme weather is shaping our shopping
+Crops around the world are failing or under-producing due to extreme weather events this year.
+Here are just a few examples:
+🌡️ Heatwaves could cut Spanish
+olive oil production
+by a third
+🌽
+Two-thirds of the soil in breadbasket US states like Iowa are either ‘short’ or ‘very short’ of their
+expected moisture levels
+, and
+🍚
+India has implemented a
+partial ban on its rice exports
+after
+droughts and floods
+damaged rice fields in recent years.
+And all those production pressures come as two of the world’s
+largest grain producers
+are locked in war.
+Intrigue’s take:
+Farmers are an adaptive breed. Throughout history, they’ve introduced new tactics from selective breeding to drip irrigation. And they’ll adapt to climate change, too,
+using AI
+to predict crop success,
+vertical agriculture
+to maximise output, and beyond.
+But these adaptations will take time. And in the meantime, food doesn’t look like it’s getting any cheaper.
+Also worth noting:
+The El Niño weather pattern, which by most measures returned in June, could severely
+alter global agriculture
+over the next year.
+Some have criticised vertical farming for its high
+electricity usage
+.
+🎧 Today on
+Intrigue Outloud
+A protest in New Delhi in June. Credits: PTI Photo
+Could ethnic violence in India bring down Prime Minister Modi?
+Find out here
+➕
+Extra Intrigue
+We’re very online, so you don’t have to be.
+Dutch political paralysis is impacting the EU
+Check out Bulletpitch
+, a venture newsletter that provides access to disruptive, early-stage startups.
+Subscribe for 1-minute summaries
+on new startups delivered to your inbox every week.
+The Islamic State still poses a threat
+Why is Canada so far behind on defence spending?
+Meet the most wanted man in Bolivia
+🗳️ Poll time!
+Which of the following climate-vulnerable crops would you be unable to live without?
+🍸 Olives
+☕ Coffee
+🍚 Rice
+🌽 Maize
+🌾 Soybeans
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+📊
+Chart of the day
+Credits: Financial Times.
+Hundreds of European businesses left or drastically limited their operations in Russia following its invasion of Ukraine in February 2022. As a result, they’ve recorded at least $130bn in direct losses.
+Some
+argue that the hundreds of European firms still in Russia risk incurring larger losses than those that left.
+Yesterday’s poll:
+Are tariffs ever a justifiable trade tool?
+🟨
+⬜️⬜️⬜️⬜️⬜️ ⚖️ Yes, if domestic producers can't compete (19%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+📖
+Yes, if a trade partner is violating rules (65%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🏚️ No, they make everyone less well off (12%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write-in!) (3%)
+Your two cents
+:
+📖
+O:
+“In general, tariffs hurt everyone and they suck. However, when it comes to things like human rights or unfair labour or poor treatment […] tariffs are not only warranted but, sometimes, necessary to protect the domestic economy and international interests.”
+📖
+V.S:
+“It is all dependent on the current national economic situation. If producer productivity is low, adding tariffs on importers would just disincentivise domestic suppliers to increase lagging productivity.”
+✍️
+N.I:
+“Tariffs are more often political, not economic tools. As such they rarely provide the implied results.”
+✍️ Corrections corner
+Thanks to Clare and Jordan for pointing out that yesterday’s profile of
+Sirimavo Bandaranaike
+should’ve referred to her as “
+the world’s first elected
+female
+prime minister
+”!

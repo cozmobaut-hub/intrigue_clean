@@ -1,0 +1,268 @@
+URL: https://archives.internationalintrigue.io/p/mining-execs-in-mali-from-boardrooms-to-behind-bars
+Title: 🌍 Mining execs in Mali: from boardrooms to behind bars
+
+IN TODAY’S EDITION
+1️⃣ What a detained miner in Mali means for the world
+2️⃣ Bangladesh issues a warrant for its ex-leader
+3️⃣ Meme of the day
+Hi {{ First name | Intriguer }}.
+One of the most interesting training courses a diplomat completes before they’re posted out into the world is the defensive driving course, when one basically gets taught how to drive oneself out of sticky situations while causing minimal damage (ideally).
+Not far behind that one is the consular training course. This course teaches diplomats how to provide consular assistance and support to their nationals who might be in a spot of trouble overseas, including some who might be detained.
+I’m sure the Australian diplomats covering
+Mali
+will be brushing up on their ‘complex consular cases’ training after the recent detention of Australian
+mining execs
+there over an alleged tax dispute. Let’s dive into that in our top story today.
+PS -
+¿Hablas español?
+¡Check out our
+weekly edition in Spanish
+!
+THE HEADLINES
+Trump unveils more cabinet picks.
+After starting out with establishment picks like Marco Rubio (State) and Mike Waltz (NatSec Advisor), Trump has now thrown
+a couple of curveballs
+: first came
+Tulsi Gabbard
+for Director of National Intelligence — the former combat medic and congresswoman has no direct intel experience, but is known for her echoing of pro-Assad and Putin talking points. Then there’s
+Matt Gaetz
+for Attorney-General, known for his calls to abolish the FBI, a now-closed sex trafficking case against him, and a colourful House ethics investigation, too. Both loyalists are popular with elements of Trump’s isolationist and DC-sceptical base, though it’s unclear how their hearings will play out — Trump has already
+flagged
+an intention to skip them altogether via recess appointments.
+Republicans retain slim majority in the House.
+As counting wraps up, it’s looking like the GOP will retain control of the House, in addition to the
+White House and the Senate
+. Meanwhile, Trump has met outgoing President Joe Biden at the White House for transition talks, reviving the storied tradition that Trump ditched when he lost in 2020.
+FBI raids home of Polymarket CEO.
+During the raid, federal agents
+seized the phone of Shayne Coplan
+, the young founder and CEO of Polymarket, a predictions marketplace. The investigation seems related to whether Polymarket let
+US users
+bet on the US election outcome, something prohibited under US law. The company has accused the Biden Administration of “
+political retribution
+” for Polymarket correctly predicting Trump’s win.
+One dead in Brazilian supreme court attack.
+A man has died after launching apparent
+explosives at the Brazilian supreme court
+, after first trying to gain entrance. His motive was not immediately clear.
+China connects its biggest offshore solar plant to the grid.
+The open-sea plant is already operational and is projected to generate
+1.8 billion kilowatt hours of energy
+per year on completion, saving up to 1.3 million tons of carbon dioxide from release into the atmosphere annually. China is the world’s largest greenhouse gas emitter but also leads in renewable energy adoption.
+TOP STORY
+Mining execs in Mali: from boardrooms to behind bars
+While the world was processing Trump's landslide victory last week, authorities detained an obscure Australian mining executive in Mali.
+Terry Holohan
+, head of Resolute Mining, went from discussing taxes over coffee, to finding himself and two other executives cooling their heels in a Malian detention facility — all in the span of an afternoon.
+Holohan had just flown into Bamako to meet with local mining and tax officials about their expanding projects in the country. The meetings? Routine. The aftermath? Not so much.
+Fast forward to yesterday (Wednesday), and Mali’s military junta is basically now invoicing Resolute a casual $160M (in alleged back taxes) for Holohan’s freedom. Meanwhile, Resolute shares plunged more than 30%, wiping $500M from the miner’s market cap. So that $160M demand? It’s now the equivalent of more than a quarter Resolute’s market cap.
+And if you think this is a one-off, think again. Back in September, local authorities detained four top executives from Canada’s
+Barrick Gold
+, the world’s second-largest gold miner, currently negotiating its Loulo mine permit that expires in 2026. Plus…
+🇨🇦
+Allied Gold
+forked over $116M to keep its Sadiola project running
+🇨🇦
+B2Gold Corp
+is paying $204M to keep its Fekola project online, and
+🇿🇦
+AngloGold Ashanti
+and
+🇨🇦
+Iamgold
+have
+just closed down local operations entirely.
+So what’s going on?
+Mali is part of Africa’s so-called ‘coup belt’ — Mali’s military kicked things off with a coup in 2020, and there’ve since been 10 or so other attempted coups across Central and West Africa. As those juntas take power, they’re grappling with interlinked challenges around 1) sanctions 2) importing goods, and 3) accessing debt markets. And that’s all exacerbated by the chilling effect coups usually have on investors, businesses, and other visitors.
+It’s all left these regimes scrambling for revenue, so some of them (like Burkina Faso and Mali) have
+revamped their mining code
+to get a better deal with the Western companies extracting resources in their territory.
+Malian officials announced their own
+revised mining code
+last year, allowing the government to take a 10% stake in projects plus the option to buy an additional 20% within the first two years of commercial production. The rules also included a mandatory 5% local ownership stake and fewer tax breaks for international firms.
+Initially, Assane Sidibe (the junta’s top mining official) said these rules would only apply to new contracts or renewals. But as the regime’s cash crunch intensified, this promise faded for executives like Holohan, whose Syama asset in Mali was set to run until 2029.
+Of course, the miners aren’t all squeaky clean.
+Mali is Africa’s third-largest gold producer, with the sector supporting around two million people (more than 10% of its population). But
+smugglers
+yoink an estimated
+$30B in gold
+out of Africa each year, much of it ending up in the UAE as a middleman. So Mali’s goldfields, long seen as a lucrative opportunity, are now a flashpoint for a growing resource sovereignty battle. And that’s all against the backdrop of a bitter colonial legacy.
+Anyway, Switzerland (the world’s top gold buyer) has already raised alarm bells, looking to tighten up audits on gold from the UAE, while some companies like Metalor Technologies
+have axed Emirati gold
+from their supply chain completely.
+But there’s a geopolitical angle here, too.
+It might just be an anomaly that Western miners are the ones getting detained in Mali — several smaller miners already renegotiated (or ceded) their deals and avoided detention.
+But these detentions come after the junta ousted UN peacekeepers and French troops (the former colonial power), and instead cosied up to Russia’s Wagner mercenaries. They were meant to help fight Mali’s Islamist insurgency, but they’ve also been laser-focused on controlling Mali’s gold, while Moscow has now
+committed
+to building a refinery there.
+Why gold?
+It helps Russia stabilise its wartime currency and evade sanctions.
+So then, what does Mali get from Russia?
+In addition to providing the mercenaries, Russia has also used its heft at the UN to shield the ruling junta from scrutiny, and even
+vetoed a sanctions measure
+last year.
+So can you see the journey we’ve just completed here? Starting out with an obscure Aussie getting detained in Bamako, we’ve zoomed out to a full global power struggle.
+INTRIGUE’S TAKE
+There’s plenty at stake for everyone here:
+Resolute
+produces around two-thirds of its gold in Mali, and that number is still a serious 13% for the much larger Barrick. There are several other companies still in negotiations with the junta, and you can imagine the risk of detention or nationalisation might now sharpen their senses a little.
+Plus there’s clearly plenty at stake for the
+Malians
+, too: in trying to rebalance their ties with foreign investors with hopes of lifting local living standards and/or bolstering the junta’s grip on power, they’re negotiating with giants like Barrick who have leverage of their own: the company’s capital, know-how, and global customers all help make it Mali’s single largest taxpayer and employer. So this latest escalation could mean any short-term boost in cashflow is outweighed by a longer-term collapse in investment.
+But for now at least,
+Mali’s coup-belt neighbours
+don’t seem to see it that way: Burkina Faso recently nationalised two gold mines, while Niger stripped France’s Orano of its licence to operate one of the world’s largest uranium sites.
+Also worth noting:
+On Monday, Resolute said in
+a statement
+that
+“The employees are being treated well and continue to receive support on the ground from the UK and international embassies and consulates.”
+The sub-region’s main bloc (the
+Economic Community of West African States
+, or Ecowas) lifted sanctions on Mali earlier this year, citing assurances from the junta that it was transitioning to civilian rule.
+TOGETHER WITH THE MODE MOBILE
+Could this be the biggest disruption to Smartphones in the past 15 years?
+📲
+💥
+Heads up! There's a new disruptor in smartphones: Mode Mobile. Mode can turn your phone from a cost into an income source — and investors are watching the launch of the company’s pre-IPO offering.
+1
+🤳
+Mode saw 32,481% revenue growth from 2019 to 2022, ranking them the #1 overall software company on Deloitte’s most recent fastest-growing companies list. Mode’s flagship product EarnPhone, a budget smartphone, has already helped consumers earn & save $325M+.
+🫴
+Mode’s Pre-IPO offering
+1
+is live at $0.25/share — 20,000+ shareholders already participated in its previous sold-out offering. There’s still time to get in on Mode’s pre-IPO raise and even lock in 100% bonus shares
+2
+… but only until their current raise closes for good.
+Claim this exclusive bonus while you can!
+3
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: The country’s nuclear watchdog has
+ruled out restarting a nuclear reactor
+in north-central Japan, the first failing grade handed down since tougher safety standards emerged after the 2011 Fukushima disaster. It’s a setback for Japan’s plans to maximise the use of nuclear energy and help stabilise and decarbonise its energy sector.
+🇺🇦
+Ukraine
+: Days after Donald Trump reportedly advised Putin not to escalate his war in Ukraine, Moscow has hit Kyiv with
+its first missile attack
+since August. The Ukrainian air force says it intercepted two incoming cruise missiles, two ballistic missiles, and 37 drones during the country-wide attacks.
+🇧🇩
+Bangladesh
+: A special tribunal has asked
+Interpol to issue a red notice
+for the arrest of Bangladeshi ex-leader Sheikh Hasina, who fled in a helicopter to India earlier this year amid a student-led uprising. She’s wanted for her alleged role in the deaths of hundreds of protestors during the unrest.
+🇨🇴
+Colombia
+: An anonymous US official has reportedly corroborated claims that the US sponsored Colombia’s
+purchase of the infamous Israeli spy software Pegasus
+to investigate drug traffickers, though without the knowledge of Colombia’s then-president (Duque). The scandal first erupted in September when Colombia’s current leader (Petro) publicly accused his predecessor of buying the spyware.
+🇸🇾
+Syria
+: UN observers have accused Israel of
+violating a ceasefire agreement
+with Syria after satellite pictures showed construction work encroaching on a buffer zone. In response, Israel says it’s “
+working to establish a barrier on Israeli territory exclusively in order to thwart a possible terrorist invasion and protect the security of Israel’s borders
+”.
+EXTRA INTRIGUE
+Meanwhile, in other worlds…
+Literature
+: British author Samantha Harvey has won this year’s
+Booker Prize
+for her novel Orbital, which is set in the International Space Station.
+Science
+: A
+New Zealand startup
+has made plasma using an unconventional reactor design, potentially bringing the world a step closer to generating energy from nuclear fusion.
+Music
+: 99-time Grammy nominee Beyoncé will now be the subject of a
+new course at Yale University
+.
+MEME OF THE DAY
+Since election day in the US, Bitcoin has soared by more than 34%, reaching an all-time high of over $90,000 for the first time off the promise of more crypto-friendly regulation.
+But LaCroix-sipping, fleece-vest-wearing venture capitalists aren’t the only ones stockpiling Bitcoin: there are rumours of established pension funds and a few nation states now dipping their toes, too. That’s partly why one of the earliest world leaders to back Bitcoin, El Salvador’s Nayib Bukele, just
+tweeted
+a simple “
+I told you so.
+”
+DAILY POLL
+Where do you think Bitcoin is headed?
+🚀 To the moon
+😢 It'll end in tears
+🤷 It'll drop from its peak and stabilise lower
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What would you like our next webinar to focus on?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇺🇦
+Future of Russo-Ukraine War  (21%)
+🟨
+🟨
+🟨
+🟨
+🟨
+🟨
+🚢
+Trade and supply chains in a protectionist world  (20%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🇨🇳
+Trump 2.0: What's next for China and Taiwan  (17%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🪴
+Tackling climate policy in a fractured world (13%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️
+🌐
+The new multipolar world order (19%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ 📚 Geopolitics 101 (9%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (Write in!)  (1%)
+Your two cents:
+🇺🇦
+R.P:
+“I have 2 friends fighting on the front line - they're both Ukrainian - fighting for their family, friends, and the future of their children and grandchildren. At the end of the day, the Ukrainian people dictate their future and what path they want to take.”
+🌐
+A.P:
+“In particular, I'd love to learn more about regional powers --Türkiye, Nigeria, etc.”
+🪴
+M.G:
+“Calamities caused by climate change exacerbate all other challenges to world order. Climate policy underpins the near future as well as the long-term stability of civilization.”
+✍️
+C.D:
+“Are the days of the UN, NATO, SEATO, and other multi-national efforts to promote peace, free trade, and common defense, coming to an end? It seems to me that there are new political alliances forming which may make today's organizations obsolete.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+1
+Mode Mobile recently received their ticker reservation with Nasdaq ($MODE), indicating an intent to IPO in the next 24 months. An intent to IPO is no guarantee that an actual IPO will occur.
+2
+A minimum investment of $1,950 is required to receive bonus shares. 100% bonus shares are offered on investments of $9,950+.
+3
+Please read the offering circular and
+related risks
+at
+invest.modemobile.com
+. This is a paid advertisement for Mode Mobile’s Regulation A+ Offering.
+Past performance is no guarantee of future results. Start-up investments are speculative and involve a high degree of risk. Those investors who cannot afford to lose their entire investment should not invest in start-ups. Companies seeking startup investment tend to be in earlier stages of development and their business model, products and services may not yet be fully developed, operational or tested in the public marketplace. There is no guarantee that the stated valuation and other terms are accurate or in agreement with the market or industry valuations. Further, investors may receive illiquid and/or restricted stock that may be subject to holding period requirements and/or liquidity concerns.
+DealMaker Securities LLC, a registered broker-dealer, and member of FINRA | SIPC, located at 105 Maxess Road, Suite 124, Melville, NY 11747, is the Intermediary for this offering and is not an affiliate of or connected with the Issuer. Please check our background on FINRA's BrokerCheck.

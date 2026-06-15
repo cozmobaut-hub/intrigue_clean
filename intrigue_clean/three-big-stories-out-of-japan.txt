@@ -1,0 +1,232 @@
+URL: https://archives.internationalintrigue.io/p/three-big-stories-out-of-japan
+Title: 🌍 Three big stories out of Japan
+
+In partnership with
+Today’s briefing:
+— Three big stories out of Japan
+— Until next year, Davos
+— Hip embassy there
+Good morning {{first_name | Intriguer}}
+. One way to tell who’s hustling at the WEF is by taking stock of which countries or businesses host “
+houses
+” on the promenade. This year, the US snagged not one but two fronts, India similarly expanded its Davos real estate, while Indonesia House attracted new attendees through its Gamelan performance nights.
+One player that was absent from the circus was Japan. Believe me, no one is as disappointed as me to not have had the opportunity to swing past for some sushi and sake, but that’s not how Japan traditionally operates on the global stage. It often prefers to play a quieter, behind the scenes role that can be easy to miss.
+That’s why we’re leading today’s briefing with
+three big stories out of Japan
+.
+Davos Dispatch: Day 4
+From L to R: the Davos dome, a robot showcase, and protest signs (the German poster reads '“WEF is eating our housing!”)
+Here’s
+a quick Davos recap from our fourth and final day on the ground
+:
+President Trump’s ‘
+Board of Peace
+’ reveal ended up including representatives from 19 countries (around half now under some kind of US visa curb, btw).
+The Trump team also unveiled its gleaming plans for a ‘
+New Gaza
+’ (featuring skyscrapers and data centres), though won’t have been too happy when
+Citadel CEO Ken Griffin
+(hardly your bleeding-heart liberal) later issued some
+notably blunt criticism
+of Trump’s economic policies.
+Germany’s
+Friedrich Merz also took on a
+grave tone
+, warning against a world where only power counts: “
+In the 20th century, my country, Germany, went down this road to its bitter end. It pulled the world into a black abyss
+”.
+IMF chief
+Kristalina Georgieva then issued a warning of her own, arguing states aren’t ready for AI, which is poised to turbocharge economic growth but will disrupt up to 60% of advanced economy jobs in the process.
+And
+Indonesia’s
+Prabowo Subianto seemed to have a domestic audience in mind when he denounced the widespread “
+greedonomics
+” that triggered last year’s mass anti-corruption protests, while pitching his big social projects in response.
+Our overall Davos 2026 vibe?
+A world in flux has breathed a new, panicky energy into the Alps.
+Macro problems
+When everyone’s zigging, sometimes it’s fun to zag.
+So let’s pivot from the world’s least-populated territory and largest island (Greenland), down to an island one sixth the size but 13,000 times more densely populated… Japan.
+And to add a little pizzazz, let’s do it by numbers:
+5
+That’s how many hours the world’s largest nuclear power plant (Kashiwazaki-Kariwa) lasted on Wednesday night before Japan’s authorities had to switch it back off again!
+In its heyday, Kashiwazaki-Kariwa’s seven operational reactors had a total capacity of
+8 gigawatts
+— that’s enough to power ~Finland, or an ambassador’s sense of self-satisfaction.
+But more than a decade after shuttering all 50+ of its nuclear reactors post-Fukushima, Japan now wants to bring this mega-plant back online. Why? Some 80% of its energy now comes from coal, oil, and gas, imported via sea lanes looking more contested every day.
+But for several reasons revealed on Wednesday night, it’s not so simple:
+First
+, the
+tech
+: you don’t switch this back on like it’s an Xbox. Authorities switched reactor #6 back on around 7pm, but a malfunction alarm was already sounding by midnight.
+Second
+, the
+public
+: to manage the divisions, authorities are going slow, with nearby reactor #7 not scheduled to switch back on until at least 2030 (the rest remains TBC).
+And a related
+third
+, the
+optics
+: Tokyo’s post-Fukushima pause was to reassure everyone this nuclear tech is in safe hands, but there’ve been some Looney Tunes-level mess-ups, whether via the worker who drove off with a stack of sensitive docs on his car roof, or the security phone someone lost in Shanghai, or the falsified seismic data at Hamaoka.
+And it’s all coming at a tough time, because…
+1
+That’s the size of Prime Minister Takaichi’s House majority, which is why she’s officially dissolved parliament today (Friday) for snap elections in just over two weeks.
+That might seem
+a bold move
+given her Liberal Democratic Party (LDP) predecessor suffered a historic defeat just six months ago. But she’s hoping her sky-high approval (~mid 70s) will help parlay this election into a stronger mandate and wider majority. Tactically, the short campaign also gives the opposition less time to organise.
+Still, her gambit has further rattled markets, leading to…
+31
+That’s how many years since any Japanese bond yield last surpassed 4% — ie, lenders now want more reward to carry what they see as more risk in Japan’s finances.
+Why?
+Takaichi paired her snap election with plans to suspend Japan’s 8% consumption tax on food for two years — it’s
+a naked appeal to voters
+worried about living costs, but it’ll cost ~$64B in revenues for a country already sitting at a hefty 260% debt-to-GDP ratio.
+By way of comparison, Greece topped out at 206% during its debt crisis, though it’s worth noting Japan’s fiscal position gets bonus sustainability via
+a
+) more domestic ownership,
+b
+) lower rates, and
+c
+) the yen’s reserve currency status. But still, the Bank of Japan seems to have entered the market to defend the yen today.
+And it was enough for Citadel CEO
+Ken Griffin
+to tell Davos: “
+I think that what happened in Japan is a very important message to the House and to the Senate: You need to get our fiscal house in order.
+”
+Intrigue’s Take
+There are so many reasons to watch Japan’s February 8th elections closely, but one of the biggest is actually China! You’ll recall after the hawkish Takaichi answered a November question in the Diet by observing that any full-scale China invasion of Taiwan could be a “
+survival-threatening situation
+” for neighbour Japan,
+China went postal
+:
+A PRC diplomat seemingly threatened to
+behead
+Japan’s PM
+China’s
+tourism
+ministry warned its citizens against visiting Japan
+China’s commerce ministry slapped a broad dual-use
+export ban
+, and
+China’s mass Taiwan military
+drills
+were partly also a warning to “
+external forces
+”.
+The idea was to impose costs on Takaichi’s remarks, and undermine her more hawkish premiership before it could find its feet amid Japan’s political instability.
+But aside from the curious sight of rehearsing an invasion to condemn
+Japan’s
+militarism,
+China’s response might’ve backfired
+: not just because Japan’s voters have now driven Takaichi’s approvals to some of the highest levels in decades (up there with Abe and even Koizumi), but because even Japan’s new ‘Centrist Reform Alliance’ opposition just revealed its platform Monday, likewise pledging “
+a firm response to concerns over China
+”.
+To put it another way, China’s punitive approach might’ve achieved little more than the wholesale hardening of Japanese sentiment. And in the process, Japan’s relatively calm approach might’ve left Beijing looking, per the Mandarin idiom, like a guy arguing alone.
+Dictate prompts and tag files automatically
+Stop typing reproductions and start vibing code.
+Wispr Flow
+captures your spoken debugging flow and turns it into structured bug reports, acceptance tests, and PR descriptions. Say a file name or variable out loud and Flow preserves it exactly, tags the correct file, and keeps inline code readable. Use voice to create Cursor and Warp prompts, call out a variable like user_id, and get copy you can paste straight into an issue or PR. The result is faster triage and fewer context gaps between engineers and QA. Learn how developers use voice-first workflows in our Vibe Coding article at wisprflow.ai. Try Wispr Flow for engineers.
+Start flowing free
+Meanwhile, elsewhere…
+🇻🇪
+VENEZUELA — Open it up.
+At President Trump’s urging, lawmakers in Venezuela have backed a bill to open up the country’s oil sector to private and foreign companies. Assuming the bill passes a second vote, it’ll see decades of state control rolled back. (
+France24
+)
+Comment:
+The Guardian now seems to be confirming our speculation that the Maduro insider who secretly cooperated with the US was none other than his own veep (and now president), Delcy Rodríguez. She and her brother (who happens to be head of the national assembly) pledged they’d cooperate with the US post-Maduro.
+🇺🇦
+UKRAINE — Land talks.
+Ukraine, Russia, and the US are due to meet in Abu Dhabi today (Friday) for their first known trilateral talks since the beginning of the war. President Zelensky says the meeting is “
+all about the land
+”. (
+CNN
+)
+🇨🇳
+CHINA
+—
+Is diplomacy working?
+Beijing’s ambassador to Manila has suggested China and the Philippines are now working on a preliminary “
+road map
+” to settle tensions in the South China Sea, where China continues its
+unlawful
+claim to almost the entire region. (
+SCMP
+)
+Comment:
+China has always preferred to handle each South China Sea rival individually rather than as a group via the ASEAN regional bloc. But that approach is complicated this year by the fact that ASEAN’s rotating chair is… the Philippines.
+🇫🇷
+FRANCE — Come with us.
+In a joint operation with the UK, France’s navy has intercepted and is escorting a shadow fleet oil tanker helping Russia evade sanctions. (
+Euronews
+)
+Comment:
+This was always the obvious next step to further undermine Putin’s ability to finance his war, but allied navies were all seemingly waiting for the US to set the precedent first — and that happened in the Caribbean earlier this month.
+🇰🇭
+CAMBODIA
+— Good news.
+Cambodia’s government has stepped in to cover tuition for more than 400 university students after scholarships funded by accused cyber-scammer Chen Zhi were cancelled following his arrest and deportation to China. (
+The Straits Times
+)
+🇺🇸
+US — New post, you’re up.
+DC has picked a new top envoy for Venezuela, two-time ambassador Laura Dogu. She’ll be based out of the US embassy next door in Colombia, as the US embassy in Caracas is still shuttered (though State says it’s exploring a “
+potential phased resumption
+” of operations). (
+Bloomberg
+)
+🇲🇱
+MALI — Piece of the pie.
+In a bid to tighten control over its vast gold sector, Mali’s junta is creating a new ministerial mining position and filling it with a former exec involved in the infamous Loulo-Gounkoto mining dispute. (
+AfricaNews
+)
+Comment:
+This new minister was actually Canadian giant Barrick’s own top country executive before famously defecting to the junta during the talks. The Barrick standoff was one of several factors behind Mali’s 23% drop in industrial gold output last year.
+Extra Intrigue
+Three stories we couldn’t shoehorn in this week
+🥾
+Iran
+: Rumours continue to swirl around a potential strike on Iran as a US
+armada approaches the Gulf
+(President Trump has tended to strike after markets close).
+Business
+: Is Wall Street
+self-censoring
+to avoid a presidential trolling? Bloomberg argues as much, and JPMorgan’s Jamie Dimon got visibly frustrated when pushed on the topic by The Economist at Davos.
+Hollywood
+: Netflix has
+revealed
+it’s releasing a series adaptation of
+The Museum of Innocence
+by Orhan Pamuk, arguably Turkey’s most famous modern author.
+Embassy of the day
+Opened in 1964, the brutalist building above offered a dash of visual drama to the Dublin landscape, fusing space race optimism with Cold War confidence, all with a whiff of panopticon paranoia. And if you’re wondering about those spiky trees out front, they’re cordyline australis — native to New Zealand, but popular for modernist vibes everywhere.
+It’s such a storied structure, there’s now even a whole book about it —
+America at Home: The Architecture and Politics of the US Embassy
+, by Irish architect Cormac Murray.
+Friday Quiz
+With Davos ‘26 wrapping, test your knowledge.
+Where did one Intriguer quip that the first Board of Peace meeting should be held?
+Tokyo
+The Hague
+Washington, D.C.
+Login
+or
+Subscribe
+to participate
+Which world leader's speech went most viral?
+Mark Rutte
+Emmanuel Macron
+Mark Carney
+Login
+or
+Subscribe
+to participate
+Which ministerial delegation skipped out last minute?
+The Dutch
+The Ukrainians
+The Danes
+Login
+or
+Subscribe
+to participate

@@ -1,0 +1,272 @@
+URL: https://archives.internationalintrigue.io/p/what-s-up-with-trump-s-nvidia-deal-f6de6c2d32e132e3
+Title: 🌍 What’s up with Trump’s Nvidia deal
+
+Today’s briefing:
+— What’s up with Trump’s Nvidia deal
+— Go work for Austrians in Beijing
+— World’s raddest police
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Amid the absolute fire-hose of intrigue, I almost missed this surprise
+interview
+🇩🇪
+German outlet
+Bild
+published with a veteran of Mossad (Israel’s foreign intelligence service).
+Spies periodically emerge from the shadows, but Oded Ailam’s chat is interesting in the frank way he discusses Mossad operations against Iran, whether leveraging the country’s disgruntled ethnic minorities to recruit sources, or its porous borders to smuggle assets.
+One can only guess why this chat was authorised, though it looks to me like a flex to fan paranoia and division among Iran’s mullahs and generals as they ponder their next move.
+And speaking of guessed motives, let’s explore this
+wild new deal between the White House and Nvidia
+.
+Number of the day
+90 years
+That’s roughly how long it’s been since Japanese warships last visited New Zealand’s capital of Wellington. Japan’s two destroyers are on a regional deployment after wrapping war-games in Australia.
+Deals gone wild
+That’s Nvidia’s Jensen Huang with the US president
+When the Trump administration pulled a 180° on its Nvidia-China chip ban last month, we wondered if there'd been a deal. But we didn't expect this: Nvidia (and AMD) can now sell certain slower chips in China in return for a cool 15% of revenues payable to Uncle Sam.
+So with those early rumours now congealing into hard facts, it's time we looked at
+the two wildest things about this deal
+, which is getting described as anything from "
+a mix of bribery and blackmail
+" through to nothing less than "
+the art of the deal
+".
+First, what’s this deal say about US national security?
+President Trump and his backers argue
+a
+) these particular US chips are
+obsolete
+,
+b
+) China was
+smuggling
+them in anyway,
+c
+) keeping China
+hooked
+on US tech slows its
+urgency
+to develop alternatives, and
+d
+) it's better to flood the world with US tech than risk another
+5G debacle
+(China's Huawei famously shrugged off US curbs to lead the 5G revolution).
+But others (including the architect of Trump 1.0's own China strategy, Matt Pottinger)
+argue
+a
+) Nvidia's H20 chips are world-class at
+inference
+(key for the AI race),
+b
+) more chips for China means less for the US, and
+c
+) there’s
+no real divide
+between US chips helping China (say) optimise its emojis, versus optimise its weapons.
+Critics also argue this deal just weakens broader US
+export controls
+. How? Both by…
+Unnerving allies
+(what’s stopping the Dutch from allowing their chipmaking pioneer ASML to resume China sales in return for a bit of cash), and
+Emboldening foes
+(maybe core US interests are up for negotiation after all).
+The line doing the DC rounds is… what's next: sell the F-35 fighter jet to China if Lockheed ponies up 15%?
+Second, what’s this say about the US economy?
+While President Trump and his backers argue this 15% deal ensures the US gets more of the upside, critics warn it meddles with the foundations of the US economy. How?
+The deal is arguably a signal to investors and CEOs everywhere that the US runs not on clear rules, but on
+sweetheart deals
+. And maybe that's okay if you're a four-trillion dollar firm with White House access and a deep bench of lobbyists. But for the small firms making up 44% of the US economy? No such luck.
+And regardless,
+the big end of town
+will still fret around
+a
+) whether the White House might ramp up that 15% price as profits grow, and
+b
+) who’s next (whether more firms getting hit, or more foreign capitals joining the hitting).
+And that all raises some
+big downstream questions
+, like whether this all makes global supply chains even less predictable (and therefore more costly), and whether CEOs should therefore allocate even
+more
+cash to lobbying rather than innovation.
+Anyway, agree or not, you can hopefully see why it’s now generating so much chatter.
+Intrigue’s Take
+The details are more surprising than the direction here: whether it’s Biden’s subsidy carrots, or Trump’s tariff sticks, you could argue they’re still two sides of the same
+industrial policy
+coin. Just another spooked capital burrowing deeper into more sectors.
+And the
+president's supporters
+will see here exactly what they voted for: upending the status quo, cutting the red tape, and getting a better deal. Plus Nvidia can eat that 15%: it’s already on the run of a century, and 85% of something is better than 100% of nothing.
+So what's so big about this deal? Coming after other deals like Trump’s golden shares in strategic firms like US Steel and MP Materials (with rumours TikTok is next), it arguably all nudges the US
+beyond industrial policy
+, towards what
+The Wall Street Journal
+just (amusingly) called "
+state capitalism with American characteristics
+" (ie, a la China’s model).
+But there’s another big question in the way it revives a long-running debate around what
+DC’s end goal
+is (or should be) with China: is it a threat to be thwarted, a competitor to be countered, or just a peer to be persuaded? This deal arguably blurs those lines, and both friend and foe will now scramble to understand not just how, but why.
+Sound even smarter:
+There was word this deal easing China’s access to US chips was a swap for US access to China's rare earths — but China is pushing back on these claims, and there are reports it’s now actively warning its firms
+against
+Nvidia’s H20 chips.
+Legal eagles are flagging this deal potentially breaches the
+US constitution’s ban
+on export taxes.
+Today’s newsletter is sponsored by
+Mode Mobile
+Investors are watching this fast-growing tech company
+No, it's not Nvidia… It's
+Mode Mobile
+, 2023’s fastest-growing software company according to Deloitte.
+Their EarnPhone has helped users earn and save over $325M,
+driving $75M+ in revenue and
+an eye-popping 32,481% growth
+. And having secured partnerships with
+Walmart
+and
+Best Buy
+, Mode’s not stopping there…
+Like Uber turned vehicles into income-generating assets, Mode is turning smartphones into
+an easy passive income source
+.
+The difference is that you have a chance to invest in Mode’s pre-IPO offering at just $0.30/share.
+They’ve just been granted the stock ticker
+$MODE
+by the Nasdaq and the time to invest at their current share price is running out.
+⏳Round almost full — secure your investment at $0.30/share now.
+Meanwhile, elsewhere…
+🇷🇺
+RUSSIA
+-
+It was you?
+US investigators say they’ve uncovered evidence Russia is at least partly responsible for hacking sensitive case data held by US courts. It’s unclear exactly who’s run the hack or why, though it’s targeted cases with offshore ties. The stolen data could help foreign adversaries identify witnesses or impending probes. (
+Politico
+)
+🇳🇷
+NAURU
+-
+You call that an announcement?
+The remote Pacific Island nation of Nauru (pop: 12,000) says it’s signed a massive AU$1 billion investment deal (USD650M) with a little-known outfit called the
+China Rural Revitalisation and Development Corporation
+. To put that in perspective, it’s ~four times Nauru’s entire GDP. (
+Government of Nauru
+)
+Comment:
+These kinds of *announcements
+*
+emerge periodically, especially ahead of big summits like tomorrow’s gathering of Pacific foreign ministers — the US just announced its own $60M pledge to the region as the two rivals race for influence.
+🇵🇰
+PAKISTAN
+-
+Let’s sync, touch base, circle back.
+The US and Pakistan have held counterterrorism talks in Islamabad, just after DC declared the separatist Balochistan Liberation Army a foreign terrorist organisation. (
+TRT
+)
+Comment:
+This dialogue has been running for years, but the timing (amid worsening US-India ties) will fuel theories the US is trying to peel Pakistan ever-so-slightly away from its backers in Beijing.
+🇨🇭
+SWITZERLAND
+-
+Still neutral?
+Famously neutral Switzerland has sanctioned 14 new Russia-linked individuals and 41 entities linked to Russian oil sales financing Putin’s war. (
+SWI
+)
+Comment
+: The Swiss often mirror EU sanctions — it’s about managing friction with EU neighbours and avoiding losing banking credibility as a sanctions loophole.
+🇰🇷
+SOUTH KOREA
+-
+First lady no more.
+Authorities have arrested former first lady Kim Keon Hee on charges of stock manipulation, election meddling, and bribery. This makes Kim and her husband (Yoon) Korea’s first presidential pair to be detained simultaneously. (
+Yonhap
+)
+🇵🇾
+PARAGUAY
+-
+Made in Paraguay?
+Paraguayan lawmakers are debating reforms that could grant ‘
+Made in Paraguay
+’ status to things like microwaves and fridges if they’re assembled locally (using imported parts). (
+SCMP
+)
+Comment
+: It’s usually up to the end destination (whether Brazil or USA here) to determine whether these goods are still made in China or elsewhere for tariff purposes. But it’s an example of smaller economies positioning themselves for advantage as cracks in the trading system widen.
+🇸🇸
+SOUTH SUDAN
+-
+Still friends.
+Israel hasn’t yet commented on Associated Press reports that it’s in talks with South Sudan over controversial plans to resettle Gazans in the East African country. (
+AP
+)
+Comment
+: Israel covertly supported South Sudanese independence for decades via a ‘periphery doctrine’ of backing minorities to counter hostile Arab states. But even with that history, it’s hard to see South Sudan — still grappling with its own instability — subjecting itself to this blowtorch of international scrutiny. Egypt is already lobbying against the idea.
+Extra Intrigue
+Intrigue Job Board
+💼
+Geospatial Analytics & Mapping Intern
+@
+Mercy Corps
+in DC
+SVP, Innovation and Competitiveness
+@
+German Marshall Fund
+in Brussels
+Legal & Economic Analyst
+@
+Austrian Chamber of Commerce
+in Beijing
+Communications Consultant
+@
+UN
+in Nairobi
+Wheels of the day
+Courtesy of Portugal’s PSP.
+If you’re looking for a sweet ride at the low low price of simply being employed
+,
+allow us to introduce you to the new wheels now being rocked by Portuguese police. That’s right, some lucky Portuguese cops are now rolling around town in a Ferrari 488 GTB after seizing the vehicle during a drug trafficking case.
+And it’s not uncommon! There are dozens of these high-performance hogs across Portugal’s law enforcement, allocated by an authority that’s responsible for disposing of criminal assets via sale, destruction, or putting them to public use. Option C it is.
+Today’s poll
+What do you think about this new US deal with Nvidia?
+🤝 It's the art of the deal
+😦 It sets an alarming precedent
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which commodities do you think reveal the most?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+💍
+Metals (22%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ 🛢️ Energy (33%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🌽
+Agriculture (45%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (1%)
+Your two cents:
+🌽
+W.A:
+“People love luxury and wealth in general, but in the end, necessity wins every time. You gotta eat!”
+💍
+F.F:
+“Gold, Silver, platinum, palladium, and rare earths are essential for both industry and investors. Gold has always been a source of calm in the markets when all heck is breaking loose. Energy is a close second as it affects everything in industry.”
+🌽
+S.A:
+“The way a country handles agricultural exports and imports tells you a great deal about the wisdom of the leaders, how well they're guarding the future and stability of their country.”
+✍️
+J.W:
+“Clearly, at least in Japan, the answer is Pokémon cards.”

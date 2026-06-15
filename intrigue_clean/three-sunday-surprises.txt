@@ -1,0 +1,211 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-9d4fcad3eb3416f1
+Title: 🌍 Three Sunday surprises
+
+Today’s briefing:
+— Three Sunday surprises
+— Another border flares up
+— A bus at the speed of sound in…
+Good morning {{first_name | Intriguer}}
+. As Intrigue’s resident Spanish-speaker, I wanted to share some of the fun Spanish-language jokes I’ve heard about last night’s Super Bowl and half-time show by Puerto Rico’s
+Bad Bunny
+, like…
+Everyone’s speaking Spanish and there are no points on the board. Is this soccer?
+Bad Bunny just achieved what Bolívar could only dream, and
+Lots
+of memes about Canada’s surprise inclusion in his big regional roll-call (like a shocked Emma Stone running up onstage to get her unexpected Oscar).
+But if you’ll allow me to nerd-out on that first Bolívar one, it probably does the best job of capturing the regional vibe — they’re saying Bad Bunny just achieved symbolically what the 19th century’s famous Libertador tried politically and militarily: a unified Latin America.
+Anyway, let’s get you briefed on Sunday’s other big news:
+three electoral surprises
+.
+Number of the day
+20 years
+That’s the jail sentence pro-democracy media mogul Jimmy Lai just got handed by a Hong Kong court, the city’s harshest sentence yet under its new national security laws.
+Your electoral wrap-up
+We got three electoral surprises Sunday, so let's explore why each matters, starting in...
+🇯🇵
+Japan
+Newish conservative PM Sanae Takaichi was always going to win, but she's now got
+i
+) a standalone supermajority, after
+ii
+) Japan’s biggest single-party victory in post-war history.
+So... why does this matter?
+a
+) It potentially ends Japan's revolving door of
+weak leaders
+herding feline coalitions against intractable problems, which is why...
+b
+) Japan's Nikkei 225 just spiked 5%+ to an all-time high while bond yields jumped.
+Optimistic investors
+are re-pricing Takaichi's ability to reform and stimulate, while
+cautious lenders
+are demanding more interest (yield) given the pressure her spending will put on Tokyo's finances. And speaking of pressure...
+c
+) It's a repudiation of the world power (
+China
+) openly opposing Takaichi since she warned last year that China's invasion of Taiwan could be a "
+survival-threatening
+" situation for Japan (ie, triggering more defence powers). Hoping a raft of military and trade manoeuvres might weaken Takaichi, Beijing has instead helped usher in one of Japan's most popular and resolute administrations.
+So… what next?
+Takaichi not only wants to continue Japan's military ramp-up to counter China, but she also now has the Lower (but not yet Upper) House supermajority to start loosening Japan's famous 'pacifist' Article 9.
+Now join us in one of JAL's famous sky suites from Narita Airport over to...
+🇹🇭
+Thailand
+Here we've got yet another nationalist incumbent who took power almost the same time last year, and gambled on his own snap election for the exact same day (Sunday), amid a collapse in his own neighbourly ties (this time with Cambodia).
+But while Japan's leader gambled from a position of strength, Thailand's
+Anutin
+rolled these electoral dice out of weakness to head-off a no-confidence vote. And... it worked! Tapping nationalist sentiment amid the Cambodia spat, he just ~
+tripled
+his party's seats (though will still need to form a coalition).
+So... why does this matter?
+a
+) He's halted Thailand's youth-led
+reformists
+, whose main party
+lost
+seats, and
+b
+) He now looks well placed to lead a more stable administration and finally start tackling Thailand's mounting challenges, including the
+economic stagnation
+that's taken hold amid all the political intrigue.
+Then finally, join us in one of the famous Qsuites via Doha for our final stop in...
+🇵🇹
+Portugal
+The presidency in Portugal is mostly
+ceremonial
+, but the landslide win by the centre-left's Seguro was still interesting in its
+scale
+(one of the biggest in Portuguese history) and
+context
+(rejecting the hard-right alternative, which still remains a growing force).
+Our sense is it's less a left-vs-right thing, and more a
+stability-vs-disruption
+thing — Seguro is an establishment figure promising he’ll work with the centre-right government.
+And… that completes your Monday election wrap-up.
+Intrigue’s Take
+Three wildly different nations running wildly different elections, yet offering eerily similar lessons, starting with…
+i)
+Nothing unites earthlings like a threat from Mars
+: whether it’s the spectre of China over Japan or Cambodia over Thailand, there was a clear rally-around-the-flag effect at play. As for Portugal? The ‘threat’ was less a foreign foe, and more a firebrand style that folks don’t (yet?) want at the helm in Portugal. And relatedly…
+ii)
+Meddle at your own risk
+: both China and its friend Cambodia tried to tip the scales — we’ve outlined the China backstory above, but the Cambodia angle includes
+leaking private calls with Thai leaders
+, and even a senior Cambodian minister openly backing Thailand’s opposition. But in the end, both backfired, bigly. That’s partly out of national affront, but also because…
+iii)
+Voters want stability
+: that’s unsurprising amid so much volatility, but maybe the Portugal story is a reminder that this preference for stability isn’t a blank check — there are populist alternatives biding their time.
+Today’s briefing is presented by…
+Stop typing prompt essays
+Dictate full-context prompts and paste clean, structured input into ChatGPT or Claude. Wispr Flow preserves your nuance so AI gives better answers the first time. Try Wispr Flow for AI.
+See a demo
+Meanwhile, elsewhere…
+🇨🇺
+CUBA — Pressure rising.
+While the island’s leader (Diaz-Canel) gave a defiant address to the nation last week, the pressure keeps building: at home, his regime just warned it’ll run out of jet fuel today (Monday), and abroad, its ally Nicaragua just ditched visa exemptions for Cubans, a common route for those hoping to flee to the US. (
+MSN
+)
+Comment:
+That Nicaraguan visa move is presumably a response to US pressure.
+🇨🇳
+CHINA — My word is your bond.
+US treasuries have extended their losses after Beijing regulators reportedly asked local banks to curb their US bond holdings. The directive doesn’t apply to China’s state holdings of US Treasuries, and Beijing is apparently framing it all around diversification and US finances rather than direct US-China rivalry. (
+Bloomberg
+$)
+Comment:
+Few in DC will believe that benign framing, particularly while both sides hustle to build their leverage ahead of the planned April summit in China. Still, while there’ll be dramatic headlines, the reality is China has been reducing its US bond exposure since the early 2010s.
+🇰🇵
+NORTH KOREA — Rival winter games.
+The regime is holding its own winter games after its athletes failed to qualify for the Winter Olympics now running in Milan-Cortina. (
+Independent
+)
+Comment
+:
+The venue choice (Mount Paektu, near China’s border) is no accident — it’s the sacred spot where the regime insists the Kim family dynasty was born. We explored the geopolitics of the Winter Games
+here
+.
+🇪🇹
+ETHIOPIA — Pull back your troops.
+Ethiopia is accusing neighbouring Eritrea of occupying Ethiopian territory and supporting rebels along their shared border. Eritrea hasn’t issued a response, but has previously denied similar accusations. (
+Reuters
+)
+🇮🇷
+IRAN
+— New prison sentence.
+Tehran has arrested at least three leading reformist politicians and handed down another seven-year sentence to Nobel laureate and women’s rights activist Narges Mohammadi, in what appears to be an attempt to curb criticism of the regime’s handling of recent protests. (
+Guardian
+)
+Comments
+:
+This is happening even amid US talks, because regimes gonna regime. We just saw another example in Venezuela, where word is breaking authorities just kidnapped opposition figure Juan Pablo Guanipa hours after his release.
+🇭🇹
+HAITI — Give that back.
+Haiti’s transitional government has handed complete power back to US-backed Prime Minister Fils-Aimé after failing to curb gang violence. (
+Al Jazeera
+)
+Comment
+:
+While it might seem like a timebound technicality, there was a power struggle for all to see: councilmembers only backtracked on an attempt to pre-emptively oust Fils-Aimé after the US imposed sanctions and sent warships.
+🇸🇾
+SYRIA — New wings.
+Saudi Arabia and Syria have signed what’s believed to be the biggest investment package for Syria (~$5.3B) since the lifting of Western sanctions. Features include a low-cost airline, water desalination plants, and a telecom overhaul. (
+AA
+)
+Comment
+:
+This state-backed investment is less about returns, and more about influence — those are all strategic sectors.
+🇬🇧
+UNITED KINGDOM — Tremors at Downing St.
+Prime Minister Starmer’s chief of staff has now resigned, taking the fall over London’s appointment of disgraced Epstein associate Peter Mandelson as (former) ambassador to the US. Starmer’s grip on power still looks wobbly, though no obvious contender has emerged at this stage. (
+BBC
+)
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news…
+A Japanese city has
+cancelled its cherry blossom festival
+over too many tourists.
+Helsinki is offering to help Pamela Anderson
+change her surname
+after she expressed a desire to connect to her Finnish roots.
+The cigar-chompers at Universal have finally let Spain’s Tomas-Llorenc Guarino
+use the
+Minions
+soundtrack
+in his Olympic figure-skating routine.
+Authorities in Iceland have mistakenly
+invoiced a bus driver $150k
+under their new per-kilometre road charge — to rack up a bill that big, the guy would’ve had to circumnavigate the globe 25 times, driving at the speed of sound.
+And a South Korean crypto firm has accidentally given away
+$40B in bitcoin
+(most now recovered).
+Festival of the day
+Credits: Maryam Nawaz Sharif via Twitter/X
+Go fly a kite. Pakistan has turned that insult back into reality with ‘Basant’, a Punjabi spring festival long associated with flying kites high above the streets of Lahore.
+But why the two-decade break? Authorities first had to ban the celebration back in 2007 after sharp kite strings ended up causing the deaths of more than a dozen people!
+These days they say it’s safe, not only because of a shorter run-time (down from ~10 days to three), but also because motorcyclists now get metal rods installed to catch any strings!
+Today’s poll
+Do you think the US should be worried about China's decision to curb its US bond holdings?
+💥 Yes, shots fired!
+😒 No, it's just more of the same
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the UK's Keir Starmer will lose his job over the Epstein-Mandelson scandal?
+❌
+Yes, even his own party is fed-up  (46%)
+🌧️ No, he'll weather the storm (53%)
+✍️ Other (write in!)  (1%)
+Your two cents:
+🌧️
+C.O.T.E:
+“It's going to come down to who can replace him, which in the short-term is NO ONE.”
+✍️
+M.S:
+“The only people paying any price from the Files' release are apparently still just the victims.”
+❌
+I:
+“He was on shaky ground even before this.”

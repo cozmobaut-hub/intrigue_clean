@@ -1,0 +1,201 @@
+URL: https://archives.internationalintrigue.io/p/iae-drops-2024-electricity-report
+Title: 🌍 The IAE drops its 2024 Electricity Report
+
+Hi {{ First name | Intriguer }}.
+I’ve always admired folks who shrug off the noise and just focus on the solution.
+An example is Saul Griffith - an engineer, entrepreneur, and Macarthur genius grant recipient who’s done a lot of thinking about the future of energy and our best path to get there. His view, which he lays out in a rather readable
+playbook
+, is that we need to “
+electrify everything
+”.
+Today’s briefing looks at the
+International Energy Agency’s latest electricity report
+, which suggests Saul’s future may be closer than we think.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+The World Court decides.
+The ICJ will shortly hand down its
+interim ruling
+on the Israel-Gaza genocide case (Friday 1pm local time in The Hague, 7am in New York, 11pm in Sydney). We
+previewed
+the ruling in yesterday’s briefing. Meanwhile, Israel has
+asked
+local foreign embassies if they’re equipped for “
+security escalation
+” amid fears the Israel-Hamas conflict could spread.
+China pressures Iran on Houthi attacks.
+Chinese officials have reportedly asked Iran to help rein in Houthi attacks in the Red Sea or risk harming Iran’s business relations with Beijing. China is Iran’s biggest trading partner: Chinese refineries bought over 90% of Iran’s crude oil exports last year.
+US out of Iraq?
+Reuters is reporting that the US and Iraq will soon begin talks to end the US-led military coalition in Iraq. The talks were delayed by the Israel-Hamas conflict and will likely take months at least, with the outcome unclear. The US has 2,500 troops in Iraq, working with hundreds of mostly European troops to train and assist local Iraqi forces in preventing a resurgence of ISIS.
+Back channels.
+FT is reporting that US national security advisor Jake Sullivan will hold private talks with Chinese foreign minister Wang Yi in Thailand in coming days. The two held secret meetings in Vienna and Malta last year that were critical in paving the way for the Biden-Xi meeting in November, which was in turn a key step in stabilising US-China ties.
+World Cup kiss on trial.
+A judge in Spain has recommended that Luis Rubiales, Spain’s erstwhile soccer chief, be put on trial for his forceful kiss of a member of Spain’s winning Women’s World Cup team on the podium in Sydney last year. The kiss, which Prime Minister Sánchez described as “
+unacceptable
+”, triggered a global debate on sexism in sport.
+TOP STORY
+The IEA’s electricity report just dropped
+Emissions are on track to fall across the world, bar South and Southeast Asia. Credits: IEA.
+The Paris-based International Energy Agency (IEA) released its latest
+electricity report
+on Wednesday, tracking developments in global electricity markets and projecting industry trends through to 2026.
+No time to leaf through its 170 pages? Here are
+five things you should know
+:
+1) Low-emissions sources
+(including nuclear power)
+will account for almost half of global electricity generation by 2026
+Interestingly, renewables could dethrone coal as the world’s largest electricity source in 2025, hitting 37% of the total (up from 30% now). Half the world’s coal generation now takes place in China, but China also commissioned as much solar last year as the rest of the world combined, so its power sector emissions might’ve now peaked.
+Meanwhile, though not growing as quickly as renewables, nuclear is projected to hit a record 9% of the world’s energy mix in 2026 thanks to new capacity in China and India. In parallel, the IEA chief just
+called
+(
+🇩🇪
+) Germany’s nuclear phaseout last year a “
+historic mistake
+”
+🔥
+🔥
+🔥
+.
+2) CO2 emissions from electricity generation are in “
+structural decline
+”
+In fact, they’re expected to fall by 2% this year alone - a big deal when you remember the power sector is the world’s top emitting industry. Still, regional differences remain, with power generation emissions increasing in South and Southeast Asia.
+3) Global electricity demand grew by less than expected in 2023
+The difference was small (0.2%), but the drivers were interesting: relatively mild weather on the American continent contributed to a 1.6% drop in the US, while “
+permanent demand destruction
+” nudged a 3.2% drop in Europe.
+That’s another way of saying the EU’s energy-intensive industries like chemicals and metals lost out to the US and China, where electricity costs were
+half
+those in the EU. But Europeans will be relieved to know the IEA is projecting a recovery.
+4) Growth in global electricity demand is projected to increase
+It’ll average 3.4% from this year (up from 2.2%), and about 85% of that new demand will come from the emerging world, particularly China. But another driver will be data centres, which could consume
+as much electricity as Japan
+by 2026.
+AI and crypto are also key drivers, though they’ve surprised us before: Ethereum (the second-largest cryptocurrency by market cap) once cut its electricity use
+by 99% in a single year
+, just by tweaking its mining mechanism.
+5) Electricity prices have fallen from their 2022 peak, but are still higher than their pre-Covid levels
+Europeans in particular still face electricity prices
+double
+their 2019 levels, a lingering side-effect from Russia’s invasion of Ukraine.
+IEA Executive Director Fatih Birol summed up the report’s findings, saying “
+while more progress is needed, and fast, these are very promising trends
+”.
+INTRIGUE’S TAKE
+Three things come to mind here.
+First, it’s easy to lose sight of the fact that the world’s top two electricity sources right now are still
+coal and gas
+. It’s a reminder that energy transitions have tended to look more like energy
+additions
+as new sources come online.
+But second, today’s
+transition-addition is moving rapidly
+, and the world’s goal of tripling renewable capacity by 2030 is now looking within reach.
+And third, this generates all kinds of interesting technical problems like the famous ‘
+duck curve
+’, where net demand collapses during the day then spikes at sunset (because of the mismatch between energy usage and solar output).
+And that’s generating some
+intriguing solutions
+. Batteries will do the heavy lifting, but other ideas will play their part: there’s
+a company
+storing excess daytime energy as ice, then using it to cool buildings at night.
+And
+governments
+are now offering free daytime electricity to low-income households to lend them a hand, help shift grid demand into the daytime, flatten the duck curve, and thereby stabilise the grid.
+Honestly? It’s a heck of a time to be alive.
+Also worth noting:
+IEA Chief
+Fatih Birol
+triggered a global debate last year when he warned that companies and countries expanding their fossil fuel projects were taking
+“very unhealthy and unwise economic risks”.
+Some
+analysts
+also doubt the IEA’s projection that peak oil is nigh.
+The IEA report also mentions (at page 86) that physical and cyber threats to some electricity grids have surged, putting a premium on efforts to secure new energy infrastructure as it comes online.
+MEANWHILE, ELSEWHERE…
+🇹🇼
+Taiwan
+: The first batch of military conscripts serving under Taiwan’s new
+extended military service
+began training yesterday (Thursday). Conscripts previously served four months, until outgoing President Tsai extended it to a year with her eye on a more confrontational China.
+🇫🇷
+France
+: Wrapping a
+two-day tour of India
+, President Macron is the guest of honour at today’s parade marking the 75th anniversary of India’s constitution. He hopes to boost trade with the world’s fifth-largest economy, and is also due to discuss defence cooperation and Indo-Pacific security with his Indian counterpart, Narendra Modi.
+🇮🇳
+India
+: Pakistani authorities say they have “
+credible evidence
+” linking
+Indian agents to two killings
+of Pakistani citizens on Pakistani soil. The US and Canada have levelled similar accusations in recent months.
+🇨🇴
+Colombia
+: Local authorities have suspended Foreign Minister Álvaro Leyva
+for three months
+following a probe into possible irregularities in last year’s passport production tender. President Petro denounced his foreign minister’s suspension as politically motivated.
+🇸🇦
+Saudi Arabia
+: The kingdom will allow the
+public sale of liquor
+for the first time in over 70 years in a new store catering exclusively to foreign diplomats. We can confirm that diplomats have historically imported vast quantities of booze into the kingdom via diplomatic pouch.
+EXTRA INTRIGUE
+Some recommendations from Jeremy (our Managing Editor) if you’re spending your weekend indoors
+Watch
+: Check out
+The Artful Dodger
+, a romping TV series following the new double life of the famous prince of thieves - it’s certified ‘fresh’ on Rotten Tomatoes and was created by a dear friend from film school.
+Read
+: Dive into
+American Caesar
+, the hit biography of General Douglas MacArthur - I couldn’t put it down during a recent visit to Darwin, and was struck by the parallels between today and the interwar period.
+Cook
+: Try making ceviche with
+this recipe
+from Peru’s legendary chef, Gaston Acurio. The country’s national dish is one of the many things I miss about my time serving there.
+TWEET/X OF THE DAY
+— #
+(#
+)
+Old grudges were nearly revived between long-time allies the US and UK, when a US academic boldly suggested adding a pinch of salt when brewing tea to obtain the perfect ‘cuppa’. The US Embassy in London put things right by
+reminding
+everyone of the proper way to make tea (with a microwave).
+FRIDAY QUIZ
+In honour of the IEA’s new report, today’s quiz touches on some other intriguing publications that have dropped recently
+1) A new study connects a decrease in successful lion hunts to the increase of what species?
+Elephants
+Poisonous fruit trees
+Hyenas
+Ants
+Login
+or
+Subscribe
+to participate
+2) Eating which of the following foods in space is a bad idea?
+Bread
+Rice
+Salad
+Cheese
+Login
+or
+Subscribe
+to participate
+3) How did the ancient Romans like their wine?
+Very sweet
+Slightly spicy
+With a bitter aftertaste
+Robustly acidic
+Login
+or
+Subscribe
+to participate
+You can check out the studies yourself:
+Study 1
+Study 2
+Study 3
+Share the Intrigue

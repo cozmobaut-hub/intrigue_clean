@@ -1,0 +1,194 @@
+URL: https://archives.internationalintrigue.io/p/courts-jostle-over-trump-s-tariffs-df1f799807971281
+Title: 🌍 Courts jostle over Trump's tariffs
+
+Today’s briefing:
+— Tariff tennis continues
+— Poles love the polls
+— Meme of the day
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. When I first agreed to do the intro for today’s edition, the assignment was to write about how a US court had just turned
+the Trump tariffs off
+.
+But by the time I actually got around to writing the intro, the tariffs were back on. There’s probably an important lesson in there about not procrastinating and becoming a victim of events overtaking your best intentions.
+Let’s dive into it for our Friday edition!
+Ta-riff-raff
+We used to get bombshell trade news like once a decade. These days? Try once a day. Wednesday spiced things up when a US court you never heard of overruled most of President Trump’s tariffs. Then an appeals court took Thursday by overruling the overrule.
+First, who’s the Court of International Trade (CIT)?
+It’s a federal court with exclusive authority to decide trade-related lawsuits against the US.
+US presidents themselves appoint the nine judges, who then get confirmed by the US senate. Basically, if you have a gripe about US trade or customs law, you bring it to the CIT.
+Which leads us to…
+Who brought the gripe?
+A group of small US businesses (including a pipe-maker and a sportswear firm) brought one of the suits. They were miffed that, all of a sudden, they had to pay crippling taxes (tariffs) before they could collect the foreign goods they already bought.
+As for the other case? A group of Democrat-run states filed it, arguing this new tax would hit consumers (higher prices) and taxpayers (slower growth → lower tax revenue → worse public services).
+So which tariffs did the CIT overrule?
+The ruling ditched two out of the president’s three main groups of tariffs:
+First
+, it ditched the tariffs he placed on China, Mexico, and Canada in response to what he argued was their role in the US fentanyl and border crisis, and
+Second
+, the court also ditched his
+Liberation
+Day tariffs which he argued were a reciprocal response to unfair trade practices abroad.
+The
+third
+group the court didn’t touch? Those tariffs on imported steel, aluminium, and cars, which the president based on different powers (see below).
+What was the court’s argument?
+The unanimous ruling by three CIT judges (from Reagan, Obama and Trump — yes, shout-out to the long-serving Reagan appointee) found that the president wrongly invoked emergency powers in launching both his
+fentanyl
+and
+Liberation Day
+tariffs. They didn’t say whether those tariffs were good or bad ideas, just that they weren’t lawfully enacted.
+Why?
+Tariff powers typically rest with Congress, but Trump 2.0 bypassed that branch by instead invoking the Carter-era
+International Economic Emergency Powers Act
+(IEEPA), which allows a president to grab the tariff wheel during a national emergency.
+But the CIT panel basically found the administration’s reasons (fentanyl, trade deficits) weren’t the “
+unusual and extraordinary threats
+” IEEPA had in mind.
+Now what?
+Barely 18 hours passed before a federal appeals court then hit pause on the CIT’s ruling! That allows Trump’s tariffs to remain in place while the appeals court considers the case.
+Everyone now has until (at least)
+June 9th
+to make their pitch before the appeals court weighs in. But no matter what it decides, there’s a solid chance someone will then appeal this thing all the way to the Supreme Court, and maybe even the Jedi Council at this rate.
+But in the meantime, you can bet the Trump administration is already planning for its worst-case scenario, looking for other
+Trade Act
+powers it can use for a tariff re-do:
+Section 122
+allows for quick tariffs of up to 15% for a limit of 150 days
+Section 232
+allows for longer-term tariffs, but only after a national security investigation (Trump used this against steel, aluminium, and cars), and
+Section 301
+likewise allows for longer-term tariffs, but only after an investigation into
+unfair trade practices
+hurting the US abroad.
+They all basically offer the president a way to keep wielding tariffs to pursue his goals, but the latter two will take many months to run the required investigations, and none of the three will really offer the breadth of powers Trump claimed under IEEPA.
+So what does all this mean?
+While trade ministers from Paris to Hanoi might’ve initially done a quiet fist pump after getting the court’s free reprieve (mid trade negotiation!), the reality of further appeals means the only guarantee right now is just more uncertainty. And after all that plays out, potentially just more tariffs ahead, but with a fresh and zesty new legal justification.
+Intrigue’s Take
+So nothing has
+really
+changed for now, but at least we got to learn about a cool new court, right?
+It’s up to the judges to decide, but pinning century-high tariffs on an emergency power perched on fentanyl and trade deficits always felt intuitively like
+a stretch of what IEEPA had in mind
+, which is why we flagged it back in March. That’s the risk of pushing for quick results (and yet quick results are also arguably what the American people voted for).
+The other question is whether this might end up being
+a reprieve for the president himself
+: there’s little known about his
+Liberation Day
+deal negotiations, beyond the big US-China de-escalation (which left the underlying imbalances untouched), and the mini US-UK deal (which really recast everyone’s expectations around this whole exercise).
+In the meantime, even if the president pursues other paths to lock in his baseline 10% tariffs, sure, that’s a political shock for some, but (yes) it’s a
+relatively manageable
+economic
+shock for many. Economies adapt to 10% shocks every year via (say) currency fluctuations. And that
+might
+explain the relatively muted reaction from so many capitals.
+Today’s newsletter is sponsored by
+Boxabl
+Father-Son Duo Aims to Reinvent Home Construction
+Home construction has been slow, costly, and inefficient for centuries. So in 2017, Paolo and Galiano Tiramani founded BOXABL to change that, bringing factory-built efficiency to a trillion dollar industry.
+Most houses take seven months to complete. BOXABL can put one out of the assembly line every four hours, including electrical, HVAC, and plumbing! Not to mention, they already have 190,000+ reservations from potential buyers.*
+BOXABL officially reserved the Nasdaq ticker symbol BXBL. Now the Tiramanis are preparing for Phase 2, where modules can be configured into larger townhomes, single-family homes, and more.
+But there’s no need to wait. Invest in BOXABL today for just $0.80/share.
+Meanwhile, elsewhere…
+🇮🇱
+ISRAEL
+-
+Israel agrees to US-backed temporary ceasefire.
+Israel has reportedly agreed to a US-proposed 60-day ceasefire in Gaza, facilitating more aid in return for several more living and dead hostages. Hamas is expected to reject the proposal as it doesn’t include Israel’s full withdrawal from Gaza (and also therefore the group’s own continued hold on local power). Meanwhile, Israel has greenlit the biggest expansion of settlements in the West Bank in decades. (
+BBC
+)
+🇵🇱
+POLAND
+-
+Poles love the polls (again).
+Millions of Poles will vote in the country’s presidential election on Sunday, with Warsaw's liberal mayor (Trzaskowski) neck and neck with a right-leaning historian (Nawrocki). It’s a largely ceremonial role, though the president’s veto power on bills could make or break the current pro-EU government in Warsaw. (
+Politico
+)
+Comment:
+The Trump administration has openly backed Nawrocki, with Secretary of Homeland Security Kristi Noem personally endorsing him there earlier this week. Will this help? Poland was once the only European country with a net-positive view of Trump back in 2019, but polling from this March suggests folks have since soured on the president, citing (for example) his scepticism towards NATO.
+🇰🇿
+KAZAKHSTAN
+-
+Middle power play.
+Kazakhstan hosted its third annual Astana International Forum this week, with President Tokayev arguing (in English) for middle powers to have a greater say in global affairs. (
+Eurasianet
+)
+Comment:
+Add the Kazakhs to the long list of middle powers hoping to fill what they see as a void while the big players face off.
+🇽🇰
+KOSOVO
+-
+Road blocked.
+Business owners in Kosovo have hit the streets of Pristina this week after the government announced companies with >50 employees will no longer be eligible for generous energy subsidies, potentially tripling their bill. (
+Reuters
+)
+🇵🇭
+PHILIPPINES
+-
+New naval bases ahoy.
+The Philippine Navy is set to open several bases as it takes delivery of its newest warships from Korea. It’s all part of Manila’s modernisation efforts to flex a bit more naval muscle as Beijing ramps up its vast claims across the South China Sea. (
+SCMP
+)
+🇨🇴
+COLOMBIA
+-
+Workers on strike.
+Labour unions went on a 48-hour strike this week in a show of support for left-leaning President Petro, after he alleged Colombia’s legislature is impeding efforts to let voters decide on labour reforms. (
+AP
+)
+🇸🇾
+SYRIA
+-
+US back in Damascus.
+After a 13-year absence, the US raised its flag over the ambassador’s residence in Damascus again this week, hoisted by the US ambassador to neighbouring Turkey himself, property/PE billionaire Tom Barrack (now also the US envoy to Syria). (
+Ambassador’s X account
+)
+Extra Intrigue
+In other worlds…
+Culture:
+The Swedish government is narrowing down a list of
+100 things that define Swedish culture
+. It’s proving difficult, and divisive.
+Weapons:
+Young African women have
+ended up working at Russian weapons
+factories after responding to ads promising an exciting ‘work-study’ opportunity.
+Photography:
+For fun, here’s a collection of
+photos of statues getting cleaned
+(with Abraham Lincoln’s ears even getting cotton-swabbed).
+Meme of the day
+Sometimes, advancing the national interest means having to climb Mount Everest with the fiscal equivalent of laughing gas instead of oxygen.
+From our sponsors
+Legion M
+is building a new kind of studio where the fans call the shots. Backed by over 50,000 investors, they’ve helped bring films like Morgan Freeman’s new hit,
+My Dead Friend Zoe
+, to life.
+As a Legion M investor, you’ll earn equity and get access to special events.
+Act before June 3rd
+to have a stake in the next big story.
+Friday Quiz
+Today is International Day of… the Potato.
+1) How much of the world's population eats potato as a staple?
+1/2
+2/3
+3/4
+Login
+or
+Subscribe
+to participate
+2) The potato was the first vegetable grown in space.
+True
+False
+Login
+or
+Subscribe
+to participate
+3) How many different varieties of potatoes are there?
+~1000
+~2500
+~4000
+Login
+or
+Subscribe
+to participate

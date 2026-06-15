@@ -1,0 +1,224 @@
+URL: https://archives.internationalintrigue.io/p/world-just-broke-four-big-energy-records
+Title: 🌍 The world just broke four big energy records
+
+IN TODAY’S EDITION
+1️⃣ Four new energy records
+2️⃣ A rapper’s reprieve in Iran
+3️⃣ Performance of the day
+Hi {{ First name | Intriguer }}.
+When I first visited Australia’s tropical city of Darwin a few years back, I popped into a store for a bottle of water, only to be told by the cheerful, mullet-clad proprietor that I should probably stay away from the fridge. Before I could ask why, a park ranger strolled in, reached behind the fridge, and pulled out the biggest python I’ve ever seen.
+I love this part of the world (I just touched down last night). And its strategic location keeps thrusting it back into the limelight, whether it’s the pre-colonial trade routes with Indonesia, or Imperial Japan’s WWII bombing raids.
+These days, I can see reminders of the region’s geopolitics from my AirBnB, whether it’s the jet fighters roaring overhead from Australia’s largest air force base, or the massive LNG tankers lumbering out across the harbour to Japan.
+It’s that last one (
+energy
+) that leads today’s briefing, as a landmark report reveals our world is breaking a mixed new set of records.
+PS -
+Are you in Darwin too?
+Hit reply in case you’re around for a hot coffee (I’m steering clear of Darwin’s refrigerators).
+THE HEADLINES
+Netanyahu says “
+intense
+” phase of Gaza war nearly at an end.
+In his first one-on-one interview with Israeli media since October’s Hamas attacks, Bibi said last night (Sunday) that his troops could be moved north to Israel’s border with Lebanon given tensions with Hezbollah. But he says Israel will continue its
+operations in Gaza
+until Hamas is defeated.
+Gunmen attack churches, synagogues, and police in Russia.
+At least 19 people are now dead after gunmen
+attacked various sites
+across two cities of Russia’s Muslim-majority republic of Dagestan. No one has yet claimed responsibility, though local authorities have told Russian media that the perpetrators belonged to “
+an international terrorist organisation
+”.
+EU says Apple is in breach of new digital law.
+A preliminary investigation has accused the tech giant of
+monopolising its App Store
+, allegedly charging high fees while hindering customers’ ability to find alternative payment systems. The EU has also opened a new probe into Apple’s contractual terms with app developers. Meanwhile, the
+Wall Street Journal
+reports that Apple and Meta have held talks about integrating Meta’s generative AI into Apple systems, in what would be an unlikely alliance for the tech sector.
+Interpol candidate faces kidnapping allegations.
+Two Indian businessmen have accused one of the four candidates to
+become Interpol’s next Secretary-General
+of being involved in their kidnapping and attempted extortion in Zambia. Mubita Nawa, then a deputy commissioner for Zambian police, has the backing of African Union states in his Interpol bid.
+China and EU agree to hold tariff talks.
+The two sides are
+looking to calm ties
+after the EU imposed levies as high as 48% on China-made EVs, triggering retaliatory tariffs from Beijing.
+TOP STORY
+The world just broke four big energy records
+Energy Institute CEO Nick Wayth launched the annual report in London.
+The annual
+Statistical Review of World Energy
+just dropped its
+73rd annual edition
+over the weekend, but if you haven’t heard of it, don’t feel bad.
+Last year’s edition hit just as Yevgeny Prigozhin launched his bizarre if short-lived Wagner mutiny (can you believe that was a year ago?), so the report’s findings were overshadowed. And Covid buried the editions before that.
+But this weekend was relatively pandemic and mutiny-free, so let’s take a quick look at the report, and four of the biggest new energy records the world set last year (our hottest year on record):
+Record energy consumption
+Our world is now consuming more energy than ever, up 2% in a year. And the '
+global south
+' - which consumes more than half the world’s energy - is really driving that trend, with energy demand there growing at
+twice
+the global rate.
+China alone accounts for almost a third of the world’s total energy demand, growing at
+triple
+the global rate (6%). And that’s all led to…
+Record fossil fuel consumption
+We chewed through 1.5% more fossil fuels last year, driven by new highs in our top two energy sources:
+oil
+(a third of the world's energy) and
+coal
+(a quarter). All up, fossil fuels now comprise 81.5% of our energy mix, and that's a new
+low
+, though not by much: that number stood at 82% last year, and 86% in 1995.
+Things get a little more dramatic when you zoom in: fossil fuels dipped below 70% of Europe's energy mix for the first time last year, while US coal consumption has halved in the last decade.
+But
+India
+is now burning more coal than the US and Europe combined, while China burns more coal than the rest of the world, combined. So that’s led to...
+3) Record CO2 emissions
+Our world’s emissions hit 40 gigatonnes of CO2 for the first time last year, up 2%. That's partly because we used more fossil fuels, but also because
+our
+mix
+of fossil fuels got dirtier
+(ie, more coal and oil, rather than gas).
+But again, the picture gets a little more dramatic when you zoom in: US and EU emissions declined by 2.7% and 6.6% respectively, which sounds impressive. But... the jump in Asia’s emissions was
+triple the combined drop
+in the US and EU.
+And notwithstanding all that, our world also saw...
+Record renewables
+Total renewables output hit 15% of the world's energy mix last year, and it’s growing fast: solar and wind have
+quintupled
+their share of the mix in a decade (now 8%), overtaking nuclear in 2021 and likely hydro this year (hydro shrunk last year due to droughts, particularly in China).
+But even still, as the world consumes more energy, that growing demand is being met mostly by fossil fuels rather than renewables.
+So here’s
+the takeaway
+: at a global level, renewables don’t seem to be keeping up with - let alone displacing - fossil fuels. That’s why the head of the Energy Institute, the industry body that now publishes this report,
+wrapped things up
+with this little bomb: "
+arguably, the energy transition has not even started
+".
+INTRIGUE’S TAKE
+So after decades of summits, declarations, and investments, our energy mix now looks - on aggregate - kinda similar to how it did in 1995.
+The wild-card is solar. The boffins over at
+The Economist
+recently published some
+stats
+that capture solar’s epic evolution over the past half a century:
+Solar prices have dropped by a factor of 500
+The break-even point for solar projects has dropped by a factor of 1000, and
+Total photovoltaic shipments have increased by a factor of a
+million
+.
+And yet at each stage, we’ve still consistently
+under
+estimated just how rapidly solar will grow next.
+But even with all that exponential growth, this year’s report suggests that fast-growing solar has still really just enabled us to consume more energy, rather than displace our dirtier energy (fossil fuels). And if that continues, it looks a lot more like an energy addition rather than an energy transition.
+Also worth noting:
+We just had our hottest May on record, capping off the 12th consecutive record month. The World Meteorological Organisation
+found
+in April that weather and climate-related disasters have hit Asia the hardest.
+Solar
+reportedly
+produced a record one fifth of the world’s electricity during the northern summer solstice over the weekend.
+BP (the UK-based oil and gas major) published this energy report every year from 1952 until 2023, when it
+handed
+the reins over to the London-based Energy Institute (with Kearney and KPMG).
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: The US and China have held their
+first semi-official talks
+on nuclear arms for the first time in five years. According to Reuters sources, China’s officials assured their US counterparts that Beijing would not resort to nuclear threats over Taiwan.
+🇮🇹
+Italy
+: A competition watchdog has fined local automaker DR Automobiles $6.4m for
+misleadingly marketing cars as made in Italy
+when they were mostly made in China. The fine comes as EU member states crack down on low-cost car imports from China.
+🇧🇩
+Bangladesh
+: The leaders of India and Bangladesh have
+agreed to deepen security ties
+, with a focus on maritime security and the telecommunications sector. India is seeking to increase its security footprint in the region to counterbalance China.
+🇲🇽
+Mexico
+: President-elect Claudia Sheinbaum has
+unveiled part of her cabinet
+, drawing heavily from academia and her former administration as Mexico City mayor. Notable names include Marcelo Ebrard as economy secretary - he’s the former foreign minister and Mexico City mayor who Sheinbaum beat to the ruling party’s nomination.
+🇮🇷
+Iran
+: The local supreme court has
+overturned the death sentence of local rapper Toomaj Salehi
+, who shot to worldwide prominence after publicly backing the 2022 protests sparked by the death of Mahsa Amini at the hands of Iranian police. A lower court sentenced Salehi to death for “
+corruption on Earth
+” earlier this year, but he now faces a retrial.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news:
+A Kiwi woman has
+called her boyfriend before a disputes tribunal for breaching a verbal contract
+, after he refused to drop her at the airport, causing her to miss her flight.
+Organisers have banned a 16-time hotdog-eating champion from
+Nathan's Famous Fourth of July competition
+after he partnered up with a vegan meat substitute company.
+A Japanese man has grown a record
+63-leaf clover
+.
+Canadian drivers have had to pause their commute to
+herd an emu
+off a busy highway.
+And a record
+23 sets of twins have just graduated
+from a middle school in Massachusetts.
+PERFORMANCE OF THE DAY
+Credits: Italian Navy via Twitter/X.
+A venue can add a dash of magic to any theatrical performance, but it’s not every day you get to watch an opera on an aircraft carrier. On Saturday, Puccini’s opera ‘Madama Butterfly’ became the first lyrical play to be performed aboard an
+Italian navy ship
+- a fitting setting considering one of the protagonists in the tragic love story is a naval officer.
+DAILY POLL
+Do you think the world will meet its 2050 net-zero pledge?
+☀️ Yes, solar will bring it home
+⚡ We'll be much cleaner, but not net-zero
+🏭 Not even close
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Friday’s poll:
+What do you think should be NATO's main priority in the next five years?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+💸
+Meeting its spending target  (28%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+📜
+Welcoming new members (11%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🤝
+Unifying its current members (53%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (8%)
+Your two cents:
+🤝
+J.P:
+“NATO's value derives from the unity of its members. If they don't work together, infighting will make its size a hindrance.”
+💸
+S.B:
+“A direct attack on a NATO country will serve to unify, but if they haven't invested enough to be prepared it will be too late to start.”
+📜
+M.T:
+“The bigger the better!”
+✍️
+I.B:
+“Avoid escalation to global annihilation by opening conversations and negotiation with the other nuclear superpower of our planet.”
+✍️
+J.M:
+“Can't those 3 goals be accomplished simultaneously and in less than 5 years?”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

@@ -1,0 +1,233 @@
+URL: https://archives.internationalintrigue.io/p/coffee-gonna-get-expensive
+Title: Your coffee is gonna be more expensive
+
+IN TODAY’S EDITION
+1️⃣ Your coffee is gonna get more expensive
+2️⃣ Japan’s surprising new peaches
+3️⃣ Survey of the day
+Hi {{ First name | Intriguer }}.
+I’ve waited almost two years for an opportunity to share with you one of my all-time favourite tweets, and today is the day, dear Intriguer, because our briefing leads with an update on
+what’s happening with coffee
+.
+First, some context (never a good sign when a joke needs context, but I’ll press on). You might be aware that folks in Australia take
+a lot
+of pride in having one of the world’s top coffee cultures, thanks in part to post-WWII migration from Italy. That’s partly why Starbucks has famously struggled to get a foothold Down Under.
+So anyway, someone went and tweeted: “
+I’m really happy to be in Australia, so I no longer have to listen to Australians tell me how much better the coffee is back in Australia.
+”
+The person who tweeted that gem has since deleted their account. I like to think they were just going full George Constanza and leaving on a high. Anyway, let’s dive in.
+THE HEADLINES
+FBI investigates another apparent assassination attempt against Trump.
+The Republican candidate is safe after
+shots were heard
+nearby while he was at a Florida golf club on Sunday. Secret Service agents opened fire and later apprehended a suspect after spotting the barrel of his rifle sticking out from a nearby bush. Local media have named the suspect as Ryan Wesley Routh (58). He’s reportedly been convicted on weapons charges in the past, and his son has
+told
+The Guardian he was passionate about helping Ukraine defend itself, though authorities are still investigating a motive. Trump has
+thanked
+the public for the well wishes and commended the Secret Service. President
+Biden
+and Vice President
+Harris
+have expressed relief that Trump is okay, and reiterated that political violence is unacceptable.
+France’s EU Commissioner announces shock resignation.
+Thierry Breton has
+announced his decision to step down
+, citing tensions with EU leader Ursula von der Leyen and unspecified instances of “
+questionable governance
+”. Breton’s resignation adds some unwanted drama to the appointment of von der Leyen’s second Commission, which is already delayed.
+Two
+German warships sail through Taiwan Strait.
+Friday’s crossing of the Taiwan Strait was Germany’s
+first in over two decades
+. During the navy’s last deployment (2021-22), some criticised Berlin for
+not
+sailing through the Strait. A spokesperson for China, which claims Taiwan as its own, said Germany’s behaviour “
+increases security risks and sends the wrong signal
+”. Germany’s defence minister said, “
+since it’s international waters, we are going through there.
+”
+Houthi missile reaches central Israel for first time.
+The attack yesterday (Sunday) caused no reported injuries, though the Yemeni group claims it used a
+new hypersonic ballistic missile
+that travelled 2,040 km (1270 miles) in 11 minutes. Israeli authorities say they intercepted - though didn’t destroy - the missile. Benjamin Netanyahu is vowing his country will exact a “
+heavy price
+” for the attack.
+TikTok legal battle kicks off.
+Oral arguments begin today (Monday)
+as part of the legal challenge by TikTok and its parent company ByteDance against a US government order to divest or face a nation-wide ban. The case is expected to reach all the way to the Supreme Court.
+At least eight killed in central Europe flooding.
+Heavy rains have
+caused the region’s rivers to overflow
+, while authorities in Poland, Czechia, and Slovakia have ordered evacuations in anticipation of further flooding. The last time Central Europe saw such extensive flooding was back in 1997.
+TOP STORY
+Your coffee is gonna get more expensive
+We're truly sorry to be the bearer of bad news, on a Monday no less, but we figured you'd prefer to find out via your favourite newsletter rather than on your next café visit:
+Prices for robusta coffee beans (used in instant) are now hovering near half-century highs, while the fancier arabica variety (used for your espresso) just hit a 13-year high.
+So what's going on? With
+World Coffee Day
+just around the corner (October 1), let's take a peek at this half a trillion dollar sector, and what’s driving the current price spike.
+First, we’re drinking more coffee
+, and one driver has been tea-mad China, where coffee demand has doubled in a decade. But it's still only the world’s 7th market, with folks there only drinking an average of 13 cups
+a year
+(there are Intrigue team members who drink that much before 8am). By way of comparison, the US average is
+380
+cups per year.
+Second
+,
+supply is under pressure
+for all kinds of reasons, but let's look at the two countries that together supply
+half
+the world’s coffee: Brazil and Vietnam.
+Brazil
+has had four consecutive years of tough harvests, starting with a brutal frost in 2021 and then the country's worst drought in decades. That's sent prices for Brazil’s arabica beans soaring, with buyers shifting to Vietnam’s cheaper robusta instead.
+But…
+Vietnam
+has faced its own drought, driving its lowest harvest in four years, while last week's Typhoon Yagi might’ve hit yields too. Interestingly, many local coffee farmers are also now pivoting to grow durian fruit to meet soaring demand in neighbouring China (
+fun fact
+: durian is so stinky, it’s widely banned on public transport across the region).
+Third, the EU's sweeping new deforestation rules
+enter force on December 30. That means coffee importers will have to prove they're not sourcing their beans from farms that’ve contributed to deforestation. It’s a worthy cause, though compliance costs (using satellite imagery and historical data) will be prohibitive for many smaller farmers, meaning the EU (which buys 40% of the world’s coffee) will be off-limits for many. So before that happens, some EU buyers are now stockpiling beans and driving up prices further.
+Fourth
+, even once you grow the coffee and prove it didn't cause deforestation,
+getting it to market
+is now tricky. We’ve explored previously how Houthi attacks on commercial shipping have caused cargo and container rates to spike just about everywhere.
+And then
+finally
+, all the above pricing signals are attracting speculators, who are driving prices even higher, in turn attracting even more speculators, and in turn encouraging farmers to hold onto their stockpiles longer to sell later at even higher prices.
+So it's all a bit of a perfect storm.
+But... does it matter?
+Higher prices have been a bonus for
+producers
+(many of them low-income), who are staying profitable even as yields drop. That's been good for farmers from Uganda to Indonesia, who are now hitting - or on track to hit - new records.
+Big chains use fixed-price contracts, but
+end consumers
+will eventually feel the pinch - as Intriguer and international coffee consultant Stuart Ritson told us, "
+already we see many roasters opting for slightly lower qualities where possible to save money - so either your latte will be more bitter or more pricey (or possibly both).
+"
+The multinationals
+are getting nervous too, with
+Nestle
+,
+Lavazza
+,
+Illy
+, and beyond all warning of tighter margins or even losses.
+And
+G7 leaders
+even highlighted coffee as a key commodity earlier this year, partly reflecting nervousness around how price spikes in yet another daily staple might fuel more voter discontent.
+So that pumpkin spice latte of yours is, dear Intriguer, also spiced with some serious global volatility.
+INTRIGUE’S TAKE
+Researchers out of Zurich
+say
+as much as half the world's coffee plantations could become unusable by 2050 - that's because coffee (particularly arabica) needs finely calibrated levels of heat and water to thrive, and climate change is scrambling both.
+So against that backdrop it'll be interesting to see the adaptive role science and tech can play. One opportunity is in selective breeding, which has massively increased the durability and yield of other crops, but it's still a relatively new journey for coffee.
+Another development is in the realm of cellular agriculture: Finnish researchers just
+produced
+real coffee using a bioreactor rather than a farm, but ditto, it's still a way off.
+So for now, there might be more turbulence ahead for coffee.
+Also worth noting:
+Vietnam's harvest season is due next month, and the seasonal rains in Brazil are due to have started in September, so there's some wait-and-see happening.
+A shout-out to Intriguer and international coffee consultant
+Stuart Ritson
+for sharing some of his reflections with us today.
+MEANWHILE, ELSEWHERE…
+🇺🇿
+Uzbekistan
+: German Chancellor Olaf
+Scholz has landed in Uzbekistan
+to kick off a three-day trip across Central Asia. His talks with Uzbek President Shavkat Mirziyoyev are expected to focus on ways skilled Uzbeks can emigrate to Germany, plus potentially ways to allow the deportation of rejected Afghan asylum-seekers back via Uzbekistan.
+🇬🇧
+UK
+: Prime Minister Keir Starmer
+met US President Joe Biden
+Friday for talks on their future strategy on Ukraine. While the pair dismissed Putin’s latest threats of escalation, their closing remarks were notably silent on the possibility of Kyiv using Western-supplied long-range weapons to strike Russian territory.
+🇵🇭
+Philippines
+: The Philippine coast guard has
+withdrawn a ship guarding the Sabina Shoal
+(well within its exclusive economic zone), after blocking and ramming from China’s coast guard left the crew malnourished and the boat damaged. Manila has announced it’s already sending out another replacement ship, while China has said Manila is infringing on its territory.
+🇻🇪
+Venezuela
+: Local authorities have arrested six foreigners they say were
+plotting to assassinate President Nicolás Maduro
+. The Venezuelan interior minister has accused the CIA of orchestrating the supposed assassination attempt, an accusation the US denies.
+🇰🇲
+Comoros
+: President Azali Assoumani has sustained only light injuries after being
+attacked by a knife-wielding man
+at the funeral of a local religious leader. The president was just re-elected in January to an unprecedented fourth term, in elections the opposition denounced as fraudulent.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+Someone has stolen the UK police minister’s purse while she was
+attending… a police conference
+.
+Park rangers in southern New Mexico have accused a single abandoned
+bag of Cheetos chips
+of wreaking havoc on a US cavern ecosystem.
+Investigators have tracked a famous
+portrait of Winston Churchill
+to Italy, after someone stole it from a Canadian hotel in 2022 and replaced it with a fake that went unnoticed for eight months.
+It’s a bird! It’s a plane! Oh, yep, it’s a plane. Specifically, it’s a
+huge, whale-shaped cargo aircraft
+aptly named the Airbus Beluga, which landed in London last week.
+And because why not, the Japanese operator of the Fukushima nuclear power plant has started
+selling peaches
+cultivated near the abandoned plant at luxury retailer Harrods.
+CHART OF THE DAY
+Data from the African Youth Survey 2024
+According to Xi Jinping, China-Africa ties are now at their “
+best in history
+”, and a new survey of young people in Africa suggests many young folks on the continent agree. According to this year’s
+African Youth Survey
+by the Ichikowitz Family Foundation, 82% say China has a positive influence on the continent, while 79% say the same of the US.
+Interestingly, however, 72% also said they were ‘very’ or ‘somewhat’ concerned about the influence foreign countries and organisations have on their country and Africa at large.
+DAILY POLL
+Not wanting to start a war here, but... which country do you think serves the best cup of coffee?
+🇮🇹 Italy
+🇦🇺 Australia
+🇹🇷 Turkey
+🇪🇹 Ethiopia
+🇻🇳 Vietnam
+🇮🇩 Colombia
+🇮🇩 Indonesia
+🇧🇷 Brazil
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+What do you think about Mexico's judicial reform?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+👌
+It'll be fine - more accountability is good (14%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+😬
+Eeek - AMLO is playing with fire here (82%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (4%)
+Your two cents:
+😬
+C.B:
+“Elected judges seemed great until I thought about the implications.”
+👌
+S.A.K:
+“The judicial system should serve the people.”
+✍️
+D.D:
+“Most outsiders don't realize how unsatisfied most us Mexicans are with the judicial system. It is corrupt and inscrutable; the last thing you want in life is to be involved in any way with the courts, you know you're going to get fleeced by the lawyers and be at risk of punitive actions by the judges. In this regard, the system desperately needs reform. However, AMLO's proposal (like most of his reforms) won't solve the problem.”
+✍️
+F.I.M:
+“As the popular Mexican saying goes, ‘
+We Mexicans have the government we deserve.
+’“
+Editor’s note: A shout-out that Mexico celebrates its Independence Day today (16 September).
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

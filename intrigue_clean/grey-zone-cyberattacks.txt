@@ -1,0 +1,200 @@
+URL: https://archives.internationalintrigue.io/p/grey-zone-cyberattacks
+Title: 🌍 Grey zone cyberattacks
+
+Hi {{ First name | Intriguer }}.
+Have you seen ‘Beef’ yet? If not, I highly recommend checking it out - it’s been my favourite TV series in years.
+Speaking of beef - a petty (but enduring) one I have is with my law school supervisor, who told me my graduating thesis on the international laws of cyber warfare “
+read like science fiction
+”, and awarded me a middling grade.
+Fast forward to 2024, and countries worldwide are now deploying all sorts of
+cyber weapons against civilian targets
+to gain an upper-hand - mostly still without consequences.
+We dig into that in today’s top story.
+- Helen Zhang, Co-Founder
+TODAY’S NEWS
+Israeli operation turns to Rafah.
+Defence Minister Yoav Gallant says Israel has “
+disbanded
+” Hamas operations in the southern Gaza city of Khan Younis, and will now “
+continue to Rafah
+” (south towards the border with Egypt). Israel had previously instructed Palestinians to move towards Rafah, which now hosts over a million displaced Palestinians (nearly 50% of Gaza’s population).
+Iran slows enriched uranium production.
+The head of the International Atomic Energy Agency says there are signs Iran has slowed its stockpiling of 60%-enriched uranium (which can be further enriched for use in nuclear weapons). The move might’ve been intended to defuse tensions with the US and its allies amid concerns Tehran’s nuclear facilities could become a military target.
+EU leaders promise more support for farmers.
+Commission
+President Ursula von der Leyen has pledged to cut red tape in the agricultural sector and rethink parts of the EU’s new climate-related laws, after farmers protested throughout Belgium, France, Germany, Portugal, and beyond.
+Meta and Amazon stocks soar.
+The two tech giants reported better-than-expected earnings yesterday (Thursday), after a cost-cutting crusade saw tens of thousands of workers laid off last year. Their combined stocks jumped $272B on the news, with Meta announcing it would pay its first-ever dividend.
+TOP STORY
+The FBI disrupts China-based, state-backed hacking group
+FBI chief Christopher Wray has told a US House subcommittee that his agency has disrupted a Chinese state-backed hacker group targeting US infrastructure.
+The group’s strategy is simple
+:
+going by the name Volt Typhoon, the hackers infiltrate old software in small businesses, contractors, or local government networks and plant ‘sleeper’ malware. They then activate that malware at the opportune time to infect adjacent infrastructure networks.
+What kind of infrastructure?
+We’re talking everything from US naval bases to energy utilities and internet providers.
+And why?
+Wray said
+the hackers are lying low
+“in preparation to wreak havoc and cause real-world harm to American citizens and communities, if or when China decides the time has come to strike
+[ie, to take Taiwan]
+”.
+This is all commonly referred to as a ‘
+grey zone challenge
+’ - ie, playing in the space between war and peace, to do harm without crossing into armed conflict.
+It can include sabotage, espionage, political influence, shadow wars, and using civilian functions (like the coast guard, customs, or courts) for strategic aims (like controlling a waterway, coercing a rival, or extracting a concession).
+But the FBI’s announcement above is an example of how much
+tech is now radically expanding the grey zone into the cybersphere
+.
+And of course,
+China isn’t the only player
+that dabbles in the cyber-grey:
+The US
+has reportedly
+implanted
+50,000 sleeper cells in routers around the world
+The UK has accused
+Russia
+of carrying out a sustained ‘hack and release’ campaign to undermine social trust and cohesion
+Microsoft also identified
+Iran
+last year as “
+a significant threat actor
+”, targeting mainly Israel, the US, Saudi Arabia, and the UAE
+And
+Israel
+dishes it out too, infamously using a virus to destroy Iranian centrifuges (and a
+remote robot
+to assassinate a nuclear scientist)
+But… why?
+As the above examples suggest,
+greyzone tactics in the cybersphere can have several objectives:
+Military advantage
+:
+China reportedly sought here to disrupt America’s state of readiness (to aid Taiwan), like Russia did to Ukraine
+Intel
+:
+Any information advantage can help shape and pre-empt adversaries’ decisions
+Testing
+:
+It’s a relatively cost-free way to test
+when
+and
+how
+states react, to better map their trigger points, redlines, and responses
+Weakening
+: Done ‘right’, you can diminish an enemy by halting their technological progress or fomenting confusion, mistrust, and conflict
+Cash
+: Some (like North Korea) just make hundreds of millions from cybercrime to bankroll government and elite spending (check out our ‘passport of the day’ below for one memorable example)
+So, to close… cyber greyzone tactics are a bit like checking yourself out in a shopfront reflection: everyone does it, nobody admits it, it’s embarrassing if you get sprung, but there are few real consequences. At least, not yet.
+INTRIGUE’S TAKE
+The dark genius of the cyber greyzone tactic is just how hard it is for the target to calibrate a response. First,
+attribution
+is still tough, as hackers use all kinds of evolving techniques to mask their activity, identity, and location.
+And second, even if you figure out who’s behind it, you then have to figure out
+how to respond
+. This presents a constant risk of under-reacting (emboldening the hackers) or over-reacting (triggering something worse).
+You can see in the public domain how governments propose rules of the road, like ‘no hacking for commercial gain’, or ‘no attacking the health sector’, or ‘let’s all follow these UN norms for responsible behaviour’.
+But really, it’s still the law of the jungle - or as international relations folks call it, reciprocity and deterrence. Don’t do unto me, or I’ll do unto you right back.
+HELP US GET OUR DREAM 100 SUBSCRIBERS
+New subscribers for us, new hats for you!
+Intrigue Head of Ops Aine here, and oh do I have good news for you: we’ve launched limited-edition Intrigue hats.
+But, there’s only one way to get them. Help me reach my February goal of finding our “Dream 100” subscribers. We’ve got big names on there, from Ray Dalio and Ryan Reynolds, to Mia Mottley and Malala Yousafzai.
+There are also more attainable goals across journalism, the private sector, and government.
+Check out the list here!
+MEANWHILE, ELSEWHERE…
+🇰🇷
+South Korea
+: South Korean
+exports rose for the fourth consecutive month
+in January, driven by increased demand from China, and semiconductor shipments. South Korea’s advanced, export-heavy economy is often seen as a bellwether for global trade.
+🇬🇧
+UK
+: A new trade deal might
+resolve a two-year political impasse
+in Northern Ireland and see the local government restored to function. The agreement, whose details haven’t yet been published, convinced the Democratic Unionist Party to end its boycott of a power-sharing deal.
+🇮🇳
+India
+: Prime Minister Narendra Modi has presented his government’s
+last interim budget
+before India’s April/May elections, allocating US$145B for infrastructure development. A lack of flashy populist spending suggests he’s pretty confident about his electoral chances.
+🇲🇽
+Mexico
+: Mexico’s top court has agreed with a group of renewable energy firms that the government’s
+attempt to favour a state-owned utility company
+was anti-competitive. The ruling is a setback for the outgoing president (‘AMLO’), who’s been working to undo some of his predecessors’ more pro-business reforms.
+🇮🇱
+Israel
+: US President Joe Biden has approved
+sanctions on four Israeli settlers
+involved in violence against Palestinians in the occupied West Bank. There’ve been 494 such instances reported since 7 October, according to the UN.
+EXTRA INTRIGUE
+Some weekend recommendations if you happen to be in
+🇺🇸
+Los Angeles
+Eat
+: Check out
+Salazar
+, a hip, Sonoran-style Mexican spot in Frogtown that’s perfect for a sunny afternoon with friends.
+See
+: Burn off that burrito with a stroll along Runyon Canyon, a popular hiking trail with stunning views (and the occasional Kardashian).
+Drink
+: Catch the sunset with a rooftop cocktail at
+Petit Ermitage
+, a WeHo hideaway set among lush gardens and hummingbirds (you’ll need to be a hotel guest, or at least a guest of a guest).
+PASSPORTS OF THE DAY
+Credits: Reuters
+Do you recognise these two lads? Yep, that’s a young Kim Jong-Un on the right, and his late father on the left. Notice anything odd about those passports? That’s right, they’re Brazilian. North Korea’s former and current supreme leaders used these fake passports
+to visit Tokyo Disneyland
+in the 1990s.
+FRIDAY SURVEY
+We’re doing something different this Friday - we’d love to know what you think of Intrigue! It’ll help us to keep growing. But don’t worry, our Friday quiz will be back next week!
+How likely are you to recommend Intrigue to a friend?
+1 (not at all)
+2
+3
+4
+5 (definitely)
+Login
+or
+Subscribe
+to participate
+What do you think intrigue does best?
+Covers a wide range of regions and issues
+Explains things simply and clearly
+Injects some fun into geopolitics
+Adds insightful analysis
+Contextualises news in a useful way
+Aggregates lots of info in an enjoyable format
+Rises above the polarisation and politicisation
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+If you could change one thing about the newsletter, what would it be?
+Make it longer
+Make it shorter
+Make it more analytical
+More/less stories on... (tell us what!)
+Make it simpler
+Make it more serious
+Make it more humorous
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+What would you like to see more of from Intrigue this year?
+More behind-the-scenes from the ii team
+More analysis
+More fun content
+More community
+More collabs (with...?)
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+And if you’d like to leave our team more detailed feedback, just hit reply!
+Share the Intrigue

@@ -1,0 +1,244 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-7d9ea3185f1c6ea6
+Title: 🌍 Are the markets wrong on Iran?
+
+Today’s briefing:
+— Are the markets wrong on Iran?
+— Armenia’s zebra jailbreak plot-twist
+—
+This
+is how you nap
+Good morning {{first_name | Intriguer}}
+. There’s a cottage industry out there already tracking the global ripples from this Hormuz blockage, whether it’s Thai office-workers switching to short-sleeves, or India’s tech giants encouraging employees to bring lunch from home.
+But I still didn’t expect this latest one in the Financial Times: “
+When my sheep break wind, it smells of roses.
+” The link? Kenyan farmers are reporting that higher fuel prices mean they now have to feed roses to their sheep rather than ship roses to love-sick foreigners.
+And that’s where today’s briefing comes in: if we’re now at the point where the Iran war has literally caused sheep farts to smell like roses,
+why did the S&P500 just reach another record high on Friday?
+The answer might surprise you (or not, I don’t know how easily surprised you are).
+Number of the day
+$8B
+That’s the record inheritance tax bill Korea’s Samsung family has now paid, after the patriarch and former chair Lee Kun-Hee died in 2020.
+Who’s right here…
+Our world is full of mysteries, like why do we call them 'apartments' if they're all stuck together? And why are boxing rings actually a square?
+Today we'll explore another: with Hormuz still blocked, the US still at war, and no end in sight for the biggest energy shock in history, why did the S&P500 just hit another record?
+Here are
+five possible reasons you need to know
+, starting with...
+Artificial intelligence
+The US tech sector is still charging ahead, with six of the Magnificent 7 (aka a third of the S&P500) all just beating Q1 expectations for earnings-per-share, yet again. The seventh (Nvidia) is due to post earnings later this month.
+Why so upbeat?
+Non-tech earnings are performing well too, but investors seem to be buying tech's longer-term AI story, even if it means some staggering capex right now: we're talking $700B (aka a Sweden) on new AI infrastructure this year alone.
+And to buy that AI story, investors might also be buying a bit of...
+Hormuz optimism
+Wall Streeters like to investor-splain that share prices are the net present value of all
+future
+earnings, so there's an implicit calculation here that this
+AI supercycle will outlast and outweigh the Iran war
+: eventually, Hormuz will reopen, oil prices will stabilise, productivity will outrun inflation, and maybe our grandkids will study the Iran war. Makes sense.
+Though to buy that story, investors might also be buying a bit of...
+US energy independence
+You have a better shot at shrugging off history if you're energy-independent, and the US has met
+part
+of that definition since 2019 when it became a net energy exporter.
+The Mag7 tech giants specifically have also spent years as the world's single largest corporate buyers and investors in
+clean energy
+, often via long-term supply contracts.
+Now of course, keep in mind that
+a
+) Hormuz still threatens US tech with niche supply disruptions (eg helium), and
+b
+)
+true
+US energy independence would mean decoupling US prices from global volatility (instead, US pump prices are now at their highest since 2022).
+But that's still a compelling picture of both the world's largest economy and its largest sector perhaps being able to ride this thing out.
+Still, to buy
+that
+story, investors might also need to buy a bit of...
+US consumer resilience
+Despite consumer confidence scratching
+record lows
+, US retail sales have held up, wage growth is outpacing inflation, household savings have stabilised, and loan delinquency rates are still low.
+So while there are market jitters (we explored them in
+private credit
+, for example),
+US consumers still act okay
+, and that curbs (though doesn't erase) the risk of a recession.
+Meanwhile, geopolitical shocks alone have tended to leave only limited long-term impacts if corporate earnings hold (which they are), so maybe investors are just seeing beyond all the negative Nancys and concluding, "
+this too shall pass
+"?
+Like a tale of two timelines: Wall Street’s tomorrow vs everyone else’s today.
+Or maybe...
+Is the market getting this wrong?
+In just about every major modern shock (1973, 1990, 2022), markets initially said 'meh' before suddenly pivoting to 'omg' once the full economic damage became clear.
+And yes, the full damage is now starting to come into focus: we're draining our world's pre-war
+storage
+while heading towards a
+supply
+cliff: Hormuz-trapped Kuwait, for example, just exported
+zero oil
+for the first time in more than three decades
+!
+That's why a
+leaked JP Morgan memo
+ominously concluded... "
+it's just math
+": with ~10 million daily barrels now missing, oil prices must rise to destroy enough demand to match that smaller supply: Spirit Airlines just went under, Lufthansa has cancelled 20,000 flights, and more might follow.
+That
+theoretically
+all means more inflation, higher rates, less investment, cash-strapped foreigners buying fewer US holidays, and slower growth ahead.
+But… even
+if
+the markets are wrong here (still an if), maybe that only gets you back to the famous Keynes line: “
+the market can stay irrational longer than you can stay solvent.
+”
+Or if you want to invert it: the optimistic bet has tended to pay off… until it doesn’t.
+Intrigue’s Take
+Investors have already punched through a global pandemic, a land war in Europe, and even the fastest rate-hiking cycle in decades. So a 10% haircut to oil supplies? Yawn.
+But maybe another way to look at this latest S&P500 record is to zoom out and see it in a broader context: US stocks have now persistently
+under
+performed the
+rest of the world
+for the first time since America’s early 2000s ‘lost decade’ after the dot-com bust. So maybe one conclusion is sure, US markets are fine, but they’d be fin
+er
+without the chaos.
+Another way to look at this S&P500 story is to reframe it in (say) gold rather than the US dollar, which fell 10% against major currencies last year. And if you do that, the S&P500 has been flat or even down since roughly 2021. So there’s a degree to which this could be as much about
+a weaker dollar
+as it is about a stronger S&P500.
+A third and final way (for now!) to look at this is to consider that, if you’re a fund manager, are you really going to park your billions in a stagnant Eurozone, a war-rattled Middle East, or an energy-starved Asia? You might still prefer to
+stick with the most liquid
+, battle-tested companies on earth, as distilled via the S&P500.
+And if that’s the case, then maybe any relative US-vs-the-world underperformance is less about the end of US exceptionalism, and more a classic
+valuation rotation
+: pricey US stocks (63% of
+the world
+’s market cap) can look less a safe haven and more a price-trap.
+Though maybe in this wild world of ours, a pricey bunker can still look like a bargain.
+Sound even smarter:
+President Trump has said he’s
+“not satisfied”
+with
+Iran’s weekend peace proposal
+, which reportedly dropped the regime’s precondition for the US to first lift its blockade, but otherwise held firm on demands like sanctions relief, and the continuation of its nuclear energy program (with a 15-year enrichment pause).
+In response, Trump has instead
+announced
+Project Freedom
+— a US Navy-led operation to escort stranded (and neutral) ships out of Hormuz, starting today (Monday). It’s a game of chicken, so keep an eye out for how many tanker captains are willing to bet their ships and crew on Iran blinking first (though Trump’s repeated emphasis on them being
+neutral
+ships suggests a hope the regime might hold fire rather than anger a new cohort of random capitals).
+Today’s briefing is presented by…
+Global HR shouldn't require five tools per country
+Your company going global shouldn’t mean endless headaches.
+Deel’s free guide
+shows you how to unify payroll, onboarding, and compliance across every country you operate in. No more juggling separate systems for the US, Europe, and APAC. No more Slack messages filling gaps. Just one consolidated approach that scales.
+Get the free guide today
+Meanwhile, elsewhere…
+🇸🇿
+ESWATINI — Defiant detour.
+Taiwan’s President Lai has made a surprise visit to Eswatini, Africa’s only nation still recognising Taiwan rather than mainland China. He seems to have arrived on a royal Eswatini jet after China pressured three small African nations to deny overflight permission for
+last week
+’s delayed visit. Taiwan and Eswatini are insisting they’ll decide their own diplomatic relationships, while China has described the visit as the actions of a “
+rat who skulked his way there.
+” (
+Asahi
+)
+🇨🇦
+CANADA — Drawing a line.
+Ottawa has now formally labelled Canada-based Khalistani extremists (those pushing violent extremism to carve a Sikh state out of India) as a national security threat in Canada’s latest intelligence assessment. (
+Canada Security Intelligence Service
+)
+Comment:
+It’s probably an olive branch to stabilise Canada’s fraught ties with India, which has always accused Canada of harbouring terrorists among the world’s largest Sikh diaspora.
+🇰🇵
+NORTH KOREA — Let’s make it official.
+Word is Russia and North Korea are about to sign a five-year defence cooperation plan covering tech transfers, training, and arms shipments. (
+Korea Herald
+)
+Comment
+:
+This looks like an incremental step beyond the big pact these two pariahs signed in 2024: any fanfare will likely be about projecting unity amid Western sanctions, and distracting folks from their woes back home (Putin’s central bank chief again just sounded the alarm on labour shortages and inflation). Meanwhile, China’s Xi can’t be too happy about these two junior partners still pursuing a direct bromance.
+🇩🇪
+GERMANY — 5,000 down.
+President Trump is making good on his threat to remove US troops from Germany, after Chancellor Merz warned Iran was “
+humiliating
+” the US. (
+Independent
+)
+Comment
+:
+With ~30,000 US troops still there, it’s more symbolic than anything, but as two of Trump’s own party senators have noted, it’ll still benefit one country: Russia. Meanwhile, the leaders of the 48-strong European Political Community + Canada have travelled to Armenia to discuss strategies to ‘derisk’ away from a volatile US.
+🇻🇳
+VIETNAM
+— Good to have options.
+Japan’s leader (Takaichi) has just wrapped her first visit to Southeast Asia (Vietnam) since becoming prime minister last year — she’s now in Australia. (
+Nippon
+)
+Comment
+:
+Takaichi’s Vietnam trip pledged Tokyo’s help on oil and critical minerals, suggesting she’s pitching Japan as a regional counterweight to China. There’s already a similar emphasis out of Australia, but with an added security dimension (Australia just committed to buy Japanese frigates in Tokyo’s biggest arms sale in history). Japan also needs Australia’s LNG and gas.
+🇨🇺
+CUBA — More sanctions.
+The US has imposed sweeping new sanctions on Cuba, allowing DC to go after non-US citizens and entities with business ties to the island. (
+Guardian
+)
+Comment
+:
+This is a massive US escalation, as it implicates those foreign companies who’ve kept doing business with Cuba after decades of the US embargo. It suggests US-Cuba talks still haven’t made the progress Trump wants.
+🇳🇬
+NIGERIA — Tense times.
+Abuja has summoned South Africa’s top envoy to protest against a recent spike in deadly anti-immigrant attacks that’ve left at least two Nigerian nationals dead. Ghana filed a similar complaint last month. (
+BBC
+)
+Comment
+:
+South Africa has the continent’s most industrialised economy, but persistent stagnation — combined with the visibility of Nigerian nationals across South African sectors like retail — has been a combustible combination, with Ghana’s complaint suggesting it’s spreading. It risks derailing not just South Africa’s neighbourly ties but also the broader ‘Afro-optimism’ moment.
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news
+Police in China have apologised for installing a dozen new traffic cameras without removing the old ones, resulting in a
+spectacularly overcrowded traffic pole
+.
+The Yerevan zoo has blamed a reported zebra jailbreak on prankers painting a
+donkey black and white
+.
+Malaysian police have suggested that scammers are now avoiding the local Indian community because
+they ask too many questions
+.
+South Africa has
+withdrawn its AI policy
+after it emerged it was part AI-written.
+And Bloomberg has
+asked a bunch of people named Claude
+how Anthropic’s fast-growing Claude AI is complicating their lives.
+Contest of the day
+Credits: Seoul via YouTube.
+There are two types of people in this world: folks who love naps, and liars.
+The Seoul Metropolitan Government organised its third power nap contest this weekend, inviting hundreds to join a communal snooze on the banks of the Han River. Why? Well, South Koreans are the most overworked and sleep-deprived people in the OECD!
+The winner of this year’s contest was a man in his 80s, who slept soundly despite   interruptions such as feather tickling and mosquito sounds. Sir? We salute you.
+Extra fun fact
+: The whole event was
+live-streamed
+. It was oddly relaxing.
+Today’s poll
+What do you think *best* explains the S&P500 hitting another record amid the Iran war?
+🚀 The AI boom will outlast the war
+💥 The markets are wrong
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think oil's centre of gravity is shifting West?
+🌎 Yep, geography is destiny (41%)
+🛢️ Nope, the Middle East wins on cost (57%)
+✍️ Other (write us!) (2%)
+Your two cents:
+🛢️
+H.B:
+“Oil distribution will become increasingly regional, but the Middle East will maintain a large market.”
+🌎
+C.M:
+“It is shifting, but the process will probably be very slow - i.e. to be counted in decades.”
+✍️
+J.B:
+“Renewables are coming up fast. Will the Western producers be able to ramp up before they become irrelevant?”

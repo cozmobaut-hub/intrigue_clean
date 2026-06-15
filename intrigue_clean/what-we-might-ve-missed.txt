@@ -1,0 +1,236 @@
+URL: https://archives.internationalintrigue.io/p/what-we-might-ve-missed-33ed3b178ad2835a
+Title: 🌍 What we might’ve missed
+
+Today’s briefing:
+— What we might’ve missed
+— Some very intriguing jobs
+— How’d the little guy end up
+there
+?
+Good morning {{first_name | Intriguer}}
+. One of the reasons we started Intrigue Media was to zig while mainstream media zagged. We wanted to uncover the stories around the world that other outlets under-reported, or perhaps missed altogether.
+We also wanted to help our readers connect the dots between seemingly disparate industry sectors and world events, and explain why it matters to them.
+In recent months, we’ve admittedly been drawn deeper into the headline stories driving global agendas. So today, we’re returning to our roots and zooming back out to cover some stories
+we might’ve missed while the Israel-Iran-US sitch dominated news cycles
+. Let’s dive in.
+Quote of the day
+“I don’t need help with Iran.
+I need help with you.”
+That’s what President Trump says he told Vladimir Putin when the Russian president sought to offer himself as a mediator in the Israel-Iran war.
+Overlooked stories
+All the escalating, de-escalating, and re-escalating in the Middle East has captured the world’s attention lately, and sure, fair enough. Since our last briefing…
+An irate President Trump has called out both Israel and Iran for
+breaking his ceasefire
+, adding the two foes “
+don’t know what the f*ck they’re doing
+”
+Leaked initial US intelligence suggests the weekend’s
+US strikes failed
+to destroy Iranian nuclear sites, an assessment the White House calls “
+flat-out wrong
+”, and
+Israel’s Benjamin Netanyahu has warned
+Israel is prepared to strike Iran again
+if Tehran resumes its nuclear program (as it’s already pledged to do).
+So it’s
+possible
+those US strikes might not’ve obliterated Iran’s nuclear program, so much as vindicated and accelerated it. And you might recall former top US targeting professional Wes J. Bryant
+flagged
+this risk with us on Friday.
+Anywhoo, believe it or not but the world has continued to turn while this all plays out, so here are three other quick updates the B-2s might’ve bumped off the front pages:
+💸
+FINANCE - Rates reveal divergent strategies
+Over the past week…
+The Swiss
+and the
+Norwegians
+both
+cut
+their rates
+The
+Fed
+(plus the
+Bank of England
+) held theirs
+steady
+, and
+Brazil
+’s central bank
+hiked
+rates for the seventh straight meeting to 15%
+What does this mean?
+Sure, there are different domestic drivers — the Brazilians are grappling with inflation while the Swiss grapple with
+de
+flation, for example.
+But there are also different
+strategies
+on display here in response to US tariffs: the Swiss are desperate to curb their franc, which has soared amid all the trade uncertainty; the Norwegians are pre-emptively easing to mitigate trade-war impacts on their growth; while the Brits and the Fed are still playing
+wait-and-see,
+as possible inflation still works its way through.
+💻
+TECH - Huawei’s bold new laptop?
+China’s tech giant Huawei just unveiled its newest laptop, the Matebook Fold, featuring a cool screen that opens and folds like a book, packing more pixels. But… who cares?
+Well, you might recall it was Huawei who shocked the world a couple of years ago with a new cellphone packing hardware suggesting China might’ve shrugged off US tech controls and figured out how to
+close the semiconductor tech gap
+.
+We had our
+doubts
+at the time, so there was keen interest to see what Huawei might unveil next. And it turns out while this laptop’s
+design
+is cutting edge,
+its
+chips
+are not
+: According to
+TechInsights
+, the Matebook still uses the same years-old 7nm technology.
+By way of reference, Taiwan’s TSMC is set to start mass producing
+2
+nm chips later this year, a full
+three generations ahead
+. So while it’s still way too early for DC to pop the champagne, it does suggest US tech controls are having an impact in a critical sector.
+🌱
+COMMODITIES - Colombia’s fertiliser collapse
+This story starts next door in Venezuela, which owns the Colombia-based ‘
+Monómeros Colombo Venezolanos
+’ fertiliser plant. That plant produces ~28% of Colombia’s fertiliser but its special exemption from US sanctions on the Maduro regime is set to expire this month and seemingly won’t get renewed as Trump 2.0 ramps up pressure on Maduro.
+What does this mean?
+Colombian and Venezuelan (mostly small) farmers will see their fertiliser costs spike, exacerbating the political, economic, and possibly even security woes for Colombia’s own embattled President Petro.
+Longer term, Maduro next door was already floating the idea of selling the plant (his regime needs the cash), so someone might score a sweet summer firesale discount.
+Intrigue’s Take
+Those are some wildly different stories playing out across vastly different sectors and regions, but allow us to offer two concluding observations:
+First
+, critics have long noted the
+uncertainty at the heart of sanctions
+, once amusingly described by William Neuman (a former NYT Venezuela correspondent) as “
+reverse rapture theology
+”: ie, the hope that, after we slap sanctions, the bad guys might somehow get raptured away. But sure, while tightening might mean China’s laptops chug, both Maduro and the ayatollah are still here, while it’s now farmers in Colombia (long a US partner) who get burnt.
+And
+second
+, it’s an example of how our
+fragmenting world
+can amplify regional crises: divergent monetary policy, an agricultural collapse that could ripple through Latin America, and governments struggling to balance priorities at cross-purposes. It all hints at a multipolar world that increasingly struggles to coordinate, in turn allowing domestic challenges to cascade into regional crises.
+But yes, there’ve been glimmers of
+hope
+this past week, too: one war
+might
+’ve stopped, with Rwanda and the DR Congo set to sign a US-brokered truce this Friday, potentially ending decades of enmity. Stay tuned.
+Sound smarter:
+Meanwhile, of course, other wars dragged on:
+Putin
+seems to have seized the distraction to flatten more Ukrainian homes and even a passenger train; witnesses again report that Israeli forces have opened fire near aid sites in
+Gaza
+(the IDF says it’s investigating); and
+Sudan
+’s civil war has intensified, displacing another 100,000 folks as 25
+million
+face acute hunger.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Mamdani upsets Cuomo in NYC race.
+Grassroots support has helped 33-year-old democratic socialist Zohran Mamdani pull off an upset in New York’s mayoral primaries, beating the controversial (if establishment) former governor, Andrew Cuomo. That leaves Mamdani as the favourite for November, though his suite of proposals (from rent freezes to government grocery stores) might face enough pushback to give independent rivals a shot. (
+BBC
+)
+Comment:
+Wondering why ex-diplomats would be tracking the NYC mayoral election? We’ve got
+good reasons
+!
+🇺🇿
+UZBEKISTAN
+-
+When life gives you lemons.
+Lemon prices in Uzbekistan have surged after Turkey (the world's largest exporter) moved to pause foreign sales amid a weak harvest. (
+Fresh Plaza
+)
+Comment:
+So you can add lemons to the long and growing list of food items copping export controls as capitals fear price spikes at home.
+🇫🇷
+FRANCE
+-
+On the brink?
+It seems France’s latest wafer-thin government is now wobbling, with Prime Minister François Bayrou set to face a no-confidence vote as the country’s vexed pension reform talks stumble. (
+Euractiv
+)
+Comment:
+There were rumours a few weeks ago that President Macron might again dissolve parliament — keep an eye out for those to resurface, whether as a pressure tactic to force lawmakers to compromise, or because the prez means business.
+🇭🇰
+HONG KONG
+-
+National security for kids.
+Local authorities have sent out a “
+friendly reminder
+” about Hong Kong’s national security laws to international-linked schools. It’s turned heads just ahead of annual US Independence Day celebrations, with reports authorities are warning some students and teachers not to take part in what’s ordinarily a routine affair. (
+SCMP
+)
+🇺🇸
+UNITED STATES
+-
+A new foreign policy?
+US Vice President JD Vance has taken to social media to set out what he describes as an emerging new US foreign policy doctrine that’ll change the country and the world for the better: “
+1) clearly define an American interest; 2) negotiate aggressively to achieve that interest; 3) use overwhelming force if necessary.
+” He cites the recent US approach to Iran by way of example. (
+X
+)
+Comment:
+The Veep tweeted this from his personal account, indicating it’s an initial reflection rather than any kind of official declaration. But with an eye to the 2028 elections, it also reads like a way to balance his stated wariness on the use of US power abroad, with the president’s historic decision to proceed with hits on Iran.
+🇲🇱
+MALI
+-
+Nuclear diplomacy.
+With Mali’s junta leader appearing in Moscow, the West African nation has signed three deals with Russia covering trade, nuclear energy, and political-security cooperation. (
+Anadolu Agency
+)
+Comment:
+Moscow has a history of signing these deals to project itself as a global player, but any meaningful ramp-up will be a stretch right now. Eg, Putin often writes cheques his state-owned nuclear firm struggles to cash, whether it’s his stalled plans at home in Beloyarsk, delayed plans in Turkey, or his abandoned plans for Bulgaria.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Inaugural India Chair @
+Lowy Institute
+in Sydney
+European Parliament Relations Manager
+@
+Bayer
+in Brussels
+International Policy Special Projects Lead
+@
+Anthropic
+in San Francisco
+Admin Assistant
+@
+Heifer International
+in Nairobi
+Perks with Intrigue
+Cameo of the day
+If you ever feel bad about hitting send on something with an egregious typo (believe us, we know), maybe take heart that back in 2017, Saudi Arabia printed a whole new school textbook featuring a pic of the late king signing the UN Charter back in 1945. And for some reason, sitting right next to his majesty was none other than Yoda.
+To this day, nobody knows (or at least, nobody will admit) how the image — originally by Saudi artist Shaweesh — ended up in the textbook. Live on, this mystery will.
+Today’s poll
+Do you think conflict is over-reported in the media?
+📰 Yes, it drowns out everything else
+💥 No, it naturally draws attention
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think this Iran-Israel war is now basically over?
+🕊️ Yep, this war has run its course (18%)
+🔥
+Nope, still too many loose ends (80%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🔥
+M.A:
+“There is still too much to be solved, including the aspirations from Israel and Trump to unseat the current regime there, even without considering what would happen afterwards and who would be in a viable position to hold on to power.”
+🕊️ K.M:
+“Iran never had a strong bargaining position... now it has none.”
+🔥
+A.P:
+“This war ends with the collapse and ruin of at least one nation. Key parties are too stubbornly confident in their ability to ‘
+win
+’ a war to choose any other course.”
+✍️ J.O:
+“Even if the declared war ends, both sides will continue with economic and proxy wars, so in a sense the war won’t end until the current geopolitical lines shift far enough.”

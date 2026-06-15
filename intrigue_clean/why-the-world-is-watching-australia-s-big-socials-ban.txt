@@ -1,0 +1,230 @@
+URL: https://archives.internationalintrigue.io/p/why-the-world-is-watching-australia-s-big-socials-ban
+Title: 🌍 Why the world is watching Australia’s big socials ban
+
+Today’s briefing:
+— Australia’s big socials ban
+— How not to steal a Fabergé egg
+— This soda out-sells Coke in…
+Good morning {{first_name | Intriguer}}
+. If (like me) you grew up just as the internet was exploding, you might also remember things like…
+First web search?
+Who shot Mr Burns
+(ambitiously, before the episode was out…)
+First google of your name? Meet the Jeremy Dicker crushing it in LA finance, and
+First Facebook status update? A painfully earnest, literal update on my actual life (“
+hi everyone I am here at college hoping to be a diplomat…
+”).
+Now here we are, a couple of decades later and that initial awe and curiosity and disappointment (looking at you, Mr Burns search) is giving way to more jitters.
+So join us, Intriguer, as we update you on a new law that’s got the attention of capitals everywhere, entering force on Wednesday:
+Australia’s social media ban on under-16s
+.
+PS
+— Speaking of Australia, are you in
+Sydney
+? Join Intrigue co-founder Helen for
+drinks this Thursday
+from 5pm!
+Register here
+.
+Number of the day
+365
+That’s how many days since jihadi-turned-president Ahmed al-Sharaa ousted Syria’s Assad after a half-century of family rule, with locals setting off fireworks to celebrate this weekend.
+Won’t
+somebody
+please think of the children?!
+If your feeds seem a little off this week, it could be because hundreds of thousands of Aussies will soon go offline under Australia's world-first social media ban for U16s.
+Why do this?
+Canberra says it's about protecting children: whether it's the WHO
+addictive use data
+or Jonathan Haidt's best-selling book
+The Anxious Generation
+, there's
+evidence
+linking social media to poorer sleep, classroom drift, bullying, predators, self-harm, and beyond.
+Add some heart-breaking
+headlines
+, and it’s all sparked big
+parent-led movements
+Down Under to protect kids and empower parents ("
+sorry Reginald, it's against the law
+").
+Then throw in a bit of bipartisan momentum ahead of May 2025's elections, and boom — Australia’s parliament went ahead and passed this world-first legislation late last year.
+Okay, then...
+how
+do you do this?
+From Wednesday, the world's top platforms (think TikTok, Insta, Facebook, Snap, X, YouTube, Reddit, Threads, Twitch, etc) have to use "
+reasonable steps
+" to verify user ages.
+Uploading government ID can be tricky (privacy, access), so apps are also using things like facial age estimation and behavioural inference techniques to stop U16s from creating or maintaining profiles. Platforms (not the parents or kids) could face A$50M if they fail.
+But of course, this kind of world-first shift also has
+plenty of critics
+, asking...
+Will it work?
+(kids always find a way)
+Will it make things worse?
+(kids might go to darker corners of the web)
+Will it breach user privacy?
+(age checks might need big biometric databases)
+Will it stifle free speech?
+(kids want to be heard too)
+Will it isolate some kids?
+(there are some whose only crew is online), and
+Will it just excuse parental responsibility?
+(ie, supervise your own kids).
+And while Big Tech has avoided saying this next bit out-loud, tech titans also now stand to
+a
+) lose hundreds of thousands of sweet sweet accounts for selling ads, and
+b
+) burn millions rolling out age-verification tech at scale, then face big fines if it all fails.
+Big Tech types also whisper that the ‘
+Let Them be Kids
+’ campaign pushed by Australia’s Murdoch-owned outlets was just a ploy to protect struggling legacy media, not kids.
+Anyway, it all brings us to
+why a team of ex-diplomats would even care about all this
+:
+First
+, it’s about
+Big Tech vs sovereign states
+: Australia is now the world’s first country to impose a hard-enforceable age gate on global platforms at a national scale, further testing the extent to which giant platforms can and will obey national laws. And that leads us to…
+Second
+, it’s about
+the domino effect
+: if this works in Australia, you can bet others will follow — in fact, lawmakers across Europe, Brazil, and Asia are already debating their own versions of a youth social media ban. And speaking of other versions…
+Third
+, there’s fear some regimes might use online safety as
+a figleaf
+to (say) stifle dissent and sideline youth already at the pointy end of
+ousting unpopular regimes
+lately.
+And fourth
+, Wall Street will shudder as this all drives lower online youth engagement, higher operating costs, and a more fragmented internet demanding never-ending tweaks and government-engagement in each market, all inevitably hitting tech valuations.
+So yes, this is partly just about whether young Reginald can still access the latest Robert Irwin fan edits or whatever young folks crave Down Under, but it’s also about something much, much bigger: figuring out the nature of sovereignty in an age of tech.
+Intrigue’s Take
+There are many angles here, but one less ventilated is this: amid US paralysis, a fellow US ally and democracy has now landed on
+a stronger case
+for regulating America’s tech giants: not the EU’s antitrust, nor the natsec debate grinding its way through DC, nor the free-speech wars still polarising the broader US and even its ties with the EU.
+Rather, by anchoring this in children’s wellbeing, Canberra is arguably side-stepping those debates around content moderation, privacy, surveillance, and even data localisation, while building a coalition that somehow spans progressive activists to conservative family groups. That’s made it easier for lawmakers to support, and harder for Big Tech to oppose.
+So all that to say… we might now be witnessing not Brussels, Beijing, nor DC/Silicon Valley, but a middle-power democracy setting the precedent that unlocks broader global regulation of US platforms, just by picking a specific, winnable battle.
+Sound even smarter:
+Australia reversed an initial exemption for YouTube in July after months of public debate (and
+objections
+raised by YouTube’s competitors). In response, YouTube has
+warned
+this ban won’t work and risks unintended consequences.
+Meanwhile, elsewhere…
+🇹🇭
+THAILAND  — Airstrikes.
+Thai airstrikes have hit targets along the disputed Cambodia border, claiming retaliation against an earlier attack the Cambodians are still denying. (
+CNN
+)
+Comment
+: Coming months after they paused their five-day war, weeks after they signed a US-brokered peace deal, and days after the US president won the first FIFA Peace Prize, it’s a reminder that this conflict’s underlying drivers remain unresolved.
+🇾🇪
+YEMEN — A new player.
+UAE-backed forces have captured all eight governorates that once formed the nation of South Yemen, fuelling speculation Yemen might again now split back into two nations: today’s Houthi-held north and this UAE-backed south. (
+Guardian
+)
+Comment
+: The losers here are the Saudis next door, whose troops had been backing a southern administration against the Houthis but are now heading home with their tail between their legs, clearly outmanoeuvred by their regional rivals, the Emiratis.
+🇧🇯
+BENIN — Another coup?
+Benin’s president Patrice Talon has condemned the weekend’s foiled coup attempt, vowing to pursue the small group of mutineering soldiers calling themselves the  Military Committee for Refoundation. Ports are still operating in Benin, the world’s ~8th largest cashew producer and ~12th largest cotton producer. (
+Al Jazeera
+)
+Comment:
+One way to look at this is West Africa’s junta-driven instability spreading even further — something we’ve explored lately, whether
+the jihadis surrounding Mali’s capital
+, or the
+off-book uranium shipments
+disappearing into the desert. But another angle is the role of regional power Nigeria, which admits it sent jets and ground troops (at Benin’s request) to help dislodge the putschists. From Nigeria’s perspective, it’s less about any love for Benin’s leaders, and more a realisation that every new junta just seems to destabilise Nigeria’s region even further.
+🇯🇵
+JAPAN — Locked in.
+Japan’s Sanae Takaichi has vowed to respond “
+calmly and resolutely
+” after China’s J-15 fighter jets locked onto Japanese warplanes twice on Saturday. Japan-China
+ties took a dive
+last month after Takaichi noted China’s invasion of Taiwan “
+could constitute a ‘survival-threatening situation’ for Japan
+”. (
+BBC
+)
+🇭🇰
+HONG KONG
+— Semi-election day.
+Folks have headed to the polls for their latest legislative elections under Beijing’s tightened “
+patriots only
+” rules, though continued shock at the city’s deadliest fire in decades seems to have overshadowed proceedings. (
+The Straits Times
+)
+🇫🇷
+FRANCE — Not now.
+In non-theft related Louvre news, a water leak has damaged hundreds of century-old documents, piling more pressure on the world's most visited museum. (
+New York Times
+)
+Comment
+: We explored the geopolitics of the Louvre and other heists
+here
+.
+🇭🇳
+HONDURAS — Still no president.
+Eight days on, electoral authorities still haven’t called the winner of the Honduran presidential election, amid a razor-thin margin between the conservative and centrist frontrunners (both of whom could re-recognise Taiwan). (
+Reuters
+$)
+🇶🇦
+QATAR — Couples therapy.
+Top US, Israeli, and Qatari officials met in New York on Sunday in a bid to repair ties still strained by Israel’s September strike on Hamas targets in Doha. (
+Bloomberg
+$)
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news
+We’ll spare you the details, but can happily confirm that Kiwi cops have “
+recovered
+”
+a $19k Fabergé egg
+after an alleged thief swallowed it.
+Tiring of all the world attention, a Namibian lawmaker has
+changed his name
+from Adolf Hitler to Adolf Uunona (he says his parents didn’t know the history).
+Three Austrian nuns are
+rejecting
+an offer to continue at their monastery instead of going to a nursing home, because they’d have to ditch social media.
+An Italian mayor has apologised to the family of the late opera legend Pavarotti, after a town
+built
+an ice rink around a Pavarotti statue then encouraged skaters to give him a high-five.
+And a US raccoon has somehow broken into a liquor store,
+got wasted, and passed out
+in the bathroom.
+Soda of the day
+Credits: Intrigue.
+We were happy to attend Sweden’s annual Saint Lucia service in DC the other day (pictured above), and couldn’t help but chuckle at the remarks by Sweden’s deputy chief of mission: “
+if you’re given the choice of Coke or julmust this month, make the right choice.
+”
+But what’s julmust, you ask? It’s Sweden’s very own Christmas-themed soda, outselling Coke every December. The ultra-secret recipe is still locked away by Sweden’s Roberts family, who launched this booze-free option during a teetotaller wave a century ago.
+If you’re wondering what it tastes like, it gives off malty spiced vibes, while blending hints of cola, root beer, cinnamon, clove, and caramel. We’ll drink to that.
+Today’s poll
+What do you think about Australia's age limits for social media?
+👍 Good stuff - we've got to protect the kids
+😠 It's a mess - unworkable and counter-productive
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+What do you think would follow any end to Pax Americana?
+🕊️ A more stable multipolar world (9%)
+🔥
+A more volatile multipolar world (69%)
+🔼
+A new hegemon will rise (21%)
+✍️ Other (write in!) (1%)
+Your two cents:
+🔥
+J.B:
+“I’m sure it’s going to be a power struggle between a declining insular US and a China seeking to expand its influence.”
+🔼
+A.D:
+“Minority opinion but emergent tech dominance appears to be a defining advantage coming into the 2030’s. All hail our Meta/Alphabet/Alibaba overlords.”
+✍️ B.B:
+“Change is normally a bumpy process, but the fact that certain countries have nukes (and we all presumably have an incentive not to use them) will push us back towards stability… eventually.”

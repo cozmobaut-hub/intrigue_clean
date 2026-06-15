@@ -1,0 +1,264 @@
+URL: https://archives.internationalintrigue.io/p/why-china-is-raising-lobsters
+Title: 🌍 Why China is raising lobsters
+
+Today’s briefing:
+— Why China is raising lobsters
+— A $500M embassy!
+— Happy international day of… happiness?
+Good morning {{first_name | Intriguer}}
+. On Feb 27 I wrote right here that there was a lot of chatter about a US/Israeli attack on Iran. "
+I don't know, maybe an attack on Iran is imminent
+"… "
+But I find it helpful to ask myself: why am I reading this now?
+"
+Less than 24 hours later, the Ayatollah was dead and the Iran War was underway.
+Now, almost three weeks later, I sense the chatter about putting US troops on the ground in Iran is increasing. Messages about “
+a limited mission
+" to "
+secure nuclear material
+" or "
+occupy strategic islands
+"... are popping up all over the place, while pics emerge of the USS Tripoli approaching via Malacca with another 2,000 Marines onboard. The president himself was somewhat cagey about it in a press conference late yesterday.
+Again, I don't know if the US or Israel is going to commit troops, but I do wonder why I'm reading all this now. (None of this is a Polymarket tip btw but I do want a cut if you win).
+It’s a Friday, and we like to keep Fridays a little fun around here, so our main today is a little out of left field:
+how viral AI agent OpenClaw is taking China by storm
+.
+Intrigue Insight: Iran War - Day 22
+Qatar’s energy minister has suggested Iran’s hit on key LNG facilities yesterday
+fried 17% of its export capacity
+and repairs will take years, potentially triggering
+force majeure
+on long-term contracts with Asia and Europe.
+Comment:
+It’s worth recalling even sanctioned, deficit-busting Putin has managed to repair damaged energy assets quickly — wealthy gulf states might do better.
+Meanwhile,
+a
+)
+shipping
+lines have started flagging that a 19th-century rule allows them to leave cargo at the nearest port at their client’s expense,
+b
+) Scandinavian
+airline
+SAS is cancelling 1,000 flights in April due to high fuel prices, and
+c
+) the US has
+lifted sanctions on Belarusian potash
+(a key fertiliser input).
+Back in DC, the Pentagon has asked the White House for another
+$200B+ to fund the war in Iran
+and replenish weapon stocks.
+Quick Take
+:
+At this point, DC’s challenge is not writing checks, but rapidly manufacturing and deploying arms. Meanwhile, one lingering result of this war might be for analysts to reconsider the long-running assumption that US energy independence would end Middle East interventions — to the contrary, it might’ve just *obscured* the risks of intervention, and warped DC’s cost-benefit analysis.
+Not-so-secret agent.
+You might’ve noticed pics of folks in China
+queuing up
+to install the ‘OpenClaw’ agentic AI on their devices, with users labelling it “
+raising lobsters
+” (the logo is a red lobster).
+And because we can’t resist the pull of
+a
+) great lingo, and
+b
+) a big queue, we dove in.
+Created by Austrian programmer Peter Steinberger,
+OpenClaw
+is a free, open-source AI agent that can complete tasks across several apps autonomously. For example, it could check and respond to your emails or reschedule your meetings. But much like a
+real
+assistant, OpenClaw
+needs access
+to your devices, apps, and personal data.
+Which brings us back to those folks queuing up in China.
+While OpenClaw is a global sensation, nowhere has this new lobster splashed down as dramatically as in China.
+In the private sector
+, local tech giants like Tencent and JD.com have launched compatible apps and even organised events to teach folks how to use it, with the resulting buzz even triggering a brief but sizeable rally among China’s beleaguered tech stocks.
+And
+local governments
+, already pumping AI to score brownie points with an AI-focused Beijing, have also got amongst it — at least four municipalities have now offered subsidies for companies building atop OpenClaw’s open-source structure.
+Akin to last year’s
+DeepSeek craze
+(how is that already last year), it’s all fuelled another kind of AI gold rush for the ‘next big thing’.
+Can you feel that ‘but’ coming?
+Of course you can, because this is China, where the ruling Communist Party always stands ready with a ‘but’, locked and loaded.
+The first one dropped just last week, when authorities
+banned
+lobsters on official work devices, citing OpenClaw’s “
+extremely weak default security configuration
+”. What’s the issue? There are already some
+wild, real-life examples
+:
+A software engineer in North Carolina regretted granting his lobster
+iMessage
+access after it went rogue and started texting his wife and random contacts.
+Another lobster-owner apologised after his AI agent got angry at a forum moderator and autonomously published a
+hit piece
+to get the human fired!
+So given those
+Black Mirror
+vibes, a bit of caution makes sense.
+But there’s another ‘but’ in the chamber, because the Party’s security worries inevitably go beyond a keyboard-happy AI agent.
+Another wild example
+:
+During internal research, China’s Alibaba caught its own lobster-like agent going rogue and managing to escape the firm’s own firewall to start
+mining crypto
+!
+And that’s where the fear kicks in: whether a rogue lobster is texting, defaming, or crypto-mining, the common thread is a
+loss of control
+— a nightmare for authoritarians. China guru Bill Bishop put it like this: “
+I’m surprised the Chinese authorities don’t think that this is maybe an NSA op
+”. The NSA has pulled off bigger stunts.
+Anyway, it all raises a big question: why is Beijing only banning lobsters on
+official
+phones?
+Three main reasons.
+First
+, it’s
+early days
+. OpenClaw only dropped six months ago, and didn’t
+really
+gain traction in China until a few weeks ago.
+Second
+, the frenzy has brought
+local benefits
+(at least for now), while helping cement China’s image as an AI early-adopter.
+But
+third
+and most importantly, Beijing has made clear (
+just last week
+) it sees widespread AI integration as the key to
+unlocking economic and technological supremacy
+.
+So to achieve that goal, the Party relies on a well-tested
+modus operandi
+: welcome cutting-edge developments, study them, learn the correct lessons. Then…
+regulate
+the heck out of them to ensure they strengthen — not undermine — central authority.
+By our calculations, we’re now at phase ~two. A phase-three crackdown can’t be far off.
+Intrigue’s Take
+This whole story is a great example of both China’s strength and vulnerability.
+On the
+strength
+side, we’ve often observed how China’s tech culture seems less beguiled by reaching each new AI frontier first. Rather, there’s a huge emphasis on incorporating existing tech right across the economy: manufacturing, agriculture, logistics, etc.
+On the
+vulnerability
+side, recall the famous 2024 clip of President Xi meeting CEOs and asking — with a straight face — why China no longer produces so many tech unicorns. It came just after Xi’s own historic tech crackdown (probes, fines, bans) to reassert dominance over a sector getting too rich and loud, wiping $1T+ and rattling tycoons.
+So Xi suddenly asking where all the unicorns went? That was like Colonel Sanders asking where all the chickens went. Ahhh… bro.
+Anyway, maybe it all hints at
+China’s broader trajectory
+. The Party loves to remind the world how it lifted hundreds of millions of China’s people out of poverty. But this ongoing tech meddling might help nudge history towards a different conclusion: perhaps folks lifted themselves out of poverty once the all-powerful Party started getting out of the way.
+Today’s briefing is presented by…
+Stop typing prompts. Start talking.
+You think 4x faster than you type. So why are you typing prompts?
+Wispr Flow
+turns your voice into ready-to-paste text inside any AI tool. Speak naturally - include "um"s, tangents, half-finished thoughts - and Flow cleans everything up. You get polished, detailed prompts without touching a keyboard.
+Developers use
+Flow
+to give coding agents the context they actually need. Researchers use it to describe experiments in full detail. Everyone uses it to stop bottlenecking their AI workflows.
+89% of messages sent with zero edits. Millions of users worldwide. Available on Mac, Windows, iPhone, and now Android (free and unlimited on Android during launch).
+Try Wispr Flow free →
+Meanwhile, elsewhere…
+🇯🇵
+JAPAN — Awkward visit.
+During Prime Minister Takaichi’s first White House visit, President Trump has declared Japan is “
+stepping up to the plate
+” to help secure the Strait of Hormuz. (
+Japan Times
+)
+Comment
+:
+Having successfully avoided contradicting the US president without officially pledging concrete military aid, Takaichi can probably draw a sigh of relief, even if headlines focus more on the US president’s ‘Pearl Harbour’ quip about whether allies like Japan might’ve been surprised by the US hits on Iran.
+🇩🇰
+DENMARK — Desperate measures.
+A newly revealed military order dated 13 January suggests Danish soldiers flew in bags of blood plus explosives to blow up airport runways amid
+fears of a possible US invasion
+of the autonomous Danish territory. (
+EuroNews
+)
+🇹🇲
+TURKMENISTAN — Palace intrigue!
+Turkmenistan has abruptly dismissed its long-serving ambassadors to both the US and the UN, reportedly for failing to secure an invite to Trump’s
+Board of Peace
+. (
+The Diplomat
+)
+Comment:
+Turkmenistan’s ‘permanent neutrality’ pledge means it often skips forums, though the fact several rival authoritarian neighbours joined Trump in the BoP limelight, and Turkmenistan’s own senior statesman was even in the US at the time, might’ve made this particular absence sting a little more.
+🇹🇷
+TURKEY — Eurozone.
+The European Union has proposed Turkey join its Single Euro Payments Area to cut cross-border transfer costs and deepen economic ties. (
+Reuters
+)
+Comment
+: While Turkish banks could lose lucrative transfer fees, it’s a sweetener so long as Turkey’s EU membership talks remain comatose, particularly given Putin’s invasion of Ukraine has otherwise bolstered Erdogan’s leverage (eg, Sweden’s NATO membership, energy, Black Sea access).
+🇲🇴
+MACAU
+— Tighter grip.
+Beijing-ruled Macau has unanimously passed a new law allowing closed-door trials for national security cases, with only government-approved defence lawyers involved. (
+The Straits Times
+)
+Comment:
+It all mirrors Beijing’s 2020 move on Hong Kong, but there’s virtually zero pushback in Macau, which Beijing has always seen as less of a ‘problem child’.
+🇨🇷
+COSTA RICA — Out of sight, not mind.
+Costa Rica has closed its embassy in Havana and ousted Cuban diplomats from San Jose, citing human rights violations and a lack of regime legitimacy.
+(
+CBS
+)
+Comment:
+Ecuador made a similar move earlier this month, as the region’s more conservative democracies step back from traditional solidarity with Cuba — they’re framing it as siding with Cuba’s people, who haven’t had a vote since ~1958.
+🇹🇩
+CHAD — Watch out.
+Chad has warned it’ll retaliate against Sudan after a cross-border drone strike on a funeral left at least 17 dead, raising fears Chad gets further embroiled in Sudan's civil war. (
+BBC
+)
+Comment:
+The difficulty for Chad (and everyone) is attribution: Sudan’s notorious RSF paramilitary controls the area, but is blaming its Sudanese military foes.
+Extra Intrigue
+For your radar 🗓️
+AI firm
+Anthropic’s
+first preliminary hearing in its lawsuit against the Pentagon takes place this
+Tuesday, 24 March.
+NATO
+is launching its annual report next
+Thursday, 26 March
+, the same day
+Nicolás Maduro
+and his wife are due for their next court hearing in New York.
+And the annual
+IMF-World Bank Spring Meetings
+are set to start
+13 April
+.
+Embassy of the day
+Credits: Fred Dufour / NBC News.
+That Dutch-looking building in the middle of Bangkok?
+You guessed it, it’s the Dutch ambassador’s residence! But not for much longer, as the Dutch are listing the 1915-era villa and adjacent chancery for sale as part of a strategy to invest in a diplomatic footprint that’s more sustainable, efficient, secure, and future-ready.
+We’re sure it’s got nothing to do with the prime land’s estimated $500M price tag, right?
+There’s been some local heritage pushback given the likelihood it all gets turned into a Denny’s or something, but the embassy now moves to a new address at Dusit Central Park.
+Friday Quiz
+Today (20 March) is International Day of Happiness!
+Which country was ranked the happiest in 2026?
+Denmark
+Sweden
+Finland
+Login
+or
+Subscribe
+to participate
+Which region snagged a top five spot for the first time?
+Middle East
+Latin America
+East Asia
+Login
+or
+Subscribe
+to participate
+Which English-speaking country ranks the happiest?
+Australia
+UK
+Canada
+Login
+or
+Subscribe
+to participate

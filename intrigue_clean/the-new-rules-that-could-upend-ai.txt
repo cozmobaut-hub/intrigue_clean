@@ -1,0 +1,298 @@
+URL: https://archives.internationalintrigue.io/p/wednesday-e453
+Title: 🌍 The new rules that could upend AI
+
+IN TODAY’S EDITION
+1️⃣ Biden’s spicy new AI rules
+2️⃣ The Intrigue jobs board
+3️⃣ Exhibit of the day
+Hi {{ First name | Intriguer }}.
+It kind of feels like we’re already halfway through 2025, when actually we're only halfway through its first month. Safe to say it’s been a big month already, including on the tech policy front.
+For starters, we’ve seen Meta’s removal of its global fact-checkers for information integrity (plus Mark Zuckerberg’s tech-bro 'levelling up'), and TikTok’s impending self-withdraw from the US market resulting in a huge chunk of its US users ironically shifting to another Chinese app, Xiaohongshu (or Little Red Book).
+And then this week, the Biden Administration has (mic)dropped big policies on AI, which it hopes will strengthen the US AI industry and consolidate the country’s lead on AI internationally. Let’s dive into all that and more today.
+THE HEADLINES
+President Yoon arrested in South Korea.
+President Yoon finally surrendered to investigators earlier today (Wednesday), claiming he was just doing so to avert “
+bloodshed
+” rather than accepting the legality of the
+insurrection allegations against him
+. Investigators can now hold Yoon for 48 hours before either releasing him or seeking a warrant to detain him longer.
+Israel-Hamas deal still imminent?
+A ceasefire-hostage deal is reportedly “
+right on the brink
+” as negotiators wrap the latest talks in Qatar. Word is it’ll involve
+an initial swap of 33 Israeli hostages
+for 1,000 Palestinian prisoners, alongside a partial Israeli troop withdrawal in the first 60-day phase.
+Biden to remove Cuba from terrorism list.
+The outgoing Biden administration has notified Congress it’ll remove Cuba from the
+list of state sponsors of terrorism
+as part of a deal with Havana, which has agreed to release hundreds of political prisoners. Cuba has been on and off the list since 1982, and was most recently placed back under the designation during Trump 1.0 in 2021.
+US inflation data still slowing.
+US producer
+prices rose less than expected
+in December, leaving a
+glimmer
+of hope that the Fed could keep cutting rates. All eyes are now on today’s consumer (CPI) data.
+Ukraine hits back at Russia (again).
+Kyiv is claiming its
+biggest ever counter-attack
+, hitting targets deep inside Russia including ammunition depots, chemical plants, and arms manufacturers. Meanwhile, Australia’s PM is
+vowing the “
+strongest action possible
+”
+over reports that Russian forces executed an Australian fighting for Ukraine.
+TOGETHER WITH BOXABL
+How to Build a Home in 4 Hours
+The U.S. faces a 2.3M home shortage, driving demand for affordable, efficient housing. BOXABL aims to transform home construction with factory-built homes produced in just four hours and installed in under a day.
+BOXABL has received 190,000+ Casita reservations* and gained attention from America’s largest homebuilder, D.R. Horton.
+The BOXABL assembly-line delivers fully equipped homes, offering a scalable solution to housing challenges. Don’t miss your chance to own a piece of BOXABL! *
+Invest now before shares sell out again for just $0.80/share!
+TOP STORY
+The new rules that could upend AI
+Just when you think Joe Biden is wrapping things up, he
+announces
+updated export controls on AI chips that’ve sent US tech giants into a tizzy.
+Let’s dive in.
+The new
+rules
+, sexily named the
+Regulatory Framework for the Responsible Diffusion of Advanced Artificial Intelligence Technology
+💘
+,
+divide countries into three categories
+:
+“
+Close allies and partners
+”
+include 18 absolute US besties like the UK, Australia, and France (plus Taiwan) who are “
+aligned with the national security and foreign policy interests of the United States.
+”
+The 22 “
+countries of concern
+” include those you’d expect (China, Russia, Iran, etc), but to underline just how much the US is now linking AI and security, the White House specifically cites them as “
+arms-embargoed
+” countries — these powers are all banned from getting advanced US chips.
+And then there’s
+everyone else
+, who’ll now face limits on their access to and use of top US chips — interestingly, this ‘
+other
+’ group includes more than half the EU (eg, Poland), and various other US allies like Israel.
+So it’s business-as-usual for
+some
+friends, and
+no
+-business-as-usual for foes. The biggest change is therefore for ‘everyone else’ — the ~150 countries now facing new US rules:
+Unless you’re in a country of concern, you can still buy chips totalling ~
+1,700 advanced GPUs
+without a permit (more than enough for most routine usage).
+Firms in that vast ‘
+other
+’ middle-ground can apply for ‘
+National Verified End User
+’ status, which allows them up to 320,000 GPUs over the next two years.
+Otherwise, there’s a cap of
+50,000 advanced GPUs
+per country (for context, there are individual data centres bigger than that).
+So why do all this?
+According to the
+White House
+, it’s “
+essential that we do not offshore this critical technology and that the world’s AI runs on
+American rails
+”. To put it another way, as AI shapes more sectors in more profound ways (including across intelligence and defence), the US wants to avoid US tech benefiting US rivals.
+And it’s not just about controlling foreign
+access
+, but also spreading US
+standards
+and boosting US
+visibility
+. These new rules have incentives for countries and companies to get on board, enabling the US to see who’s using what chips, where, and how. The idea is to close loopholes that’ve enabled China to maintain limited access to top US chips so far.
+But regular Intriguers will recall we
+foreshadowed
+just last month that, with US chipmakers still making billions selling trailing-edge chips in China, tighter US rules risk more
+pushback from US industry
+. And surprise surprise, US chipmakers are not happy:
+Oracle’s
+executive vice president, for example,
+argues
+this new framework will “
+disrupt U.S. leadership in cloud, chips, and AI
+” and will “
+hand [...] most of the global AI and GPU market to our Chinese competitors
+”, while…
+Nvidia
+’s own VP
+argues
+that “
+while cloaked in the guise of an
+'
+anti-China’ measure, these rules would do nothing to enhance U.S. security
+” but “
+only weaken America’s global competitiveness
+”.
+They’re also peeved about the general lack of consultation, last-minute timing, plus the wide and seemingly retroactive scope.
+Interestingly, however, it seems Nvidia
+can
+still sell its slower chips in China, where it’s making a cool $5B per quarter. So
+why the pushback?
+While China is Nvidia’s #2 national market, most of Nvidia’s global revenue comes from the vast data centres that power the current AI boom. And much of that revenue now falls in this new ‘other’ category above, bringing new rules and procedures.
+Anyway, the tech companies aren’t alone — China
+isn’t happy
+either, of course, but neither is
+the EU
+, with only ten of the bloc’s 27 members in that sweet sweet “
+close ally
+” category above.
+So, what’s next?
+Part of that question is easy to answer: critics now have
+120 days
+to submit their comments and suggested changes.
+But the other part of the question is trickier — in
+five days
+, there’ll be a new US president who’ll have the option to change course. And that’s exactly what Nvidia, Oracle, the EU, China, and others are now openly urging Trump to do.
+So we can add this to the long list of issues that’ll force Trump 2.0 into a tough choice, in this case between either a) getting tough on China, or b) being US business-friendly.
+Maybe ChatGPT could help with this query.
+INTRIGUE’S TAKE
+Basically, critics argue these new rules will just push the world into China’s arms, while Biden says these rules will do the opposite, prying countries
+out
+of China’s arms if they still want access to the best chips. So it’s really about US leverage, which rests on US chip dominance, which largely rests on Nvidia, which is getting increasingly unhappy.
+It’s unclear how long that dominance can last, but Nvidia’s chips still
+way
+outperform China’s best offering, and these rules basically aim to preserve and extend that lead. And in an exponential frontier tech like AI, even a small lead is enough to shape the future.
+Also worth noting:
+Biden’s new rules also regulate certain advanced ‘model weights’, which basically control how AI models generate and improve responses.
+Nvidia chief Jensen Huang is set to visit both China (where
+Nvidia is now under anti-trust investigation
+) and Taiwan this week.
+The other part of Biden’s strategy has been to revive US chip
+manufacturing
+(mostly now handled in Taiwan). Interestingly, the outgoing US commerce secretary just
+claimed
+that TSMC is now producing ultra-advanced 4nm chips at scale in Arizona, seemingly proving the sceptics wrong.
+MEANWHILE, ELSEWHERE…
+🇦🇲
+Armenia
+: Foreign Minister Ararat Mirzoyan has visited Washington to
+sign a strategic partnership with the US
+, just days after Armenia finalised legislation to make its EU aspirations the law of the land. Armenia pivoted westwards after Russia effectively abandoned it during Azerbaijan’s surprise attacks in 2023.
+🇫🇮
+Finland
+: Visiting Helsinki, NATO chief Mark Rutte has
+announced a new patrol and surveillance operation in the Baltic Sea
+aimed at protecting critical infrastructure. The move comes as several Baltic cables have been severed, with Moscow often the presumed culprit.
+🇦🇺
+Australia
+: Australia’s main mining lobby group has launched a
+campaign targeting younger social media users
+on the benefits of nuclear energy. The campaign, titled ‘
+Get Clear on Nuclear
+’, has used memes about
+Wicked
+,
+The Grinch
+, and seasoning-steak-with-Ikea-furniture to get its message out.
+🇺🇸
+US
+: Ahead of Trump 2.0’s inauguration on Monday, President Biden has delivered an address at the State Department defending his foreign policy record, while Secretary Blinken outlined a plan for post-war Gaza. Meanwhile, National Security Advisor Sullivan has done the traditional ‘baton handover’ with his successor Mike Waltz at the US Institute of Peace. Our very own Kristen was there to
+watch it all unfold
+.
+🇱🇾
+Libya
+: After years of siding with Libya’s internationally-recognised government in Tripoli, Turkey now seems to be
+building ties with the rival factions
+running the show out of Benghazi in the east. Turkey’s ambassador was just there meeting top officials, announcing direct flights, and firming up plans for a new consulate.
+FROM OUR FRIENDS
+Join 1M+ investors and get clear insights on market news.
+There’s a reason The Daily Upside is the fastest-growing financial newsletter. It distills complex business topics into crisp, actionable takeaways—no fluff, no filler.
+Try it for free today!
+EXTRA INTRIGUE
+The Intrigue jobs board
+🎯
+Peacebuilding Advisor
+@
+GIZ
+in Baghdad
+International Trade Manager
+@
+Leidos
+in US
+Researcher (Crisis, Conflict)
+@
+Human Rights Watch
+in multiple locations (Sao Paolo, London, Amman, Nairobi, and beyond)
+Policy Associate or Manager
+@
+Global Network Initiative
+, remote
+EXHIBIT OF THE DAY
+A cypher wheel belonging to a WWII Nazi spy, on display at the upcoming exhibit. Credits: MI5.
+Could more transparency help with Western spy agency recruitment shortages?
+The UK’s M15 seems willing to give it a try, revealing its history in a new, first-ever exhibit at the National Archives opening in the Spring. In yesterday’s characteristically curt
+announcement
+, MI5 invites visitors to
+“step inside the hidden world”
+of the UK’s domestic spy agency, filled with counter-espionage, double-agents, confessions, and
+“counter-terrorism of recent times.”
+DAILY POLL
+What do you think about these new AI chip rules?
+🔴 They'll end up hurting US and global interests
+🟢 They'll reinforce US leadership in the sector
+💁 It doesn't matter, Trump will change them
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which market do you think reveals most about our world?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💼
+Bonds (30%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+📈
+Stocks (19%)
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️
+💎
+Commodities (25%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+💸
+Foreign exchange (23%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (2%)
+Your two cents:
+💼
+D.S:
+“Stocks are like the sexy playboy son that garners all the attention while he makes and loses fortunes. While bonds are like the grandfather who controls the generational family trust with calculated movements.”
+💎
+M.A:
+“Commodities are intrinsically connected with a geographical perspective of the world: who produces what, for whom, and in what scale, tells you more about the divisions and roles of countries in the world than most economic metrics.”
+✍️ M.L:
+“The World Happiness Report. We really shouldn't be measuring success by any financial metrics.”
+💸
+M.P.C:
+“Short horizon: FX. Long horizon: Bonds.”
+✍️ S.B:
+“To get the entire picture - I need data from ‘all of the above’.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+*This is a paid advertisement for Boxabl’s Regulation A offering for $1,500. Please read the offering circular
+HERE
+.
+Reservations represents a non-binding indication of interest to purchase as Casita. A reservation does not require purchase of a Casita and there is no assurance of how many will result in actual purchases.

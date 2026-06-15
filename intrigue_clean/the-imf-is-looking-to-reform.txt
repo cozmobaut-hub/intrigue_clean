@@ -1,0 +1,213 @@
+URL: https://archives.internationalintrigue.io/p/imf-looking-reform
+Title: 🌍 The IMF is looking to reform
+
+Today’s newsletter supported by:
+Hi there {{ First name | Intriguer }}.
+Even animals love winning. A horse once
+jumped a fence
+to lead France’s
+Critérium International
+bike race for miles. Feeling ambitious, a pony then
+gate-crashed
+the
+Tour of Poland
+. And because why not, a cow
+had a crack
+in last week’s
+Tour of San Carlos
+in Costa Rica.
+Today’s briefing is a 4 min read:
+🏦
+The
+IMF
+says it’s ready for change.
+🇭🇹
+The UN approves a peacekeeping mission to
+Haiti
+.
+➕
+Plus:
+An embassy on stilts, how the papers are covering the ousting of the US House Speaker, and a crypto king in court.
+⏱️ Around the world in sixty seconds
+🇦🇲
+Armenia
+: Lawmakers have voted in favour of
+joining the International Criminal Court
+(ICC), in an apparent show of defiance against Armenia’s estranged ally Russia. The ICC has a warrant out for the Russian president’s arrest.
+🇭🇺
+Hungary
+: The EU is reportedly considering unblocking
+$13.6B in frozen funds
+in exchange for Hungary’s support on a new Ukraine aid package. Brussels originally blocked the funds due to concerns about rule of law erosion in Hungary.
+🇮🇳
+India
+: Delhi has told Canada to
+withdraw around 40 diplomats
+from India, amid continued fallout over allegations of India’s possible role in the murder of a Canadian citizen. This latest move could cut Canada’s local diplomatic footprint by two thirds.
+🇺🇸
+US
+: The Federal Communications Commission issued its
+first fine for space debris
+on Monday, accusing a satellite TV company of not properly deorbiting a decades-old satellite. There are over 3,000 dead satellites currently orbiting the Earth.
+🇹🇳
+Tunisia
+: President Kais Saied has
+refused a $133M disbursement
+from the EU, claiming it wasn’t what the parties had previously agreed. The move throws into question the viability of the EU-Tunisia migration pact signed in July.
+🏦
+IMF | Development
+Is the IMF ready for reform?
+The head of the International Monetary Fund (IMF), Kristalina Georgieva, has told the
+Financial Times
+she would back reforms around IMF voting.
+Why?
+In theory, IMF members earn
+voting power
+in the organisation based on their relative share of the global economy, but in practice:
+🇺🇸
+The US
+(15.3% of the global economy) has a 17.4% voting share
+🇩🇪
+Germany
+(3.2% of the global economy) has a 5.6% voting share
+🇮🇳
+India
+(7.47% of the global economy) has a 2.75% vote, and
+🇨🇳
+China
+(18.9% of the global economy) has 6.4% of the votes.
+While the IMF is supposed to review these voting shares every five years, the last time its Board of Governors approved new arrangements was in 2010.
+And what’s happened since 2010?
+India’s economy has more than doubled, while China’s has nearly tripled. And China has moved to carve out its own space in the international financial system by launching a
+development bank
+(and
+other programs
+).
+Intrigue's take:
+If you wanted the IMF to better reflect the modern world, China’s underrepresentation seems a fair enough place to start.
+But the US (which has IMF veto power) has
+hinted
+it’ll block such measures so long as China fails to respect the IMF’s “
+roles and norms
+”, a veiled reference to
+criticism
+that China has hampered IMF efforts to ease the debt burden on poor countries.
+So maybe a US veto will be the carrot China needs to adjust its approach to the IMF. Or… maybe it’ll be the stick that pushes China further away.
+Also worth noting:
+The IMF has a December deadline to complete its voting review.
+A recent IMF visit to Sri Lanka
+reportedly
+saw the IMF deny further bailouts until China grants Sri Lanka debt relief. Sri Lanka’s president apparently plans to raise this soon with his Chinese counterpart.
+📰
+How newspapers covered…
+The ousting of the US Speaker of the House
+Delhi, India
+“Kevin McCarthy becomes first person ever to be outed as US House Speaker, says ‘don’t regret standing up for choosing governance over grievance.’”
+Tokyo, Japan
+“U.S. House speaker ouster means more chaos as shutdown fight looms”
+Sydney, Australia
+“Kevin McCarthy dumped as US House Speaker: Could Donald Trump really replace him?”
+Today’s newsletter is supported by: iubenda
+Get privacy law compliant in minutes with iubenda!
+iubenda offers attorney-level software solutions to make websites and apps compliant with GDPR and EU Cookie Law, CCPA, LGPD, and other privacy laws.
+iubenda’s software solutions allow creating legal documents like privacy and cooked policies, terms and conditions, displaying cookie notices, managing consent, and handling internal privacy across various countries and in multiple languages.
+See how it works!
+🇭🇹
+Haiti | Defence & security
+UN Security Council approves Haiti mission
+The UN Security Council (UNSC) has
+approved
+an initial year-long security mission to Haiti to aid with the country’s entrenched gang problem. Ariel Henry, the acting prime minister who’s been calling for foreign support since last year,
+thanked
+the UNSC,
+adding
+“
+we couldn't wait any longer
+”.
+Calling the security situation in Haiti ‘dire’ is an understatement:
+Thousands
+have been killed
+since January
+Violent gangs control
+most of the capital
+Port-au-Prince, and
+A key gang leader has even called for an
+armed uprising
+to overthrow the provisional government
+So this multinational and UN-authorised mission, to be led by Kenya, aims to secure key infrastructure while supporting local police in “targeted operations”.
+Why’d it take so long?
+Partly because the two previous UN peacekeeping missions to Haiti led to a
+cholera outbreak
+and widespread
+abuse
+.
+Intrigue’s take:
+So there are real
+questions
+around whether Haiti is ready for another foreign intervention; and whether Kenya is best placed to lead it.
+But it’s notable that the UN Security Council has managed to push past its record of gridlock and agree on an option at all. And that’ll count as a success for those who see doing nothing as the worst option of all.
+Also worth noting:
+The UNSC motion passed with 13 votes out of 15.
+The two abstentions came from
+Russia and China
+: Russia said an armed intervention was an extreme measure that needed to be thought through, while China said that without a functional government in place, external support wouldn’t be effective.
+➕
+Extra Intrigue
+What we’re reading about the trial of Sam Bankman-Fried, founder of the collapsed crypto exchange FTX
+SBF’s trial starts this week, but how did he — and FTX — get here?
+‘Dark’ donations, free love and the fall: the Sam Bankman-Fried trial is here
+The FTX trial is bigger than Sam Bankman-Fried
+Crypto Could Be a Mystery to Jurors in Bankman-Fried Case
+($)
+🗳️ Poll time!
+Do you think another peacekeeping mission to Haiti is a good idea?
+🗡️ Yes, it must be better than doing nothing
+🛡️ No, it'll only worsen the situation
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+🏠
+Embassy of the day
+Ecuador’s embassy in neighbouring Colombia stands out
+. Literally. Its office space is elevated on stilts to add to the building’s multi-dimensionality, while its colour palette is a stark contrast to the surrounding brick buildings. And don’t even get us started on all that sweet, sweet, natural light.
+Yesterday’s poll:
+Which of the following do you think is the best way to build influence abroad?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💸
+Investment  (34%)
+🟨
+🟨
+🟨
+🟨
+🟨
+🟨
+🚢
+Trade  (34%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🎖️ Security (9%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 🎭 Culture  (20%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents
+:
+💸
+J
+: “It's tangible for both citizens and leaders.”
+🚢
+R.C:
+“Countries' trade needs are perhaps the only reason the world hasn't yet become a huge graveyard.”
+🎖️
+L.T
+: “A strong military speaks volumes.”
+🎭
+T.S
+: “Religion (as an aspect of culture) is the best way to build influence and alliances abroad.”

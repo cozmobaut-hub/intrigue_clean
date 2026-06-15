@@ -1,0 +1,174 @@
+URL: https://archives.internationalintrigue.io/p/opensource-intelligence-enables-private-citizens-watch-land-seas-skies-like-spies
+Title: Open-Source Intelligence enables private citizens to watch the land, seas and skies like spies
+
+Hi there {{ First name | Intriguer }}.
+‘Tis almost the season for awkward hugs, insincere promises to “do lunch!”, and over-served colleagues at end-of-year work parties... you know, the holiday season! In that spirit, Team Intrigue will be hosting some
+very informal
+holiday drinks in Washington DC on Wednesday, 7 December. If you’re in town, do stop by for a chat and let us buy you a drink! (
+More details here
+.)
+Today’s briefing is a ~4.6 min read:
+📡
+Open-source intelligence
+: how private citizens are becoming intelligence analysts.
+➕ Plus:
+Civilian jet fuel is being diverted to Myanmar’s military, Malaysia might elect a centenarian to Parliament, and Rwanda is abusing Interpol’s Red Notice System.
+📰 GLOBAL HEADLINES
+Stories:
+Kayhan
+,
+Die Zeit
+,
+Koh Santepheap Daily
+,
+Ghanian Times
+,
+La Prensa
+🤿 DEEP DIVE
+Intelligence for the people, by the people
+In brief:
+Satellite images show a long line of ships waiting to unload cargo in Iran, leading analysts to wonder if Iran is unable to pay for food imports.
+The Internet has changed the intelligence landscape: ship movements, troop locations, and other sensitive information can now be accessed by civilians (if they know how).
+Stuck in a food jam
+Iran’s food supply issues are so significant they can be seen from space.
+Last week, a conga line of ~30 cargo vessels could be seen off Bandar Imam Khomeini, a port city in Iran’s far southwest.
+According to Central Asia analyst
+Esfandyar Batmanghelidj
+, the marine traffic jam isn’t your usual supply chain bottleneck:
+❝
+“These backlogs form when Iranian importers struggle to pay for soft commodities. We know that these vessels are carrying soft commodities because of their origins. Iran imports wheat from Russia and wheat and soybeans from Brazil and Argentina.”
+Batmanghelidj’s hypothesis is plausible for two reasons:
+Financial sanctions have made it difficult for Iran to access foreign currencies (although Iran
+is
+allowed to purchase soft commodities).
+Iran’s food prices increased by 81.2% this August compared to August 2021.
+But how do we know these cargo ships are waiting to dock in Iran?
+Why, the Internet, of course.
+You can check the open-source intelligence for yourself
+: Iran’s cargo ship buildup can be observed in real-time by searching the map on
+MarineTraffic.com
+and clicking for more details on each ship.
+So what is open-source intelligence?
+Open-source intelligence
+(OSINT) is the ‘art’ of collecting and analysing publicly available information from sources like commercial satellites, document metadata, codes and scripts, social media, and even clever Google searches in order to produce intelligence assessments.
+OSINT has become much more popular during the Russo-Ukraine War.
+The blog Oryx, for example, has collated and analysed social media posts to produce what they claim is an
+exhaustive list
+of Russian equipment losses.
+The pros and cons
+Public access to crowd-sourced, close-to-real-time information has changed the way intelligence works. Suddenly, anyone can play James Bond in the comfort of their egg-stained pyjamas, an image that is as empowering as it is disturbing.
+✅ The case for OSINT
+Detailed intelligence assessments were once the preserve of large governments and a few multinational corporations. In 2022, OSINT intelligence can help private actors of all sizes predict and prepare for geopolitical events, and call BS on government propaganda.
+For example, how much quicker would the Chernobyl disaster have been discovered now than back in 1986?
+❝
+“The exponential increase in publicly available data means citizen investigators are now able to track military build-ups, expose human rights abuses and discredit false narratives peddled by state actors in the process.”
+Ardi Janjeva
+, Royal United Services Institute
+⛔️ The case against OSINT
+The downsides are obvious: the decentralisation of information means it is difficult to quickly verify facts from fiction.
+For example, a popular Telegram channel named 'Warfakes' popped up in the early days of the Russo-Ukraine War.
+But, according to
+Marc Tuters and Karyna Lazaruk
+at the Amsterdam University of Applied Sciences,
+"Warfakes promotes a number of pro-Kremlin narratives under the guise of questioning sources and exposing apparent discrepancies in reporting."
+As Jonathon Swift (and
+not
+Mark Twain
+) once said, "
+a lie can travel halfway around the world before the truth can get its boots on.
+"
+And what of the cargo ship bottleneck in Iran?
+Analysts say that Iranian importers will have to pay high prices before the backed-up ships will unload their cargo, who will in turn pass on the costs to Iranian consumers. As if Iranians weren't
+dealing with enough
+already.
+🔎 To learn more about open source investigations, check out the OSINT guides from Netherlands-based investigative website,
+bellingcat
+.
+🤝 SPONSORED BY ODYSSEY SNACKS
+You don't have to choose between healthy and fast
+A protein bar that doesn’t leave you feeling heavy.
+That's because every bar is packed with prebiotics that are clinically proven to promote better digestive health.
+For a limited time only,
+Intrigue readers will get 15% off
+their first box of protein bars using code #PREBIOTIC15
+Free of ingredients that cause discomfort
+in the stomach like sugar alcohols, gluten, soy, and even dairy for certain flavours.
+Claim your offer today!
+🔦 REGIONAL SPOTLIGHT
+Southeast Asia & the Pacific
+🇮🇳 India
+Russia was
+India’s top oil supplier
+in October, surpassing long-time trade partners Iraq and Saudi Arabia.
+Russian oil made up 22% of India’s total oil imports last month, a considerable increase from only 0.2% in March.
+India has resisted pressure from Western allies to change its shopping habits, insisting that it’s obligated to provide its citizens with affordable fuel.
+🇮🇩 Indonesia
+Indonesia, DR Congo, and Brazil are considering forming an ‘
+OPEC for rainforests
+.’
+The strategic alliance would allow the countries to coordinate their conservation efforts and advance joint proposals for carbon markets and green financing.
+Together, the three countries host a whopping 52% of the world’s remaining primary rainforests.
+🇲🇾 Malaysia
+97-year-old former Prime Minister Mahathir Mohamad has announced
+he will defend his parliamentary seat
+in the upcoming Malaysian general elections.
+At least four political blocs are competing for control of Parliament in the 19 November elections.
+Mahathir served as Prime Minister from 1981 to 2003 and again from 2018 to 2020, finishing his second term as a sprightly 95-year-old.
+🇲🇺 Mauritius
+The UK has agreed to hold negotiations over a
+possible handover of the British-ruled Chagos Islands
+, an archipelago smack bang in the middle of the Indian Ocean that Mauritius claims as its own.
+Britain has administered the Chagos Islands since 1814 and currently leases the islands to the US military.
+Thousands of forcibly-displaced Chagossians are campaigning to return to their homeland.
+🇲🇲 Myanmar
+According to a new report
+by the human rights group Amnesty International, Myanmar’s military junta is diverting jet fuel intended for civilian use to its military.
+Due to heavy financial sanctions and humanitarian concerns, international fuel companies have largely refused to provide fuel intended for military use.
+With that said, the report does accuse Chinese, Singaporean, Russian, Thai, and American oil companies of delivering fuel in defiance of international sanctions.
+🗞 IN OTHER NEWS...
+Seeing red (notices)
+Thank you to hip stop star Ludacris for keeping the international community safe. Via: Giphy.
+The news:
+A new
+report
+by the Organized Crime and Corruption Reporting Project (OCCRP) claims that Rwandan President Paul Kagame has been abusing Interpol’s Red Notice System to target dissidents.
+According to the investigation, Kagame fed false intelligence to US and Interpol agencies in an effort to arrest and deport Rwandan-born critics.
+Some context:
+Members of the International Criminal Police Organization, aka
+Interpol, can issue what's known as a 'Red Notice' to instruct global law enforcement to provisionally arrest a wanted person.
+The system is designed to facilitate the arrest and prosecution of criminals operating across international borders.
+But much like the truly-awful but-
+record-breaking Netflix film
+, Interpol's Red Notice System receives bad ratings from critics… of authoritarian regimes.
+Rwanda is not alone:
+Many countries, including China, Russia, and Syria, have been accused of abusing Interpol’s policing system.
+We’ll give human rights expert
+Professor Ron Deibert
+the final word:
+❝
+“Like other authoritarian regimes, Paul Kagame’s Rwanda employs a diverse toolkit for transnational repression, including targeted espionage [with] Pegasus [spyware software], an army of trolls, and abuse of Interpol’s Red Notice system.”
+💌 ASK THE FOUNDERS
+Every Wednesday, we select a few questions to answer. We were amused to find that some Intriguers took the invitation quite literally, asking us how our day was or, in Katy’s case, “
+When am I getting my referral merch?
+” (Email us directly, Katy, and we’ll sort this out ASAP!)
+1. ✍️ On haters and process
+Was there a particular edition of Intrigue which received a lot of comments/backlash? On average, how many hours do you spend poring through news to produce one edition of the newsletter?
+- Denyse
+In all honesty, I can’t think of any single edition that’s received the ire of Intriguers. We get our fair share of comments and corrections, the vast majority of them interesting and helpful. I will say that whenever we cover particularly sensitive ethnic or religious conflicts - for example, the Armenia-Azerbaijan fighting or the Israel-Palestine conflict - we’ll get some fairly impassioned mail from readers with a direct connection to the issue. As for how long we spend reading and curating the news - each edition might take 8-10 hours of pure research between the three of us who write the newsletter... but in reality, it never ends! -
+John
+2. 📈 Argentina's macroeconomic situation
+Is anything being done by the Argentinian government to curb inflation? Or are they too focused on the 2023 elections?
+- Aditya
+It’s not necessarily an either-or situation - candidates heading into the 2023 presidential elections will have to wrestle with the issue of inflation. Argentina has one of the highest inflation rates in the world, and there are forecasts it could peak at more than 130% in 2023. The Argentinian government is trying hard to keep those figures steady - including by hiking interest rates over the summer - but a lot of it is out of their control thanks to supply chain woes from the Russo-Ukraine war and the global economic slowdown.
+- Helen
+3. ⚾️ The correlation between baseball and macroeconomics
+Every MLB World Series won by a Philadelphia team (3) has coincided with an economic downturn. The Phillies are currently two wins away from clinching another title. If they win, do you think the streak will continue?
+- Marcus from NYC
+Notwithstanding the fact that Wikipedia informs me that Philadelphia teams have won more than three world series since 1903 🤷, answering this question has become moot because the Phillies lost the World Series to the Astros last week (booo Astros). With that said, I’d caution against drawing any inference that we are
+not
+about to enter an economic downturn based on the fact the Phillies
+didn’t
+win.
+- John
+Keep the questions coming, folks! 👇
+🙋🏻 Ask the founders!

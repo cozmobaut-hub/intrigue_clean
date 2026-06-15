@@ -1,0 +1,243 @@
+URL: https://archives.internationalintrigue.io/p/world-s-happiest-ceo-a86fdf590ed2f3d2
+Title: 🌍 World’s happiest CEO
+
+Today’s briefing:
+— World’s happiest CEO
+— The UK reveals a big secret
+— Power twins, unite!
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Intriguers who tuned into our session with Fareed Zakaria recently would have been treated to some of his pearls of wisdom on the world of business and geopolitics.
+One of these nuggets was around the relationship between tech CEOs and governments. When asked about his thoughts on how that dynamic is changing, Fareed said that increasingly these CEOs were realising the centrality of governments - and the need to appease them.
+We will see some of that play out in our top story on
+Nvidia
+today.
+PS -
+¿Hablas español?
+¡Check out our
+weekly edition in Spanish
+!
+(missing) Number of the day
+“Record sales”
+That’s how Amazon described last week’s ‘Prime Day’ results, though it offered no breakdown to account for this year’s doubling of the promotion to a four-day event. We wrote about the
+geopolitics of Amazon here
+.
+Chip on his shoulder
+World’s happiest country? That’s easy. Finland has won that title for eight straight years.
+But what about world’s happiest CEO? You might nominate Amazon’s Jeff Bezos, who’s probably still in his Sanchez honeymoon phase and just filed to sell $1.5B more in shares.
+But we’ll venture another candidate: Nvidia’s Jensen Huang. And it’s not just because of his congenial grin and trademark leather jacket. Rather, it’s three reasons…
+He’s got the world’s most valuable company
+You’ll have heard his AI chip pioneer just became the world’s first listed firm to break the $4T mark, but it’s worth a quick look at the trajectory — it’s up…
+80% since April
+250% since early last year, and
+1,000% since early 2023 (the year it first cracked $1T).
+That run has driven Huang’s own net worth beyond $143B, overtaking Warren Buffett. But what’s behind this run? Beyond “
+ermahgerd, Er Er
+” (translation: ‘OMG, AI’), it’s also…
+He can sell chips to China again
+China has long been a critical Nvidia market, accounting for ~13% ($17B) of all revenues last year. And that’s remarkable when you recall the Biden administration was actually
+tightening
+chip exports to China to avoid helping the People’s Liberation Army.
+Huang managed to thread that needle in
+a novel way
+: via the purpose-built H20 chip from late 2023, which went on to become China’s go-to AI chip throughout 2024. It was ✌️purpose-built✌️ in the sense it was deliberately
+slower,
+to duck under the tighter US rules.
+But when Trump 2.0 revoked Huang’s H20 license for China earlier this year, things looked grim: the CEO had to declare a $5.5B write-down in April, and his share price bottomed out. So one reason why Nvidia’s share price is soaring again this week is this: according to a company
+blog post
+, Nvidia now has the green light to resume H20 sales to China.
+Which gets us to how Huang pulled this off…
+He’s wining and dining the right people
+Huang’s strategy has targeted not just the Trump administration and US lawmakers, but also the broader public via some big media interviews.
+And his
+arguments
+have been consistent, claiming that selling H20s to China maintains:
+a)
+America’s
+tech advantage
+by keeping China dependent on US tech
+b)
+America’s
+economic advantage
+by keeping that revenue pipeline for the US rather than rivals like China’s own Huawei, and collectively thereby…
+c)
+America’s
+security advantage
+, with any risk of tech leakage to the People’s Liberation Army (PLA) still manageable.
+He basically makes that last point by arguing that the PLA doesn’t even
+want
+American-made chips in its systems because that’d be a
+security risk
+. And even if the PLA got its hands on H20s, the tech’s self-imposed speed limits make the risk tolerable.
+But yep, it’s that same “
+China doesn’t want them
+” argument that might be the most intriguing, because a US thinktank actually
+combed
+through 66,000 of the PLA’s purchase records (pre-H20) and found the PLA was absolutely frothing for advanced Nvidia chips. And even once Biden’s chip controls kicked in and the H20 became popular, there were still
+reports
+last year of users in China getting hold of ultra-advanced
+A100
+chips.
+Anyway, it seems Trump 2.0 has concluded
+the pros outweigh the cons
+. And Huang’s customers in China seem comfortable too: he was there within days of Trump’s initial ban, and is due back for government meetings to share the good news this week.
+Intrigue’s Take
+There’s long been focus on how
+China’s Xi Jinping
+has weighed up his competing economic and security priorities. And the spate of crackdowns have made clear: he wants a thriving private sector, but only so long as it’s still answerable to the Party. We
+wrote
+recently about the clear symbolism in the president’s decision to host China’s top CEOs, but at a gathering
+presided by the Party’s chief propagandist
+, Wang Huning.
+So maybe the most interesting story about this latest Nvidia story is what it reveals about how
+President
+Trump
+is balancing those same competing priorities for the US: his initial move to block Nvidia’s H20 pipeline to China suggested he was leaning more towards security. And his subsequent H20 reversal suggests maybe he’s rebalancing back towards business — perhaps that’s because Nvidia successfully argued that pro-business
+is
+pro-security. Or maybe Nvidia has pledged something else helpful to US security.
+Whatever’s going on, Nvidia’s CEO has figured out how to have his chips and eat them too, hence our formal nomination for the title of the world’s happiest CEO.
+Today’s newsletter is sponsored by
+The Hustle
+The Hustle is on a mission to deliver the best business-tech daily by focusing on what actually matters: growth, trends, and innovation. Unlike other news sources that bog you down with negativity, The Hustle keeps things fun and engaging while delivering the insights you need to stay ahead. Join over 2 million readers who start their morning with a quick 5-minute read that cuts through the noise and highlights the stories that impact your business and career.
+Sign up free today
+and discover why so many professionals trust The Hustle.
+Meanwhile, elsewhere…
+🇦🇫
+AFGHANISTAN
+-
+Keep it on the DL.
+A UK court has lifted a gag order, allowing outlets to report that the UK secretly relocated some 4,500 Western-aligned Afghan personnel and their families to the UK after an accidental 2022 data leak exposed them to Taliban retaliation. It’s one of Britain’s worst data breaches in recent history. (
+BBC
+)
+Comment:
+It’s hard to think of a better example of the inherent tension between a government's legitimate need for secrecy and the public’s legitimate right to know.
+🇺🇸
+UNITED STATES
+- Trade deal ahoy
+.
+The US president has announced that Indonesian imports will face a 19% tariff (down from
+Liberation Day
+’s 32%), while Indonesia won’t tax US goods. Jakarta has also reportedly agreed to buy US oil and Boeing jets. (
+Guardian
+)
+🇹🇼
+TAIWAN
+-
+Public transport for the win.
+The local military is using Taipei’s metro in its current annual drills, factoring in the reality of urban warfare in the event of any attempted invasion from China. (
+TWZ
+)
+🇪🇺
+EUROPEAN UNION
+-
+Where the beer flows like wine.
+European winemakers are still lobbying Brussels to exclude wine from the EU’s planned tariff retaliation against the US, fearing any tit-for-tat could cost them their single biggest market. (
+Euractiv
+$)
+Comment
+: Both the US and EU wine industries have begged their own governments to keep them out of it, via what they call a ‘wine for wine’ principle. It’s an example of how the battle lines aren’t always national so much as sectoral, with industries trying to shape events in their favour via their own truces.
+🇹🇭
+THAILAND
+-
+Tourism delight.
+Thailand is holding off for another year before implementing its ~$10 visitor fee, arguing the country needs more time to assess foreign demand. (
+Strait Times
+)
+🇨🇴
+COLOMBIA
+-
+A new group.
+Bogotá is hosting the new Hague Group this week (with Bolivia, Cuba, Honduras, Malaysia, Namibia, Senegal, and South Africa), seeking “
+concrete legal, diplomatic and economic measures that can halt Israel’s destruction [in Gaza]
+”. Members of the local Jewish community have rejected the event as aiming “
+to scorch the only democracy in the Middle East that’s waging a war for its survival
+“. (
+El Pais
+)
+🇪🇹
+ETHIOPIA
+-
+It was you.
+The French-born aid organisation
+Doctors Without Borders
+(MSF) has published the findings of an internal review, concluding soldiers intentionally killed three MSF workers during Ethiopia’s 2021 civil war. The report stopped
+just
+short of echoing a NYT investigation which named a specific Ethiopian officer (Col. Tadesse Bekele) as giving the order. (
+Al Jazeera
+)
+Extra Intrigue
+The Intrigue jobs board
+💼
+China Energy Correspondent
+@
+Upstream
+in Shanghai
+Project Manager
+@
+Sea Watch
+in Malta
+Mining Analyst
+@
+McKinsey
+in Santiago
+And some
+extra DC opportunities
+for any Intriguers caught up in the State layoffs:
+Global Affairs Associate
+@
+Hyundai
+Motor Group
+Public Policy Manager
+@
+Uber
+VP Policy
+@
+Mastercard
+Policy Analyst
+@
+Undersecretary of Defense for Acquisition
+From our sponsors
+Let Summer Be Your Fresh Start With Therapy.
+Therapy doesn’t have to wait for a crisis. Use the calm of summer to get curious, reflect, and talk to someone who gets it. BetterHelp makes it simple to start, with sessions by phone, video, or chat: no commute, no pressure. Right now, get 25% off your first month.
+Try Therapy Today.
+Twins of the day
+That’s Intrigue’s Washington editor Kristen with the twins in question
+There’ve been a few twins in politics and geopolitics over the years: for example, the identical Kaczyński brothers were running Poland as president and prime minister for about 16 months there from 2006.
+But we’ve found a new addition to
+the power-twin roster
+, because it turns out Romania’s ambassador to the United States (Andrei Muraru) has a twin brother (Alexandru Muraru) who’s a politician in Romania!
+And yes, we found that out the best possible way: very awkwardly, while inventing an entirely new category of diplomatic faux pas at the ambassador’s residence. You see, our own Kristen went to offer a cheerful farewell to the ambassador, who quickly (and with a smile) clarified he was not actually the ambassador.
+Today’s poll
+Do you think CEOs are the 21st century equivalent of rockstars?
+🤘 Yes, they're cultural icons now
+🙅 Nah, they don't resonate
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think gains the most from an Armenia-Azerbaijan agreement?
+🇹🇷
+Turkey (41%)
+🇮🇷
+Iran (1%)
+🇺🇸
+US (20%)
+🇨🇳
+China (4%)
+🇦🇲
+Armenia (9%)
+🇦🇿
+Azerbaijan (25%)
+✍️ Other (write us!) (1%)
+Your two cents:
+🇦🇿
+C.E:
+“Turkey gets to look good, and brings the stability the region needs, but the Azeris are the clear winner since they got almost everything they wanted.”
+🇦🇲
+J.G:
+“Armenia may avoid being invaded by Azerbaijan and losing territory through conquest.”
+✍️
+Y.B:
+“The world would gain the most.”

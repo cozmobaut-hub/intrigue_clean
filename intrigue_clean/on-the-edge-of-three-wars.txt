@@ -1,0 +1,213 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-35d4b9aa64699882
+Title: 🌍 On the edge of three wars
+
+Today’s briefing:
+— On the edge of three wars
+— Secret Sahara meetings
+— Playing dirty in Hungary
+Good morning {{first_name | Intriguer}}
+. Some of our OG subscribers might remember when Intrigue was a weekly newsletter which focused on two big stories of the week (now we’ve got our hands full covering more than our fair share of global stories on the daily).
+One of these early Intrigue editions covered the conflict between Ethiopia’s federal government and the Tigray People’s Liberation Front. The delicate peace that’s managed to hold since then now looks wobbly, pushing the country back into the spotlight.
+Our top story today looks at the key issues driving insecurity in
+Ethiopia and the region
+, including intriguing reports that it’s hosting a secret camp to train Sudanese paramilitaries.
+Resignation of the day
+Mrinank Sharma
+That’s Anthropic’s head of AI safety, who just quit to go write poetry in the UK,
+warning
+“
+the world is in peril
+”. Seems like a fun guy, though the next day, Anthropic’s latest risk report
+noted
+an AI model had supported “
+chemical weapon development and other heinous crimes
+”.
+Red Sea axis
+Think you’re busy? Wait ‘til you meet Ethiopia’s
+Abiy Ahmed Ali
+(above), who’s now juggling three separate and interrelated conflicts, starting with…
+Ethiopia vs Eritrea
+This one’s got more backstory than Carrie and Mr Big, but basically Ethiopia’s 1962 annexation of its neighbour triggered Eritrea’s brutal 30-year war for independence, which eventually plunged Ethiopia back into its current landlocked isolation from the 1990s.
+The two were then stuck in
+frozen hostility
+for decades more until the current PM (Abiy) emerged in 2018 and did a historic deal with Eritrea that scored him the 2019 Nobel Prize.
+But no volume of photo ops or prizes could paper over the tensions, which culminated in
+Ethiopia’s startling
+letter
+last week
+demanding Eritrea “
+immediately withdraws its troops from Ethiopian territory and cease all forms of collaboration with rebel groups
+”.
+And to understand how we got there, we need to look at Ethiopia’s
+second
+war…
+Ethiopia vs Ethiopia (civil war)
+Abiy’s 2018 rise to power was a massive deal, not just because he signed the Eritrea truce, but because his ascent ended 30 years of dominance by
+Ethiopia’s ethnic Tigray elites
+(up north), who quickly got sidelined in the country’s military, intelligence, and beyond.
+That sowed the seeds for a full-blown civil war that erupted in 2020, and
+guess who helped
+Abiy’s federal troops? Neighbouring Eritrea! (with its own historic Tigray beef)
+So two years and endless war crimes later, Tigray lost, but
+guess which troops then refused
+to leave town? That’s right, neighbouring Eritrea, which voiced distrust at getting excluded from 2022’s big Tigray-Ethiopia peace deal.
+But there are now signs dissident Tigray groups are active again — and
+can you guess who’s reportedly helping them?
+That’s right, neighbouring Eritrea! After first crushing Tigray, there are growing reports Eritrea may now be hedging its bets with some Tigray factions as a proxy front to destabilise Ethiopia. Why? To force Ethiopia to back off its persistent demands for Red Sea access via Eritrea.
+And that brings us to Ethiopia’s
+third
+war…
+Ethiopia vs Sudan
+Thanks to some spicy Reuters
+reporting
+, it turns out Ethiopia is also hosting
+a secret training camp
+for 4,000 members of neighbouring Sudan’s notorious Rapid Support Forces (RSF) paramilitary, which controls 40% of the country amid its own brutal civil war.
+Why would Ethiopia do that?
+Just look at who is ✌️allegedly✌️ funding and staffing the camp:
+the United Arab Emirates
+, which denies the allegations though has been collecting East African proxies like Pokémon to secure a Red Sea footing plus gold assets, while curbing Islamist influence.
+And…
+why would Ethiopia help the Emiratis
+? Well guess who first helped the Ethiopians against Tigray as part of its above Pokémon strategy? That’s right, the Emiratis.
+So even if the above leaves you more confused than season six of
+Lost
+, just hold onto
+this big takeaway
+: with local US power looking to draw down, you’ve got this overlapping map of history, rivalry, and proxies that risks pulling an entire region into open conflict.
+And conveniently, the same country at the edge of all three wars is also the host of the African Union, which gathers for its 39th regional summit in Addis this Saturday!
+Intrigue’s Take
+So for those of us not living right there… why care? Here are three reasons, starting with…
+First
+, the
+humanitarian
+implications dwarf anything else you might’ve seen in your feed, with a regional death toll approaching a ~million since Tigray, plus another ~20 million folks displaced, fuelling…
+Second
+, continued irregular
+migration
+as far as Europe, playing not only into transatlantic spats with the US but also offering more fertile ground for Putin to keep backing angry voices to divide and weaken Europe, which takes us to…
+Third
+, even if this doesn’t hit your conscience or your ballot,
+it’ll hit your wallet
+: the Houthis are already making Red Sea shipping (~12% of world trade) risky and therefore pricey, and these other conflicts will only further delay any stability. Plus if you want to get into specific sectors, consider Ethiopia is not only a top coffee exporter, but also has vast critical minerals shaping up as the next venue for the US-China race to secure their supply chains (something we
+visited
+last month).
+Sound even smarter:
+Ethiopia has been the world’s most populous landlocked country since Eritrean independence stripped it of key Red Sea ports in the early 1990s.
+Meanwhile, the US continues to mediate another long-standing dispute involving Ethiopia’s new mega-dam, which downstream Egypt sees as a direct threat to its entire Nile water supply.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES — Don’t panic.
+The dollar index is down ahead of US employment data due out 8.30am ET today (Wednesday), with top White House advisors pre-emptively blaming the expected bad news on AI, deportations, and government cuts. (
+Yahoo Finance
+)
+Comment:
+Key stats agencies are still playing shutdown catch-up, but any weak jobs numbers will add to yesterday’s disappointing retail data to sour the mood on Wall St. Talking about suspense… we're wondering what's behind the breaking US decision to
+halt all El Paso flights
+for 10 days, citing “special security reasons“. It’s a rare order, and the location opens the possibility of (say) a
+cross-border cartel operation
+.
+🇭🇺
+HUNGARY — Playing dirty.
+With polls suggesting the centre-right’s EU-friendly Péter Magyar could end Putin-friendly Orbán's 16 years in power this April, the race has taken a spectacular turn: Magyar announced overnight he expects intimate footage of him with his then-girlfriend to emerge today (Wednesday), in an attempt to discredit him. (
+Péter Magyar’s X
+)
+Comment:
+The timing would make sense, distracting from the opposition’s policy launch plus the government’s own latest corruption headlines. But lest you think this is just palace intrigue, keep in mind this election will shape whether Orbán can keep blocking EU and NATO responses to Putin’s aggression against Ukraine.
+🇰🇬
+KYRGYZSTAN — I’m letting you go.
+President Japarov has sacked his longtime ally (Tashiev) as security chief and deputy PM in a shock move he’s defending as crucial to
+"prevent division in society."
+(
+RFE
+)
+Comment:
+It looks like an attempt to curb Tashiev’s enormous influence ahead of next year’s elections, with the president presumably fearing him as a potential rival. But why now? Tashiev is in Germany getting medical treatment.
+🇦🇲
+ARMENIA — Sway away from Moscow.
+In another sign of its continued push out of Moscow’s traditional orbit, Armenia has signed a civil nuclear deal with the US during the first-ever visit by a US VP, paving the way for US tech and investment. (
+Al Jazeera
+)
+Comment:
+The disintegration of Moscow’s regional influence continues apace as Putin burns everything he has against Ukraine. But the news was almost overshadowed by a Vance tweet recognising the Armenian genocide, a guaranteed way to send NATO ally Turkey ballistic, which is why the White House quickly hit delete. This was realistically a staffer stuffup rather than any shift in US position, though it’s somehow now angered both the Turks and the Armenians.
+🇵🇼
+PALAU
+— Do not come.
+The US has designated senior figures from Palau (the island’s senate president) and the Marshall Islands (an influential ex-mayor) over significant alleged corruption linked to China. They and their families are now barred from US entry. (
+RNZ
+)
+Comment:
+The US statement almost spells out that this is a response to China’s regional strategy of elite capture: corrupt key players then tilt national decisions in your favour. It’s tough to counter, as the name-and-shame approach can harden entrenched powerbrokers against you instead. In this instance, it’s also worth noting these two Pacific Islands are among the few still recognising Taiwan.
+🇨🇱
+CHILE — LLMs for us.
+Chile's national AI body has launched Latam-GPT, the first open-source AI language model trained on broader sources of Latin American data. Built over two years, it’s part of a regional effort to curb AI’s English language bias. (
+AP
+)
+🇪🇭
+WESTERN SAHARA — Secret meeting.
+The US has hosted
+not-so-
+secret talks in Madrid between the independence movement running parts of Western Sahara, the neighbour claiming it all (Morocco), and others (Algeria, Mauritania) hustling to maximise their own influence. The US seems to be pushing some version of Morocco’s UN-backed plan that’d see Western Sahara get autonomy under Moroccan sovereignty. (
+Middle East Eye
+)
+🇨🇩
+DR Congo — Hired guns.
+It turns out US mercenary tycoon Erik Prince has sent troops and drones to help the Congo secure its strategic city of Uvira against the Rwanda-backed M23 armed group. It’s the first known instance of Prince’s involvement in the conflict. (
+Reuters
+)
+Comment
+:
+What’s Prince getting in return? Last year he agreed to help the Congo tax its mineral wealth, in a very similar deal to one
+he signed with Haiti
+in August.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Policy and Research Officer @
+Ireland Embassy
+in DC
+Research Coordinator @
+Transparency International Secretariat
+in Berlin
+Outreach Assistant @
+International Institute of Humanitarian Law
+, Remote
+Junior Manager
+@
+Center for the Governance of Change
+in Madrid
+From our sponsors
+Imagine The Economist had a drunken love child with a meme page.
+That’s
+The Pint.
+Join 15,000 people getting the latest global business & politics news through memes. Every Friday in your inbox.
+Subscribe for free.
+Monks of the day
+Credits: Intrigue
+Washingtonians gathered on ice mounds and sidewalks across the city Tuesday as 19 Buddhist monks wrapped their 3,700km (2,300mi) walking odyssey from Texas to DC.
+Affiliated with a Fort Worth outlet of Theravadism (the oldest surviving school of Buddhism), several of the monks also have roots in Thailand, Vietnam, Sri Lanka and beyond, and have been walking every day since setting out back in October.
+Why’d they do it?
+It’s been billed as a silent, non-political pilgrimage promoting inner peace, compassion, and nonviolence.
+Today’s poll
+Do you think we'll see full conflict back in Ethiopia before the end of the year?
+🔥 Yes, there's too much kindling
+🕊️ No, the costs are too high
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Cuba's communists will survive this latest crisis?
+✅
+Yes, they're too entrenched to topple (69%)
+❌
+No, they'll be gone by year's end (28%)
+✍️ Other (write in!) (3%)
+Your two cents:
+✅
+G.C:
+“Time to try carrot and stick diplomacy, instead of just being loud with a big stick.”
+❌
+R.O:
+“Cuba may have finally run out of friends willing to defy US pressure. And US pressure is going to increase as the administration looks for a win with currently disaffected Latino voters.”

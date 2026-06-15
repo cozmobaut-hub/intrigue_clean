@@ -1,0 +1,253 @@
+URL: https://archives.internationalintrigue.io/p/world-breaking-temperature-records
+Title: 🌍 The world is breaking its temperature records
+
+IN TODAY’S EDITION
+1️⃣ The geopolitics of a record temperature
+2️⃣ An assassination plot in Georgia?
+3️⃣ Portfolio of the day
+Hi {{ First name | Intriguer }}.
+Thanks to everyone who joined our packed-out event at the Australian Embassy in DC last night!
+Following a welcome by Australia's ambassador and former prime minister, Kevin Rudd, we were lucky to have several special guests help us explore how internet culture is shaping our world:
+Ami Fields-Meyer, a recent top advisor to Kamala Harris, shared insights into
+where AI is headed
+Ginni Badanes, head of Microsoft's Democracy Forward, delved into
+deep fakes and digital deception
+Lacey Dickinson, a leading social media strategist, helped us understand
+the mechanics of viral content
+, and
+Georgetown's Helen Toner walked us through her own remarkable journey as a
+former OpenAI board member
+.
+One sentence to sum it all up? For me, that’d be a point Helen Toner made: even AI experts don’t
+really
+know what they’re talking about, so it’s an evolving space and we’re all on the same page!
+Speaking of which… today's briefing looks at how our world just broke a
+global temperature record
+for two days in a row.
+P.S.
+If you’re joining us from our recent acquisition Lykeion, welcome! More information and a note from Tim can be found
+here
+.
+THE HEADLINES
+Netanyahu addresses US Congress.
+The Israeli prime minister has
+delivered a nearly hour-long address
+, defending his country’s war in Gaza and pledging to achieve “
+total victory
+” over Hamas. Thousands gathered outside in protest, while dozens of lawmakers (including names like Nancy Pelosi) skipped the address altogether. Netanyahu is scheduled to meet with President Biden and Vice President Harris today (Thursday), and with Donald Trump at Mar-a-Lago tomorrow.
+Biden addresses the nation: time to “
+pass the torch
+”.
+The US president has
+addressed his country from the Oval Office
+, seeking to explain further his decision to drop out of the presidential race. He said there’s “
+a time and a place for new voices, fresh voices — yes, younger voices
+”.
+PS
+- don’t miss our
+weekly briefing on the US election
+, its implications for the world, and vice versa (free to
+subscribe here
+).
+UK and Germany sign defence pact.
+Wednesday’s
+joint defence declaration
+aims to strengthen the British and German defence industries, reinforce European security, and increase support for Ukraine. It’s part of a two-day tour across Europe by Britain’s new defence minister, John Healey, with other stops including France, Estonia, and Poland.
+Typhoon Gaemi sows destruction in East Asia.
+Taiwanese rescuers are
+scouring the sea
+for survivors after a cargo ship sunk with nine onboard. Meanwhile, the Philippines has declared a state of calamity in the capital Manila, and is now facing what could be the country’s worst-ever oil spill after an oil tanker sank with 1.5 million litres of industrial fuel.
+TOP STORY
+The geopolitics of record-breaking temperatures
+It’s getting hot in here. Credits: EU Copernicus Climate Change Service.
+New world records are usually a cause for celebration, but not this one: Earth had
+its hottest day on record on Monday
+after average surface air temperatures hit 17.16°C (62.8°F), beating the previous record set just 24 hours earlier.
+Global temperatures typically reach their peak this time of year, coinciding with summer in the northern hemisphere, where larger land masses warm up more quickly. But
+this particular peak is notable
+for a few reasons:
+It’s broken records despite the warmer
+El Niño
+phenomenon receding
+It’s broken records
+everywhere
+(
+1,600 places
+globally this week)
+It’s broken records
+quickly
+(the last records were in 2023 and 2016), and
+It’s broken records
+by so much
+(the red shading above shows the difference between last year’s records and those from 2016)
+Of course, we’re International Intrigue (did we forget to introduce ourselves?), and we’re really interested in the
+international
+angle here. So here are just three that perhaps you haven’t pondered.
+First
+, there’s the
+international tech
+that made this grim announcement possible.
+The EU’s Climate Change Service (CCS) was the first to
+sound the alarm
+this week. It hoovers up vast quantities of data from the EU’s
+Copernicus
+, which uses sophisticated satellite groups (named ’Sentinels’) to help shape EU approaches to emergencies, borders, surveillance, and even the
+Russo-Ukraine war
+.
+A lot of the
+Copernicus
+data is available to all, but the juicier info is for friends only, driving an increase in
+countries keen to be friends
+:
+The
+UK
+re-joined Copernicus after finalising Brexit
+Three
+US
+agencies have signed cooperation deals, as have players from
+Australia
+,
+Brazil
+,
+Canada
+, the
+Philippines
+and beyond, and
+Interestingly,
+Switzerland
+is keen but is
+delaying over the costs
+.
+However, while the EU has built (and is still expanding) this successful Earth observer program in space, it’s still having trouble getting its satellites up there.
+Officials were hoping the long-delayed French-led
+Ariane 6 rocket
+, which debuted this month, could be the answer. But that’ll take time - and the EU’s own weather satellite service has still just opted for SpaceX over Ariane 6.
+Second
+, there’s the way
+government bandwidth
+, already stretched thin, gets stretched even thinner by a need for more - and bigger - emergency responses.
+Just look at Typhoon Gaemi -
+Taiwan
+’s strongest in years - hitting right now: aside from the destruction, it’s also cancelled (for example) a Taiwanese dialogue in the US, plus air force drills back home. With China now periodically rehearsing a blockade offshore, Taiwan’s military drills and US dialogues aren’t just for fun.
+And
+third
+, various data-driven
+studies
+have argued that countries more vulnerable to extreme weather events are also
+more likely to face conflicts
+.
+A textbook example is the way
+Syria
+’s worst-ever drought (2006-11) pushed rural populations into urban centres, fanning existing tensions that spiralled into a civil war and sent millions of Syrians into Europe, where voter sentiment then shifted. That’s quite the butterfly effect from one indicator in one country.
+So let’s bring this back to where we started, shall we? The boffins at Copernicus are expecting global temperatures to start the
+seasonal cooling
+process soon.
+But over the longer term, they’re telling us we’ll keep breaking more records. And we’re already getting a peek at how that might shape our world.
+INTRIGUE’S TAKE
+The obvious question, then, is… what’s the solution? The world’s ‘COP’ climate talks in the UAE last year produced a breakthrough pledge to “
+transition away
+” from fossil fuels, but our consumption keeps growing.
+And stunning growth in solar capacity keeps defying the forecasts, but (on aggregate) it’s still helping us expand total energy consumption, rather than displace our dirtier energy sources.
+These are tough problems to solve, and yet government bandwidth to tackle the longer term causes risks shifting to address the shorter term symptoms.
+So we can't help but wonder if part of the answer might lie in more of the principles behind Copernicus above: sophisticated tech, open data, and practical partnerships.
+Also worth noting:
+The EU Space Agency is planning to launch an additional two Sentinel missions (Sentinels 1 through 3 are already in orbit) to expand its observational capabilities.
+A key driver behind this week’s records has been higher Antarctic temperatures, 6 to 10°C (10.8 to 18°F) warmer than normal.
+A MESSAGE FROM MASTERWORKS
+2478 everyday investors shared $1,123,615 net profit on a Monet
+Now you might be thinking: “what the heck are you talking about?” But keep reading, because this investment platform's users are already smiling all the way to the bank. Thanks to Masterworks, the award winning platform for investing in blue-chip art.
+Every single one of Masterworks’ 16 sales has returned a profit to investors, for a 100% positive net return track record. With 3 recent sales, Masterworks investors realized net annualized returns of 17.6%, 21.5% and 35%.
+How does it work? Simple, Masterworks does all of the heavy lifting like finding the painting, buying it, storing it, and eventually selling it. It files each offering with the SEC so that nearly anyone can invest in highly coveted artworks for just a fraction of the price of the entire piece.
+Shares of every offering are limited, but Intrigue readers can skip the waitlist to join with this exclusive link.
+Skip the waitlist.
+Past performance is not indicative of future returns, investing involves risk. See disclosures
+masterworks.com/cd
+MEANWHILE, ELSEWHERE…
+🇬🇪
+Georgia
+: Local security services say they’ve
+uncovered a plot
+to overthrow the government, including by assassinating the shadowy billionaire controlling the ruling party. The announcement, made via Facebook, comes as the government continues to face criticism for its new ‘Russian-style’ law to scrutinise NGOs.
+🇩🇪
+Germany
+: Chancellor Olaf Scholz has announced
+he’ll seek re-election
+in 2025 despite his party’s poor performance in this year’s European Parliament elections. Coalition infighting, budgetary issues, and a lacklustre economy have all hit Scholz’s approval ratings.
+🇮🇩
+Indonesia
+: A
+French air force
+mission has stopped over in Jakarta as part of France’s aim to reassert itself as a Pacific military power. The aircraft, including two Rafale fighters, a tanker, and a transport, also made stops in Malaysia and Singapore.
+🇧🇷
+Brazil
+: A Washington Post investigation has claimed that many companies generating carbon credits in the Amazon have repeatedly and
+illegally done so by laying claim to publicly-owned land
+. The global carbon credit market was worth an estimated $479B in 2023.
+🇪🇷
+Eritrea
+: For reasons unknown, local authorities have
+suspended all flights
+in Eritrea by Ethiopian Airlines, Africa’s largest carrier. Flights between the two East African neighbours (and occasional foes) only just resumed in 2018 after a two-decade freeze.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Science
+: Promising clinical trials in South Africa and Uganda have indicated that
+HIV infections among young women and adolescent girls can be prevented
+with a twice-yearly injection.
+Tech
+: Cybersecurity firm Crowdstrike has
+blamed a bug
+for the global outage that disrupted 8.5 million Windows devices last week.
+Film
+: Pixar’s
+Inside Out 2
+has become the
+world’s highest-grossing animated movie
+ever, overtaking
+Frozen II
+despite not opening in Japan yet.
+PORTFOLIO OF THE DAY
+Buckingham Palace. Image courtesy of the Royal Collection Trust.
+The UK’s
+Crown Estate
+just dropped its
+annual report
+, and it’s intriguing for two reasons:
+first
+, because it’s the British monarchy’s legacy portfolio of assets dating back to when George III surrendered royal lands to parliament in 1760. The UK now pays the royal family an annual sum out of the estate’s profits.
+But
+second
+, those profits just doubled to a record $1.4B, and did so for an intriguing reason: wind farms are a key part of the UK’s energy transition; offshore wind developers often need to pay seabed owners to secure sites; and a vast stretch of seabed around the UK actually belongs to… yes, the Crown Estate.
+DAILY POLL
+Do you think elected officials should have a minimum and/or maximum age requirement?
+🟢 Yes, it's become a necessity
+🔴 No, a blanket ban would eliminate some good candidates
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Nicolás Maduro will step down if he loses?
+⬜️⬜️⬜️⬜️⬜️⬜️ 👍 Yep, a refusal at this point would trigger a revolt (12%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👎 Nope, he's got too much at stake (86%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (2%)
+Your two cents:
+👎
+P.T.F
+: “Too many people are complicit in his regime for him to be allowed to disappear peacefully.”
+👍
+D.L:
+“If he gets a sufficiently attractive off-ramp offer or if, after the results are in, the military indicates it supports the results, then he might.”
+✍️
+V.A:
+“It will depend mostly on the negotiation of US warrants and sanctions by the current US government and also the following amnesty deals with the opposition so that the economic branch of the Maduro regime and its cronies can survive.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

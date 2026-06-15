@@ -1,0 +1,143 @@
+URL: https://archives.internationalintrigue.io/p/developing-countries-bearing-brunt-energy-fallout-caused-russiaukraine-war
+Title: Developing countries bearing the brunt of the energy fallout caused by the Russia-Ukraine War
+
+Hi there {{ First name | Intriguer }}.
+The Intrigue team is growing! We’re thrilled to welcome Ethan Plotkin, “a brilliant and charming - not to mention dashing - connoisseur of geopolitics” (his words, not ours). Ethan joins us from the Washington DC-based Bipartisan Policy Center. He’ll be helping write the daily newsletter and leading the launch of some exciting new products that we’ve got in the pipeline. You can follow and chat with him on Twitter @
+EthanPlotkin_
+. Welcome, Ethan!
+Today's briefing is a ~5.2 min read:
+💸
+Energy crunch:
+developing economies are being left in the dark.
+➕ Plus:
+TikTok comes under fire for child refugee exploitation, Turkey and Libya sign a controversial energy deal, and Hong Kong follows China’s approach and refuses to seize a $500M megayacht.
+📰 GLOBAL HEADLINES
+Stories:
+De Morgen,
+The Times of India
+,
+The Straits Times
+,
+Monitor
+,
+El Tiempo
+Our take:
+The Russo-Ukrainian War prominently featured in most of the newspapers we reviewed today. We’ve noticed a distinct ebb and flow to how papers are covering the war - nuclear threats, attacks on recognisable cities, or visible Ukrainian success are the most likely events to make newspapers fire up their live blogs.
+🤿 DEEP DIVE
+The darker side of Europe’s energy crisis
+In brief:
+Developing economies like Pakistan and India are being priced out of the energy market as wealthier European nations outbid them for liquified natural gas (LNG) contracts.
+It’s a problem seen in many developing economies, with factors like high energy prices, shady gas traders, and depreciating currencies all contributing to energy shortages.
+LNG prices have been on the rise right around the world. Source: Statista
+Not one made a bid
+Like a signed Nickelback album on eBay, Pakistan
+failed to obtain a single tender offer
+to supply the country with six years’ worth of liquified natural gas (LNG).
+Pakistan’s inability to attract a bidder highlights just how tight the energy market currently is.
+In practice, this means Pakistan hasn’t secured additional LNG supply from 2023 onwards, and 2023 is less than three months away (we apologise for that jarring reminder).
+Unfortunately, the problem isn’t confined to just Pakistan.
+In August,
+IndianOil
+also failed to receive any offers on a spot tender for LNG.
+Bangladesh’s
+recent wave of power outages was partially caused by the government’s decision to shut down all diesel-run power plants to save on import spending.
+At a disadvantage
+The Russo-Ukrainian War and a strong post-pandemic recovery in developed markets have meant that poorer countries have been priced out of the energy market.
+Bloomberg commodity reporter
+Stephen Stapczynski
+explains that LNG supplies are:
+❝
+“[L]eaving developing nations, which are unable to afford expensive shipments, facing energy shortages and economic uncertainty for years. Suppliers are also more reluctant to sell to emerging nations”.
+Not only are emerging economies unable to outbid European nations with deeper pockets, but some energy companies are reportedly
+playing dirty
+.
+Traders are allegedly reneging on long-term supply contracts, paying the penalties, and then reselling the LNG shipments on the spot market for increased profit.
+And, to make matters worse, many developing economies are facing dwindling foreign reserves and depreciating domestic currencies.
+Stuck between a rock and a hard place
+Market tightness is
+forecast to continue
+, and countries like Pakistan and Bangladesh are running out of options fast. Some have understandably turned to alternative sources of power, such as coal or oil:
+But even those are not good substitutes - coal prices have increased fourfold since the beginning of 2021.
+So, for those having to cough up for high power bills in Europe, spare a thought for those in developing economies who’ll likely be facing no power at all.
+Sponsored by Emerging Tech Brew
+The future of tech, delivered today.
+Join over 450K people who read Emerging Tech Brew- the 3-times-a-week email delivering the latest tech news impacting our future. From drones and AI to climate tech and robotics - if it affects your world, Emerging Tech Brew has got you covered. The best part? It's free and only takes 5 minutes to read so there's no reason not to try it.
+Subscribe for free.
+🔦 REGIONAL SPOTLIGHT
+Africa & the Middle East
+🇨🇲 Cameroon
+Like Charlie Bucket, Cameroon and Nigeria are hunting for a golden ticket by submitting a bid to
+join the Cote d’Ivoire-Ghana Cocoa Initiative
+.
+Cote d’Ivoire and Ghana are the world’s two largest cocoa producers, and together, the four nations will represent two-thirds of global cocoa production.
+The initiative aims to develop sustainable farming practices for an industry increasingly threatened by climate change and deforestation.
+🇱🇸 Lesotho
+Prime Minister-elect Sam Matekane will
+form a coalition with two smaller parties
+, having failed to secure the 61 seats needed to govern Lesotho alone.
+The political novice’s newly-formed Revolution for Prosperity party ran on promises to cut government spending and disrupt the political status quo.
+Lesotho has a population of around two million, but that doesn’t make it immune from volatile politics - Matekane will be the country’s third prime minister in five years.
+🇱🇾 Libya
+The leader of one of the two factions vying for control of Libya has
+signed a hydrocarbon exploration deal
+with Turkey.
+Abdelhamid Dbeibah’s Tripoli-based government hopes to cash in on growing European demand for gas, despite objections that the agreement violates established maritime borders.
+Dbeibah’s rivals in Tobruk insist his government lacks the legitimacy to sign the deal.
+🇸🇾 Syria
+According to
+an explosive BBC report
+, TikTok is syphoning donations intended for Syrian refugees.
+Children in refugee camps have been using the platform’s live stream function to earn donations, but TikTok allegedly garnishes up to 70% of the money.
+The company, up there with Facebook as among the most trustworthy in social media, denies the charge.
+🇸🇦 Saudi Arabia
+President Biden and other top Democrats are
+seeking to re-evaluate
+America’s relationship with Saudi Arabia after OPEC announced its intention to slow oil production.
+While details remain unclear, some Democratic leaders are threatening Saudi Arabia, the largest purchaser of American-made weapons, with an arms sale embargo.
+Biden has sought to amend the relationship before, promising during his 2020 campaign to turn the Kingdom into a "pariah", before taking a more
+conciliatory approach during
+his visit there this summer.
+🗞 IN OTHER NEWS...
+Hong Kong refuses to impound Russian superyacht
+Russian billionaire Alexei Mordashov has barely had a chance to sail aboard the 'Nord'. It was delivered in 2021, is 465 feet long, has two helipads, and costs ~$50M/year to run.
+Yacht talk:
+Either Russian entities are looking eastward to evade Western financial sanctions, or maybe Hong Kong is just a great place to dock your megayacht.
+Last week, Hong Kong’s leader John Lee
+said there was "no legal basis" to seize
+or deny entry to a $500M vessel belonging to sanctioned billionaire Alexei Mordashov, a statement which concerned many in Western capitals.
+It’s not just yacht
+owners, either
+. Hong Kong law firms are reportedly being approached by Russian companies
+hoping to raise capital
+in the city’s well-connected financial markets.
+As the Director of the Centre for Financial Crime & Security Studies,
+Tom Keatinge
+explains:
+❝
+“The ‘third country’ problem requires a coordinated western response… What does accepting yachts of sanctioned owners say about the broader integrity of #HongKong against #Russia sanctions evasion…?”
+No limits friendship
+: China and Russia have always had friendly ties, but what is concerning for Western lawmakers is seeing their ‘no limits friendship’ now apply to Hong Kong, too.
+The US criticised Lee’s approach, maintaining that welcoming Mordashov’s yacht would encourage more sanction evasion, which would
+“call[...] into question the transparency of [Hong Kong’s] business environment”.
+The (financial) danger zone:
+Despite Hong Kong’s decision, it probably doesn’t signal a broader willingness to help Russia avoid sanctions. Even mainland Chinese banks are reluctant to deal openly with Russia and risk exposing themselves to secondary sanctions.
+Although unlikely, sanctions on Hong Kong’s financial industry - which makes up
+23% of the territory’s GDP
+- could cripple the territory’s economy.
+☘️ Sláinte
+One pint of the good stuff, please.
+Intrigue Co-founder and CEO John is holed up in the Emerald Isles for a while before heading to London Town. Don’t forget, if you’re in either place and would like to catch up, hit reply and let us know!
+It only took John two days to encounter a brogue he could not understand - but that may have been the Guinness.
+Here are the top-five Guinness-drinking countries in the world... can you guess which country comes third?
+(Answers in order at the end of the newsletter)
+🇺🇸 United States
+🇨🇲 Cameroon
+🇬🇧 United Kingdom
+🇳🇬 Nigeria
+🇮🇪 Ireland
+Login
+or
+Subscribe
+to participate
+Answers:
+1. UK 2. Ireland 3. Nigeria 4. US 5. Cameroon

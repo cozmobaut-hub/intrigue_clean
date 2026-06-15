@@ -1,0 +1,254 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-f239a741497d9f25
+Title: 🌍 When does this war end?
+
+Today’s briefing:
+— When does this war end?
+— Go work for Lego in Singapore
+— The doomsday fish is back!
+Good morning {{first_name | Intriguer}}
+. There’s a story that periodically does the rounds about a seasoned art critic pondering Filippino Lippi’s surprisingly bad
+painting of Mary and Jesus
+at London’s National Gallery — the 15th century work had long been criticised for its odd proportions and uncomfortable figures.
+And that’s when, so the tale goes, the critic realised the painting was meant to be hung up high in a church, not shoulder-height in a gallery. And sure enough, when that critic got down on the floor to take another look from the intended perspective, the painting’s elements all fell into perfect alignment, revealing it to be a masterpiece.
+Right now, we’re all stuck analysing each day at shoulder-height, but today’s briefing tries to get down on the ground and
+re-think some of the perspectives around where this Iran war might take us
+. Onwards.
+Number of the day
+50,000
+That’s how many German jobs automaker Volkswagen Group plans to cut by 2030, after net profits fell ~44% in 2025. Europe’s manufacturing woes just got a little deeper.
+Iran timeframes.
+Intelligence agencies often think about the future via scenarios, graded in confidence. So before we do that,
+h
+ere’s what’s happened since we left you yesterday
+…
+On the battlefield:
+President Trump says the US is now targeting Iranian
+minelayers
+amid reports the regime is trying to mine Hormuz — the US only has four active mine-clearers
+The UAE
+detected 35 Iranian drones on Tuesday — that’s less than initial waves, but a record ~
+25%
+now get through, suggesting a possible interceptor shortage
+And those
+Ukrainian
+anti-drone teams we
+flagged
+yesterday are due this week.
+In the info domain:
+Israel’s
+Netanyahu
+has again urged the Iranian people to rise up
+Iran’s hardline parliamentary speaker (
+Ghalibaf
+) is ruling out a ceasefire (an attrition strategy generally means erasing any hint of a possible offramp)
+Putin
+has promised Trump he’s not helping Iran with targeting (he’s lying), and
+Trump’s
+press secretary
+has declared it all a “
+resounding success
+” (that’s her job).
+Beyond
+:
+Per yesterday’s briefing (and last week’s rumours), the US is now relocating
+parts
+of its top
+THAAD
+air defence from South Korea to the Middle East. Subject to details, it’s a presumed win for China, which gets its way (less THAAD) without any concession or contrition. And it’s a possible blow for Korea, which endured years of China’s economic reprisals after the US first deployed the system there in 2017. Right on cue,
+North
+Korea has now test-fired cruise missiles from its latest warship.
+Anyway, let’s explore the trillion-dollar question of
+when this war might end
+, starting with…
+This weekend?
+(5-10% chance)
+Let’s say this war ends
+two weeks
+after it started — normality doesn’t then kick back in from Monday. Rather, shipping lines need weeks to normalise their ops, oil exporters stuck behind Hormuz need months to restore their output, and insurers likely need months again to restore the pre-war coverage that underpins the entire supply chain.
+So even in that optimistic scenario, you’re looking at Brent crude remaining
+above $80
+per barrel through to at least June or July — advanced consumer economies might swallow the temporary shock, but there’ll be
+more pain for Asia
+’s Hormuz-dependent markets: Thailand, for example, just ordered mandatory work-from-home for officials.
+Meanwhile, a
+food price shock
+could last longer: a ~third of the world’s fertilizer exports rely on Hormuz, so we’re already seeing chatter of farmers
+a
+) using less fertiliser and/or
+b
+) switching from high-nitrogen crops (corn) to others (soybeans). That all risks higher prices lasting through the next harvest and beyond. Higher food prices can also risk a
+balance of payments
+crisis for import-dependent nations from Sudan to Sri Lanka.
+End of this month?
+(25-35%)
+Consider what it means in practice if this conflict reaches that
+30 day
+mark: it’s another fortnight of missile and drone strikes further degrading the region’s energy and port infrastructure, driving even deeper insurance fears that’ll take even longer to unwind.
+Compound lags mean we could then see oil prices staying
+higher ($100+) for longer (at least into Q3)
+, and this all starts to embroil more sectors:
+Aviation
+is already eating pricier fuel and longer detours, with fare hikes hitting…
+Tourism
+— not just for a Middle East suffering hits to its ‘safe hub’ status, nor even the many destinations routing through it, but broader hits to capacity, plus…
+Petrochemicals
+are also hurting, with a ~third of global polyethylene exports relying on Hormuz. And that might sound like someone else’s problem until you recall it’s the plastic input for everything from packaging to consumer goods.
+Then what about…
+End of
+next
+month?
+(50-65%)
+Let’s say the war drags on for a total of
+60 days
+— at that point, it gets hard to find the sectors and economies
+not
+hit. Take a quick tour with us:
+Automakers
+across Europe and Asia start to faceplant into that petrochemical wall above, with plastic, rubber, and adhesive shortages all driving higher prices
+Pharmaceutical
+players like India (20% of the world’s generics) start to miss solvents and excipients, hitting our supply of antibiotics and paracetamol, and
+Chipmakers
+in Asia start scrambling for inputs like ethylene-glycol, helium, and speciality polymers, meaning pricier consumer electronics, EVs, and data centres.
+And it doesn’t take long for those and many other sectoral woes to bleed out across the broader economy via lower trade, higher inflation, and slower growth.
+Intrigue’s Take
+There’s that classic Wall Street line that pessimism makes you look smart, but it’s
+optimism that makes you rich
+. And many of our friends have indeed hit payday in recent years by betting things would ultimately turn out less scary than the headlines, whether on Covid, energy, or tariffs.
+So history might end up laughing at
+what could seem like doomsday scenarios above. But given
+the
+S&P500 is now barely down
+0.6%
+since this war began,
+history could instead end up marvelling at the way markets are now massively mispricing risks ahead.
+And sure, that’s the point of scenario-plotting — ask how long this war might last, then start
+advising your
+company, government, or uncle how to hedge.
+But a lot of the time, those optimistic bets above have paid off because our world turned out to be much more elastic than we realised — supply chains adapt, then snap back.
+In this case, however, the longer the war lasts, the more likely something really just breaks.
+Sound even smarter:
+Saudi Arabia is now ramping up oil flows through its East-West pipeline out to the Red Sea,
+reaching capacity
+(7 million bpd) in coming days.
+The International Energy Agency is mulling its biggest-ever release of oil reserves to ease prices, according to the WSJ.
+It seems Iran is still letting its own oil out of the Strait — mostly headed to China, and reportedly in greater quantities than pre-war! As for everyone else? British authorities
+say
+at least three ships have just been hit moving through the area.
+Today’s briefing is presented by…
+Become An AI Expert In Just 5 Minutes
+If you’re a decision maker at your company, you need to be on the bleeding edge of, well, everything. But before you go signing up for seminars, conferences, lunch ‘n learns, and all that jazz, just know there’s a far better (and simpler) way:
+Subscribing to The Deep View.
+This daily newsletter condenses everything you need to know about the
+latest and greatest AI developments
+into a 5-minute read. Squeeze it into your morning coffee break and before you know it, you’ll be an expert too.
+Subscribe right here
+. It’s totally free, wildly informative, and trusted by 600,000+ readers at Google, Meta, Microsoft, and beyond.
+Meanwhile, elsewhere…
+🇨🇳
+CHINA
+-
+Claw it back.
+Authorities have banned state-run companies and government agencies from downloading OpenClaw AI agents, citing security reasons. OpenClaw generally requires broad access to private data and can communicate externally to carry out tasks independently. (
+Bloomberg
+$)
+🇨🇦
+CANADA
+-
+Shots fired.
+Authorities are investigating after someone fired shots at the US consulate in Toronto, days after an IED exploded outside the US embassy in Oslo. (
+Guardian
+)
+Comment
+:
+Any investigation’s working assumption will be that this violence against US diplomatic missions is, one way or another, linked to the Iran war.
+🇲🇳
+MONGOLIA
+-
+Unfair terms.
+Mongolia is reportedly pressuring British-Australian mining giant Rio Tinto to renegotiate the 17-year-old terms of its vast Oyu Tolgoi copper mine amid a price surge for the metal. (
+FT
+$)
+Comment:
+Regular readers will recall it was Ghana and gold last week, as budget-stretched capitals everywhere reconsider the rules amid record commodity prices.
+🇽🇰
+KOSOVO
+-
+Not yet.
+Kosovo’s top court has barred the president from announcing elections, pending a lawsuit alleging her snap election decree was unlawful. (
+Reuters
+)
+Comment
+:
+Amid an intractable political deadlock, it’d be Kosovo’s third parliamentary vote in just over a year.
+🇱🇰
+SRI LANKA
+-
+Now what?
+India and Sri Lanka are now hosting over 400 Iranian sailors from two more warships after the US sank that Iranian frigate off Sri Lanka last week. (
+France24
+)
+Comment
+:
+It’s a diplomatic headache for these two countries (Sri Lanka and India) seeking to balance ties between Iran and the US (their top export market). But there’s also Iran’s odd balance between (say) talking tough to the US, while publicly thanking these capitals for helping spare Iran’s warships from war.
+🇲🇱
+Mali
+-
+Back in the fold?
+The US is close to a deal with junta-run Mali to resume anti-jihadist drone surveillance after DC lifted sanctions on junta officials. (
+Reuters
+)
+Comment
+:
+This whole relationship is complicated by the continued presence of an American pilot captured while working with Christian missionaries in-country.
+Extra Intrigue
+The Intrigue jobs board is back
+Financial Controller @
+Tate Museum
+in London
+Risk and Compliance Manager @
+Save the Children
+in Cairo
+Senior Supply Chain Manager @
+Lego
+in Singapore
+Fish of the day
+An oarfish on a Cabo beach. Credits: @monicaandco_ via Instagram.
+We’re not a particularly
+super
+stitious bunch over at Team Intrigue, but as diplomats it doesn’t hurt to be a tiny bit stitious.
+That’s why we took notice when not one, but
+two
+huge oarfish, commonly known as doomsday fish, recently appeared on a Mexican beach.
+Oarfish are deep-sea dwellers that rarely come into contact with humans. Their reputation as harbingers of destruction dates back a few centuries in Japan, but gained traction in modern times after 20 oarfish washed up on Japanese beaches ahead of the devastating 2011 Tōhoku earthquake and tsunami.
+Today’s poll
+Which sector do you think will be hit hardest by the Iran war?
+🌾 Agriculture
+✈️ Aviation
+🛢️ Petrochemicals
+💽 Electronics
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think President Trump meant by "
+the war is very complete, pretty much
+"?
+✋
+It was just an off-the-cuff remark (50%)
+✅
+He's preparing to declare victory and move on (48%)
+✍️ Other (write in!)  (2%)
+Your two cents:
+✅
+H.L:
+“Trump’s experiment with attacking Iran is getting out of hand fast. Best to declare victory and move on.”
+✍️
+M.W:
+“It was a short term tactic to swing the stock market and oil price numbers back.”
+✍️
+T.H:
+“As someone once said, ‘
+If you don't know where you're going, any path will do.
+’”

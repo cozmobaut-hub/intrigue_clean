@@ -1,0 +1,225 @@
+URL: https://archives.internationalintrigue.io/p/will-google-be-split-up
+Title: 🌍 Will Google be split up?
+
+IN TODAY’S EDITION
+1️⃣ Will Google get broken up?
+2️⃣ Diplomatic immunity revoked (Down Under)
+3️⃣ TV show of the day
+Hi {{ First name | Intriguer }}.
+One of the more amusing things I recall from my time working at Google was the ‘
+blue vs green text bubble
+’ debate, aka Android users’ messages appearing as green text bubbles on Apple devices running on iOS.
+There were a lot of lols in the campaign to enhance interoperability with Apple devices for Android users, who had reportedly felt bullied and ostracised in group texts, and even labelled as ‘red flags’ by potential love interests because of their green text bubbles.
+Laughs aside, there were also some serious policy questions raised around anticompetitive behaviour in the big tech industry, which is our top story for today as we dive into the potential splitting up of Google.
+PS - Don’t miss
+our next in-person event
+! It’s “
+Securing Tomorrow: The Future of Cyber Threats and Global Defense
+” in DC on Thursday, October 24 at 6pm.
+THE HEADLINES
+Hurricane Milton makes landfall in Florida.
+Milton has
+hit central Florida
+as a category 3 storm, bringing winds of 193kph (120mph), plus flash flooding and storm surges. Over 3 million people initially lost power and there have been several reports of casualties. The hurricane has since dropped to a category 1. This is the third hurricane to hit Florida this year.
+More bad news for German economy.
+Europe’s biggest economy is set to
+contract for the second year
+in a row after economists revised downwards their growth forecasts from 0.3% to -0.2%. Economy Minister Robert Habeck has blamed the poor performance on “
+failures of recent decades
+”, including a lack of skilled labour and insufficient investment in infrastructure.
+Zelensky heads to London.
+The Ukrainian president has just met UK Prime Minister Keir Starmer and is due to meet NATO chief Mark Rutte later today, to
+drum up international support
+for Ukraine’s defence against Russia. Anticipating a possible drop in US support after the US election next month, it’s part of a broader European tour to also meet the leaders of France, Italy, and Germany, as well as the Pope.
+Btw
+- don’t miss the next edition of
+Election Intrigue
+, our weekly briefing on what the US election means for the world.
+China to lift final trade restrictions on Australia.
+China has agreed to
+lift all restrictions on Australian lobster
+imports before the end of the year, according to Australia’s prime minister. That would remove the last of the trade restrictions that China imposed after Australia’s then government called for an investigation into the origins of Covid-19 back in 2020.
+TOP STORY
+Will Google be split up?
+Wanna piece of me?
+The US justice department
+announced
+on Tuesday it’s considering asking a federal judge to force Google to sell off parts of its business, potentially resulting in the corporate breakup of one of the biggest tech companies in the world.
+In practice that could look like ordering Google to divest from Chrome (its web browser), Android (its operating system), and/or Play (Google’s app store).
+Some context.
+The 32-page document, which includes several proposals to right Google’s wrongs, comes on the heels of a landmark August ruling, which accused the giant of running an illegal monopoly over internet searches.
+Judge Amit Mehta had found that Google maintained its search monopoly in part by unlawfully making billion-dollar deals with companies such as Apple, Android, and Samsung, to make its search engine the default on their devices.
+And that’s all in addition to a handful of other antitrust lawsuits Google has been facing from
+tech rivals
+,
+US states
+, and even
+the EU
+. Good time to be a Google lawyer.
+Ok, but where’s the International Intrigue™?
+First
+,
+anything that might significantly alter the structure of a global tech company as big as Google is bound to have international repercussions.
+Just to give a sense of how important Google is:
+It operates in over 219 countries and territories, which is more than we thought even existed, making it - by
+far
+- the most used search engine worldwide
+That makes it key to the way citizens and governments share info all around the world, with capitals lodging over
+440,000 removal requests
+since 2011, and
+Google also works with (for example) the US military, providing secure cloud services for the Pentagon under the
+Joint Warfighting Cloud Capability
+.
+Second
+, Google has
+described
+the justice department’s remedy proposals as “
+radical
+” and says they’ll lead to “
+significant unintended consequences for consumers, businesses, and American competitiveness
+”.
+Or to put it another way, with nations everywhere now racing for tech supremacy (particularly in AI), Google is arguing this really isn’t the time to be clipping the wings of one of America’s tech champions. In response, the argument goes that a break-up would theoretically leave more space for other smaller tech firms to innovate and grow.
+And
+third
+, a move this big might set the tone for regulators everywhere, who typically monitor US regulatory and court decisions closely.
+Has something like this ever happened before?
+Yes and no.
+Folks might recall a similar move against Microsoft back in 2000, when a court ordered its break-up for breaching competition law with its
+Windows
+🤝
+Internet Explorer
+bundles.
+But Microsoft later appealed the decision, and while the appeals court stood firm on the monopoly allegations, it declined to enforce the remedy. So Microsoft ended up settling the case, and it’s a fair bet that Google is probably hoping for a similar outcome.
+But plot twist:
+this time around, the first breakup order might not even come from the US.
+That’s because the EU’s top competition enforcer has already
+threatened
+Google with an order to sell its adtech business to address concerns it favours its own advertising services (echoing a suggestion already made by the US justice department).
+So,
+what’s next?
+Google has until December 20 to propose its own fixes to the court, and Judge Mehta is then planning to hold a trial and issue a decision by August 2025. In the meantime, Google has already said it’ll appeal, so once again, probably a good time to have a law degree in the Bay area.
+INTRIGUE’S TAKE
+It’s been interesting to watch this play out both domestically and abroad.
+In
+the US
+, political consensus around the need to rein in (and possibly break up) big tech really gained momentum after various scandals left both sides of the aisle spooked for different reasons (eg, privacy vs freedom of speech). But the first big bipartisan legislative crackdown in decades still failed in 2022 after a major lobbying effort from the sector. So now it’s up to the courts.
+Meanwhile
+internationally
+, US tech firms have already had to make big changes to comply with EU crackdowns. But while US diplomats long objected to these kinds of foreign measures, the above political changes back home seem to be filtering through to the way the US approaches these issues abroad. And to the extent the US and the EU can see eye-to-eye on tech policy, that potentially frees them up to tackle other disagreements in areas like industrial policy (subsidies).
+Anyway, we’d love to hear what you think in today’s poll 👇
+Also worth noting:
+Google reportedly handles around 90% of all internet searches in the US, though it doesn’t reveal specific figures. Its share of search advertising revenue is likely closer to 50% and shrinking (Amazon is the main competitor).
+Hours after the justice department’s announcement, two Google researchers shared the 2024
+Nobel Prize in Chemistry
+. An ex-Google researcher also just won the
+Nobel Prize in Physics
+.
+The justice department is also suing Apple over antitrust issues, with a trial not expected until 2026.
+We’re coming back, D.C!
+Join us in Washington, DC for
+“Securing Tomorrow: The Future of Cyber Threats and Global Defense”
+on Thursday, October 24 at 6 PM EDT.
+In an increasingly interconnected world, the stakes in cybersecurity have never been higher. We’re convening top minds to explore the cutting-edge of cyber defense, covering the escalating
+global cybercrime industry
+, the shadowy realm of
+industrial and state-sponsored attacks
+, and the critical need for
+international cooperation
+.
+Confirmed speakers include:
+Dr. Kathleen Fisher
+- Director, Information Innovation Office, Defense Advanced Research Projects Agency (DARPA)
+Brandon Wales
+- Vice President of Cybersecurity Strategy, SentinelOne and Former Executive Director at the Cybersecurity and Infrastructure Security Agency (CISA)
+More to come!
+Register now!
+MEANWHILE, ELSEWHERE…
+🇮🇳
+India
+: Legendary Indian business tycoon Ratan Tata has passed away in Mumbai, leaving behind his sprawling eponymous conglomerate. During his time as Tata CEO and chair, the
+group’s bottom line multiplied 50x
+as it expanded offshore, snapping up foreign assets like the UK's Jaguar, Land Rover, and Tetley tea brands.
+🇫🇷
+France
+: Osama bin Laden’s son, who’s apparently been painting landscapes in a Normandy village for the past few  years,
+is now barred from entering France
+after allegedly posting comments on social media that glorified terrorism. Married to a British national, Omar was reportedly in Qatar when the French interior minister issued the ban.
+🇳🇿
+New Zealand
+: Australia has now stripped the diplomatic immunity of
+an Australian diplomat’s husband
+after Kiwi authorities arrested him for his role in a street fight last month. The lad, who was videotaped repeatedly yelling
+“I’ve got diplomatic immunity!”
+while being arrested, now faces unspecified charges.
+🇪🇨
+Ecuador
+: The US has
+issued visa bans on corruption grounds
+against a former Ecuadorian president (Correa), vice president (Glas), and their immediate families. Correa has been residing in Brussels since 2017, while Glas is now in Ecuadorian custody after he was infamously dragged out of Mexico’s embassy earlier this year.
+🇨🇲
+Cameroon
+: Despite not being seen in public for a month, senior Cameroonian officials are
+insisting the country’s 91-year-old
+president (Paul Biya) is in
+"excellent"
+health and in Geneva. Biya was last seen in public on September 8th at a China-Africa forum in Beijing, with opposition groups now demanding answers.
+EXTRA INTRIGUE
+Meanwhile in other worlds….
+Art
+: Renowned performance artist Marina Abramović is
+hosting her first show in China
+, featuring photos of when she and her then-partner turned their 1988 separation into an epic performance: they walked from opposite ends of the Great Wall of China until they met in the middle and hugged for the last time.
+Tech
+:
+The White House has made its first debut on Reddit, turning to the
+social media site
+to share Hurricane Milton updates.
+Defence
+: Since joining NATO last year, Finnish defence startups have reportedly seen their
+revenue jump by 30-40%
+as they tap into the alliance’s partnerships and contract opportunities.
+TV SHOW OF THE DAY
+Credits: Emma McIntyre/Getty Images.
+When hit TV show
+Emily in Paris
+announced it was setting its next season in Rome, that’s where French President Emmanuel Macron drew the line.
+Speaking to
+Variety
+yesterday (Wednesday), Macron said he’ll fight hard not to lose the show, which is about a young American woman’s adventures in the French capital. Why? Well, "
+'Emily in Paris' in Rome doesn‘t make sense
+", of course.
+The Netflix series has been a major boost for France’s brand as a travel and business destination, and these kinds of productions are also great for the local screen industry. Fans will also recall the French first lady made a cameo appearance this season.
+DAILY POLL
+Do you think Google should be split up?
+🔨 Yes, it's got too much power
+🙅 No, it'll have unintended consequences
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll: What do you think about remote worker visas?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+👍 They bring cash into the local economy (61%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 👎 They just push up prices for the locals (31%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 💻 I'm on a remote visa right now! (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (5%)
+Your two cents:
+👍
+B.D:
+“Foreign remote workers are basically full-time tourists.”
+👎 C.M:
+“The number of remote workers in a locality should be guaranteed or limited, so as not to distort the cost of living of locals.”
+✍️ J.O:
+“It’s both: they do bring in cash to the local economy, while also increasing prices for the local population.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

@@ -1,0 +1,215 @@
+URL: https://archives.internationalintrigue.io/p/the-ceasefire-that-wasn-t
+Title: 🌍 The ceasefire that wasn’t?
+
+Today’s briefing:
+— The ceasefire that wasn’t?
+— Narcos gone digital
+— Buffalo bills
+Good morning {{first_name | Intriguer}}
+. I've just emerged from my deepest Wikipedia rabbit hole in quite some time (a side note for millennials: you can recreate Wiki rabbit holes with ChatGPT by channelling your inner Ashton Kutcher and repeatedly asking "
+…and then...
+").
+Anyway, as I was reading about the Strait of Hormuz, I was led on to Iran's geography more broadly and then, quite inevitably given I'm a male of a certain age, into a deep study of Persian military history. There I imbibed the latest goss on Xerxes, Persia's King of Kings (by way of a quick detour to figure out how to pronounce the chap's name), whose army razed Athens in ~480 BCE (which, yet another digression informed me, inspired the Gerard Butler film
+300
+).
+Of course Greeks/Macedonians aren't ones to forget a slight, so 150 years later, Alexander the Great drunkenly (allegedly) burned down the ancient city of Persepolis in revenge, which brought me neatly back round to modern day Iran via 2007's brilliant animated film
+Persepolis
+about growing up during the Iranian revolution (it's well worth your time).
+Not every story has to have a point but if I must find one it would be that I think on balance the Internet would be better if we'd just stopped after inventing Wikipedia.
+Our main story today:
+is this ceasefire already over?
+Number of the day
+10 petabytes
+That’s how much data unknown hackers reportedly stole from China’s largest state-run supercomputing facility in Tianjin, covering defence, aerospace, and bioinformatics.
+The second theatre: Lebanon
+Nobody likes a
+told-you-so
+, but barely minutes after yesterday’s
+briefing
+flagged real doubts about this ceasefire, the ol’ foes had already started trading breach accusations.
+The first?
+Israel vs Hezbollah
+(in Lebanon).
+Despite the deal’s Pakistani mediators
+tweeting
+that this truce is
+“everywhere”,
+Israel (with US backing)
+insisted
+Iran-backed Hezbollah forces in Lebanon are still fair game.
+And to prove the point, the Israelis launched their biggest offensive of the war, claiming 100+ hits within 10 minutes across southern Lebanon and up into southern Beirut’s Hezbollah strongholds, leaving hundreds reported dead and wounded.
+So right there you have
+quite the wrinkle
+:
+Israel
+won’t hold back against an Iran-backed group whose founding manifesto explicitly declares its “
+struggle will end only when Israel is obliterated
+”, and yet…
+Iran
+insists any ceasefire must cover Hezbollah — the regime’s credibility rests on protecting its proxies, while its deterrence rests on them remaining credible.
+Meanwhile, US VP Vance has framed it all as a
+"legitimate misunderstanding",
+which seems more like a phrase Chili’s might use after getting caught serving you a weak margarita.
+But whether an innocent misunderstanding or a calibrated loophole, it’s tough timing for Lebanon’s newish Maronite Christian president, ex-army chief
+Joseph Aoun
+.
+Why?
+Some quick reminders about his ascendance to the presidency last year.
+First
+, his rise was itself
+a miracle
+after nearly three years of parliamentary deadlock driven by a Hezbollah veto deeply woven into Lebanon’s political and sectarian fabric.
+But
+second
+, his rise was also arguably the culmination of
+a 20-year strategy
+, with the US quietly co-financing Lebanon’s military to extend state control and pry Hezbollah out of its chokehold over Lebanese affairs. Sure enough, as the military became Lebanon’s most respected institution, its leader (Aoun) became one of the country’s most popular figures.
+And so now,
+just
+as
+Lebanon’s historically popular and powerful new president
+a) moves to legally ban Hezbollah military activities, and b) calls for unprecedented talks with Israel to coordinate his military replacing Hezbollah along the Israeli border…
+The Israel-Hezbollah war flares right back up again!
+All that background to say… these latest Israeli strikes put Aoun in a bind, caught between an angry public saying he’s too soft on Israel, a defiant Hezbollah refusing to disarm, and a resurgent Israel sensing an opportunity to just forcibly disarm Hezbollah itself.
+And it’s all playing out against simmering sectarian tensions that could just plunge the country back into another Lebanon vs Lebanon conflict.
+That now takes us to
+the other front in this war: Iran vs the US
+.
+With Iran arguing its ceasefire rests on an Israel-Hezbollah truce,
+the regime is now actively
+calling
+for either a full ceasefire or a return to war, while insisting the Strait of Hormuz remains closed in the meantime: and sure enough, not a single oil tanker has cleared Hormuz since this ✌️ceasefire✌️ started (just four cargo vessels have made it out).
+And this all in turn puts both old foes in a bind:
+Does the US care enough about Hormuz to resume its hits on Iran? And…
+Does Iran care enough about Hezbollah to resume its hits on the US and partners?
+Our gut, even with costs and fatigue rising, is the answer to both questions is still yes.
+Intrigue’s Take
+For Iran
+, it’s about more than just Hezbollah — it’s about preserving the most visible proof this regime can not only survive direct US-Israeli confrontation, but negotiate the terms of that survival and emerge with its deterrence narrative intact. So it’s hard to see the mullahs letting Hezbollah get hammered without a meaningful response.
+For Trump
+, it’s about more than just Hormuz or even the hydrocarbons it carries — it’s about not going down in history as the president who let Iran’s apocalyptic regime weaponise the world’s most critical energy artery as a toll booth while it resumes the kind of missile, drone, and nuclear programs that’ve always rattled its neighbours. Trump made his name roasting Iran deals (like the JCPOA) that never ceded so much cash or leverage.
+So… if a ceasefire is declared but never really starts, is it still a ceasefire?
+Sound even smarter:
+The UN
+estimates
+that since the start of the war (28 Feb), Israel-Hezbollah fighting has displaced more than 1.1 million people across Lebanon.
+Satellite images appear to show thick plumes of smoke above Saudi Aramco’s Abqaiq facility, though authorities aren’t clarifying if it’s routine flaring or (as the images suggest) something worse. The hub handles ~5-7% of the world’s oil.
+Today’s briefing is presented by…
+Learn how to code faster with AI in 5 mins a day
+You're spending 40 hours a week writing code that AI could do in 10.
+While you're grinding through pull requests, 200k+ engineers at OpenAI, Google & Meta are using AI to ship faster.
+How?
+The Code newsletter
+teaches them exactly which AI tools to use and how to use them.
+Here's what you get:
+AI coding techniques used by top engineers at top companies in just 5 mins a day
+Tools and workflows that cut your coding time in half
+Tech insights that keep you 6 months ahead
+Sign up and get access to the Ultimate Claude code guide to ship 5X faster.
+Join 200K+ engineers
+Meanwhile, elsewhere…
+🇮🇳
+INDIA — Test polls.
+Around 18% of India’s electorate heads to the polls today (Thurs) across Assam (pop. 37 million), Kerala (36 million) and Puducherry (2 million), in an early test of PM Modi’s ruling BJP nationalists and their handling of the energy crisis. The results aren’t due until May. (
+BBC
+)
+Comment
+:
+One early casualty of the chaos has been Air India CEO Campbell Wilson, though the airline’s losses and woes (last year’s deadly crash) partly pre-date Iran.
+🇵🇦
+PANAMA — Ship retaliation.
+Panama has asked China to respect its sovereignty, claiming an uptick in China’s scrutiny of Panama-flagged vessels is payback for Panama’s recent revocation of Hong Kong-based Hutchison’s permit to operate Panama Canal ports. (
+gCaptain
+)
+Comment
+:
+If you’re purporting to offer Latin America an alternative to a more vindictive and muscular US, you might not want to behave, well… vindictively.
+🇩🇪
+GERMANY — Government-approved holiday.
+Defence Minister Pistorius has clarified that men of military age do
+not
+need government permission before lengthy stays abroad, after public outrage erupted at a new provision seemingly reviving the old Cold War-era rule. (
+BBC
+)
+Comment
+:
+You know sh¡t’s getting real when it starts hitting European holidays.
+🇰🇵
+NORTH KOREA
+-
+Missile break.
+The regime has tested several more short-range missiles, days after Supreme Leader Kim commended his South Korean counterpart (Lee) as a “
+frank and broad-minded
+” man. (
+AP
+)
+Comment
+:
+These moves might appear contradictory, but contradiction is part of Kim’s “stay-away” branding, and matches his wish to appear serious, capable, and intimidating.
+🇨🇳
+CHINA
+-
+Work those
+camera angles.
+According to Bloomberg, India is quietly swapping out China-built high-speed cameras at toll stations, opting instead for American, German and Taiwanese suppliers. (
+Bloomberg
+$)
+Comment
+:
+Add it to a long and growing list of capitals willing to pay a premium to curb security risks — in this instance, Delhi presumably doesn’t want Beijing getting real-time intel on troop and other strategic movements along key highways.
+🇧🇷
+BRAZIL
+-
+E-Narcos.
+Brazilian organised crime groups are now using dance videos and other TikTok / Insta trends to appeal to younger audiences, according to a Folha investigation. (
+Folha De S.Paulo
+)
+Comment
+:
+These headlines will just accelerate
+the Australia-led trend
+to
+ban social media for kids, with Greece, Indonesia, and others already getting onboard.
+🇪🇷
+ERITREA
+-
+Missing footballers.
+Seven members of the Eritrean men’s football team have reportedly failed to return home after an away match in Eswatini. (
+AfricaNews
+)
+Comment
+:
+It’s not uncommon for
+athletes to defect or seek asylum abroad - cf the recent Iranian women’s football team saga in Australia, or the fact North Korea surveils its touring athletes 24/7. But Eritrea’s recent run of “disappearances” abroad is a solid indicator of the deepening despair back home.
+Banknotes of the day
+Credits: Reserve Bank of Zimbabwe via Facebook.
+Zimbabwean cash is getting a colourful update, with the central bank not adding more zeroes, but dropping new notes aptly named the ‘BiG 5 ZiG’ (weird caps
+not
+ours).
+As the name suggests, the new notes will feature Africa’s five iconic beasts: the buffalo (10), elephant (20), rhino (50), leopard (100), and the lion (200).
+As for that ‘ZiG’ in the name? It’s short for Zimbabwe Gold, the country’s sixth attempt at a new currency since 2008.
+Today’s poll
+Do you think this US-Iran ceasefire can survive without an Israel-Hezbollah truce?
+⏸️ Yes, both the US and Iran need a pause
+💥 No, too much at stake
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think this US-Iran ceasefire will really last?
+🕊️ Yes, everyone needs this war to end (31%)
+🚫
+No, Trump won't accept this status quo (67%)
+✍️ Other (write in!)  (3%)
+Your two cents:
+🚫
+Kevin M:
+“Trump will use this period to strengthen his hand, position assets, and prepare for part two of the war. Iran still has too many cards, too much leverage for Trump to stomach.”
+🕊️
+S:
+“Everybody does need this to end.”
+✍️
+X.F:
+“Giving the Iranian regime control of the straits is not a sustainable long term position. Watch this space.”

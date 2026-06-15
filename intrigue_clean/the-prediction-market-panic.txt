@@ -1,0 +1,216 @@
+URL: https://archives.internationalintrigue.io/p/t
+Title: 🌍 The prediction market panic
+
+Today’s briefing:
+— The prediction market panic
+— Trump extends Iran ceasefire
+— Go work for the UN in Bogota
+Good morning {{first_name | Intriguer}}
+. I’ve been on a kick to wean myself off social media recently, with varying levels of success. Turns out, once I successfully move off one platform, I tend to fall headfirst into another. Currently, that fixation is with Reddit, where I’ve been observing some interesting threads on the geopolitics of the prediction markets.
+The most revealing of these observations is that many people now believe platforms like Polymarket are more accurate predictors of geopolitical and economic trends than any traditional polling or mainstream news forecasting. Why? Because people tend to bet on what they actually think if they’re putting real money on the line. All the virtue signalling tends to go out the window.
+How accurate is that observation, and what else can
+prediction markets like Polymarket
+tell us about the state of the world? Let’s dive in for today’s top story.
+Number of the day
+20,000
+That’s how many short-haul flights Germany’s Lufthansa has cancelled in Europe from May to October as it seeks to conserve 40,000 tonnes of jet fuel amid the energy crunch.
+You can bet on it
+All-staff emails tend to announce
+a
+) the big meeting’s leftover sandwiches are now available in the conference room,
+b
+) we’re signing a birthday card for Barry from accounts, or
+c
+) a friendly reminder to complete those mandatory e-learning modules haha.
+But every now and then, an all-staff email will stop us in our tracks, like the
+White House missive
+reminding staff that it’s a criminal offence to use “
+nonpublic government information to place wagers on online prediction markets, such as
+Kalshi or Polymarket
+.
+"
+Why the reminder?
+Maybe it was the new account earning $436K by predicting Maduro’s shock ouster a day before it happened. Or maybe it was the six new accounts scoring $1.2M guessing the exact date Trump would hit Iran. Or maybe it was the trader who made $21M (!) betting on Trump’s tariff TACO 18 minutes before the announcement.
+Maybe it’s all a coincidence. Or maybe it’s a level of corruption making a Burisma board role look like rookie numbers. But while the BBC now
+calls BS
+(even while fighting Trump’s $1B lawsuit), it poses a few questions for your favourite team of ex-diplomats.
+First, isn’t insider trading illegal?
+Yep, since at least 1934 to be precise, but much like running marathons, you get to a certain age and realise it’s surprisingly quite common. It’s also incredibly tough to prosecute (trading, not running), and more-so in the age of anonymous crypto and faceless betting platforms. That might explain why insider trading comprises barely 10% of the SEC’s annual caseload. To get caught, you’ve gotta be not just shady, but an idiot.
+Then second, why does a team of ex-diplomats care?
+Well just think of the geopolitical implications from all this: Polymarket actually
+pitches
+itself as an opportunity for experts "
+to profit from trading based on your knowledge
+”.
+And sure, by
+incentivising more insights and knowledge
+out into the open, these platforms can theoretically generate a ‘crowd wisdom’ that outperforms the pundits and analysts, enabling better situational awareness and decision-making across capitals.
+But while that’s
+harmless (and even helpful)
+if you’re a finance official optimising for
+likely rate cuts
+, or an agricultural analyst working to adapt soybean season to the likely
+price trajectory
+, it doesn’t take much imagination to see
+downsides
+like…
+i)
+Operational security
+: when folks turn classified info into tradeable alpha, you’re going to see governments start leaking like never before
+ii)
+Public trust
+: as random insiders keep getting rich off illicit info, you’re going to fuel even more populist fury that tests your institutions more
+iii)
+Allied trust
+: how many friends will still offer you a heads-up if Polymarket is just going to steal their thunder the next day
+iv)
+Rival advantage
+: it’s mostly been PR damage to date, but how long until foreign services convert that insider alpha to an operational disaster
+v)
+Foreign intel risk
+: how long until foreign spooks figure out how to cross-reference shady Kalshi clusters against other signals, all to blackmail your insiders into betraying their country for a foe rather than a Ferrari
+vi)
+Moral hazard
+: these platforms also give insiders a direct incentive to
+make
+things happen (or block them), undermining good governance, and…
+vii)
+Miscalculation risk
+: if we’ve flirted with nuclear Armageddon because someone mistook Canadian geese for Soviet bombers, how long until someone misreads a Polymarket whale (or foreign-planted bets) as the real thing, pushing a rival’s finger closer to the trigger?
+It’s one thing when you’re agonising whether your soul is really worth that 300k consulting gig with HyperMegaCorp, but when you’re talking about high-ranking military and government officials wrestling with that kind of dilemma? It really starts to get scary.
+Especially when the
+call
+bet is coming from inside the (white) house.
+Intrigue’s Take
+So many high-stakes considerations come to mind, but here are two ways this maybe isn’t so new after all.
+First
+, we’ve written often about the ways diplomats and spooks
+no longer enjoy a monopoly
+over access, insights, or influence. And in many ways, that same trend is now just playing out through prediction markets: an entire crack team of CIA analysts can now get forecast-mogged by a 22-year-old crypto-bro with a hunch (or leak).
+Second
+, this problem hints at
+deeper features in our nature
+— while promising to harness the wisdom of crowds, these platforms also supercharge the worst of our instincts. But if harnessed correctly — big if — they also help us humans correct something we famously suck at: truly understanding and acting on probability.
+If there’s a way to harness the good and filter the bad, then sign us up. Until then, it seems pretty evident some important people belong way deep in jail.
+Sound even smarter:
+Israeli journalist Emanuel Fabian received
+death threats
+after his report on an Iranian missile attack unexpectedly proved pivotal for a $20M Polymarket contract.
+Israeli authorities managed to
+identify and arrest
+at least two military officials using insider info to profit on Polymarket.
+Today’s briefing is presented by…
+Construction Meets Robotics
+Azure Printed Homes is transforming construction with
+3D printing and automated manufacturing.
+$5M+ revenue in 2024 and
+$62M in orders with deposits.
+Now raising capital to scale production.
+See the opportunity
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — TACO Tuesday?
+President Trump has
+announced
+he’ll continue to blockade Iranian ports but is extending the ceasefire (due to expire today) until Iran’s “
+seriously fractured
+” leadership “
+can come up with a unified proposal.
+” In response, various Iranian figures have
+dismissed
+Trump’s extension as a “
+ploy to buy time for a surprise strike
+”, and
+refused
+to engage in talks until the blockade is lifted, while reports suggest Iranian gunboats have since fired on three cargo ships in Hormuz. (
+CNN
+)
+Comment
+:
+Pending any further surprises, Trump seems to be banking on economic pressure now finishing what military operations started. And funnily enough, Iran’s regime seems to be banking on something similar: economic pressure (Hormuz) finishing Trump’s war.
+🇦🇫
+AFGHANISTAN — Delicate manoeuvring.
+EU officials (backed by Sweden) are preparing to host a Taliban delegation for technical talks on repatriating Afghan nationals with no lawful right to remain in Europe. (
+Euractiv
+)
+Comment:
+Immigration pressures from voters have pushed capitals to repatriate Afghans, but that’s practically impossible without participation from the Taliban, which Europe (and most the world) doesn’t recognise. The EU is trying to skirt this by calling these talks ‘technical’, and hosting them in an offsite Brussels hotel, but you can bet the Taliban will milk them for concessions
+.
+🇳🇱
+NETHERLANDS — Stalking locations.
+Some crafty Dutch journalists have hidden a $6 Bluetooth tracker in a letter addressed to a naval frigate, then tracked it live as it escorted France’s Charles de Gaulle aircraft carrier across the Mediterranean! Authorities have now tightened postal screening rules in response. (
+Defense News
+)
+Comment:
+The journalists were inspired by Le Monde famously using the Strava fitness app to pinpoint the Charles de Gaulle in real time. Take it as a reminder of the way a free press can make us all stronger and safer.
+🇲🇲
+MYANMAR
+— Junta state-building.
+On the heels of Myanmar's ✌️elections✌️, President Min Aung Hlaing has set a 100-day deadline (July 31) for armed opposition groups to join peace talks. (
+AA
+)
+Comment:
+Major groups (like the Karen National Union) have already rejected the deadline absent any guarantee of a real democratic transition. The junta’s outreach looks performative to us: cosplay as peacemakers to consolidate international legitimacy after its sham elections, while still pursuing its enemies.
+🇺🇦
+UKRAINE
+— Pipeline fix.
+The infamous Druzhba pipeline carrying Russian gas through Ukraine to central Europe is apparently now ready to resume post-repair operations. Ukraine’s Zelensky in turn hopes the EU can now unblock the $106M loan previously vetoed by Hungary under its now-ousted Moscow-friendly leader. (
+Al Jazeera
+)
+🇸🇻
+EL SALVADOR — All in one go.
+El Salvador has launched a mass trial of 486 suspected MS-13 members accused of more than 47,000 crimes, including murder, extortion, and trafficking. (
+BBC
+)
+Comment:
+Unsurprisingly, the UN is voicing concerns around a lack of due process. And unsurprisingly, President Bukele doesn’t seem too worried given his approval remains sky-high after slashing his country’s homicide rate by 96%.
+🇸🇿
+ESWATINI — Actually, don’t come.
+Taiwan’s President Lai was set to travel to Eswatini today (Wednesday) but suddenly cancelled his trip after Seychelles, Mauritius, and Madagascar all yoinked overflight permission, citing their ties with China. Eswatini became Africa’s only country recognising Taiwan after Burkina Faso’s 2018 switch — the trip was to attend the 40th anniversary of King Mswati III’s accession to the throne this week. (
+Guardian
+)
+Comment:
+Beijing hasn’t commented, but Taipei claims China threatened to withhold debt relief from these small nations to force this outcome. It’s a continuation of China’s strangulation policy on Taiwan — capitals across Africa and beyond won’t have missed the demonstration of how China’s largesse can carry strings.
+Extra Intrigue
+The Intrigue jobs board
+💼
+Specialist, Partnerships @
+American Chamber of Commerce
+in Germany
+Assistant Human Rights Officer @
+United Nations
+in Bogota, Colombia
+Head of Global Language
+@
+Interpol
+in Lyon, France
+Consultant, Climate Risk & Disclosure
+@
+South Pole
+in Sydney, Australia
+Rickshaw of the day
+Credits: USEmbassyDelhi, X
+Delhi’s hottest new ride just dropped
+— tuk-tuks pairing President Trump’s blue-steel with congratulations for USA’s 250th anniversary. Speaking at the newly reopened ambassador’s residence (Roosevelt House), envoy Sergio Gor told guests this week that 10,000 of these puppies will hit the city’s sweltering streets in the coming months.
+And with the residence finally resuming events after a five-year hiatus, we can neither confirm nor deny if you get to skip the entry queue when arriving via Trump rickshaw.
+Today’s poll
+How do you solve the issue of government insider trading?
+⛔ Harsher platform punishments
+🔨 Harsher user punishments
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the US is still a reliable ally in the South China Sea?
+👍 Yes, long-term benefits outweigh short-term volatility (41%)
+👎 No, there are no guarantees anymore (58%)
+✍️ Other (write in!) (1%)
+Your two cents:
+👍
+J.S:
+“Though the administration’s acumen may be diplomatically challenged, it is not strategically stupid.”
+👎
+M.M:
+“Why limit it to the South China Sea?”

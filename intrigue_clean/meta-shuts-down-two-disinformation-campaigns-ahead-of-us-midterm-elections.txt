@@ -1,0 +1,168 @@
+URL: https://archives.internationalintrigue.io/p/meta-shuts-two-disinformation-campaigns-ahead-us-midterm-elections
+Title: Meta shuts down two disinformation campaigns ahead of US midterm elections
+
+Hi there {{ First name | Intriguer }}.
+We love Sundays. Most of the time, they’re spent eating good food and
+recovering
+relaxing. But for millions of Brazilians, this Sunday will be a little different as they head to the polls to elect their new president. There’s a chance that incumbent President Bolsonaro will refuse to accept the results should he lose, which would kick off all kinds of chaos. We’ll be following the election closely and offering our analysis of the results next week.
+Today's briefing is a ~5.0 min read:
+💻
+Foreign influence operations:
+Meta has shut down two Russian and Chinese disinformation campaigns ahead of the US midterms.
+➕ Plus:
+Lebanon set to re-peg its currency, Iran targets Kurdish groups in retaliation for ongoing protests, and how amber is fuelling Myanmar’s civil war.
+📰 GLOBAL HEADLINES
+Stories:
+Berlingske
+,
+Folha de S.Paulo
+,
+Liberty Times
+,
+The Times of India
+,
+Al-Ahram
+🤿 DEEP DIVE
+Meta shuts down foreign influence campaigns ahead of US midterms
+In brief:
+Meta (Facebook, Instagram, and WhatsApp) says it has shut down two covert operations originating in China and Russia that sought to influence public opinion only weeks before the US midterms.
+Social media presents unique challenges in how governments manage and combat foreign propaganda.
+Source: Giphy
+Meta vs propaganda
+We all know social media is full of people being fake, but we didn't realise just how many people on social media are *actually* fake.
+According to a statement
+released Tuesday, Meta - Facebook’s parent company - took down two covert influence operations that originated in China and Russia.
+The accounts involved in the two campaigns were
+suspended because they exhibited “coordinated inauthentic behaviour”
+, which is a fancy way to say multiple accounts were created to appear independent but were in reality controlled by the same people.
+The operations
+🇷🇺
+The Russian-based operation
+The larger of the two operations involved a network of 60+ websites impersonating real European news outlets such as The Guardian and Der Spiegel.
+The websites primarily focused on audiences from Germany, France, Italy, Ukraine and the UK and were promoting a Kremlin-friendly narrative on the Russo-Ukraine War.
+The existence of the Russian campaign is no surprise;
+disinformation and propaganda play a central role in Russian strategic doctrine
+. According to a
+report
+by the RAND Corporation:
+❝
+“The Russian military-scientific literature, [...], frequently equates information weapons with weapons of mass destruction (WMD), viewing both types of weapons as having the potential to effect massive changes within the international system.”
+🇨🇳 The China-based operation
+The second operation taken down by Meta was traced back to China.
+One of the main goals of this disinformation campaign was to
+influence the upcoming US midterm elections
+by targeting people on both sides of the political spectrum.
+It was much smaller in scale and was aimed at inciting domestic disputes rather than promoting foreign policy narratives.
+As Meta explained in its report:
+❝
+“Chinese influence operations that we’ve disrupted before typically focused on criticizing the United States to international audiences, rather than primarily targeting domestic audiences in the US.”
+In case anyone thinks it’s just Russia and China...
+in August, Meta and Twitter
+took down multiple pro-US accounts
+across eight social networks and messaging apps that were involved in a five-year influence operation in the Middle East and Africa.
+A unique set of problems
+Of course, disinformation isn’t new; shaping what other people think is and has always been an essential weapon in geopolitical competition.
+What
+has
+changed is the speed, cost, and reach of disinformation campaigns on social media
+:
+Consider that the Russian campaign Meta shut down controlled 60+ news sites with reach across Europe and was only set up in May, or the mind-boggling fact that
+almost 40% of the world's population
+has an active Facebook account.
+As Laura Edelson, a disinformation expert at New York University,
+told Axios back in March
+:
+❝
+"
+Facebook is a global platform, and this conflict [in Ukraine] is going to have repercussions for everyone living everywhere. [The rules] matter for global stability and it's important that they are enforced everywhere
+."
+The question is, in a world that's becoming less globalised, who gets to make the rules, and who gets to enforce them?
+Sponsored by The Impact Job
+Are you interested in the world of Social Impact & Sustainability? Well, look no further.
+The Impact Job is a weekly newsletter that mixes social impact news and jobs in a fun way. Like a 7/11 Slurpee. Laughs guaranteed.
+Want to join the 2,600+ weekly subscribers and guarantee yourself a laugh every Thursday?
+Sign up today.
+💭 INTRIGUING OPINIONS
+On Tuesday, we asked which of the four key bilateral meetings held during the United Nations General Assembly was the most consequential. Here's what you said:
+🟨🟨🟨🟨⬜️⬜️ Australia - China (45)
+🟨🟨🟨🟨🟨🟨 Turkey - Israel (53)
+🟨⬜️⬜️⬜️⬜️⬜️ US - Philippines (13)
+🟩🟩🟩🟩🟩🟩 Russia - Brazil (54)
+165 Votes
+A few choice comments:
+“
+Anything involving Russia is important.
+”
+“
+Israel-Turkey represents the biggest shift. The small rapprochements in Asia don't change the dynamic of US-China conflict. Russia's proposal to add Brazil to the P5 is entertaining, but not highly significant because it's doomed to failure.
+”
+“
+US-Philippines has the biggest long term possibility! C'mon, guys!
+”
+Thanks for voting and commenting!
+🔦 REGIONAL SPOTLIGHT
+Middle East & Africa
+🇮🇷 Iran
+Iranian forces have been
+attacking Iranian-Kurdish opposition groups
+in northern Iraq in retaliation for the ongoing protests sparked by the death of Mahsa Amini.
+The shelling killed at least 13 people, and the US State Department confirmed late yesterday that
+a US citizen was among the dead
+.
+The ongoing protests in Iran have been particularly intense in Kurdish regions, where long-held frustrations have poured out onto the streets.
+🇰🇪 Kenya
+A Kenyan lawyer standing trial at the International Criminal Court in connection to a case involving newly-elected Kenyan President Ruto was
+found dead in his house
+, and some are suspecting foul play.
+Paul Gicheru was accused of bribing and intimidating witnesses to dissuade them from testifying against Ruto for his role in post-election violence in the late 2000s.
+Michael Karnavas, Gucheru’s lawyer, doesn’t believe in coincidences: “
+It’s somewhat odd that after the election in Kenya, and before the [ICC] court issues its judgment, there is this incident
+”.
+🇱🇧 Lebanon
+Lebanon is set to
+re-peg its currency against the dollar
+for the first time in 25 years to meet IMF requirements, the Finance Ministry announced this week.
+The Lebanese pound has been exchanged at a rate of 1,507 to the dollar for decades, but since the country’s 2019 financial collapse,  the pound’s black market value has been positively subterranean.
+The new peg will fix one US dollar to 15,000 Lebanese pounds in an attempt to unify the country’s various exchange rates and help meet the qualifications for a $3B IMF loan facility.
+🇳🇪 Niger
+According to a government customs memo, Niger
+suspended all oil delivery authorisations
+to Mali on security grounds earlier this week.
+The only exception to the new rule is cargo destined for the UN peacekeeping mission in Mali.
+Relations between Mali and Niger have steadily deteriorated after the Malian military staged a coup in 2020, adding to security problems that jihadist groups in the region already posed.
+🇸🇦 Saudi Arabia
+Saudi Crown Prince Mohammed bin Salman has been
+named prime minister
+, officially making him the head of government in Saudi Arabia.
+MBS has been the de facto ruler of the country since 2017.
+This latest development changes little in practical terms, but symbolically it further cements MBS’ power over the country and its succession line.
+🗞 IN OTHER NEWS...
+The amber fuelling Myanmar’s conflict
+Source: The Economist
+Jurassic amber:
+Do
+you remember the scene in Jurassic Park where researchers use a mosquito trapped in amber to breed dinosaurs?
+Well, the dino part isn't real (yet), but the research methods are very real, and they’re
+fuelling Myanmar’s bloody civil war
+.
+Some context:
+Following last year’s military coup, fighting broke out between the Burmese military and several armed resistance groups.
+The resulting civil war has claimed the lives of more than 2000 civilians and is showing no signs of stopping.
+Burmese amber
+is one of the most valued resins in the world: it’s clear, rich in fossils, old, and abundant.
+The Burmese military, which controls most of the country’s amber-rich north, is now profiting from illegal mining and selling the 100 million-year-old substance.
+According to a
+2019 UN fact-finding mission
+, at least two companies with links to the military regime have engaged in human rights violations in connection to mining activities.
+Putting the geo in geopolitics
+: The current Burmese amber economy heavily relies on trade with China, where it is used in both jewellery and scientific studies.
+According to
+a recent study in Nature
+, "
+fossil material in amber from Myanmar can provide important insights into mid-Cretaceous forest ecosystems
+", and China is one of the top contributors to published studies of amber.
+🍸 GAME TIME
+🍳 Scrambled
+This structure was the largest of its kind in the world until North Korean dictator Kim II Sung built an even larger version in 1922.
+Answer:
+Arc de Triomphe, Paris

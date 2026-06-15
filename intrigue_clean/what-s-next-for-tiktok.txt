@@ -1,0 +1,308 @@
+URL: https://archives.internationalintrigue.io/p/what-s-next-for-tiktok
+Title: 🌍 What’s next for TikTok?
+
+IN TODAY’S EDITION
+1️⃣ What’s next for TikTok?
+2️⃣ The most EU sentence ever?
+3️⃣ Mountain of the day
+Hi {{ First name | Intriguer }}.
+I've watched a grand total of one TikTok video. And yes, it's
+that absolute classic
+featuring a skateboarder chugging Ocean Spray then lip-syncing Fleetwood Mac's
+Dreams
+. It should be hung in the Louvre. I now can’t hear that tune without being instantly transported to some kind of Ocean Sprayed oasis.
+And that’s just one of TikTok’s nine billion videos, viewed 14 trillion times each year.
+To me, it kinda shows the beauty of social media — the tech’s ability to capture these unfiltered and unscripted blips of human spontaneity that can entertain, inspire, connect, or distract. But yes, there’s a real dark side, too.
+That's on my mind as we dive into today's lead, with
+TikTok
+'s US future in the balance.
+THE HEADLINES
+Israel-Hamas hostage-prisoner swap proceeds.
+Hamas has now exchanged three Israeli hostages in return for 90 Palestinian prisoners as part of their new
+ceasefire-hostage deal
+. The idea is for these exchanges to continue over the next six weeks until they trade 33 Israeli hostages for ~2,000 Palestinian prisoners. Meanwhile, over 600 aid trucks entered Gaza on Sunday, according to the UN.
+It’s inauguration day.
+Trump will today (Monday)
+take the oath of office
+in front of business VIPs like Elon Musk, Jeff Bezos, Mark Zuckerberg, and TikTok CEO Shou Zi Chew (more on him below). And in a break from tradition, several world leaders are also set to attend, including Argentina’s Javier Milei, Italy’s Giorgia Meloni, Ecuador’s Daniel Noboa, and China’s VP Han Zheng. Trump is then reportedly preparing to sign 100 executive orders on day one.
+Yoon detention extended.
+A court has issued a
+20-day extension
+for the detention of impeached South Korean President Yoon Suk Yeol, citing concerns he could destroy evidence if released. Police arrested him last Wednesday after a lengthy standoff.
+Two Iranian judges assassinated.
+A gunman has
+assassinated two high-profile Iranian judges
+in the country’s supreme court building. The motive isn’t clear (the shooter is now dead), but both judges had overseen national security cases, and one was under US sanctions for running unfair trials.
+Trump and Melania launch meme coins.
+Donald and Melania Trump have each now
+launched their own meme coins
+, just ahead of Trump’s return to power. Both cryptocurrencies have since risen in value, though trading has been volatile, and each website notes they’re not intended as investments.
+A virtual briefing with Congressman Raja Krishnamoorthi
+Ever wondered what’s really driving
+US-China competition
+? Here’s your chance to get the inside scoop from someone who’s actually in the room. Join us for a candid conversation
+tomorrow
+(
+Tuesday
+) with Congressman Raja Krishnamoorthi, Ranking Member of the
+Select Committee on the Strategic Competition Between the US and the Chinese Communist Party
+and member of the
+House Permanent Select Committee on Intelligence
+.
+REGISTER NOW
+TOP STORY
+What’s next for TikTok?
+Ultra-popular short-video platform TikTok went offline for its 170 million users on Saturday night, only to then
+semi-reappear
+around noon yesterday (Sunday).
+Of course, teetering on the edge of oblivion just inspired more memorable TikTok moments, including folks recreating this
+amusing
+Family Guy
+scene
+where Peter uses his final breath to make a big deathbed confession: "
+I did not care for The Godfather
+". Other TikTokers spent the time jokingly farewelling China's spies, which brings us to why:
+Trump 1.0 first moved to ban the app on
+national security grounds
+in 2020, before a notably bipartisan Congress passed
+last year’s law
+forcing TikTok to cut its China ties or face a US ban — the Supreme Court then unanimously
+upheld
+that law on Friday, and it entered force yesterday (Sunday).
+Why the ban?
+Like any platform, TikTok has the power to
+a)
+hoover up vast amounts of US data, and
+b)
+absolutely megaphone (or mute) any content reaching US citizens.
+The US law has no problem with hoovers or megaphones. Nor does it have any problem with Ocean Spray-skateboard-karaoke videos or any other free expression on TikTok.
+Rather, the law’s issue is with such a powerful hoover and megaphone like TikTok being answerable to an authoritarian US rival like China (where TikTok's parent company is based). And
+the Supreme Court's unanimous ruling
+found that, rather than meaningfully dispute those US concerns, TikTok instead argued it was merely “
+unlikely”
+China would
+“compel TikTok to turn over user data for intelligence-gathering purposes
+”.
+And yet, you don’t need a top secret security clearance to figure out why the US might still have national security concerns, whether in practice or law.
+On the legal front
+, there's:
+China's
+2017 law
+requiring "
+any organisation
+" to cooperate with its spooks
+China's
+veto
+(already
+invoked
+) over the foreign sale of TikTok's algorithm, and
+China's purchase of a '
+golden share
+' in TikTok’s parent company, enabling it to parachute an official (Wu Shugang) onto the board of a China-based subsidiary.
+So that's a fair bit of China-based legal influence over TikTok. But is there any evidence this has actually shaped the way TikTok operates
+in practice
+? Yes there is:
+In 2022, workers at its parent company were
+caught
+surveilling U.S. journalists
+Both
+leaks
+and
+research
+suggest TikTok has
+suppressed
+topics like Tibet, and
+Last year the app openly encouraged its 170 million US users to
+lobby Congress
+in its defence (confirming plenty of US lawmaker fears in the process).
+So there you have it: a unanimous Supreme Court decision backing an overwhelmingly bipartisan act of Congress.
+End of story, right?
+Hah, no.
+While
+Biden signed this into law, it’s now up to
+Trump 2.0
+to implement it.
+And Trump has been on a real journey, from authoring his own 2020 attempted
+ban
+, to authoring this weekend’s
+tweet
+now vowing to save the app.
+Why?
+Possible factors include:
+His chat with
+Jeff Yass
+(great name btw), the US megadonor and TikTok investor
+Last month's meeting with
+TikTok's CEO
+, who'll be at today’s inauguration
+Trump's
+stated fondness
+for
+TikTok
+given its
+role in his re-election
+, and
+His broader interest in a deal that saves the popular app while guarding US interests.
+So he’s vowing to sign today an executive order delaying TikTok’s removal by 90 days so a solution can be figured out, which brings us to
+the current grey area
+: it's unclear if Trump even has that authority now that the law has already entered force.
+But legalities aside, there's then the question of what could even happen in 90 days:
+Trump himself has
+flagged
+some kind of 50/50
+joint venture
+to own TikTok
+His incoming national security advisor (Waltz) has floated unspecified
+firewalls
+There's an idea of transferring TikTok's US users to
+some new, secure app
+, and
+Possible
+buyers
+include a billionaire-backed '
+People's Bid
+', a US startup named
+Perplexity
+, plus
+rumours
+that Elon Musk is in the mix too (though still no word on whether China would even sell).
+Anyway, whatever happens next, you can bet it'll be rich in litigation and intrigue, while the clock just keeps on ticking, if it hasn't already now ticked all the way down to zero.
+INTRIGUE’S TAKE
+TikTok really has become a
+valuable
+source of community, connection, cash, and even news for millions of Americans. But throw real national security concerns in the mix, and it's precisely the app’s same value that fuels DC’s sense of
+vulnerability
+. It’s also partly why there's been so much disconnect between the app's defenders and critics.
+Meanwhile, there's no shortage of suitors willing to fork over untold billions to buy a hit like TikTok. But instead,
+TikTok’s owners have effectively played chicken
+, betting the app would be rescued by either a) the US courts, or b) the next US president. Door
+A
+is now closed, so we're now left waking up on inauguration day staring directly into door
+B
+, with TikTok duly laying on the flattery for the returning president.
+But the very fact TikTok's owners would rather lose the entire US market than sell its US operations for tens of billions of dollars will only confirm the suspicions among many US lawmakers and beyond, that
+TikTok isn't acting like a normal company
+.
+Also worth noting:
+China has
+described
+the US approach to TikTok as “
+economic bullying
+” and “
+plundering
+”, in a nod to Beijing’s claims that the US is just trying to protect US social media giants like Meta from China’s competition.
+Don’t miss our candid chat on China tomorrow (Tuesday) with Congressman Raja Krishnamoorthi, online from 10am ET.
+Register here
+!
+MEANWHILE, ELSEWHERE…
+🇵🇰
+Pakistan
+: A court has just hit former leader (and cricket star) Imran Khan with a
+14-year prison sentence
+on land corruption charges. The popular figure has been in jail since August 2023 on charges his party says are politically motivated.
+🇱🇹
+Lithuania
+: President Gitanas Nausėda has announced Lithuania will spend
+5-6% of its GDP on defence
+from 2026, citing threats from Moscow (which has previously occupied its smaller neighbour). The news comes just after Donald Trump floated the idea of lifting NATO’s defence spending target from 2% to 5%.
+🇵🇭
+Philippines
+: The US and Philippine navies have held their fifth
+joint maritime exercises
+in the South China Sea since launching joint patrols in the area in 2023. It’s likely to (again) trigger criticism from China, which continues to push its vast claims in the area despite being rejected by an international tribunal in 2016.
+🇨🇦
+Canada:
+Chrystia Freeland, Canada’s former deputy prime minister (plus finance and foreign minister), has now entered the running to
+replace Justin Trudeau
+as the leader of the ruling Liberal Party. Freeland’s shock resignation last month contributed to Trudeau’s exit, but she’ll need to beat Canada’s popular ex central bank chief (Mark Carney) to replace Trudeau as party and national leader.
+🇸🇱
+Sierra Leone
+: The West African country has urgently recalled its ambassador from neighbouring Guinea after Guinean authorities found seven
+suitcases containing suspected cocaine
+in a Sierra Leonean embassy vehicle. The two countries have now launched a joint investigation.
+FROM OUR SPONSORS VENICE.AI
+AI companies record all your conversations
+Claude and ChatGPT collect and share your thoughts with advertisers and government agencies (OpenAI appointed a former NSA director to their board this year). There’s a better way with
+Venice.ai
+, a private and uncensored AI platform.
+Ask Uncensored AI
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+Thailand’s
+PM has received a scam call
+from someone pretending to be another (un-named) world leader demanding money.
+Pakistan has opened an investigation into its flag carrier airline after an ad showed a
+plane flying a
+tad
+too close to the Eiffel Tower
+.
+A Dublin bridge has unexpectedly become an internet sensation after being
+covered in mysterious frozen cherry tomatoes
+last week.
+A suspected arsonist in Australia has mistakenly
+set fire to his own pants
+.
+And an EU court has fined the EU for
+breaching EU data protection laws
+. Has there ever been a more EU sentence?
+MOUNTAIN OF THE DAY
+Taranaki Maunga. Credits: RNZ.
+This is Taranaki Maunga (aka Mount Taranaki), a now-dormant volcano and one of New Zealand’s highest peaks. It boasts a pretty incredible view and was once named by Lonely Planet as among our world’s best places to visit.
+Interestingly, New Zealand’s Department of Conservation has now opened nominations to join a new body with an unusual purpose: being the mountain’s “
+human face and voice
+”.
+It’s part of an
+agreement
+in which the Crown gives up ownership of Taranaki Maunga to instead jointly manage the local national park with the region’s traditional owners.
+DAILY POLL
+Are you in favour or against a TikTok ban?
+👍 In favour - a US rival shouldn't control US speech
+👎 Against - this goes too far
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+What do you think finally got this Israel-Hamas deal across the finish line?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🤜
+Pressure from Trump (34%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️ 🏆 Bibi wanting to help Trump (17%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🚧
+Bibi wanting a way out of this war (23%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🇺🇸
+No US partisan wedge to exploit (21%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (5%)
+Your two cents:
+🏆
+R.L
+:
+“These people could have been home months ago, but Netanyahu couldn't give Biden a win.”
+🚧
+F.X
+:
+“Maybe the timing is right — more than 400 days of a two/three-front war and partial mobilisation of reserves really takes a toll on the morale and economics of a nation.”
+✍️  A.B:
+“Qatari negotiators. The US has no influence on Hamas but Qatar can host both sides.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

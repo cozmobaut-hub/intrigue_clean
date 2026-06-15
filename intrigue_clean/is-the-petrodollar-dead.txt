@@ -1,0 +1,231 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-6299e5e241731b29
+Title: 🌍 Is the petrodollar dead?
+
+Today’s briefing:
+— Is the petrodollar dead?
+— These execs financed ISIS!
+— Why everyone’s googling the pope
+Good morning {{first_name | Intriguer}}
+. The blossoms are in full bloom, hotel room rates are off the charts, and navy suit numbers have seemingly doubled overnight. Oh, and my dreaded allergies are back. This can only mean one thing: DC’s spring season has officially kicked off, starting with the IMF’s official meetings this week.
+Intrigue’s DC editor Kristen has been pounding the pavement to soak it all up. One big shift she’s observed is the growing presence of the private sector in running parallel events and driving the policy debates around town compared to previous years. Meanwhile, there seems to be a noticeable relative decline in multilateral organisations’ influence in agenda setting.
+It’s all top of mind as we dive into our story for today, which takes us through another shifting trend in our global economy —
+the pressure on the petrodollar
+.
+Number of the day
+6,886
+That’s where the S&P500 index is now tracking — ie, back to its pre-war levels. For context, that’s 9% up from its recent wartime low, and just 2% shy of its all-time high.
+The silent shift.
+More than 20 lands have named their currency some kind of ‘dollar’: the Jamaican dollar, the Hong Kong dollar, the Disney Cruise dollar, Australia’s dollarydoo.
+But it’s time to chat about
+the petrodollar
+and whether the Iran War has wobbled it.
+The petrodollar isn’t an actual dollar, but rather the term for
+a story
+starting (like any good story) around the 1970s, when the US economy was getting battered by the Vietnam War, the OPEC oil embargo shock, and the end of the Bretton-Woods system.
+In parallel,
+a new balance
+was emerging between oil-buyers nervous about paying so much for oil, and oil-
+sellers
+(principally the Saudis) realising their economies couldn’t actually absorb the firehose of cash being aimed their way.
+So in 1974, Kissinger brokered
+an informal win-win
+with the Saudis: Riyadh would price its oil in US dollars alone, and reinvest those revenues (aka petrodollars) in US assets like treasuries, helping keep US borrowing costs low. In return, the US provided security for the Saudis (and thus also for America’s own energy supply).
+Other petrostates got on board, creating a constant demand for dollars and recycling them back into US assets, helping cement the US dollar as our
+world’s reserve currency
+.
+And yet we know you can feel that ‘
+but’
+coming. Two buts, in fact:
+But #1
+: shale tech enabled the US to become
+the world’s top oil producer
+from 2018, curbing its Gulf dependence and eroding the petrodollar’s
+security-for-recycling
+premise.
+But #2
+: decades of US-Iran enmity (hostages, nukes, sanctions) have now culminated in
+today’s Iran war
+, further straining the petrodollar system.
+How?
+First
+, the duelling US-Iran
+Hormuz
+blockades have curbed the ability of Gulf petrostates to actually sell their oil. No petro exports = no petrodollars.
+Second
+, foreign central banks have started
+selling their US treasuries
+— in fact, the New York Fed’s custody holdings just hit a 15-year low, but this isn’t some coordinated ideological dollar-dump. Almost the opposite:
+For all its faults, unmatched US liquidity and stability means investors still see the US as
+the world’s #1 safe-haven
+, but also…
+Other
+currencies have in turn
+weakened
+, particularly for oil-buyers having to spend more US dollars to buy pricier oil — Indonesia’s rupiah is at new lows.
+So… lots of these foreign central banks have intervened in currency markets to defend their currency and avoid imports like oil getting
+too
+expensive: the easiest way to buy your own currency and prop up its value is to sell… US treasuries.
+Third
+, Gulf countries are now facing
+hefty air defence and reconstruction bills
+at home — some of that will benefit US firms (hi Lockheed
+👋
+) but it still means less surplus petrodollars to recycle back into those sweet sweet US treasuries, or even America’s vaunted AI mega-projects like Stargate.
+And
+fourth
+, there’s the petrodollar’s
+underlying security rationale
+: Iran’s mass retaliation across the region might boost allied reliance on US security in the immediate term — nobody else makes Patriot interceptors. But longer term, there are already Gulf voices cautioning against leaning too much on an America that (in their view at least) pulled the trigger on a war without a clear heads-up, finish-line, or off-ramp.
+That’s why there’s been
+a Deutsche Bank report
+warning that, together with Iran now settling some of its oil sales in China’s yuan, this Iran war poses
+a perfect storm for the entire petrodollar system
+: both the ‘petro’ and ‘dollar’ bits are hurting.
+The implications?
+A fading petrodollar would (if that’s what’s happening) mean higher US borrowing costs, a weaker US dollar, higher inflation, and weaker US leverage abroad: if trade no longer runs exclusively on US dollar rails, it’s harder to sanction the pariahs.
+Intrigue’s Take
+So… is the petrodollar dead? Not quite, but we’re all now seeing reminders of its mortality. We touched on one (US energy independence) above, but consider also…
+Asia (not the US) has been the Middle East’s dominant oil-buyer since 2010
+A fifth of all oil transactions were already in non-US currencies by 2023
+Lowish pre-war oil prices already evaporated many excess petrodollars
+The energy transition could also fade the petrodollar longer term, and
+The petrodollar’s anchor (Saudi Arabia) has been quietly diversifying away from full dollar dependence: consider its 2023 currency swap with China (due for renewal this November btw), or its 2024 entry to China’s mBridge (basically providing the technical infrastructure to settle trades outside US dollar rails).
+Yet these mortality reminders not only pre-date the Iran war, but also reflect
+a natural, incremental evolution
+; eg, those new China-Saudi currency rails? They’re still small, and they increasingly make sense given China is easily now Saudi Arabia’s top buyer.
+The other perennial guardrail is
+the lack of viable alternatives
+: Iran sells its oil in yuan because it has to, not because it really wants to be sitting on a pile of yuan right now: recall
+a
+) China’s currency isn’t fully convertible, meaning you need Beijing’s permission to move anything meaningful, but also
+b
+) a long list of traders will gladly accept your US dollars, but where else beyond China can you really spend your yuan right now?
+Sound even smarter:
+The greenback’s still doing
+alright
+: 58% of the world’s foreign exchange reserves are held in USD, with an additional 20% in Euros, and 2% in yuan/renminbi.
+Today’s briefing is presented by…
+Homes Printed in 24 Hours
+Azure Printed Homes combines
+3D printing, automated steel-truss production, and modular construction to build affordable homes quickly
+.
+$5M+ revenue in 2024 and
+$62M in pipeline orders.
+The future of housing is being manufactured.
+See the Opportunity
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES — The long way around?
+According to USNI News, the USS George Bush carrier group is circling around Africa rather than cutting straight through the Red Sea towards Iran. (
+USNI News
+)
+Comment
+:
+It suggests the US wants this ~$20B armada to avoid getting targeted by the Iran-backed Houthis en route. Meanwhile, at least one sanctioned China-bound vessel (the Rich Starry) has now crossed Trump’s Hormuz blockade without incident — it technically wasn’t in breach, as it loaded at the UAE rather than any Iranian port.
+🇨🇦
+CANADA — Majority.
+Prime Minister Carney’s Liberals have won at least two by-elections, delivering a parliamentary majority to more freely pass legislation until the next election (likely 2029). (
+Guardian
+)
+Comment
+:
+This result strengthens Carney’s hand, allowing him more room to manoeuvre in response to US trade wars, economic headwinds, and beyond
+🇨🇳
+CHINA
+—
+The Spanish angle.
+Spain’s Pedro Sánchez has become the latest Western leader in the conga-line of visitors to China, marking his fourth such visit in as many years. (
+Independent
+)
+Comment
+:
+Why so many visits to the Middle Kingdom? He’s hoping to a) boost Spanish exports amid a yawning trade deficit, b) secure Spain’s supply of the critical minerals for its energy transition, c) hedge against an unpredictable US, and d) (ahem) maybe also distract from the fact his wife just got charged with corruption, escalating a long-running scandal back home
+.
+🇫🇷
+FRANCE — Execs paid jihadis.
+A French court has found the ex-CEO of the world’s largest cement-maker (Lafarge) and eight other former employees guilty of financing terrorist groups in Syria — Lafarge paid over $6M in protection money to groups like ISIS to keep a local factory running during Syria’s civil war. (
+DW
+)
+Comment
+:
+It’s the biggest corporate terrorism-financing case in history, and another reminder of the risks — both corporate and national — of doing business in conflict zones. These particular executives were apparently negotiating directly with ISIS while the group was beheading Westerners for the cameras. But plot twist: the French concreters also paid Al Nusra… yes, the very same group that later rebranded, ousted the Assad regime, and whose leader (al Sharaa) is now Syria’s president!
+🇮🇳
+INDIA
+— Finger on the inflation pulse.
+Inflation hit 3.4% in March, up from 3.2% the month prior. It’s still comfortably below India’s 4% midpoint target, but is the highest rate in over a year, driven partly by local seasonal food supply disruptions for now. (
+Bloomberg
+$)
+Comment
+:
+The worry is, combined with forecasts for a weak monsoon season, India’s farmers might cop a triple-whammy: energy and fertiliser disruption via Hormuz, and a water disruption at home.
+🇧🇷
+BRAZIL — Agree to disagree?
+Brazil has announced a new US security partnership aimed at cracking down on the trafficking of drugs and weapons. (
+Al Jazeera
+)
+Comment
+:
+It looks like a) a bit of compromise amid US pressure to designate Brazilian cartels as terrorists, b) a way for President Lula to blunt his conservative opposition’s tough-on-crime electoral message, but also c) a reminder that capitals can (and should) still cooperate on shared scourges, even when political ties sour.
+🇬🇭
+GHANA — Reparation talks.
+Ghana’s foreign minister has claimed France is open to holding talks on the touchy topic of slavery reparations, though Élysée Palace officials are only confirming they’ve discussed returning cultural objects and human remains. (
+Reuters
+)
+Extra Intrigue
+Here’s what people are googling…
+🇧🇷
+Brazilians
+searched for
+‘Pope Leo XIV’
+, after the pontiff copped
+the latest ‘Trump Tirade™’
+for criticising the war in Iran.
+🇦🇺
+Australians
+looked up ‘
+Justin Trudeau
+’ after the former Canadian PM was
+snapped at the Coachella music festival
+with his pop-star partner Katy Perry.
+And folks in
+🇭🇰
+Hong Kong
+googled ‘
+Scam
+’ after Sri Lanka deported
+125 telecom fraud suspects to China
+.
+Tweet of the day
+The now-deleted tweet rant.
+Did you hear about that world leader sending all those wild tweets? Oh, you need us to be a little more specific?
+We’re talking this time about Ugandan army chief Muhoozi Kainerugaba, who’s also the son and heir apparent of Uganda’s president over the last four decades, Yoweri Museveni.
+While junior is known for the occasional outlandish tweet, his latest thread (see above) claims Turkey owes Uganda $1B and “
+the most beautiful woman
+” for helping with security in Somalia, where Turkey has become a major economic, military, and energy player.
+Dad might want to consider confiscating son’s phone?
+Today’s poll
+Do you think the petrodollar will recover from the Iran war?
+🥱 Yep, it'll return to its natural trendline
+😨 Uh-oh, this time it's different
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+With this new Hormuz blockade now entering force, who do you think will blink first?
+🇺🇸
+The US - it won't stomach higher energy prices (72%)
+🇮🇷
+Iran - it won't survive lower energy revenues (35%)
+✍️ Other (write in!) (2%)
+Your two cents:
+🇺🇸
+O.B:
+“The Iranian leadership is framing the war as an existential crisis and therefore feels the people can absorb the additional hardship. Not so the Americans.”
+🇮🇷
+L.Y:
+“Not only will the regime not survive lower revenues, the US will up military force and cripple Iran’s civilian infrastructure as a casualty of war.”
+✍️
+T.B:
+“There’ll be a China-supported truce.”

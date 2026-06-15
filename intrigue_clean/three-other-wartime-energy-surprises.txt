@@ -1,0 +1,267 @@
+URL: https://archives.internationalintrigue.io/p/three-other-wartime-energy-surprises
+Title: 🌍 Three other wartime energy surprises
+
+Today’s briefing:
+— Three
+other
+wartime energy surprises
+— Go work for Coke in Singapore
+— This is not a jersey
+Good morning {{first_name | Intriguer}}
+. The one time I got to use my defensive-driving training was while working in a notorious city abroad. I took the wrong exit off a freeway and suddenly found myself lost in the wrong neighbourhood, with each subsequent wrong turn somehow just compounding the wrongness until I ended up in a dark dead-end with shadowy figures suddenly rushing out into the street.
+So I pulled my sweet (and only) defensive-driving move and got out of there just as folks started to yell and slap their hands on my rear window. It wasn’t until I got home that I realised: those folks only came out because they were curious why a random gringo was doing happy-laps in their hood. And they were only yelling because my
+Austin Powers
+-esque nineteen-point turn had clipped a railing and left my rear license plate behind.
+Maybe my point is sometimes we’re too quick to focus on the wrong story, as we might see with today’s look at
+three big non-oil stories
+playing out amid the Iran war.
+Intrigue insight: The Iran war, day 27
+Since our last briefing hit your inbox, here’s what’s happened…
+At the negotiation table…
+More details have emerged around Trump’s mooted
+15-point plan
+, demanding nuclear dismantling, zero local enrichment, strict missile limits, and a full Hormuz re-opening.
+For its part, Iran’s regime has continued to
+mock the idea of talks
+(“
+do not call your own defeat an agreement
+”), before giving its own
+maximalist demands
+including the US closing all bases in the region, and paying full war reparations.
+Comment
+:
+As we
+explored
+yesterday, for a regime now prosecuting a full-blown attritional strategy of survival, it’s hard to see it agreeing to hand over its leverage in return for a ceasefire that’d help the US rearm and stabilise markets.
+On the battlefield…
+Last week’s Israeli hits on Iranian naval assets in
+the Caspian
+? We
+flagged
+at the time they would “
+sever a key Iran-Russia weapons supply corridor”,
+and sure enough, that’s now getting
+confirmed
+in The Wall Street Journal.
+And in the markets…
+Oil
+is somehow still trading below $100, helped by
+Iran softening its stance
+by allowing “
+non-hostile
+” (non-US/Israeli) ships to transit Hormuz with coordination.
+Still, early
+economic data
+suggests the war is now taking its toll: S&P Global’s latest
+purchasing managers’ index
+(
+PMI
+) hints at higher input costs and slower growth (aka stagflation risks) across Europe, the US, Japan, Australia, and beyond.
+Energy dilemma.
+If it feels like everyone around you is now an oil expert, it’s critical you immediately one-up them by smugly highlighting three other energy stories they missed, starting with…
+🔋
+Batteries are charging (ahead)
+While oil majors like Chevron (12%+) and BP (17%+) have naturally enjoyed a share bump with their main product suddenly earning a cool 40%+ wartime premium, China’s top battery giants like CATL (19%+), Sungrow (19%+) and BYD (22%+) have done even better.
+Why?
+Sure, the Iranian regime’s Hormuz survival strategy delivers an immediate sugar hit to any oil majors still able to deliver kilojoules to panicky customers.
+But in parallel, investors are betting some of those same customers and governments will only redouble their
+longer-term pivot
+away from any foreign oil dependency, not so much in the spirit of hugging trees, but in the spirit of raw, undiluted self-interest.
+So it makes sense to add more batteries to the energy mix, but you’ll need
+a
+) a metric
+butt-load
+(China alone deployed ~190GWh / $15B last year to shave maybe 1% off its dependency); and
+b
+) you’ve often got to pair it all with
+grid upgrades
+(China is pledging another $720B over the next five years).
+The
+good news
+, however, is battery tech keeps getting
+cheaper
+(67% down since 2020) and
+better
+(BYD just announced it can fully charge an EV in
+nine
+minutes).
+The
+trickier news
+for everyone else is we just risk trading one dependency (Hormuz) for another: China controls ~70% of global supply, and closer to 100% for critical inputs.
+Now join us way down the other end of the clean energy spectrum for an update on…
+🏭
+Coal’s back(stop)
+The Newcastle coal benchmark (out of Australia’s east coast) is up ~20% since the war, with individual producers enjoying similar share bumps.
+Why?
+As oil and gas prices surge, priced-out buyers are switching to coal: eg, Thailand is firing up two coal plants it just decommissioned, Korea has eased its coal cap, and even Indonesia (the world’s top coal exporter) says it’s now prioritising its own power plants.
+And it’s not just in Hormuz-dependent Asia: over in Europe,
+Italy
+’s energy minister is flagging the possibility of reactivating reserve plants, while
+Germany
+’s energy mix has already seen a 2% coal spike since the war.
+As capitals pivot hard to energy security over purity, those net zero targets might fade further over the horizon. And if coal is the
+quick
+fix, then join us way down the other end of the speedometer to finish with…
+☢️
+Going
+nuclear.
+We know what you’re thinking: if the Iran war is driving oil, gas, batteries, and coal up, it must be driving a nuclear boom too, right? Hah, no.
+Canada’s Cameco (the clearest pure-play uranium producer) is now down 11%. America’s Constellation (the largest US operator) is down ~8%. Global uranium ETFs are down 4%.
+Why?
+A few reasons, including…
+Capitals are frontloading
+rapid fixes
+like coal rather than waiting years for nuclear
+Nuclear fuel
+contracts
+are often locked long-term, meaning fewer sugar hits, and
+Those nuclear firms above already had
+a bumper 2025
+(Cameco delivered 78%!) amid broader tailwinds from AI and beyond, so there’s a cash-in effect here too.
+But if you were lucky enough to
+already
+have nuclear power online, you’re sitting pretty: for example, folks in France (~65% nuclear) are now projected to pay a ~quarter of what those Italians next door will pay for power in Q2.
+Intrigue’s Take
+One
+interesting lesson from the Iran war is
+markets don’t care about your priors
+: whether the solution is clean or dirty, that entire question is now downstream of how quickly you can deliver those sweet sweet kilojoules to entire societies that’ve flourished on an assumption of cheap, easy, and reliable access. A crisis has the power to clarify immediate stakes, even if it ends up obscuring them longer-term.
+Another
+is we’re really seeing economies
+shuffle rather than eliminate
+their dependencies, whether it’s from Hormuz to Huizhou (major BYD hub but also awesome alliteration), or from Nord Stream to New Orleans. The reality is, while everyone dreams of pulling up the drawbridge, the closest anyone now gets to genuine energy autarchy is small economies blessed with exceptional geographies (think Iceland or Paraguay).
+The
+third
+lesson here might have something to do with
+strategic variety
+. Relying on a single (imported!) source to power your entire economy is clearly high-risk, but the trick here might be less about simply diluting your dependency and more about figuring out an energy mix that leverages the immediate deliverability and flexibility of hydrocarbons to deliver the longer-term sustainability and strategic benefits of renewables.
+Today’s briefing is presented by…
+Go from AI overwhelmed to AI savvy professional
+AI will eliminate 300 million jobs in the next 5 years.
+Yours doesn't have to be one of them.
+Here's how to future-proof your career:
+Join the
+Superhuman AI
+newsletter - read by 1M+ professionals
+Learn AI skills in 3 mins a day
+Become the AI expert on your team
+Start learning AI now
+Meanwhile, elsewhere…
+🇺🇦
+UKRAINE — Over 940 drones.
+Russia has launched its biggest-ever aerial attack on Ukraine, sending over 940 drones at Ukrainian cities.
+Meanwhile, Ukraine just hit Putin’s second major Baltic energy export hub in as many days.
+(
+BBC
+)
+Comment
+:
+The Iran war is shaping both behaviours: Putin is taking advantage of the fact the world is preoccupied with Iran and energy, while Zelensky is curbing Putin’s ability to ride the Iran price windfall.
+🇨🇳
+CHINA — Can’t leave.
+Authorities are barring the two Singapore-based co-founders of AI startup Manus from leaving the country while a probe into their sale to Meta is underway. (
+FT
+$)
+Comment
+:
+As AI’s strategic implications come into focus, you can expect China’s strict foreign investment laws to take a keener interest, though it’s awkward timing coming the very same week as China’s Boao business forum (see below).
+🇯🇵
+JAPAN — Forced entry.
+A young Japanese military officer is in custody after climbing into China’s Tokyo embassy, allegedly carrying a knife. No one was harmed. (
+Kyodo News
+)
+Comment:
+As Tokyo-Beijing ties get more
+fraught
+, the odds of something weird like this triggering a crisis will only grow.
+🇩🇰
+DENMARK — Playing with fire.
+Prime Minister Mette Frederiksen has handed in her resignation after the ruling Social Democrats lost support in her snap election yesterday (Tuesday). Frederiksen will stay on as caretaker while new coalition talks are underway. (
+RTE
+)
+Comment:
+Frederiksen was hoping to ‘pull a Carney’ and convert her popular Trump pushback on Greenland into a bigger majority, but this electoral backfire suggests that, while everyone’s aligned on Greenland, voters are focused on everyday pressures.
+🇨🇳
+CHINA
+— Summits.
+The Boao Forum for Asia is now underway in Hainan, with several Western CEOs in town (Danfoss, PepsiCo, Siemens, Bosch, Amway) praising China’s relative stability, plus its purported push to boost domestic consumption. (
+The Straits Times
+)
+Comment:
+More surprising than any ‘CEO-praises-top-customer’ headline is the fact President Xi isn’t headlining this 25th anniversary year, but instead sending Zhao Leji (Politburo insider / head of the National People’s Congress), the lowest-ranked Boao headliner we can recall. What’s going on? It could just be a mix of
+a
+) timing (China’s bigger ‘Two Sessions’ only just wrapped), and
+b
+) other priorities (Iran et al).
+🇨🇺
+CUBA — To the rescue?
+The vessel that was en route to deliver Russian diesel to Cuba? It’s ended up in Venezuela instead, after the US explicitly clarified Cuba is still off-limits amid DC’s waiver for Russian barrels stranded at sea. Meanwhile, the first of three Mexico-based community aid vessels has arrived in Cuba — it’s named
+Granma 2.0
+for the ship that famously delivered Fidel Castro to the island in 1956. (
+PBS
+)
+🇬🇭
+GHANA — Partners in anti-crime.
+Ghana has become Africa’s first country to sign a defence partnership with the EU, boosting ties on counterterrorism, cybersecurity, and border security. (
+BBC
+)
+Comment:
+Rather than go for size (Nigeria) or prestige (South Africa), the EU is gunning for reliability — Ghana has an unbroken democratic track record in a sub-region rattling Europe via jihadism, irregular migration, and Kremlin-friendly coups
+.
+Extra Intrigue
+The Intrigue jobs board
+Senior Director, Global Human Rights
+@
+Coca-Cola
+in Singapore
+Programs
+@
+Centre for International Governance Innovation
+in Ontario
+Director, International Security
+@
+Royal United Services Institute
+in London
+Legislative Affairs Coordinator
+@
+US Treasury Dept
+in Washington, D.C.
+Sports jersey of the day
+Credits: Royal Belgian Football Association.
+The Belgian football team has just unveiled its new away jersey, and rather than cram in 23 different sponsors (like Austria’s TSV Hartberg), or emblazon the front with
+Burger King
+(like Spain’s Getafe), the Belgians have done something a little more intriguing…
+This new jersey above actually pays homage to Belgium’s famed artist,
+René Magritte
+! The shirt’s pastel palette is reminiscent of Magritte’s surrealist current, while the inscription ‘
+Ceci n’est pas un maillot
+’ (This is not a jersey) is a shout-out to Magritte’s most famous painting (of a pipe), captioned ‘
+Ceci n’est pas un pipe
+’ (This is not a pipe).
+That latter pipe work is at the Los Angeles County Museum of Art. If you do check it out, please please please recreate the classic joke, which involves tweeting a pic of ‘
+Ceci n’est pas un pipe
+’, with a caption like, “
+I don’t speak French but wow, what a great pipe!
+”
+Today’s poll
+Which energy do you think will benefit most from this Iran crisis?
+🌬️ Renewables
+🏭 Coal
+☢️ Nuclear
+🛢️ Oil
+💨 Gas
+Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think is lying about these talks?
+🇮🇷
+Iran (21%)
+🇺🇸
+Trump (70%)
+✍️ Other (write in!) (9%)
+Your two cents:
+✍️ C.C:
+“Both sides are lying. Trump needs to save face as the regime didn't collapse, bringing economic and political consequences to the mid-terms. The Iranians, also to save face. They can't look weak. To stay in power they need to show they are besting Israel and the U.S. or at least forcing negotiations.”

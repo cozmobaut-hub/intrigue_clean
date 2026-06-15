@@ -1,0 +1,227 @@
+URL: https://archives.internationalintrigue.io/p/us-house-moves-towards-tiktok-ban
+Title: 🌍  US House moves towards TikTok ban
+
+Hi {{ First name | Intriguer }}.
+I beg your forgiveness today as
+our main story about TikTok vs the US
+is a little longer than usual. I think it’s one of those issues that, however unintentionally, becomes totemic of so many of the challenges modern societies are grappling with.
+It’s about the calm control vs chaotic freedom of information. It’s about the retreat of the globalisation dream. It’s about free trade and foreign investment vs keeping control of critical infrastructure.
+In fact, I think it’s the first major battle (of many) we’ll see about what it means to be a sovereign nation in the 21st century.
+With that grandiose framing out of the way, let’s get to it, shall we?
+- John Fowler, Co-Founder
+Shop the Intrigue store!
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+US held talks with Iran over Houthi attacks.
+US officials held indirect talks with their Iranian counterparts in January in hopes of pressuring Tehran to use its influence over the armed Yemeni group to stop attacking vessels in the Red Sea. Iran insists the Houthis, which use Iran-made weapons, are acting independently.
+Dutch election winner gives up prime minister bid.
+Far-right
+politician Geert Wilders has thrown in the towel and abandoned hopes of becoming prime minister after weeks of fruitless coalition talks. The parties involved in the proposed coalition reportedly threatened to walk away unless he gave up his leadership ambitions, despite his Freedom Party winning the most votes in last November’s elections. Wilders is still expected to be part of a future cabinet.
+Bank of Japan to discuss negative rates next week.
+Japan’s central bank will discuss whether to end its years-long negative interest rate policy in a meeting starting next Monday. Pay hikes by major companies are bolstering the argument in favour of increasing Japan’s interest rates for the first time since 2007.
+Denmark to start conscripting women.
+Denmark announced plans to extend military conscription to women for the first time starting in 2026 and increase the standard service time from four to 11 months. Prime Minister Mette Frederiksen also declared her country would boost its defence spending by nearly $6B to meet Nato targets.
+TOP STORY
+US House votes to advance TikTok ban if China parent company doesn’t divest
+TikTok has ended up in America’s crosshairs once again.
+The US House of Representatives voted overwhelmingly (352-65) to pass a
+bill
+requiring popular social media app TikTok to sever ties with its China-based parent company ByteDance or face a nationwide ban in its largest market, the US.
+This isn’t the first time US lawmakers have tried to ban or regulate the app:
+39 US states have restricted the app from government devices
+In 2020, then-President Donald Trump signed an executive order, broadly similar to yesterday’s bill (a court later
+shot it down
+)
+Congress passed a bill in 2022 prohibiting the use of TikTok on any federally issued device or network, and
+Montana passed a bill last year banning the app altogether (though a court has since
+blocked
+the ban)
+But this time feels different, and Congress looks more united (at least on this).
+Why is the US cracking down on TikTok?
+TikTok is owned by ByteDance, which, like most large Chinese firms, is subservient to Beijing’s political goals. In his testimony before Congress, TikTok CEO Shou Zi Chew defended his company’s independence from both ByteDance and the Chinese Communist Party (CCP), but yesterday’s vote in Congress suggests he failed to sway US lawmakers.
+Proponents of forcing TikTok to divest say the app is a risk to national security, and members of Congress received a classified briefing on Tuesday outlining the reasons why:
+Data collection
+Like other social media platforms, TikTok collects a wide range of data about its users, including location, contacts, device type, and age, as well as information about how users interact with the platform. But lawmakers in the US and beyond are concerned this data could be shared with others behind closed doors.
+And this started to look less theoretical when it was revealed TikTok’s parent company accessed the
+personal data of two journalists
+to track down a company leak.
+In response, TikTok pivoted in 2022 to store all US user data on US-owned Oracle Cloud Infrastructure. But as former Facebook chief security officer
+Alex Stamos
+pointed out, “
+internal data controls are extremely hard to build and trust
+”.
+The algorithm
+According to a recent
+poll
+, 14% of US adults say they regularly get their news from TikTok, a number that’s more than quadrupled since 2020.
+That gives the app real influence
+over the way Americans perceive and engage with the world around them. And yet, almost nothing is known about TikTok’s algorithm and the models it uses to choose what content to show, and more importantly not show, its users.
+For example, all the way back in 2019,
+The Guardian reported
+on leaked company documents that suggested TikTok instructs its content moderators to censor references to Beijing’s taboo topics including Tiananmen Square, Tibetan independence, and Falun Gong.
+Beyond censoring views Beijing doesn’t like
+, there are also concerns TikTok could
+boost
+views Beijing does like. China’s state-owned media outlets have already used
+TikTok ads
+to broadcast pro-China messages to millions in the West, and there are fears its algorithm could boost pro-Beijing user-generated content too. All this in an election year.
+So, what happens now?
+The bill will now go to a vote in the Senate, where objections to the House bill will get a ‘fuller’ airing. If the bill passes, President Joe Biden has already said he’ll sign it into law.
+At that point, ByteDance will have six months to spin off TikTok or challenge the legislation in court, arguing the bill infringes on the free speech rights of the app’s 170 million US users.
+Experts are split
+on whether this defence will hold water.
+Of course, TikTok and its army of lobbyists aren’t standing idle: they’ve been actively
+mobilising
+TikTok users by exhorting them to contact their representatives about the bill, though it’s not clear whether that helped or hindered their case.
+INTRIGUE’S TAKE
+I made
+a bold claim on Twitter/X
+a few days ago that there was no way a TikTok ‘ban’ would be in place before the US election. I guess I took Commerce Secretary Gina Raimondo’s 2023 observation that banning TikTok could
+“lose every voter under 35, forever”
+too literally.
+With that said,
+I can’t remember a bill moving through the House so quickly, particularly when you consider there were no leaks, and it passed the House Energy and Commerce Committee with a rare 50-0 vote.
+If this bill becomes law
+(and that’s still an if because the US Senate works in mysterious ways), I’ll be watching China’s reaction very carefully. The pre-Xi Jinping China might have been expected to take a pragmatic approach and begrudgingly allow ByteDance to sell TikTok for a pretty penny while using the issue as leverage in other negotiations with the US.
+But Xi’s China is not Deng Xiaoping’s China,
+and it seems likely Xi will prevent TikTok from being spun off. The Chinese Ministry of Commerce suggested as much last year when it announced it
+would use technology export restrictions
+to prevent TikTok from being sold to a US entity.
+If that happens, it would tell us two things
+:
+That China
+really
+doesn’t want TikTok’s algorithm to fall into the hands of a foreign company, which suggests there
+really
+is something to hide.
+That security and ideology trump pragmatism in Beijing. That’s a reality that will need to be factored into any assessment about how Beijing will act in the future on issues like, say… Taiwan.
+Ultimately, none of this is surprising:
+the CCP has always said it views itself as being in a long-term battle for control of the global narrative. If this ban passes it will reinforce that view in Beijing, no matter how US diplomats attempt to nuance it.
+All I know is it’s time to buy stock in Instagram Reels and YouTube Shorts.
+- John
+Also worth noting:
+Former President Donald Trump, who once moved to ban TikTok, is now opposing the move
+after meeting with a TikTok investor
+, arguing it would upset a majority of young voters and disproportionately benefit rival US social media firm, Meta.
+John Garnaut, a former journalist in China and adviser to former Australian Prime Minister Malcolm Turnbull,
+gave a speech in 2017
+outlining how the CCP views the global battle for information. It’s a nuanced, informed and insightful piece of commentary well worth your consideration (if you find it paywalled, let us know).
+We’re giving away 2 tickets to hit show
+Lovett or Leave It
+!
+⭐️ “
+Lovett or Leave It is a live variety show and podcast that breaks down the week’s news in politics and pop culture with sketches, games, jokes that literally never miss, and everyone’s favorite: nuanced analysis.
+” ⭐️
+Intrigued? Here’s how to win the tickets: Refer as many new subscribers as possible to Intrigue before Friday, 4 April (using your backup email address doesn’t count!
+🤣
+).
+Each new referral will give you another ticket in the giveaway! The more you refer, the higher your chance to win.
+P.S. If you can’t get to DC, fret not - we’ll be doing more event giveaways around the world soon!
+MEANWHILE, ELSEWHERE…
+🇺🇿
+Uzbekistan
+: A state-owned Uzbek mining company is in talks with Chinese firms to jointly
+develop two uranium mines
+in Uzbekistan. Uzbekistan is the world’s fifth-largest producer of uranium and has set goals to double its uranium production by the end of the decade.
+🇱🇹
+Lithuania
+: President Gitanas Nauseda has accused Russia of being behind a
+hammer attack
+in Vilnius against exiled Russian critic and former Navalny aide Leonid Volkov. Nauseda addressed the Russian president directly: “
+I can only say one thing to Putin - nobody is afraid of you here
+”.
+🇮🇳
+India
+: Delhi has moved to enact a
+controversial citizenship law
+that allows non-Muslim refugees from Pakistan, Bangladesh, and Afghanistan to apply for Indian citizenship. The government passed the law in 2019 but its implementation (a pledge by India’s ruling party ahead of upcoming elections) was postponed due to protests led by India’s Muslim community.
+🇵🇾
+Paraguay
+: Foreign Minister Rubén Ramírez Lezcano has said the Latin American bloc Mercosur is
+ready to resume free trade talks
+with Japan after a seven-year pause. The bloc is also pushing to finalise a deal with the EU, though the process has now officially stalled more times than there are
+Fast & Furious
+movies.
+🇷🇼
+Rwanda
+: A local court has ruled
+against opposition figure
+Victoire Ingabire, upholding her ban from running in the upcoming presidential elections. Ingabire called the ruling “
+politicised
+”. President Paul Kagame, who has been at the helm of the country since 2000, is widely expected to win the election.
+EXTRA INTRIGUE
+Here are some of the events folks are betting on around the world
+(We’re not endorsing this, just thought you’d be interested to know the odds!)
+Russia’s presidential elections
+kick off tomorrow (Friday) - betting markets are pricing in a 98% chance of Putin winning against token opposition. Those odds dropped briefly to ~90% after Navalny’s death.
+The market odds of
+a US interest rate cut
+by June are still at around 60%, despite dropping slightly on this week’s news that US inflation was hotter than expected last month.
+And punters have Croatia as the 22% favourite to win
+Eurovision 2024
+in May, after
+Baby Lasagna
+’s landslide victory in the Croatian nationals last month - the song contest will be held in Malmö, Sweden this year.
+MEME OF THE DAY
+The work of our resident meme lord (Jeremy) is now available via our dedicated ‘Diplo Humour’ page on Instagram! (@diplohumour)
+As glamorous as diplomacy may seem, the various official reviews, staff surveys, and occasional strikes suggest morale is rather low at foreign ministries around the world. There are plenty of reasons for this, but we suspect one factor is office culture, exacerbated by the continued presence of (ahem) certain ambassadors.
+Some allegations make it out into the public domain - like this month’s
+scathing US State Department report
+, which describes staff at the US embassy in Singapore being “
+fearful
+” of the ambassador (he shares his own perspective in the report). And the Peruvian ambassador to Israel was once
+fired
+after his chef and other staff secretly recorded him berating them with some choice language.
+Unfortunately, these public reports are just the tip of the iceberg. So while we can’t recommend the above Peruvian approach, if you’re in this kind of situation, we’d encourage you to report it. If you have any doubts, drop us a line.
+DAILY POLL
+Do you support a TikTok ban in your country?
+⛔ Yes, the risks clearly outweigh the benefits
+📣 No, freedom of speech must be protected
+✂️ Only if TikTok refuses to sever ties with China
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Which of the following do you think is the greatest external threat to the US?
+🟨
+🟨
+🟨
+🟨
+🟨
+⬜️ 1️⃣ Malign meddling in US elections  (29%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+2️⃣ Cyber-warfare by rival countries  (34%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 3️⃣ Russian advances in Ukraine (6%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️ 4️⃣ China's emergence as a superpower  (28%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (4%)
+Your two cents:
+2️⃣
+B.B.D:
+“Cyberattacks on our infrastructure can cause chaos domestically in a way nothing short of an actual war on US soil can.”
+1️⃣
+R.B:
+“Only the US can defeat the US, but external parties can encourage the destructive infighting.”
+4️⃣
+G.S.P:
+“The US is being stretched dangerously thin on a number of fronts on the world stage. Ukraine, Red Sea, Gaza, perhaps Haiti, now Chinese ‘expansion’ into the Pacific realm.”
+✍️
+D.B:
+“Don’t point fingers at others when our internal failings are the greatest threats.”
+✍️
+N:
+“Why does the USA feel that it is threatened… Each country has the right to emerge as a world power and that space can be shared.”
+Share the Intrigue

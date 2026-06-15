@@ -1,0 +1,242 @@
+URL: https://archives.internationalintrigue.io/p/youtube-bans-hong-kong-protest-song
+Title: 🌍 YouTube bans Hong Kong protest song
+
+IN TODAY’S EDITION
+1️⃣ Why YouTube just blocked a song in Hong Kong
+2️⃣ Meme stocks are so back
+3️⃣ Map of the day
+Hi {{ First name | Intriguer }}.
+A few of the most memorable things I took away from my stint at Google Search were as follows:
+Google’s shorthand reference to the global youth demographic was the ‘GloYo’, a term which I immediately adopted.
+Google Trends remains one the coolest tools for accurately pulse-checking the collective vibe (e.g. the rise of pickleball as a national sport in the US).
+Google products have received a steep increase in
+government
+requests for content removal in the past five years.
+We dig into that last one in today’s top story on
+Hong Kong
+.
+¿Hablas español?
+¡Check out our
+weekly edition in Spanish
+!
+THE HEADLINES
+Slovakia PM in serious condition after assassination attempt.
+Robert Fico,
+the Slovakian prime minister, was shot yesterday
+(Wednesday) in what officials are calling a politically-motivated assassination attempt. Doctors say Fico’s current condition is stable but serious. Authorities have a suspect in custody but haven’t yet publicly identified him. European leaders have condemned the shooting as an attack on democracy.
+Putin arrives in China to meet Xi.
+Russian President Vladimir Putin
+landed in China earlier this morning
+and met his counterpart Xi Jinping, kicking off a two-day state visit. It’s a chance to show the West they each have powerful friends. Meanwhile, Ukrainian President Volodymyr Zelensky has
+cancelled his upcoming foreign trips
+as Russian troops advance in Ukraine’s northeast, capturing more villages around Kharkiv.
+Israeli war cabinet splits over “
+day after
+” in Gaza.
+Defence Minister Yoav Gallant has called on Prime Minister Netanyahu to come up with
+post-war plans for Gaza
+, and has rejected any Israeli military or civil rule over the territory. Fellow minister Benny Gantz immediately backed up Gallant’s criticism of Netanyahu, bringing a long-simmering leadership split back into the open.
+Microsoft asks its China-based AI employees to relocate.
+The company is asking hundreds of its China employees involved in AI and cloud computing to
+consider relocating
+outside the territory amid US-China tensions.
+Macron declares state of emergency in New Caledonia.
+This is the first
+state of emergency
+in any French overseas territory since 1985, and it comes after violent riots broke out earlier this week. Protesters oppose a new law passed in Paris that extends local voting rights to long-time residents from mainland France, a move that critics say will dilute the indigenous vote.
+New Singaporean PM sworn in.
+Former deputy leader Lawrence Wong, a US-trained economist, has vowed to make “
+tomorrow better than today
+” after
+being sworn in as prime minister
+. Wong replaces Lee Hsien Loong, who’s stepping down after two decades at the helm.
+TOP STORY
+Youtube blocks protest song in Hong Kong after court order
+A screenshot of what folks in Hong Kong now see when seeking ‘Glory to Hong Kong’.
+US-based video platform YouTube has geo-blocked a protest song in Hong Kong following a court
+order
+.
+In a statement, the company announced it’s making 32 variations of the song (‘
+Glory to Hong Kong
+’) unavailable to its Hong Kong users, while its sister company Google is also blocking related links from popping up in searches.
+“
+We are disappointed by the Court’s decision but are complying with its removal order”,
+a spokesperson said, adding that YouTube will consider appealing.
+Hong Kong authorities first attempted to ban the anthem last year but were shot down by the High Court, which held the ban would have "
+chilling effects
+" on free speech. An appeals court then overturned that decision last week, finding that the song could be used as a “
+weapon
+” to undermine the city’s stability.
+What’s so special about this song?
+Its
+lyrics
+include a slogan Hong Kong banned in 2020 (“
+Liberate Hong Kong, revolution of our times
+”), in a reference to the Chinese Communist Party’s tightening grip over the city.
+An anonymous Hong Kong musician under the pseudonym ‘
+Thomas dgx yhl
+’ first wrote and uploaded the original Cantonese version in August 2019. After some tweaks to the lyrics, he then dropped the full
+music video
+on Youtube five days later, featuring scenes from the mass protests rocking the city.
+And it quickly went viral, going on to become the democracy movement’s unofficial anthem in Hong Kong. In fact, the song became so popular, many folks mistook it for the city’s official anthem (which is actually China’s
+March of the Volunteers)
+. Organisers even
+mistakenly
+played it at the 2022 Asia Rugby Sevens in Korea!
+And yet, as emblematic as this YouTube case is, it’s one of many.
+In 2022, Apple removed
+1,474 apps
+from its store at the request of governments, the majority of which came from
+China
+(1435),
+India
+(14), and
+Pakistan
+(10)
+Between 2019 and 2023, Google received
+341,490 government removal requests
+globally
+, and
+Between October 2022 and April 2023, X/Twitter complied with
+over 80%
+of censorship and surveillance requests, a majority of which came from
+Turkey
+,
+Germany
+and
+India
+.
+But of course, that’s not to say all requests are the same:
+Last month, Apple took
+down popular messaging apps
+like Threads and WhatsApp from
+China’s
+Apple store after a request from Beijing
+Also last month, an
+Australian
+authority ordered Twitter to remove footage of a stabbing attack, though a court later
+ruled in the platform’s favour
+In 2019, Facebook complied with
+Singapore’s
+‘fake news law’ by including government statements
+in two posts
+criticising the city, and
+Microsoft has
+reportedly
+been running a local version of Bing in
+China
+since 2009, in compliance with local censorship requirements.
+So why is YouTube complying with this latest take-down request?
+The technical answer is that if platforms don’t comply, they can face a fine or an outright ban.
+But our bigger answer is this: while some companies might be too big to fail, many governments are also too big to ignore.
+INTRIGUE’S TAKE
+This all exposes some interesting fault lines:
+Governments that try to stamp out specific content risk getting hit by the ‘
+Streisand effect
+’ - Hong Kong’s attempt to ban this anthem last year simply drove the song to the top of the charts
+Global tech companies that try to comply with local laws risk
+tanking their brand
+(and principles) back home, and
+Hong Kong’s efforts to revive its economy risk being undermined as the world now discusses its decision to ban a song.
+And sure, it’s a song now, but what’ll the request be next week? And the week after that? As this all plays out, tech giants don’t have a lot of options, but authoritarians don’t have a lot of care.
+Also worth noting:
+At time of writing, the anthem is still available in Hong Kong on other platforms like iTunes and Spotify.
+We caught up with Hong Kong democracy leader Nathan Law last month. From his exile in the UK, he shared his thoughts on where Hong Kong is headed, and what he misses most about home. Our chat with Nate is available to anyone who’s shared Intrigue with two or more friends (using your unique referral code down below).
+A MESSAGE FROM STAT SIGNIFICANT
+Stat Significant is a free weekly newsletter featuring data-centric essays about movies, music, TV, and more.
+When do we stop finding new music? Which TV shows got their finale right, and which didn't? Which movies popularized (or tarnished) baby names?
+Subscribe for free to find out!
+MEANWHILE, ELSEWHERE…
+🇹🇯
+Tajikistan
+: The Central Asian country
+will soon reconnect to the region’s unified energy system
+21 years after first leaving it. Connecting Kazakhstan, Uzbekistan, and Kyrgyzstan, the system was created under the Soviet Union to balance seasonal fluctuations across the region.
+🇮🇪
+Ireland
+: Irish Lieutenant General Seán Clancy
+has been elected head of the European Union Military Committee
+, an oft-forgotten group of defence chiefs from across Europe. Clancy, hailing from a “
+neutral
+” (non-NATO) country, will take the reins next May for three years.
+🇸🇬
+Singapore
+: The private Bank of Singapore has
+turned its sights on Hong Kong
+, increasing the headcount for its family office business there by 15% this year. The bank says it’s
+“bullish on Hong Kong”
+, citing the growing banking needs of wealthy families from Greater China
+.
+🇵🇦
+Panama
+: The UN children's agency (UNICEF) has warned
+that child migration through the notorious Darien Gap is up 40%
+this year. The crossing has become more popular with the help of organised crime in Colombia, making it a cheaper if dangerous route north for hundreds of thousands each year.
+🇧🇯
+Benin
+: Reversing course, Benin has
+agreed to allow crude oil exports
+from landlocked neighbour Niger through Benin’s port of Seme, resolving a tense standoff between the West African neighbours. The two had agreed to help export oil from Niger’s China-operated oilfield, but last year’s coup in Niger complicated their plans.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Finance
+:
+Meme stocks are so back
+, after online trading personality ‘Roaring Kitty’ posted another meme that triggered yet another rush on GameStop shares, doubling their price in a day.
+Science
+: The universe might actually be
+shaped like a doughnut
+, according to a joint study by scientists from the US, Europe, and Japan.
+Society
+: A miniature poodle from Texas has won this year’s
+Westminster dog show
+in New York, beating out a German shepherd from Bethesda and 2,500 other pooches.
+MAP OF THE DAY
+Credits: EU Institute for Security Studies.
+Can national airlines help project a country’s ‘soft power’? That’s what
+a new research paper
+from the EU Institute for Security Studies appears to argue, tracking the expansion of new Turkish Airlines flights across the Western Balkans and Africa. The study found that as the airline reached 45 destinations in 36 sub-Saharan African countries,
+"economic relations flourished.”
+DAILY POLL
+Under which circumstances would you be ok with a court regulating online content?
+🪖 National security
+🥷 Privacy
+🗡️ Violent or exploitative content
+❌ Under no circumstances
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think Georgia will ever join the EU?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🇪🇺
+Yes, it's what the people (and the EU) want (37%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⛔ No, it's too close to Russia's orbit (47%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (16%)
+Your two cents:
+🇪🇺
+C.V:
+“Being part of the EU will provide them with a certain security that Russia and their government have been taking away from them. I don’t think the people will let go of that dream of stability so easily.”
+🤝
+T.C:
+“Let the former Soviet states form their own trade/ security pacts. Europe can then trade with them.”
+✍️
+R:
+“Why would they want to get on a sinking ship?”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

@@ -1,0 +1,241 @@
+URL: https://archives.internationalintrigue.io/p/tiktok-files-lawsuit-us
+Title: 🌍 TikTok files lawsuit against US
+
+IN TODAY’S EDITION
+1️⃣ TikTok sues the US
+2️⃣ Netflix heads to Kazakhstan
+3️⃣ Mystery of the day
+Hi {{ First name | Intriguer }}.
+Coming out of graduate school in 2020, the most in-demand jobs were in the tech sector. Didn’t matter if you graduated from the school of business, design, or even divinity - tech was where it was at. And of all the tech firms, TikTok was the hottest.
+A TikTok recruiter told my classmates that the company would do for society what social media and ‘Web 2.0’ did for the world back in 2006 - joining the company would mean being part of a milestone moment in human history.
+Fast-forward four years, and
+TikTok is in US legal strife again
+. That’s our top story today, and I can’t help but wonder what that campus recruiter is thinking now.
+PS - Don’t miss our
+special edition on India’s elections
+! Featuring insights from renowned India-watchers James Crabtree and Ravi Agrawal, it’ll hit inboxes soon for anyone who’s shared Intrigue with two or more friends (using your unique referral code down below).
+THE HEADLINES
+US to halt weapons transfers to Israel if full Rafah invasion goes ahead.
+President Biden has told CNN he
+won’t supply Israel with certain weapons
+if it goes ahead with a full ground invasion of Rafah. He added, “
+we’re not walking away from Israel’s security”,
+and Israel has “
+not yet
+” crossed his red line. US Defense Secretary Lloyd Austin confirmed to Congress yesterday (Wednesday) that Washington paused an arms shipment to Israel last week.
+China condemns US warship’s passage through Taiwan Strait.
+The US
+steamed a destroyer
+through the Taiwan Strait yesterday (Wednesday) less than two weeks before the inauguration of Taiwan’s new president (and current VP), Lai Ching-te. China, which claims Taiwan as its territory, accused the US of having “
+publicly hyped
+” the voyage.
+North Macedonia opposition wins big.
+North Macedonia’s right-leaning opposition party, VMRO-DPMNE, is on course to make
+big electoral gains
+in yesterday’s parliamentary and presidential elections. The result could complicate the country’s EU accession, which has stalled over historical and linguistic complaints made by Greece and Bulgaria.
+Vietnam delays visit from EU official in favour of Putin.
+Vietnamese authorities have
+postponed a visit by the EU’s top sanctions official
+in favour of a potential visit by none other than Russia’s very-sanctioned leader, Vladimir Putin. Vietnam has long declined to condemn Russia’s invasion of Ukraine.
+House Speaker Mike Johnson survives attempted ousting.
+US Speaker of the House Mike Johnson has
+comfortably survived an attempt to oust him
+by hardline members of his own Republican Party, who were frustrated by his support for security assistance to Ukraine.
+TOP STORY
+TikTok sues the US government
+TikTok and its China-based parent company ByteDance have filed a lawsuit against the US government - it’s an attempt to block a divest-or-ban order that could spell the end of the social media giant’s presence in the US.
+President Joe Biden signed the bipartisan bill into law last month, ordering ByteDance to sell TikTok within 270 days or face a ban in its largest market, the US.
+Lawmakers from both parties pushed the legislation on
+national security grounds
+: companies in China are required by wide-ranging laws to comply with national security directives. So that means the Chinese Communist Party (CCP) could:
+Access the personal data of TikTok’s 170 million US users, helping shape Beijing’s strategy towards the US, and/or
+Push content which suits that strategy, like accentuating divisions or suppressing ideas the CCP doesn’t like.
+TikTok’s Singapore-based
+CEO sought to defend the firm
+before Congress last year but, while his performance was seen as a slam dunk by many on TikTok, some of his inconclusive answers left congressmembers even more uneasy.
+And as the divest-or-ban bill then took shape,
+TikTok started encouraging its US users to lobby Congress
+, in turn merely confirming what many lawmakers feared about the CCP’s possible reach. So the bill passed 360 to 58.
+Now, TikTok’s
+last chance lies with the US justice system.
+In a
+petition
+filed on Tuesday with the Court of Appeals for the District of Columbia Circuit, TikTok and Bytedance argue that:
+The legislation represents a flat-out ban on TikTok and is therefore “
+obviously
+unconstitutional
+”
+The bill is based merely on the “
+hypothetical
+possibility that TikTok could be misused in the future, without citing specific evidence
+”
+TikTok has already invested $2B to safeguard US user data, and even agreed to a “
+shut-down option
+” if the US government detects breaches
+The law
+singles out TikTok
+“
+without any reason for doing so
+”
+It
+violates free speech rights
+protected by the First Amendment
+It would equate to the “
+unlawful taking of
+private property
+”, and
+Selling TikTok
+“is simply
+not possible
+: not commercially, not technologically, not legally.”
+So what’s next?
+ByteDance has stated it has
+no plans to sell
+and, in a reference to China’s own tech export control laws, the suit claims “
+the Chinese government has made clear that it would not permit a divestment of the recommendation engine that is a key to the success of TikTok in the United States.
+”
+So for now, TikTok’s future depends on a legal battle that looks
+destined for the Supreme Court
+, where there are no certainties.
+For what it’s worth, a
+Yale professor
+doesn’t like
+TikTok’s chances
+: “
+A regulation that is content-neutral will generally be upheld if it leaves alternative means of expression available [...]. Other apps exist, and if TikTok goes, more will spring up.
+”
+Analysts at Bloomberg
+tend to agree
+, giving TikTok a 30% chance of winning.
+INTRIGUE’S TAKE
+With or without TikTok, Americans will still be able to say what they want. The issue is that lawmakers have decided they’d prefer this right wasn’t subject to the whims of a major free speech opponent and autocratic rival.
+Still, as US courts grapple with yet another historic decision, it’s worth reflecting on some of
+the costs involved in upholding national security
+:
+TikTok is a source of
+community
+, income, and even news for millions of Americans (particularly younger folks)
+It’s a source of
+wealth
+for major investors like General Atlantic, Susquehanna and Sequoia Capital, and
+It’s a source of
+connection
+for lawmakers (including many who backed the bill) seeking to communicate with voters.
+But that’s the thing about national security - it tends to be
+upstream of everything else
+. And so long as TikTok theoretically answers to the CCP, the same points that make the platform so valuable will also leave the US feeling vulnerable.
+Meanwhile, are there any
+interested US buyers?
+Yes. But given China’s likely refusal to allow the sale of TikTok’s underlying algorithm, it’d be like buying a Michelin-starred restaurant without the chef. Sure, there’s still value (customers, branding, infrastructure etc), but a buyer would need to replace or reverse-engineer the recipe. And interestingly, friends in Silicon Valley tell us this is doable (if not happening already).
+So all that to say… if Bytedance loses this case and changes its tune, the commercial and technological
+hurdles to a sale aren’t insurmountable
+.
+Also worth noting:
+Several
+countries have already banned TikTok
+, including India, Afghanistan and Nepal.
+Last year, ByteDance made around $120B in revenue (up from $80B), making it one of the
+fastest-growing tech companies
+in the world.
+A MESSAGE FROM THE INTERNATIONAL CENTER FOR LANGUAGE STUDIES
+Learn to Earn: Achieve More with Multilingual Skills
+Multilingual employees earn 19% higher salaries. Want to achieve this raise? Join the International Center for Language Studies, trusted by the FSI, FBI, World Bank, and more, for a free webinar with our VP on 'How long it normally takes to become "fluent".' Can't attend live? Subscribe to receive the recording.
+Discover the Path to Better Pay
+MEANWHILE, ELSEWHERE…
+🇰🇿
+Kazakhstan
+: Streaming giant Netflix is headed to
+Almaty to film a reality travel series
+next week, following another travel shoot there for Amazon Prime last month. Kazakhstan hopes the programs will attract more tourists from among the 270 million Netflix subscribers and 230 million Amazon Prime viewers.
+🇪🇺
+European Union
+: 27 European nations
+have agreed to a tentative deal
+which would provide Ukraine with profits generated by seized Russian central bank assets in the bloc. Ukraine could earn $3.2B a year, with the first instalment arriving as soon as July.
+🇸🇬
+Singapore
+: Amazon Web Services, the tech giant’s cloud arm, has announced a $9B investment to
+expand its cloud infrastructure in Singapore
+. There are already ~99 data centres there, attracted to the city-state’s low taxes, established infrastructure, and reliable connectivity.
+🇬🇹
+Guatemala
+: 22 leaders from across the Americas met in Guatemala City yesterday (Wednesday) to
+coordinate efforts on historic migration
+levels. US Secretary of State Antony Blinken said he would work with Congress to pull together $578M to support the initiative.
+🇳🇬
+Nigeria
+: Microsoft is
+shutting down its Africa Development Centre in Nigeria
+, two years after it first cut the ribbon. The tech giant says it’ll continue operations in Africa’s most populous country, though it’s foreshadowing job losses there.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Science
+:
+April was the 11th straight month to
+break global temperature records
+.
+Art
+:
+A series of gold artefacts from the Bronze Age have been
+stolen from a UK museum
+, including a gold torc valued at over $250K.
+Tech
+: Apple has
+unveiled its latest (and thinnest-ever) iPad
+, measuring just over 5mm in thickness.
+MYSTERY OF THE DAY
+China’s government-backed media outlets have gone oddly silent. A recent report by
+China Media Project
+outlines how at least three outlets, including the ‘
+People’s Daily
+’ and ‘
+Guangming Daily
+‘, failed to publish their daily edition on May 7 until very late in the day, leaving local and international readers confused.
+Why? Well, nobody knows. As David Bandurski put it: “
+For the newspaper to go silent online at any moment, making it unavailable to global audiences, would be an unusual and important signal — of a cataclysmic editorial slip if not something more serious politically.
+”
+DAILY POLL
+Where do you see this TikTok saga landing?
+⛔ TikTok will lose the court case and be banned in the US
+🤝 It'll lose the court case then sell to a US buyer (without the algorithm)
+🏆 It'll win the court case and survive unscathed
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think AI-equipped weapons will help reduce civilian casualties?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🤝
+Yes - they'll help limit human error (22%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⚡ No - automating life or death decisions won't end well (74%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents:
+⚡
+E.K.H:
+“AI can't even tell which squares have a traffic light
+😂
+Does anyone really think it can tell the difference between a terrorist and a civilian?”
+⚡
+S.L:
+“AI learns from humans, so it picks up systemic (patterned and repeated) mistakes and biases from the humans that train it. AI also lacks human emotion and ethics, which will eventually lead it to make a utilitarian decision that ignores or undervalues a critical ethical factor.”
+✍️
+A.Z:
+“I don‘t think the problem is that it‘s still too hard to reduce casualties, it‘s rather that some militaries prefer to cause terror. So, as always, new tech will be used in both ways.”
+🤝
+T.C:
+“This isn’t unlike the debate about autonomous vehicles. They’re likely to be safer overall, but any mistakes will receive major public backlash/scrutiny. Their implementation will probably be gradual and conservative for that reason.”
+✍️
+B.P:
+“A human should always be the one pulling the trigger. However, AI assisting in identifying threats could limit civilian casualties and more quickly neutralize threats.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.

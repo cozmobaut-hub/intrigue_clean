@@ -1,0 +1,251 @@
+URL: https://archives.internationalintrigue.io/p/nuclear-freakout
+Title: 🌍 What’s with the nuclear freak-out
+
+Today’s briefing:
+— What’s with the nuclear freak-out
+— A cigarette ban on
+them
+?!
+— World’s creepiest embassy
+Good morning {{first_name | Intriguer}}
+. A weekend ritual of mine is sitting down with a brunch treat and doing the weekend quizzes. I especially love the quizzes about recent news events, which I feel like I’ve got a fairly good handle on because of my daily dose of Intrigue.
+This past weekend, however, I was stumped by several questions about the re-emergence of nuclear weapons testing. For example, one asked about what Russia’s new weapon, the Poseidon, was meant to do (answer: create a radioactive tsunami).
+It’s kind of terrifying that
+we’re talking about testing nuclear weapons again
+, but this, dear Intriguer is where we’re at. So let’s dive into all that and more in our top story today.
+Number of the day
+$10,000
+That’s how much
+a US research lab
+gave six top AI models to invest in crypto for an initial two weeks. China’s Qwen3-Max and Deepseek came out on top with a 22% and 5% return respectively, while the others (including ChatGPT, Claude, and Grok) all lost money.
+Ring ring, it’s the Cold War
+President Trump’s pledge to
+“immediately start testing our nuclear weapons
+on an equal basis
+” sent shivers through even the grinchiest of Halloween hearts last week.
+Why Trump’s big nuclear announcement?
+The president told
+60 Minutes
+that rivals like Russia, China, Pakistan, and North Korea are already testing their own nukes, and he’s not just talking
+delivery
+systems
+(missiles): “
+they test way underground where people don't know exactly what's happening with the test.
+”
+So Trump is seemingly accusing rivals of covertly
+shattering the global moratorium
+on nuke testing that’s mostly held since India and Pakistan’s tests in 1998. We say ‘
+mostly
+’ because North Korea went full North Korea and ran six tests between 2006 and 2017.
+And yet while these latest headlines are explosive (sorry), the
+actual claims aren’t new
+: US agencies have already argued Russia (at Novaya Zemlya) and China (at Lop Nur) were running low-yield tests in 2019.
+To be clear,
+Trump’s response isn’t new
+, either: he mulled tests during his first term, too.
+Anyway, all the above, plus Russia’s recent flexing and China’s rapid arsenal expansion (from way behind), is why
+Trump now argues the US must follow suit
+. For him, it’s about the US maintaining
+a
+) readiness,
+b
+) equivalence, and
+c
+) deterrence.
+But even
+a clarification
+from Trump’s energy secretary that he’s just testing
+“noncritical”
+components rather than full-blown nukes wasn’t enough to calm the world’s jitters.
+So why the world’s big reaction?
+First
+, hitting the ⏯️ button on any kind of US nuclear testing now could trigger the exact kind of cascading tit-for-testing everyone was trying to stop in the first place.
+Second
+, it’s actually rivals like Russia, China, and others who have the
+most to gain
+from unrestrained testing, as they’re still lagging across most technical dimensions (US simulations and ‘sub-critical’ tests should already ensure stockpile reliability).
+Third
+, breaking the dam on testing might also
+weaken related US efforts on non-proliferation
+(stopping others from getting nukes) — eg, a resumption in US testing arguably undermines US credibility when pressuring North Korea and Iran to just chill.
+And finally
+, any resumption in tit-for-testing could also
+rattle US allies
+like Japan and Korea who are right near nuclear powers like North Korea, China, and Russia. And that, in turn, might boost local voices already there demanding their own nuclear deterrent.
+Anyway, that’s why this year’s spookiest Halloween moment wasn’t actually the ‘cereal killer’ costume (a massive, bloodied Cheerios box fyi), but rather, the possibility the US might resume nuclear testing.
+Intrigue’s Take
+Many Intriguers will have grown up in a world that never seemed too worried about nukes, particularly compared to
+the nuclear shadow
+that loomed over much of the 20th century. So if anything, this whole news cycle is a reminder that even if the world stopped worrying, the nuclear age never really ended.
+But… why
+did
+the world stop worrying about nukes there for a bit? Statistically for most Intriguers, it’s because of both
+where
+we grew up
+(under America’s nuclear umbrella) and
+when
+we grew up
+(after the Cold War). With the Soviet system collapsing and a weakened Kremlin pausing the arms race, a nuclear equilibrium emerged.
+But that
+equilibrium is now fading
+, not just because others like China want parity at the big kid table, but also because allies who’ve long lounged under the US nuclear umbrella are now quietly wondering how much they can still rely on US promises of protection.
+And that brings us to one of the many strange
+game theory-esque
+things about this latest nuclear news cycle: even if Trump’s intention was to deter rivals into pausing their own alleged testing, his delivery (a shock pledge to resume US testing for the first time since 1992) might’ve had
+the opposite effect
+— ie, confirming to enemies and allies alike that this is indeed a new, less predictable America. And so what does the world need in response? More nukes, of course.
+Sound even smarter:
+Russia and the US together have 87% of the world’s nukes, with Russia at ~5,459 and the US at 5,177. China now has ~600, but is adding ~100 per year, while France has 290, the UK 225, India 180, Pakistan 120, Israel 90, and North Korea’s 50+.
+The US signed but never ratified the
+1996 Comprehensive Nuclear Test Ban Treaty
+, as senate critics argued
+a
+) US simulations weren’t enough to ensure readiness, and
+b
+) the treaty’s monitoring system would miss low-yield tests by rivals.
+The last US-Russia nuclear weapons pact is due to expire in February, with both sides accusing the other of breaches, whether via Putin’s new weapons or Trump’s proposed Golden Dome (which Putin says would disrupt the status quo).
+China’s Shanghai Institute of Applied Physics just
+announced
+(
+🇨🇳
+) the world’s first reactor that ‘breeds’ uranium from the more plentiful thorium. The scientists emphasise energy independence benefits, but rivals will fret about other uses.
+Meanwhile, elsewhere…
+🇵🇪
+PERU
+-
+Un-friended.
+Peru has cut ties with Mexico after Mexico’s embassy in Lima granted asylum to a former Peruvian PM (Chávez) who was out on bail while fighting charges over the alleged self-coup attempt by her boss and Peru’s then president (Castillo). (
+DW
+)
+Comment:
+It’s becoming a familiar story in Latin America again: bids for embassy asylum triggering claims of domestic interference and counter-claims of political persecution. Mexico’s populist ruling party has become a repeat protagonist (recall last year’s spat with Ecuador) — it’s not just about ideological fervour, but also a way to rally its home base amid continued security scandals, and project its power abroad.
+🇺🇸
+UNITED STATES
+-
+Next steps?
+The US has reportedly sent fellow UN Security Council members a draft resolution to establish Trump’s proposed international force in Gaza. The hope is the council can approve a final version in the coming weeks, with the first international troops deploying to Gaza by January. Meanwhile, Israeli authorities have
+arrested Israel’s top military lawyer
+after she admitted leaking 2024 footage of IDF soldiers abusing a Palestinian detainee. (
+Axios
+)
+Comment:
+Negotiations around this UN resolution will flush out some basic problems in the Gaza peace accord: Hamas reportedly says it won’t even let foreign troops inside Gaza, while potential troop contributors (Indonesia, Egypt, Turkey, and Azerbaijan) are reportedly wary of clashing with Hamas and being seen as occupiers.
+🇦🇫
+AFGHANISTAN
+-
+Another
+deadly quake.
+A 6.3 earthquake in northern Afghanistan has left at least 20 dead, while reportedly also damaging the 15th-century Blue Mosque of Mazar-i-Sharif. Afghanistan was still recovering from the massive August quake that killed over 2,200. (
+Guardian
+)
+🇨🇿
+CZECH REPUBLIC
+-
+To the right.
+Populist Eurosceptic Andrej Babiš has clinched a deal with two right-populist parties to form a coalition government, featuring a platform that pushes back on EU climate policies and cracks down on irregular migration. (
+Euractiv
+)
+Comment
+: While this new government pitches itself as sovereignty-first, it’s still doing so within the EU, while also pledging to continue NATO alignment. Still, it pushes the Czechs closer to the Hungarian and Slovakian model of Euroscepticism, and makes no mention of Russia.
+🇧🇷
+BRAZIL
+-
+Free cruise!?
+Days out from this year’s COP30 climate talks, dozens of small countries still haven’t secured a room in the maxed-out host city of Belem, so Brazil is offering free cabins aboard nearby cruise ships for low-income delegations. (
+Reuters
+)
+Comment
+: As odd as this sounds, there’s precedent! Papua New Guinea famously housed delegations on cruise ships when it hosted APEC in 2018.
+🇹🇷
+TURKEY
+-
+Cutting down.
+Turkish refineries have cut down on their Russian oil purchases, joining the list of buyers now tapping the brakes amid stronger US sanctions. (
+Bloomberg
+$)
+Comment
+: Turkey is Russia’s third-largest oil customer after China and India (who’ve also reportedly curbed their orders), so any slowdown will hurt. And even if markets stabilise around some new workaround, Putin’s energy export revenues are still half what they were before he invaded Ukraine.
+🇲🇻
+MALDIVES
+-
+No smoking.
+The Maldives has enacted a complete tobacco ban for folks born after 1 January 2007, potentially the first country to impose this kind of generational ban (though others have tried). (
+BBC
+)
+🇬🇧
+UNITED KINGDOM
+-
+Magnitsky Awards.
+This year’s Magnitsky
+*
+winners include former Lithuanian FM Gabrielius Landsbergis (check out our chat with him
+here
+!), Hong Kong democracy defender Chloe Cheung, Eritrean activist Vanessa Tsehaye, and freed Egyptian political prisoner Alaa Abd El-Fattah. (
+via Twitter/X
+)
+*
+Announced in London each year, these awards recognise bravery in human rights, in honour of Russian lawyer Sergei Magnitsky who was murdered after unveiling a corruption scheme.
+Extra Intrigue
+Here’s what people around the world are googling:
+🇮🇹
+Italians
+looked up ‘
+Conti Towe
+r
+’ after the 13th-century
+Roman tower partially collapsed
+, leaving one dead.
+🇰🇭
+Cambodians
+searched for this week’s annual three-day ‘
+Water Festival
+’, after authorities postponed
+some festivities
+following the Thai-Cambodia border spat.
+And
+🇨🇦
+Canadians
+googled ‘
+Soraya Martinez
+’ after the politician won the
+mayoral race for Montreal
+, Canada’s second-biggest city.
+Embassy of the day
+Credits: Abandoned Berlin.
+Spooky month is officially over
+,
+but you know what still wakes us up in cold sweats? That time we wore a red pant suit to meet a head of state and ended up 100% blending in with the red carpet in all the official photos.
+There’s also Iraq’s
+abandoned embassy in Berlin
+, vacated when German authorities booted the entire staff because of Saddam’s 1990 invasion of Kuwait. The 5,000 square meter compound technically belongs to Germany but, in
+chefs-kiss
+Deutsch devotion to the rules, the Germans say Iraq still has “
+perpetual and exclusive rights
+” to the site because of commitments made by (now defunct) East Germany a half century ago!
+So the embassy is still there, mouldy top secret documents and all. If you’re quiet enough on a still night, you can even feel the pulsating stress of a 1990s-era Third Secretary getting absolutely chewed out by the ambassador because the tea was not to his liking.
+Extra fun fact:
+The Iraqis went ahead and opened a different embassy in 2004 after the US toppled Saddam’s regime, effectively ignoring the ol’ abandoned mission ever since.
+Today’s poll
+Do you think the nuclear arms race is back?
+☢️ Yep, it's on
+🥱 Chill, it's just noise
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How do you feel about the world economy right now?
+🌡️ It's just warming up (16%)
+❄️ Winter is coming (83%)
+✍️ Other (write in!) (1%)
+Your two cents:
+❄️
+R.C.O:
+“Inflation remains high, tariffs are a taxing drag, and sovereign debt continues to grow. A small nudge, like an AI pull back, is all it would take to start the fall.”
+🌡️
+D:
+“Despite ongoing instability, the growth among mid-level nations points to long-term growth.”
+✍️
+J.T:
+“As always, some countries will flourish while others falter. The question is which side of the divide will the world’s largest and interconnected players fall on.”

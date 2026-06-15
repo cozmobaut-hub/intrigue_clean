@@ -1,0 +1,272 @@
+URL: https://archives.internationalintrigue.io/p/the-pope-s-new-ai-grenade
+Title: 🌍 The Pope’s new AI grenade
+Date: 2026-05-25
+
+Your Insider’s briefing:
+— The Pope’s new AI grenade
+— Is the US-Iran ceasefire still on?
+— Go work for NATO
+Good morning {{first_name | Intriguer}}
+. These days, it seems that just about everyone has released a manifesto on the future of humanity in the age of AI. From foreign policy veterans like Dr. Henry Kissinger (posthumously) to AI CEOs like Dario Amodei (and his essays on “
+AI flourishing
+”), and even those who reject the use of AI altogether.
+The latest voice to join this chorus is none other than
+Pope Leo XIV
+, who just dropped his
+encyclical on AI
+: the ‘
+Magnifica Humanitas
+’. As someone who’s already carved out a reputation for being a champion of the Global South and whose words carry sway with the ~1.4 billion Catholics around the world, his thoughts on AI are worth dissecting.
+That’s our top story today, let’s dive in.
+Co-Founder
+Helen Zhang
+🎧 Prefer this briefing on the go?
+Get the podcast version as an Insider today
+!  Introductory rate ends Sunday.
+Number of the day
+7%
+That’s how far Ferrari’s share price initially dropped after the legendary Italian automaker released its first full EV called the ‘Luce’ (light), co-designed by the Apple-famous Jony Ive.
+Mass warning
+When you start a new job, most folks focus on first learning the basics, like how to work the espresso machine, or how not to hit everyone with a brutal ‘thanks’ reply-all.
+But not Pope Leo XIV.
+Barely a year into the top job, he’s just published
+the Catholic Church’s first full doctrine on AI
+via a 42,300-word
+Magnifica humanitas
+(Magnificent humanity):
+So here are five quotes you need to know (and why), starting with…
+“
+The primary choice is not between a ‘yes’ or ‘no’ to technology, but rather between constructing Babel or rebuilding Jerusalem
+”
+Leo here is using the allegory of building a city to compare the two AI paths ahead:
+The Tower of Babel
+comes when we build god-like systems out of pride and without moral limits — he argues that just like the Genesis tower to heaven, tech hubris now risks driving humanity to confusion, division, then collapse
+But Nehemiah’s rebuilding of Jerusalem
+, he says, comes when tech serves — rather than dominates or replaces — humanity and some higher purpose: an AI that builds rather than erodes community, fraternity, dignity, and moral order.
+It’s pretty clear this Pope fears AI is now taking more of a Babel bend, but the very existence of his essay is also proof Leo believes that
+a
+) progress is inevitable, and
+b
+) it has huge potential for good: so he’s really trying to
+reframe the entire AI debate
+beyond the binary “
+should we use it
+” to a deeper “
+what kind of world are we building with it
+”.
+“
+Today, the convergence of automation, robotics and AI is rapidly transforming the very structure of work
+”
+Leo is really warning of
+a perfect storm
+that could fundamentally rewrite the nature and meaning of work itself: how we as a society structure our time, purpose, and dignity.
+And this really reflects the Catholic teaching that
+work gives us purpose
+rather than just serving an economic end — that might be why his piece calls for reskilling, dignity, and safeguards, rather than (say) ideas like Universal Basic Income that replace work with stipends. It’s about AI helping fulfil — rather than strip us of — that purpose.
+“
+New forms of slavery are fueled by economic chains and digital infrastructures
+”
+This is where Leo gets spicier, going beyond familiar warnings of bias or job loss to accuse Big Tech of generating new evils — he cites
+servitude right across the supply chain
+, from child labour in cobalt mines and poorly-paid data labellers, to those trapped by gig economy algos, addictive design, plus endless surveillance and performance monitoring!
+He even describes data extraction as a “
+new face of colonialism
+”, in a bit that’s eerily similar to Zambia’s recent push-back on US efforts to trade healthcare support for data.
+“
+It is not permissible to entrust lethal or otherwise irreversible decisions to artificial systems
+”
+“
+Pope calls for peace!
+” is hardly a fresh headline these days, but the
+why
+here is intriguing.
+While some argue AI could lead to fewer war casualties, Leo argues it all just renders war “
+more impersonal, lowering the threshold for resorting to violence
+”.
+But rather than call for a complete moratorium on AI in the military, Leo suggests three fixes:
+i
+) a clear chain of accountability that doesn’t absolve humans from blame,
+ii
+) a commitment to human-in-the-loop systems, and
+iii
+) a shared international framework.
+“
+Every frontier AI lab operates inside a set of incentives and constraints that can sometimes conflict with doing the right thing: the pressure to stay commercially viable and to stay at the research frontier; geopolitical pressure
+”
+Wait, that’s not the Pope. Rather, that’s Anthropic co-founder Christopher Olah, Big Tech’s only rep to attend Monday’s encyclical at the Vatican.
+Why?
+He’s not Catholic (he’s atheist), but Olah’s
+remarks
+echo many of Leo’s concerns, arguing AI companies
+cannot
+and
+should
+not regulate themselves: any race easily becomes a race to the bottom, where morality and safety are sacrificed on the altar of ‘progress’.
+And that emphasis on geopolitical pressure is pretty grim, too: go too far and you join the dark side. But go too slow and you just cede tech superiority to that very same dark side.
+Intrigue’s Take
+We don’t cover this stuff because we’re Catholic or otherwise, but because we’ve seen from our foreign service days how faith (or its suppression) can…
+Intrigue's Take · Insiders Only
+To get full access to our experienced, unfiltered takes on what the news really means and what's coming next, become an Intrigue Insider!
+Plus:
+✓
+Ad-free reading
+✓
+Daily audio edition
+✓
+Telegram community
+Start Free Trial →
+$79/yr · 7 days free
+Intrigue’s Take
+We don’t cover this stuff because we’re Catholic or otherwise, but because we’ve seen from our foreign service days how faith (or its suppression) can radically shape our world.
+And we’re not being airy-fairy here — the ‘French AI Observatory in Rome’, for example, which facilitates a Big Tech-Vatican dialogue, now actively shapes France’s AI positions at the G7. And that’s before we look at (say) the Pope’s influence over 1.4 billion believers.
+So whether you like it or not,
+the Pope’s thoughts on AI do matter
+. And rather than issue some focus-grouped talking points that say nothing, he’s now arguably just dropped — again whether we like it or not — the most ambitious moral framework on AI in history.
+He seems to be echoing the last ‘Leo’: when
+Leo
+XIII
+published
+Rerum Novarum
+back in 1891, his faith was seen as hopelessly out of step with
+the Industrial Revolution
+. But rather than retreat into nostalgia or condemn modernity’s next “
+devilish
+” railroad ahead, that Leo charted a third way that rejected both communism and
+unfettered
+capitalism.
+History has vindicated that earlier Leo — he didn’t stop the Industrial Revolution, but he did help civilise it. And maybe that’s the right way to see this
+new
+Leo’s approach to AI.
+Sound even smarter:
+President Trump has recently
+bickered
+with Pope Leo XIV (the first US-born pope) over the pontiff’s criticisms of US wars. We’re curious if Trump will see this latest papal missive as a dunk on US tech.
+From our sponsors
+What does that $70k hire really cost?
+Salary is only part of the equation. Local taxes, benefits, and employment costs add up quickly.
+Use
+Oyster’s calculator
+to estimate the real cost of hiring globally, in seconds.
+Estimate hiring costs
+👋
+Prefer ad-free reading?
+Become an Insider today
+! Introductory rate ends Sunday.
+Meanwhile, elsewhere…
+🇷🇺
+RUSSIA — You should leave.
+Russia has warned foreigners, including diplomats, to leave Kyiv ahead of “
+systematic ​strikes
+” on the Ukrainian capital. Putin is still claiming it’s all retribution for last week’s deadly drone strikes on a student dorm in Russia-controlled Luhansk, which Ukraine continues to deny. (
+Independent
+)
+Comment
+:
+Putin has also signed a new law allowing Russia to intervene militarily abroad to protect Russian citizens. We mention this because, as above, it’s not like laws or plausible provocations have ever restrained Putin to date. Rather, he’s ramping up the rhetoric and war crimes as Ukraine tilts its self-defence back in its own favour.
+🇮🇷
+IRAN — Cease or fire?
+Both the US and Iran’s regime say their fragile ceasefire still holds, even after the US hit missile sites in southern Iran plus IRGC mine-layers near Hormuz. Iran’s regime says it returned fire. (
+BBC
+)
+Comment
+: Yesterday, we
+flagged
+that the two sides seem to be buying time more than making peace, and that view still holds.
+🇲🇽
+MEXICO - Iranian footballers welcome.
+President Sheinbaum has announced Iran’s football team will now commute to its World Cup matches from a new base in Mexico, after the US refused to host. (
+CNN
+)
+Comment
+: It seems everyone’s happy about this — Iranian football officials were already citing visa issues, lack of direct flights, and fears of political violence.
+🇳🇬
+NIGERIA — Tinubu locks in 2027 run.
+President Tinubu has crushed his party’s primaries with a landslide ~11 million votes (99%) to secure his candidacy for re-election in January. Accepting the nomination, he’s vowed to continue his reform agenda. (
+Voice of Africa
+)
+Comment
+: It’s a formality that still sends a clear message: he’s in control, and he’s staying the course to stabilise Nigeria’s finances (ditch subsidies, harmonise taxes). The real test will be whether voters feel the reforms are working by polling day, though any opposition still looks divided.
+🇨🇦
+CANADA — Albrexit?
+Prime Minister Carney has dunked on the Alberta provincial government’s plan for a non-binding vote in October on whether to hold a referendum to secede, calling it a “
+dangerous bluff
+” that risks echoing Brexit’s mess. (
+Global News
+)
+Comment
+: It’s a tightrope for Carney to draw hard lines on federal unity while still keeping the oil-rich province onside. Alberta’s conservative premier (Danielle Smith) likewise rejects separatism, but sees October’s vote as a safety-valve to quench sentiment among her base then move on. Support for a ‘leave’ vote is low (30%), but so was support for Brexit when David Cameron first rolled a similar set of dice.
+🇰🇭
+CAMBODIA — Opposition pardon.
+Hun Sen has taken to Facebook to grant a royal pardon to longtime opposition leader Kem Sokha, three years into his 27-year sentence for
+being an opposition leader
+treason. (
+The Diplomat
+)
+Comment
+: It’s classic Hun Sen calibration ahead of his big Francophonie summit in November: just enough mercy to polish his regime’s image, but without handing over any real power. His son technically runs the show these days, but Hun is taking on royal duties (like this pardon) while the king fights cancer.
+🇮🇳
+INDIA — It’s leg day.
+India’s foreign minister (Jaishankar) hosted his ‘
+Quad
+’ counterparts in Delhi today (Tues), including America’s Rubio, Japan’s Motegi, and Australia’s Wong. Their big new announcement involves jointly building a new port in Fiji. (
+Reuters
+)
+Comment
+: This grouping — born and revived in reaction to China’s assertiveness over the years — now offers India cover to deepen its Western ties without fully alienating Russia or China. Adjusting to those Delhi sensitivities, the Quad now pushes a gentler notion of giving the region ‘options’, like this new Fiji port— ie, maybe when it comes to infrastructure, China ain’t your only option anymore.
+Extra Intrigue
+💼
+The Intrigue jobs board is back!
+Young Professionals Programme
+@ NATO in Brussels
+Senior Analyst, Asia
+@ Signum Global Advisors in Singapore
+Intern, LatAm & the Caribbean
+@ International Crisis Group, Bogotá
+Book Reviews Editor
+@ Chatham House in London
+Rollercoaster of the day
+Nope! Pic courtesy of Intamin
+Waddiyado when you’ve got unlimited cash?
+The Saudis were famously building a 170km
+The Line
+mirrored skyscraper through the desert, but fiscal deficits mean this giga-project is now officially ‘on pause’ from this week!
+The kingdom did, however, manage to finish that epic rollercoaster above: called
+Falcons Flight
+, it broke three new records when it opened at Six Flags Qiddiya City. Carved into the cliffs outside Riyadh, it’s the world’s
+tallest
+(195 / 640ft),
+fastest
+(250 kph / 155 mph), and
+longest
+(4.25km / 2.6mi) way to absolutely hurl your guts.
+It’s the work of Liechtenstein’s legendary Intamin Amusement Rides, and while the price-tag is secret, it probably cost half a billion or so. That park better sell a
+lot
+of corn dogs.
+Today’s poll
+Do you share Pope Leo's concerns around AI?
+🗼 Yes, we're building another Tower of Babel
+👎 No, he's inflating the risks + ignoring the benefits
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think is going on with US-Iran talks?
+🤝
+A real deal is close (10%)
+🥫
+🦶
+It's just another extension (88%)
+✍️ Other (write us!) (2%)
+Your two cents:
+🥫
+🦶
+D.B:
+“More market manipulation.”
+✍️
+A.E:
+“It’s a three-layered game: the US and Iran are negotiating, the US and Israel are constantly coordinating and sometimes disagreeing behind the scenes, and Israel and Iran are continuing their shadow conflict regardless of what’s being said at the table.”
+🗣️ Become an Insider and
+join Intrigue’s group chat
+! Introductory rate ends Sunday.

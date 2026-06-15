@@ -1,0 +1,150 @@
+URL: https://archives.internationalintrigue.io/p/eu-proposes-ban-semiconductor-chemicals
+Title: 🌍 EU proposes a ban on semiconductor chemicals
+
+Hi there {{ First name | Intriguer }}.
+If you’ve ever felt nervous hosting a party, spare a thought for young Bard, Google’s new AI Chatbot, which
+incorrectly answered a question
+during its launch event. The error wiped $100B off Google’s market cap. We haven’t seen a product launch go so wrong since KFC’s China debut in 1987, when its classic ‘finger-lickin good’ slogan was translated as ‘eat your fingers off’.
+Today’s edition is a 4.3 min read:
+🇪🇺
+The EU’s
+plan to restrict 'forever' chemicals has semiconductor companies worried.
+🇳🇬
+Nigeria’s
+new currency rollout is a mess.
+➕ Plus:
+US Presidents like to talk, how the papers are covering North Korea’s late-night military parade, and some weekend recommendations from our senior editor Valentina.
+- VC & EP
+🗺️ AROUND THE WORLD
+🇧🇷
+Brazil
+: Brazilian authorities have launched an operation to
+flush out illegal gold miners
+from the Amazon. The mining operations have poisoned waterways and led to an increase in malnutrition and malaria among the indigenous Yanomami people.
+🇨🇳
+China
+: During a
+speech to party leadership
+, President Xi Jinping called Chinese modernisation a
+“new model for human advancement”
+. Xi also stressed the importance of innovation as a key driver of national development.
+🇷🇺
+Russia
+: Russia is doubling down on its accusations that
+the US was behind last year's blast
+that damaged the Nord Stream pipelines. The US has flatly denied bombing the pipeline, but it’s unlikely we’ll ever get to the bottom of this deep sea whodunnit.
+🇵🇭
+Philippines
+: Philippine President Ferdinand Marcos Jr. flew to Japan to
+deepen the two countries’ economic and security ties
+. The meeting comes only days after Manila granted the US increased access to military bases in the Philippines.
+🇦🇪
+UAE
+: The UAE has granted Russian bank 'MTS'
+a licence to operate
+in the country, raising concerns about a possible sanctions evasion scheme.
+🇪🇺 THE EU | SEMICONDUCTORS
+Semiconductors are made with PFAS chemicals.
+The EU mulls a ban on forever chemicals needed to make chips
+Briefly:
+Denmark, Germany, the Netherlands, Norway and Sweden
+submitted a proposal
+on Tuesday (7 February) for the EU to ban around 10,000 'forever chemicals' and reduce their propagation in the environment.
+Some context
+: Per- and poly-fluoroalkyl substances (PFAS) are commonly referred to as ‘forever chemicals’ because they accumulate in the environment and in our bodies. The EU has long been toying with the idea of a ban or restriction on these synthetic chemicals due to a series of
+health risks
+associated with PFAS exposure.
+The chip parenthesis
+: These chemicals are used in anything from non-stick pans to - yes, our favourite - semiconductors. So, the proposed restriction has sent the industry into a bit of a tizz.
+Denise Dignam
+, head of advanced performance materials for a leading chemicals company, warned about a
+“very severe global disruption”
+if a blanket ban is imposed.
+Intrigue’s take:
+Even if the EU moves forward with the proposed legislation (always a big 'if' in Brussels), the restrictions won’t come into effect before 2026 at the earliest so there's little danger of disruption in the short term. But it’ll be interesting to see whether the EU prioritises its semiconductor strategy over health/environmental considerations. As the world gets more complex, we'll see more of these tough choices ahead.
+Also worth noting:
+The EU is aiming to
+double its global market share
+in semiconductor production from 10% to 20% by 2030.
+The US state of Maine has become the world’s first legislature to
+ban the sale of products containing PFAS
+, though the embargo won't take effect until 2030.
+📰 GLOBAL PERSPECTIVES
+How different newspapers covered:
+North Korea’s military parade on Wednesday night.
+Links:
+Korea Times
+,
+Japan Today
+,
+Minju Choson
+.
+Sponsored by
+Notion
+Over 20 million people and hundreds of thousands of teams around the world use Notion to organize their work and get more done.
+Notion is the all-in-one workspace that combines notes, docs, project management, and wikis - and makes them all customizable. Over 20 million people and teams around the world use it to collaborate, stay informed, and get more done together.
+Sign up today.
+🇳🇬 NIGERIA | ECONOMY
+Via Giphy
+Nigeria’s economy is in crisis weeks before an election
+Briefly:
+Nigeria will postpone its transition to new currency notes for a second time following a Supreme Court injunction on Wednesday (8 February). The notes were supposed to be replaced no later than 31 January, but three northern states say they don’t have enough new currency in circulation to support economic activity.
+The new notes were unveiled in October and designed to limit counterfeiting and expedite the country’s transition to paperless payment.
+But Nigeria is still a cash-based society,
+and people across the country say banks have failed to compensate deposits of old notes (worth approximately $4B nationwide) with new notes. Queues at ATMs have wrapped around blocks, and protests inside and outside banks have
+turned deadly
+.
+Intrigue’s take:
+Like a horror film villain, politics always shows up where you least expect it. With three weeks to go until Nigeria’s presidential election, the ruling party’s own candidate has accused incumbent President Buhari of using the crisis to derail the candidacy, as payback for defeating the President's preferred candidate in the primary. Could this in-fighting pave the way for a third party candidate? We think so 👇
+Also worth noting:
+As we
+foreshadowed
+, political newcomer and third party candidate Peter Obi is now looking most likely to win Nigeria’s presidential election.
+Last week (3 February), Credit ratings agency S&P
+changed its outlook
+on Nigeria from stable to negative
+“due to high fiscal deficits and increased external pressures.”
+📊 CHART OF THE DAY
+There's something terrible happening in America...
+…
+speeches are getting longer. Since the days of the notoriously introverted Richard Nixon, whose 1972 State of the Union was a veritable TikTok at only 28 minutes, the US President’s annual address to Congress has turned into an endless, all-night affair (are you surprised by which President has been... the wordiest?).
+President Biden won’t be winning awards for succinctness, either.
+But for someone who
+made his reputation
+in foreign policy and has faced a wide range of international challenges as President, Biden’s 73-minute speech on Tuesday stayed surprisingly close to home. His few references to China still drew protest from Beijing, particularly this off-script burn: “Name me a world leader who’d change places with Xi Jinping.”
+Biden’s is a presidency of contradictions:
+he’s reinvigorated America’s alliances while edging towards protectionism; he's withdrawn troops from long-standing commitments while increasing foreign aid. But as the President looks towards re-election next year, he’ll be more eager to highlight domestic wins rather than Russia’s belligerence, Iran’s ballistics, or (gasp!) China’s balloons.
+👀 EXTRA INTRIGUE
+Check out what our senior editor Valentina recommends for your weekend. If you’ve got:
+3 mins:
+Watch this tiny athletic fish learn to
+jump through hoops
+.
+10 mins:
+Read about how
+Chinese pinyin
+, the phonetic system that transforms Chinese characters into the Latin alphabet, came about.
+40 mins
+: Listen to our very first podcast episode of
+Intrigue Outloud
+on how to save democracy, with author Charles Dunst.
+🗳️ POLL TIME!
+Are you in favour of banning PFAS forever chemicals?
+🚫 Yes, the health and environmental risks are too high.
+🤔 Limitations yes, blanket bans no.
+⚙️ No, they’re too important to go without.
+Login
+or
+Subscribe
+to participate
+Yesterday's poll:
+Will China grant Sri Lanka backing for its IMF bailout?
+🟨🟨🟨🟨⬜️⬜️ 👍 Yes, international pressure works wonders.   (42%)
+🟩🟩🟩🟩🟩🟩 👎 No, China won't want to set a precedent.  (58%)
+Your two cents:
+👍
+T.D.7.C:
+"Not showing clemency would compromise China's reputation with other allies. China has tried to appear noble during humanitarian crises before"
+👎
+I.P:
+"Once burnt twice shy"

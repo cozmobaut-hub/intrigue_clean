@@ -1,0 +1,334 @@
+URL: https://archives.internationalintrigue.io/p/how-the-world-just-got-richer
+Title: 🌍 How the world just got richer
+Date: 2026-05-28
+
+Today’s briefing:
+— How the world got richer
+— Did Russia just hit NATO?
+— Do we have a US-Iran deal?
+Your Insider’s briefing:
+— How the world got richer
+— Did Russia just hit NATO?
+— Do we have a US-Iran deal?
+Good morning {{first_name | Intriguer}}
+. There’s an ol’ Wall Street story, immortalised in Fred Schwed’s wonderful 1940 book, in which a naïve visitor is shown the magnificent yachts belonging to all the bankers and the brokers.
+“
+And where
+”, he innocently asks, “
+are the customers’ yachts?
+”
+Well, some 86 years later,
+BCG’s Global Wealth Report
+is still asking the same question, only now, more and more yachts seem moored in some surprising new harbours.
+Shall we continue?
+Managing Editor
+Jeremy Dicker
+🎧 Prefer this briefing via
+podcast
+or
+weekly digest
+?
+Become an Intrigue Insider today
+! But hurry, our special introductory rate ends Sunday.
+Number of the day
+44.6%
+That’s Iván Cepeda’s support in the latest credible poll, making the left’s senator (and President Petro’s successor) the clear frontrunner heading into Colombia’s elections this Sunday. Assuming he falls short of 50%, he goes to a run-off three weeks later, with polls suggesting it’d be against the populist-right’s Abelardo de la Espriella.
+Outstanding balance
+Big splashy 'reports' are like click-bait for consulting firms — some shiny new numbers to generate a few headlines and pitch a few new clients, right before bonus season.
+A lot of the time the actual data would be more useful printed on double-ply Angel Soft. But viewed through the right turtle-shell glasses, it can still be directionally valid.
+So with that throat-clearing out of the way, BCG just dropped its annual
+pitch deck for new financial services clients
+Global Wealth Report
+. It tracks estimated private financial wealth across ~100 or so markets — think deposits, equities, and bonds, but not income.
+Here are that
+report’s five numbers you need to know
+, starting with...
+🌐
+$333T
+That's the world's estimated total financial wealth in 2025, up an annual 10.7% in the fastest growth since 2021. Ie,
+wealth is soaring
+despite
+our world
+'s trade wars, cold wars, and actual wars, which maybe shouldn't surprise us — as the FT’s Martin Wolf likes to remind everyone, the world economy has grown every year since 1950, with just two exceptions: the 2009 financial crisis and the 2020 pandemic.
+The key wealth drivers this time? The report cites
+gold
+(~44% gains) and
+equities
+(13.2%).
+As for which region enjoyed the fastest wealth growth, the answer might surprise you...
+🇪🇺
+15.3%
+That's how fast financial wealth grew in
+Western Europe
+, the strongest performance among major developed markets. How'd they do that? It's partly just a
+currency effect
+— the euro and pound each appreciated ~10% or so against the dollar last year, turning modest local returns into a sparkly 15.3% USD wealth boost.
+But the other driver has been Europe's
+household savings
+: real incomes are holding up, households are restoring their pandemic-era balance sheets, consumers are wary of all the volatility, and higher interest rates are rewarding them for a bit of Protestant prudence.
+But dig a little deeper and you'll see...
+🇩🇪
+27.3%
+That's the share of Germany's entire wealth now held by just ~5,000
+ultra-rich
+Reinhards and Roswithas (>$100M each). And they added another ~1,100 new rich-listers last year alone, controlling more than all of the country's ~769,000 mere millionaires (25.5%)!
+Why?
+It’s partly just existing portfolios enjoying recent equity rallies (plus that currency effect above), but the message seems clear: Germany's top is getting top-heavier.
+And over time, that's exactly the kind of narrative that makes Europe’s
+populist parties
+do the full
+Spice Adams meme
+(rub their hands / lick their lips while wearing yellow suits).
+As for how this wealth is getting shared
+between
+countries...
+🇭🇰
+$2.95T
+That's how much cross-border wealth Hong Kong booked last year, overtaking Switzerland (barely!) to become the
+world's #1 offshore hub
+for the first time in history!
+Why?
+It's partly Hong Kong's monster IPO boom (last year's global top performer), and partly because more than 60% of Hong Kong's wealth now originates from the mainland, which enjoyed a solid AI-driven equities bump last year (after years of underperformance).
+So there's a valid "
+capital is moving East
+" angle here.
+But it also reflects
+Hong Kong's specific role
+for China's wealthy, who see it as a way to
+a
+) access international assets,
+b
+) diversify mainland risks, and also
+c
+) trade the valuation arbitrage — dual-listed shares often price higher on the mainland, where investors feel more political/regulatory risk.
+But Hong Kong isn't the only one up-ending the old wealth order...
+🌎
+$12T
+This is getting into double-ply data territory, but that's the report's
+projected
+new wealth growth in the
+emerging world
+over the next five years. The BCG boffins say
+India
+alone is expected to add >$2T, followed by
+Brazil
+($1T), and
+Mexico
+($600B) — they're projecting another million new millionaires across the emerging world by 2030.
+Why?
+It could just be that BCG wants more wealth management work (lots of low-hanging fruit for any banks selling advice to newly wealthy families). But it might also be the legit tailwinds of a demographic dividend, young entrepreneurial energy, rapidly improving financial inclusion, and rising domestic savings rates.
+So there you have it, dear Intriguer: from Frankfurt boardrooms to Mumbai start-ups, the money is moving, concentrating, and multiplying.
+Oh, and the consultants are hustling. Nature is healing.
+Intrigue’s Take
+You'll see folks distil this data into simple "
+capital is shifting East
+" narratives, but the more intriguing lessons to remember are…
+Intrigue's Take · Insiders Only
+To get full access to our experienced, unfiltered takes on what the news really means and what's coming next, become an Intrigue Insider!
+Plus:
+✓
+Ad-free reading
+✓
+Daily audio edition
+✓
+Telegram community
+Start Free Trial →
+$79/yr · 7 days free
+Intrigue’s Take
+You'll see folks distil this data into simple "
+capital is shifting East
+" narratives, but the more intriguing lessons to remember are…
+First
+, capital doesn't really care about narratives or traditions. It just goes where it feels
+safest
+, most
+liquid
+, and
+closest
+to new faucets. We just mention that by way of headline nuance — so long as the free world remains a bastion of stability and rule-of-law (even if flawed), the wealthy will still pay
+some
+high-tax premium to stash their cash.
+But
+second
+, it's likewise worth cautioning away from any breathless "
+epic China capital outflow!
+" takes you might see — our favourite balance-of-payments nerd (Brad Setser) is always right to caution that those outflows are often overstated when you factor in data quirks and bank recycling (state-owned banks redeploying China's massive trade surplus).
+And yet
+third
+, even if these reports are optimistic or opportunistic, this one strikes us as directionally valid: the days of the emerging world just serving as a source of cheap labour or commodities are long gone. It's increasingly supplying capital, and capital-owners.
+So to wrap it up?
+Yes, our world's pie is growing more rapidly than expected, but the slices are getting handed out in new ways, and to new people. And yet that doesn’t mean the old centres are disappearing, so much as just waking up to the fact that they're no longer alone.
+Sound even smarter:
+Taiwan ($4.95T) just overtook India ($4.92T) as the world’s fifth-largest stock market by market cap, as its AI chipmaking boom continues.
+From our sponsors
+One brand built 30+ landing pages through Viktor without a single developer.
+Each page mapped to a specific ad group. All deployed within hours.
+Viktor
+wrote the code and shipped every one from a Slack message.
+That same team has Viktor monitoring ad accounts across the portfolio and posting performance briefs before the day starts. One colleague. Always on. Across every account.
+5,700+ teams. 3,000+ integrations.
+Start free. $100 in credits →
+🧘
+Prefer
+ad-free reading
+?
+Become an Intrigue Insider today
+! Our special introductory rate ends Sunday.
+Meanwhile, elsewhere…
+🇮🇷
+IRAN
+-
+Close, but no shisha?
+We kicked off the week
+exploring
+duelling reports of some kind of 60-day deal to re-open Hormuz then restart nuclear talks. And those reports are now back, with America’s VP Vance adding more weight to rumours that some kind of deal is indeed close, though cautioning that the US is “
+not there yet
+”. (
+BBC
+)
+Comment
+: Yet again, the reported “final wrinkles” in any deal still actually sound like major hurdles: Vance highlights Iran’s enriched stockpile and enrichment. So maybe all the pressure indeed produces a clear and meaningful deal, but in the meantime, we’re not the first to joke that this latest announcement is like saying we’ve almost bought a house, we’re just finalising some tiny details (like whether the house is even for sale).
+🇷🇴
+ROMANIA
+-
+Drone strike on NATO?
+A presumed Russian drone crossed into Romanian airspace and hit a residential apartment overnight, causing a fire and injuries. (
+Romania’s defence ministry
+)
+Comment
+: Putin has recently jammed Ukrainian drones into NATO airspace across the Baltics, but this would be the first direct Russian hit on a civilian site on NATO turf. *If* deliberate, it could be another attempt to
+i
+) fuel NATO disunity,
+ii
+) test NATO (non) responses,
+iii
+) expand the war’s costs on Ukraine’s backers, and
+iv
+) erode public trust in NATO governments. The most likely response is for Romania to trigger NATO Article 4 (consultations). Meanwhile, and true to form, Russia’s local ambassador is
+a
+) denying responsibility,
+b
+) blaming Ukraine, and
+c
+) dismissing any evidence.
+Become an Intrigue Insider
+to join our group chat on this topic and beyond!
+🇰🇷
+SOUTH KOREA
+-
+Dissident dilemma.
+South Korea’s coast guard has picked up a 68-year-old Chinese dissident after he crossed the 350km-wide (220mi) Yellow Sea in a tiny inflatable boat! It’s now the fourth time Dong Guangping, a former police officer, has attempted to escape China to reunite with his family (now in Canada). (
+CNN
+)
+Comment
+:
+Thailand deported him the first time, Fujian fisherman thwarted his second (swimming!) attempt, and Vietnam deported him after #3. This fourth attempt not only hints at the desperation among China’s brave critics, but also now puts South Korea in a real bind: accepting his refugee claim will rock South Korea’s efforts to stabilise its China ties, but returning him is probably illegal. Precedent suggests Seoul might slowly and quietly facilitate his transit to Canada without embarrassing Beijing.
+🇵🇭
+PHILIPPINES
+-
+Sharing is caring.
+Japan and the Philippines have announced they’ll begin talks on an agreement to share classified information. (
+Reuters
+)
+Comments
+: Confronting an assertive China, these two partners already have a military reciprocal access agreement, so an intel-sharing pact is the logical next step: it not only
+a
+) facilitates trilateral sharing with their mutual ally the US, but also
+b
+) legally allows Tokyo to sell Manila more advanced defence kit, and
+c
+) coincides with Japan creating its first true national intelligence agency just this week.
+🇮🇱
+ISRAEL
+-
+Expanding control.
+Prime Minister Netanyahu has told a conference he's directed the IDF to seize 70% of Gaza’s territory, up from the 53% negotiated as part of the US-brokered October ceasefire. Talks between Israel and Hamas have broken down amid mutual accusations of ceasefire violations. (
+NYT
+$)
+🇧🇷
+BRAZIL
+-
+Junior meets Trump.
+Conservative presidential hopeful Flávio Bolsonaro (son of Brazil’s jailed ex-leader Jair) met President Trump in DC on Tuesday, in hopes of a polling boost ahead of Brazil’s high-stakes elections in October. (
+Al Jazeera
+)
+Comment
+: Bolsonaro Jr looked neck-and-neck until earlier this month, when someone leaked audio of him asking a disgraced banker for $12M to fund a puff-piece film about his dad! Brazil’s incumbent left-leaning Lula now leads comfortably again. We recently
+explored
+the role of audio bombshells in LatAm politics.
+🇪🇺
+EUROPEAN UNION
+-
+Temu fined.
+The European Union has slapped China’s Temu e-commerce giant with a $233M fine for failing to take down potentially harmful products, including unsafe chargers and choke-hazard baby toys. (
+EuroNews
+)
+🇲🇦
+MOROCCO
+-
+Call failed.
+Over 40,000 Moroccans stand to lose their jobs in August, when a French law banning impromptu telemarketing calls comes into effect. (
+Le Monde
+)
+Extra Intrigue
+Some weekend recommendations from Team Intrigue
+Read
+: Virtual assistants based in the Philippines are helping CEOs with their
+insufferable posts on LinkedIn
+.
+Listen
+: Ever wondered
+which country invented the reality game show
+? The answer is farther north than you might expect.
+Play around
+: This
+font
+generator by NASA lets you spell out your name using real Landsat images.
+Pet of the day
+(from L to R) Maximus being carried around by PM De Wever, contemplating the boundaries of space travel, and meeting Hungary’s new Péter Magyar.
+Sometimes, even world leaders must obey a higher power.
+We’re talking about cats
+. They’ve got a long history in geopolitics, whether it’s…
+The US diplomat who famously sent America’s first-ever Siamese cat to President Hayes in 1878 (
+brown-nose
+much?)
+The
+White House
+tuxedo cat who got his own website in the 1990s, or
+The UK
+Foreign Office’s ‘chief mouser’ Palmerston, who passed away earlier this year.
+Well it’s now time you meet Belgium’s very Belgian-named
+Maximus Textoris Pulcher
+, who belongs to the country’s prime minister, Bart De Wever above.
+The grey Scottish Fold rescue already has 200k followers on his Insta page, and added a new fan just this week, meeting Hungary’s newly elected Péter Magyar.
+Extra fun fact
+: That Belgian cat’s name has a playful meaning:
+Maximus
+(the greatest) for that mock-Latin title,
+Textoris
+from the Latin for weaver (per the PM’s surname), and Pulcher meaning handsome. So he’s the Great, Handsome, Weaver.
+Friday Quiz
+Today is International Day of the Tropics!
+1) 'Tropic' is derived from an ancient Greek word meaning...
+A turning / change of direction
+Hot
+Symmetrical
+Login
+or
+Subscribe
+to participate
+2) What % of earth's landmass is taken up by the tropical zone?
+12%
+36%
+54%
+Login
+or
+Subscribe
+to participate
+3) More than half the world's population will live in the tropics by 2050
+True
+False
+Login
+or
+Subscribe
+to participate

@@ -1,0 +1,152 @@
+URL: https://archives.internationalintrigue.io/p/latin-americas-digitisation-journey-slows-face-global-economic-downturn-investment-fears
+Title: Latin America's digitisation journey slows in the face of global economic downturn and investment fears
+
+Hi there {{ First name | Intriguer }}.
+On this day in 1973, OPEC imposed an
+oil embargo
+against the US and other countries supporting Israel in the Yom Kippur War. OPEC’s decision triggered an energy crisis, with oil prices nearly tripling by the end of the embargo the following year. As Mark Twain once said, “
+History never repeats itself, but it does often rhyme.
+”
+Today’s briefing is a ~4.6 min read:
+💻
+Digitalisation in Latin America
+: investment is needed to help the region reach its potential.
+➕ Plus:
+Japan’s rocket launch failure, BMW moves part of its electric car production to China, and how four very different governments are dealing with global inflation.
+📰 GLOBAL HEADLINES
+Stories:
+Manila Bulletin
+,
+Diario Financiero
+,
+Belta
+,
+Kuwait Times
+,
+Modern Ghana
+🤿 DEEP DIVE
+💻 Latin America’s digitisation journey slows
+In brief:
+The pandemic accelerated digitalisation in Latin America, but investment in the region’s start-up space and ICT infrastructure has now tapered off.
+Not only are institutional investors returning to ‘safer havens’, but Latin America is still struggling to return to pre-pandemic economic output levels.
+Credits: Atlantico, World Bank.
+Digital or bust
+The pandemic gave rise to some questionable trends (did we really need a
+$299 Bluetooth facemask
+?), but on the plus side, it accelerated digitalisation around the world.
+According to Atlantico’s
+Latin America Digital Report 2022
+, the past few years did wonders for getting Latin Americans online. In fact,
+Latin America now has a higher internet penetration rate than China.
+With a population of more than 665 million and a regional median age of 31, Latin America is primed for a digital revolution:
+Perhaps spotting the opportunity,
+Beijing has been heavily involved in building digital and telecommunications infrastructure in the region
+, including undersea cables, data centres, and Wi-Fi networks.
+The outpouring of funding, both public and private, has led to a boom for any and all sectors with a ‘tech’ suffix: fintech, health tech, agritech... you get the gist.
+But post pandemic, it looks like the LATAM start-up ecosystem has reached an investment plateau.
+Why is growth slowing down?
+To put it simply,
+international investors are tightening their purses in anticipation of a bleaker economic outlook
+.
+Earlier this year, Japanese firm SoftBank, one of the biggest investors in the LATAM tech space, announced it would be concentrating on cultivating its existing portfolio rather than investing in new companies.
+Fewer risk-taking investors = less growth in risk-heavy sectors. And there are wider structural trends to take into consideration too:
+1. 😷 A lacklustre pandemic recovery
+Between 2019 and 2020, per capita investment in telecommunication and ICT (information and communications technology) capital declined by 7% in Latin America, which according to the
+International Telecommunication Union
+,
+“can be attributed primarily to the [Covid-19] economic recession”
+.
+Unfortunately, Latin American economies have struggled to bounce back from the pandemic
+: unlike most other regions, LATAM’s 2021 GDP figures remained below pre-pandemic levels.
+2. 🔻 Digitalisation seems to be a low priority
+While some LATAM governments have made closing the digital divide a priority, others have left investment in tech infrastructure out of their pandemic recovery plans.
+Limited government action coupled with a
+lack of investment incentives
+for private companies is contributing to lagging tech sector growth.
+On the bright side...
+Despite a disappointing year for Latin American founders, Atlantico analysts believe
+the case to invest in the region’s tech sector remains promising
+.
+According to them: “The region shows massive potential when it comes to improving tech penetration and solving regional problems”.
+Of course, governments will need to lead the charge on digitalisation, just as they did during the pandemic. But without a dedicated strategy to revamp the region’s ICT infrastructure, Latin America’s tech growth will fall behind other regions.
+Sponsored by Alts Co
+The world of alternative assets is huge — and no one knows more about it than our friends at Alts
+WTF is an NFT? Alts demystifies and explains the hottest unique investment ideas out there. Collectibles, NFTs, Wine, Websites, and even LEGOs. They don't just track the markets, they smash the markets
+Subscribe to Alts today.
+🔦 REGIONAL SPOTLIGHT
+North & Central Asia
+🇨🇳 China
+Car manufacturer BMW has announced it will
+move the production of its electric Mini to China
+, further cementing Beijing’s leadership in electric vehicle (EV) manufacturing.
+China produces around 60% of all EVs, and the sector is only just getting started.
+China’s success in the field is partially due to a highly-localised industry - raw materials and batteries used in EVs are mostly domestically sourced, which reduces production costs.
+🇯🇵 Japan
+Japan’s space agency had to abort an unmanned rocket launch with a
+self-destruct sequence
+just minutes after take-off last Wednesday.
+The Epsilon-6 rocket, which was carrying satellites to be placed in space, had to be blown up due to an error in its orbit path.
+The incident is Japan’s only rocket-related failure in 20 years.
+🇰🇬 Kyrgyzstan
+Last week, Kyrgyz authorities
+cancelled the joint Collective Security Treaty Organization (CSTO) exercises
+they were due to host
+the next day
+. Talk about flaking.
+Officials didn’t offer a reason for the cancellation, but presumably the recent flair-up in border tensions between Kyrgyzstan and Tajikistan had something to do with it.
+The unfortunately named “Indestructible Brotherhood-2022” exercises were set to involve troops from CSTO members Russia, Armenia, Belarus, Kazakhstan, Kyrgyzstan and Tajikistan.
+🇲🇳 Mongolia
+Mongolian Prime Minister Luvsannamsrain Oyun-Erdene
+travelled to Berlin
+last Friday to meet German Chancellor Olaf Scholz.
+The two leaders discussed energy cooperation, rare mineral extraction, and deepening cultural ties.
+Mongolia is rich in mineral resources - its coal, copper and gold riches are believed to be worth between $1 to $3 trillion!
+🇹🇼 Taiwan
+Taiwanese authorities have signalled they will
+comply with the new US chip export controls
+against China.
+The new US rules, announced earlier this month, aim to undermine China’s semiconductor industry by cutting it off from US technology and talent.
+Taiwan, a significant chip producer, was quick to reassure its allies in Washington it would follow their lead and comply with the Biden Administration’s restrictions.
+🗞 IN OTHER NEWS...
+How countries are handling high inflation
+Credits: International Monetary Fund.
+Stuff is expensive:
+Unless you’ve been living in Japan, where inflation has been running at a very pleasant 2.8% in 2022, you’ll probably have noticed prices have shot up for everything from fuel to food.
+Here’s a look at how four countries are dealing with their cost of living crisis.
+🇬🇧 The UK unveiled huge income and corporate tax cuts
+funded by increased government borrowing which promptly sank the value of the British pound.
+Prime Minister Liz Truss fired Chancellor Kwasi Kwarteng last Friday (barely a month into the job) and has now
+reversed her policy course
+altogether.
+Effectiveness grade: 2/10
+🇧🇷
+Brazil approved a fuel tax cut
+to nip inflation in the bud because high fuel prices have been
+a significant driver of increasing prices
+.
+Gasoline and ethanol rates dropped in Brazil after the tax cuts were implemented.
+Effectiveness g
+rade: 5/10
+🇲🇾 Malaysia,
+alongside Singapore and Indonesia, has
+implemented
+direct cash payments for lower-income households
+and put a
+freeze on electricity and water rate hikes
+.
+Monthly inflation for consumer prices increased by only 0.2% in August, after a 0.4% increase the previous month.
+Effectiveness g
+rade: 7/10
+🇨🇳
+China hasn’t had high inflation
+for a complex mix of reasons, the most important being that
+economic growth is slowing down
+.
+In a little bit of good news for the rest of the world, Francoise Huang, a senior economist at Allianz Trade,
+told CNBC that
+, "
+the weaker Chinese economy may help central banks in other countries that are fighting domestic inflation
+."
+Effectiveness grade:
+🤷🏻‍♀️
+*Effectiveness grades are based on vibes and are not scientific; please do not write in 😂.

@@ -1,0 +1,145 @@
+URL: https://archives.internationalintrigue.io/p/ev-revolution-will-delayed
+Title: The EV revolution will be delayed
+
+Hi there {{ First name | Intriguer }}.
+Pop icon and classically-trained flautist Lizzo
+played a 200-year-old crystal flute
+during a concert in Washington DC last week. The instrument had been gifted to the fourth US President, James Madison, in 1813 and is one of the few artefacts to have survived the 1814 burning of the White House by British troops. “
+I just twerked and played James Madison’s crystal flute from the 1800s
+”, said Lizzo, horrifying museum curators everywhere.
+Today's briefing is a ~4.8 min read:
+🚗
+Electric vehicles:
+two bottlenecks ahead.
+➕ Plus:
+Shinzo Abe’s controversial state funeral, Paraguay wants to trade diplomatic recognition for investment, and a summary of Russia's annexation of Ukrainian territory last week.
+📰 GLOBAL HEADLINES
+Stories:
+Al Akhbar
+,
+Le Monde
+,
+Africa News
+,
+The Irrawaddy
+,
+Clarin
+🤿 DEEP DIVE
+The EV revolution will be delayed
+In brief:
+Electric vehicles (EVs) are the cornerstone of many governments' green transition initiatives, and car manufacturers have promised they can meet the growing demand for EVs.
+However, supply constraints on large batteries and chips - both crucial for EVs - will delay the electric revolution for a while yet.
+Talkin' bout a revolution
+Ever fancied an electric car that can “
+serve briefly as a boat, so it can cross rivers, lakes & even seas
+”? Well, James Bond wannabes can rejoice because Elon Musk
+just revealed
+that the ‘cybertruck’, Tesla’s effort at a pick-up truck, will do just that.
+Putting aside automotive features designed to grab headlines rather than actually be useful, Musk's bold statement makes it clear that the EV revolution is in full swing.
+According to one estimate by
+BloombergNEF
+, EVs will account for over half of car sales in the US as soon as 2030.
+Feeling the pressure of looming climate targets, many governments are tripping over themselves to offer incentives to buyers for EVs, while manufacturers and car companies are setting ambitious production targets.
+Recently, the US passed legislation
+that angered South Korean lawmakers
+by eliminating tax credits for EVs assembled outside North America.
+But it will still take a few years
+before you can get your hands on the cybertruck or other advanced EVs, because there are two potential bottlenecks threatening to delay the electric revolution.
+Slow your roll
+🪫 Batteries
+Global demand for large batteries is set to increase by a
+factor of 18
+(!) over the next decade, which will put the whole supply chain under pressure. Here's why:
+Capacity
+: established battery manufacturers will only be able to supply about half of the battery power needed to meet demand by 2030. The rest will have to be supplied by new manufacturers, who will take a long time to reach production at full capacity.
+Environment
+: the mining of critical minerals such as cobalt and lithium will need to go into overdrive, raising concerns about the sustainability of such practices.
+Geopolitics
+: the vast majority of EV-appropriate batteries are currently produced in China - any country not in Beijing's good graces might find it hard to secure the batteries they need without making geopolitical concessions.
+2.
+💡 Chips
+If you've tried to buy a PS5 over the last two years, you already know about the Great Chip Shortage™.
+Those same supply chain issues are also affecting the car industry, as this
+recently-published report
+by S&P Global explains:
+❝
+“​​Chip shortages will prevent vehicle producers from meeting pent-up demand for the rest of 2022 and into 2023… demand for chips could be strained further as vehicle producers accelerate their plans for more EV production”.
+The future is here...
+Everything seems to be going well on the demand side of the equation: EVs are flying off the shelves.
+In 2021, EV sales represented ~9% of the global car market, tripling their market share from 2019.
+But global market share numbers are driven primarily by demand in China, Europe, and the US. EV purchases in the rest of the world account for a minuscule portion of total industry sales.
+Science fiction writer William Gibson might well have been writing about EVs when he said "
+the future is here; it's just not evenly distributed
+".
+Sponsored by Pocket Casts
+Built by podcast listeners, for podcast listeners.
+PocketCasts is a critically acclaimed, beautifully designed app that’s on a mission to create the world’s greatest podcasting experience through its free and Pocket Cast Plus tiers.
+Take a listen, and see for yourself.
+🔦 REGIONAL SPOTLIGHT
+North & Central Asia
+🇨🇳 China
+China’s factory activity
+rose for the first time in three months
+, though experts caution against over-optimism.
+China’s manufacturing purchasing managers’ index (PMI) rose by 0.7 points in September from a month prior.
+However, the non-manufacturing PMI, which measures sentiment in the services and construction industries, contracted during the same period.
+🇯🇵 Japan
+Former-Prime Minister Shinzo Abe was laid to rest on Tuesday, amid
+controversy over his state funeral
+.
+Opinion polls showed that a majority of the Japanese public opposed the state ceremony, citing the event’s huge costs and pointing to Abe’s more unpopular policies.
+Abe was killed in July by a rogue gunman angry at Abe’s loose support for a fringe religious group.
+🇵🇰 Pakistan
+A
+Chinese national was shot dead
+in Pakistan’s port city of Karachi last Wednesday, months after a string of terrorist attacks targeted Chinese residents and institutions.
+Chinese civilians have been caught in the crossfire of a long-standing struggle for independence waged by the Balochistan Liberation Army, which warned China to withdraw its commercial activities from the region.
+No one has claimed responsibility for the attack yet - authorities are investigating whether personal or political motivations drove the killer.
+🇰🇷 South Korea
+US Vice-President Kamala Harris bid goodbye to South Korea against the backdrop of
+North Korean missile tests
+.
+During her visit, Harris reiterated the US’s support for a demilitarised Korean peninsula and referred to Pyongyang’s regime as a “brutal dictatorship".
+A real-life ‘Veep’ moment: during her speech, Harris also accidentally praised the US’s strong relationship with
+North
+Korea.
+🇹🇼 Taiwan
+How much does loyalty cost? $1B in investments, according to Paraguayan President Mario Abdo Benítez, who cited this figure as the price for
+Paraguay not switching its allegiance from Taiwan to China.
+Paraguay is one of the few countries that still recognises Taiwan as an independent nation.
+China offers significant political and economic benefits to countries that switch allegiances, hence Benítez’s
+blackmail
+message to Taiwan.
+🗞 IN OTHER NEWS...
+Putin doubles down
+The news:
+after a five-day referendum held in occupied-Ukrainian territory,
+Russia has illegally annexed
+the four regions of Luhansk, Donetsk, Zaporizhzhia, and Kherson - an area of land equivalent to 15% of Ukraine.
+The act was signed at the end of an elaborate ceremony during which Russian President Vladimir Putin pledged to protect the assimilated regions by “
+all available means
+.”
+Why it matters:
+analysts think the annexations have dashed what slim hopes there may have been for a diplomatic solution to the war in the near term.
+Shashank Joshi
+, Defence Editor for The Economist, summed up the situation:
+❝
+“A point of no return. Largest forcible annexation of European territory since WW2. Commits him to defend it in perpetuity & capture the parts of it he doesn't occupy (lots). Prevents him giving it back to Ukraine as part of a settlement. And increases risk of escalation.”
+The consequences:
+Putin is attempting to present the annexations as a
+fait accompli
+to make it more difficult for the West to continue to support Ukraine. But that’s not all:
+According to Kremlin logic, the annexation of the Ukrainian regions brings them under Russia’s nuclear umbrella, potentially changing the strategic calculations of the conflict.
+The move also allows Russia to change the war’s narrative to its benefit, transforming the purpose of the military operation from offensive to defensive.
+The responses:
+Kyiv condemned the annexations in the strongest possible terms and responded by officially applying for NATO membership.
+Western leaders echoed Ukraine’s sentiment, while UN Secretary-General
+António Guterres
+said:
+❝
+“The [UN] Charter is clear. Any annexation of a State’s territory by another State resulting from the threat or use of force is a violation of the Principles of the Charter & [international] law.”
+🫤 Corrections
+Friday 30 September:
+in our Scrambled game last Friday, we incorrectly said that Kim Il Sung built the
+'Arch of Triumph' in Pyongyang
+in 1922. It was in fact built in 1982. Our apologies for the slip-up!

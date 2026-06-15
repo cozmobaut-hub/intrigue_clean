@@ -1,0 +1,214 @@
+URL: https://archives.internationalintrigue.io/p/starlink-face-competition-china
+Title: 🌍 Starlink is about to face some competition from China
+
+Hi {{ First name | Intriguer }}.
+Diplomacy is sometimes about knowing when to say the quiet bits out loud, and when to leave the loud bits unsaid.
+China memorably said the quiet bit out loud last month, responding to weak economic data by exhorting cadres to ramp up propaganda about “
+the bright prospects for the Chinese economy
+”.
+It then left a loud bit unsaid yesterday, painting Nauru’s sudden diplomatic switch from Taiwan to China as a natural move by the tiny Pacific country, rather than a conspicuous part of China’s response to Taiwan’s elections.
+Today's story takes a similar theme up
+into space
+, where a key China-US competition is (quietly) warming up.
+- Jeremy Dicker, Managing Editor
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.
+TODAY’S NEWS
+Iran claims it destroyed a Mossad HQ in Iraq.
+Iran’s Revolutionary Guards have claimed responsibility for missile strikes that killed at least four people in northern Iraq overnight, saying they hit an Israeli “
+spy headquarters
+”. Iraq has condemned the attacks, which the US has described as “
+reckless and imprecise
+”.
+Trump wins Iowa caucus.
+The former president took home 51% of the vote, cementing his status as the Republican frontrunner. Florida Governor Ron de Santis and former ambassador to the UN Nikki Haley came a distant second and third with 21% and 19%, respectively. The entrepreneur Vivek Ramaswamy dropped out and endorsed Trump after coming in fourth.
+Houthis hit a US container ship.
+A Houthi missile has struck a US-owned container ship, a day after the group targeted a US destroyer in the Red Sea. The Houthis are eager to consolidate their local grip on power and prove they haven’t been deterred by last week’s US-UK missile strikes.
+Pacific rim nations meet in China for naval talks.
+Representatives from 30 countries (including Russia and the US) are in China for three days of talks to discuss topics like rules of conduct for their navies. Things might get a little awkward between China and the Philippines after the latter announced it will develop islands in its South China Sea waters for military purposes.
+Ukraine destroys Russian spy plane.
+The Ukrainian military claims to have destroyed a Russian early warning and control aircraft (AEW&C) and severely damaged
+a second surveillance plane over the Sea of Azov. AEW&C planes are high-value assets used to coordinate airstrikes and ground operations.
+TOP STORY
+SpaceX’s Starlink is about to face some competition from China
+It’s been a big few days for Elon Musk’s aerospace firm SpaceX, sending the
+first text
+through its new Direct-to-Cell satellites, then launching its
+300th rocket
+.
+And Musk’s engineers might’ve got some motivation from the news that
+China just started work
+on its second low Earth orbit (LEO) satellite constellation.
+LEO satellite constellations
+are dense networks of small satellites offering high-speed internet to anyone, anywhere. Their lower orbit means faster internet speeds, but they need more satellites (a constellation) to get global coverage.
+Most global data still flows via
+undersea cables
+, but LEO satellite constellations are emerging as a resilient alternative in areas that lack digital infrastructure. And as prices drop, these constellations will become more competitive elsewhere.
+Starlink
+(SpaceX’s LEO satellite internet constellation) was first to market in 2021 and still enjoys a monopoly, with 2.3 million subscribers from over 70 countries now connecting to its 5,250 internet satellites.
+But it was only a matter of time until
+competitors
+emerged, with China -
+no stranger
+to disrupting telecom incumbents - always a natural candidate.
+And China’s move into LEO mega-constellations is pretty intriguing, because
+the stakes are high
+. Some
+key considerations include
+:
+Intelligence
+- The more a state can control critical communications, the more it can counter (and conduct) espionage and sabotage
+Military
+- Starlink has
+kept Ukraine's military online
+during Russia’s invasion, nudging Taiwan to
+build something similar
+with an eye to China, while the US air force has
+tested
+Starlink for other possible uses
+Standards
+- LEO pioneers can shape industry and regulatory standards, offering a valuable early-mover advantage for companies and countries
+Profits
+- The total space market could hit
+a trillion dollars
+by 2030
+Limits
+- Key orbits and radio bands are already looking
+crowded
+, and
+Influence
+- China’s own experience shows how low-cost infrastructure can help nations build influence across cash-strapped governments
+China’s state-owned Satellite Network Group reportedly wants to start launching 1,300 new constellation satellites into orbit from later this year, and markets like Zimbabwe are
+reportedly
+already factoring this plan into their thinking.
+But to really make LEO internet constellations viable, you need to master the reusable rocket technology that helps you launch and replace vast numbers of satellites at low cost. And on that front, it still seems nobody can match SpaceX.
+INTRIGUE’S TAKE
+Does this all feel familiar to you? Us too.
+The last major US rival (the Soviet Union) launched a GPS satellite navigation competitor called GLONASS in the 1980s. More alternatives then emerged from players like China (BDS), the EU (Galileo), and most recently Japan (QZSS).
+So it feels inevitable that something similar will play out in LEO. And sure enough, yes… in addition to China’s constellation plans, others like the EU, Russia, the UK, Canada, India, and even Jeff Bezos are all at different stages of launching their own constellations (a mix of both government and private).
+Also worth noting:
+In 2021, China lodged a
+note
+at the UN alleging Starlink satellites posed a danger to the China Space Station during two close encounters. The US
+denied
+the claims.
+SpaceX says it’s currently building
+six satellites a day
+.
+SUPPORTED BY SCALE AI
+Donovan is the AI-powered digital staff officer for foreign affairs, intelligence, and defense.
+Donovan enables officers and analysts to achieve mission-critical outcomes more quickly by using AI and large language models (LLMs) to search large volumes of unstructured data and rapidly uncover insights from documents such as cables, SITREPS, and imagery.
+Donovan interoperates with the leading LLMs to synthesize information and generate reports, while deployed securely in government and classified environments.
+Free 30-day trial available for verified government users.
+Join Trial
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: Russian President Vladimir Putin has promised to
+visit disputed islands off northern Japan
+that Soviet forces seized in the final days of WWII. Moscow likely sees the visit, which would irritate Tokyo, as a way to respond to Japan’s support for Ukraine.
+🇬🇧
+UK
+: Police have arrested ‘Palestine Action’ activists on
+allegations they were planning to disrupt the London Stock Exchange
+yesterday (Monday) to kickstart a “
+week of chaos
+”. The arrests followed a tip-off by a reporter who’d posed as a member of the group for months.
+🇲🇲
+Myanmar
+: China says Myanmar’s
+military junta has agreed to a ceasefire
+with a rebel alliance near China’s border. But the rebels say the junta is breaching the ceasefire, and one of the rebel groups has
+announced
+it’s taken another town bordering India and Bangladesh.
+🇨🇱
+Chile
+: The world’s
+second-largest lithium producer
+(SQM) has resumed operations at Chile’s Atacama salt flat after local communities lifted roadblocks. Indigenous groups said they weren’t properly consulted ahead of a deal last month to boost production at the site.
+🇳🇬
+Nigeria
+: Africa’s largest
+oil refinery has begun production in Nigeria
+, aimed at reducing the oil-producing country’s reliance on oil imports. The $19B facility is owned by Africa’s richest person, Nigerian industrialist Aliko Dangote.
+EXTRA INTRIGUE
+Here’s what people around the world tweeted yesterday
+🇧🇳
+Folks in
+Brunei
+tweeted about ‘
+Prince Mateen
+’ and his extravagant 10-day
+marriage ceremony
+to Yang Mulia Anisha Rosnah.
+🇧🇩
+Movie enthusiasts in
+Bangladesh
+got the hashtag
+#HrithikRoshan
+to the top after the
+trailer
+for the Indian star’s new movie ‘Fighter’ dropped.
+🇮🇸
+And
+Icelanders
+shared updates on
+Grindavík
+,
+a fishing town evacuated ahead of Sunday’s nearby
+volcanic eruption
+, its second in less than a month.
+REPORT OF THE DAY
+From L to R:  Larry Ellison, Jeff Bezos, Warren Buffet, Bernard Arnault, and Elon Musk.
+A new
+report
+from UK-founded NGO Oxfam claims the world could see its first
+trillion
+aire in the next ten years as global wealth disparity grows. According to the poverty-focused charity, the world's five richest people (Bernard Arnault, Jeff Bezos, Warren Buffet, Larry Ellison, and Elon Musk) more than doubled their fortunes from $405 billion in 2020 to $869 billion in 2023.
+DAILY POLL
+Do you or someone you know use Starlink's internet service?
+💻 Yes, it's going ... (write in!)
+🙅 Nope
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Where do you see things headed between Taiwan and China?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+⚖️ The delicate balance will hold for now (45%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🔥
+It's only a matter of time until China tries to take Taiwan by force (28%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ ☝️ It's only a matter of time until China takes Taiwan by coercion (18%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+✊
+It's only a matter of time until Taiwan formally declares independence (9%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (1%)
+Your two cents:
+⚖️
+B.S:
+“China likes to flex, but forcing Taiwan would have consequences they don’t need right now.“
+⚖️
+D.T.K:
+“China will wait to see how Russia's invasion of Ukraine ends up working out”
+☝️
+C.L:
+“I think China, in this case, would rather use the carrot than the stick.”
+🔥
+R.T:
+“China could seize an opportunity and grab the island. Its military is readying, modernising and focused on seizing the island and denying American naval support.”
+Share the Intrigue

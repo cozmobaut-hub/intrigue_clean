@@ -1,0 +1,202 @@
+URL: https://archives.internationalintrigue.io/p/the-geopolitics-of-crypto-week-12f2a835038c86f0
+Title: 🌍 The geopolitics of Crypto Week
+
+Today’s briefing:
+— The geopolitics of Crypto Week
+— A CIA-linked miner in Africa
+— That’s one special tennis court
+Good morning {{first_name | Intriguer}}
+. Spectators at a sprint triathlon in Finland’s Joroinen, the tiny town 140km from Russia’s border, noticed something curious a few days ago: there was a mystery man named ‘AS’ absolutely crushing the swim-bike-run.
+In fact, he ended up placing second, but long before he crossed the ‘Finnish’ line (you’re welcome), folks were whispering about his striking resemblance to Finland’s president, Alexander Stubb. Surely it wasn’t him, given the absence of any security detail or buzz?
+But yep, it was him. The world already knew he was an athlete (he was Europe’s age champion in 2022). The world already knew he was a golfer, too (he repped Finland). But now that he’s Finland’s president, why the incognito triathlon appearance?
+Like lots of world leaders, he sees exercise as a way to manage the pressure. But also? I think maybe he wants to project calm, confidence, and continuity at a turbulent time, particularly when situated so close to an expansionist nuclear power like Russia.
+Anyway, today’s briefing focuses on the geopolitics of
+Crypto Week
+!
+Number of the day
+$300B
+That’s how much profit global companies have lost to economic and geopolitical uncertainty since 2017, according to a study by EY-Parthenon.
+Do the Blockchain Boogie
+We already explored how Nvidia
+cleared $4T
+last week, but you know what else just hit that number? Crypto. It’s a big number compared to, say, Intrigue’s market cap (we’re working on it). But it’s still small compared to, say, the world's money supply (M2): ~$100T.
+And that gets to the crux of what we're exploring today: is crypto an asset or a currency?
+The world's power-capital just weighed in on that exact question during a congressional '
+Crypto Week
+', producing a few bills with some big implications for the US and the world.
+But first,
+a quick episode recap
+: Trump 1.0 was a crypto-sceptic, until the president had a road to
+Damascus
+Miami conversion during the interregnum, and crypto donors ended up comprising
+almost half
+of last year's corporate campaign finance as he vowed to make the US the crypto capital of the world. The president has since released his own coins, and has put crypto-friendly faces in key regulatory seats: yes, dear Intriguer, you can now cite your FartCoin portfolio for consideration when applying for your next (Miami) mortgage.
+But it's not the PotCoin mortgages that pushed crypto beyond $4T. Rather, it's three bills.
+First
+, President Trump just signed the GENIUS Act into law on Friday after clearing both houses of Congress. It regulates '
+stablecoins
+', which are pegged to things like the USD.
+Who needs that?
+They're like a bridge not only between your PepeCoin and MoonCoin, but between the crypto world and the broader traditional finance world most of us inhabit. And that '
+bridge
+', like any bridge, enables folks to walk both ways: for example, anyone trading traditional things (oil, gold, currencies) might now 'tokenise' (digitise) them via stablecoin, enabling quicker, cheaper, and more secure 24/7 trading.
+But of course, to regulate something you've first gotta
+define
+it, which is also what the GENIUS Act does, ending some of the
+uncertainty
+that’s curbed Wall St and Main St enthusiasm. There's now talk of JPMorgan and Citi issuing their own stablecoins.
+Oh, and defining something also shapes how you
+regulate
+it, which takes us to...
+Second
+, the House also passed the CLARITY bill, seeking to shift crypto regulation to a smaller (and lighter touch) commodities regulator. It’s now with the Senate, but there’s your draft answer, Intriguer: maybe crypto currencies are not just assets, but commodities.
+In its current form, the bill helps the crypto world avoid the SEC’s tougher Wall St rules, with critics arguing it's just grifters wanting more space to grift, while backers say this
+looser leash
+is key for the sector to innovate. But not
+all
+innovation is welcome, because…
+Third
+, the House also passed an 'Anti-Central Bank Digital Currency' bill, banning the Fed from doing something it's never really shown an interest in doing: issuing its own digital currency. Again, it's still with the Senate, but the bill’s proponents want to pre-empt the Fed getting any ideas from (say)
+the EU
+, where central bankers are already working on a digital euro, erring on the side of shaping crypto from the inside rather than risk FOMO.
+So what’s the problem with that? Critics fear a digital Fed coin might entail government surveillance and thereby erode some of crypto’s benefits like privacy, liberty, and beyond.
+Anyway, that’s partly why crypto hit $4T on Friday. It's gone from something you might associate with boofy-haired tropical nerds or fake-tanned Dubai influencers or TikToking money-launderers or Lambo-driving Miami teens, to something that now has the imprimatur of Congress and the president of the United States.
+Intrigue’s Take
+So... where's the geopolitics in all this? Pretty much anything coming out of DC is going to ripple around the world, but these crypto bills are interesting. Here are three examples:
+First
+, the whole rationale for many crypto folks is to diversify
+away
+from fiat currencies like the USD given (they argue) all the debasement via printing, deficiting, and debting. But counterintuitively, this new GENIUS Act arguably
+reinforces
+US
+dollar dominance
+, because the most common crypto 'peg' is already to the USD, and DC just kinda made it official.
+Second
+, we've written previously about how capitals (particularly Brussels vs DC) are now duking it out via regulations that reflect their competing philosophies, whether on AI, energy, or privacy. And as with any emerging field, there's an early-regulator advantage in shaping the game, so this feels like a 'shots fired' moment in crypto. Eg, how will DC engage (if at all) with a new digital euro?
+And third
+, there’s the economic dominance at play: while backers want the US economy better exposed to (and in control of) crypto’s upside, critics fear the resulting capital flows will just further plug the US economy into crypto's darker side, whether that be market-shaking volatility or eye-watering fraud. We arguably got glimpses of both in 2022, though crypto folks say this new legislation includes sufficient protections.
+Anyway, let us know what you think about cryptocurrencies in today’s poll down below!
+Sound even smarter:
+Bitcoin hit a new $123k price record last week. Spare a thought for Laszlo Hanyecz, who famously blew 10,000 of the coins to treat himself to a couple of Papa John's finest back in 2010. Those coins would now be worth ~$1.2B.
+Meanwhile, elsewhere…
+🇯🇵
+JAPAN
+-
+PM to stay on despite election loss.
+Prime Minister Ishiba Shigeru has vowed to stay on despite his ruling coalition losing its majority in the upper house, just months after voters delivered him a drubbing in Japan’s lower house. (
+The Japan Times
+)
+Comment:
+As elsewhere, voters sought populist alternatives to voice their discontent, whether over rising prices or migration. Ishiba says he’ll stay on until a Japan-US trade deal is done, but this political wobble makes any last-minute deal to avert the 1 August US tariff deadline less likely.
+🇺🇦
+UKRAINE
+-
+Make him stop.
+Authorities again closed several Russian airports over the weekend amid Ukrainian drone counter-attacks, as Russia continued its own strikes on Kyiv, hitting a metro station where folks were sheltering. (
+Guardian
+)
+Comment:
+President Zelensky is again offering talks, but this seems less out of any expectation Putin will change course, and more to demonstrate the opposite to a US audience. In the meantime, air defences will help, but that’s ultimately like swatting arrows out of the sky — Kyiv will need to keep targeting the bows across Russia.
+🇰🇿
+KAZAKHSTAN
+-
+Hit the books.
+An Italian university has opened an agricultural science campus in Kazakhstan, awarding 14 scholarships to the first cohort of budding local specialists. (
+The Times of Central Asia
+)
+Comment:
+This is a common way to expand your influence and attract more students (export revenue). But it’s less common for Italy’s colleges, so why start now, and why focus on Kazakhstan? Italy is heavily reliant on Kazakh crude, and its top oil company (Eni) has been invested there for decades. As energy competition heats up, suitors have to show Astana why they should remain their energy partner of choice.
+🇩🇪
+GERMANY
+-
+Talk, or else.
+According to a German diplomat, the UK, France, and Germany are aiming to revive nuclear talks with Iran in the coming days, warning that the international community’s ‘snapback’ sanctions could (ahem) snap back if Iran doesn’t engage. (
+AFP
+)
+🇻🇳
+VIETNAM
+-
+Heavy rains take their toll.
+A tourist boat full of families has capsized in Vietnam’s UNESCO-famous Halong Bay, leaving at least 35 dead. (
+Strait Times
+)
+🇻🇪
+VENEZUELA
+-
+Swap for swap.
+Caracas has released 10 jailed Americans in exchange for bringing home over 250 Venezuelan migrants deported by the US to El Salvador’s detention facilities. (
+AP
+)
+Comment:
+This is interesting for three reasons: first, there’s the complexity not only of a three-way deal, but one involving the Maduro regime; second, that complexity was
+reportedly
+exacerbated by two top US officials (Rubio and Grenell) working at cross-purposes via two different deals; and third, there’s the way everyone claims a win here: Maduro gets legitimacy, Bukele gets cash, and Trump gets the political win.
+🇨🇩
+DR CONGO
+-
+Let’s do this.
+US-based KoBold Metals, the AI-enabled miner with high-profile investors like Bill Gates and Jeff Bezos, has signed an exploration deal covering a lithium-rich region in the Congo’s southeast. (
+Bloomberg
+$)
+Comment:
+After years of the US talking about China’s Africa footprint, efforts to compete are more visible: there’s not only this deal (overseen by the DRC president), but also the US-brokered truce with Rwanda, plus another deal (with ex-CIA and US special forces links) to box China out of a strategic miner known as Chemaf.
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news
+An Irish court has caught a drug dealer
+dealing drugs
+during his own drugs trial.
+An upstate New York hiking
+trail remains closed
+because a moose won’t budge.
+A Belgian regulator has
+upheld a complaint
+against a ticket inspector for saying “
+bonjour
+” in a Flemish-speaking area.
+A UK study suggests cooling your home by
+smearing yogurt
+on your windows.
+And while we’re there, Heathrow has started
+piping airport sounds
+through the airport, to help travellers get into the airport mood.
+Competition of the day
+Credits: Intrigue.
+Just as the DC summer was really starting to get to us
+,
+a pretty swell invite fell into Intrigue’s lap:
+twilight tennis at the Australian ambassador’s residence.
+Sure, it’s the only grass court in DC, and sure the residence once belonged to General George Patton, and sure, it’s now home to Australia’s ex-PM Kevin Rudd, and okay sure, the court was restored thanks to the Australian billionaire founders of Westfield.
+But somehow, our highlight was seeing a few fellow Intriguers there, including a Senate staffer who credited Intrigue for the invite! (we made the intro at a DC gala back in March)
+So maybe the lesson is… read Intrigue and anything could happen?
+Today’s poll
+Do you own any cryptocurrencies?
+💰 Yes, here's why...
+🙅 No, here's why...
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Do you think this Pentagon / MP Materials partnership will work?
+✅
+Yep, they've got the tech and the cash (74%)
+❌
+Nope, the lift is way too big (25%)
+✍️ Other (write us!) (1%)
+Your two cents:
+✅
+A.A:
+“It’s overpromised and it will under deliver, but the partnership will still stand.”
+❌
+M:
+“The Pentagon could barely work from home during covid — now we expect them to expertly pivot to manage private equity too? ”
+✅
+M.H:
+“Looks like the U.S. may be going back to the public/private partnerships of the Bush II era.”
+❌
+T.S:
+“Government owned businesses rarely succeed.”
+✍️ R.O:
+“Mining is only part of the problem. Bigger is refining, and China’s companies have most of the technology in this space.”

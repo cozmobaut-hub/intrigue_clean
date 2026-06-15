@@ -1,0 +1,239 @@
+URL: https://archives.internationalintrigue.io/p/ai-platforms-tighten-regulations-ahead-election-year
+Title: 🌍 AI platforms tighten regulations ahead of election year
+
+Hi {{ First name | Intriguer }}.
+If you thought this year was a lot, then brace yourself for next year. Folks in my tech policy circles tell me 2024 will be the last year that we’ll have humans running election campaigns. After that, it’s all over to
+AI and its antics
+(our lead topic for today’s briefing).
+Until then, thank you dear reader for trusting us this year. We certainly don’t take your readership for granted, and will continue to keep earning your trust into next year.
+This is the last edition of Intrigue for 2023, but we’ll be back in your inbox from 8 January 2024 (plus a special 2024 look-ahead beforehand). So we wish you a most wonderful break, and we’ll see you on the flip side!
+- Helen Zhang, Co-Founder
+Not a subscriber? Join here!
+TODAY’S NEWS
+Shooting in Prague.
+A gunman opened fire yesterday from the rooftop of a building at Charles University in central Prague, killing 14 people and wounding dozens more. The shooting is the deadliest in modern Czech history, and police say both the shooter and many of the victims were students. While details are still emerging, local authorities say there’s no apparent link to terrorism.
+My people will call your people.
+Top American and Chinese generals spoke via videoconference yesterday for the first time in 16 months, a month after Presidents Xi and Biden agreed to restore military-to-military ties. According to the US, the call’s objective was to help
+“responsibly manage competition, avoid miscalculations, and maintain open and direct lines of communication”
+.
+Compromises.
+After a series of delays, the UN Security Council is later today expected to vote on a resolution calling for increased humanitarian aid to Gaza. The US has reportedly agreed to back the resolution after a call for the “
+urgent suspension of hostilities
+” was dropped, in favour of establishing “
+conditions for a sustainable cessation of hostilities
+”. Meanwhile, a new UN-backed
+report
+finds that Gaza’s food insecurity has now reached “
+catastrophic levels”
+.
+Not playing games.
+The shares of Chinese tech companies Tencent and NetEase dropped by 12% and 25% respectively earlier today after Beijing released draft guidelines to curb excessive gaming and spending. The move comes just as China’s tech sector was emerging from a broader, years-long crackdown that wiped a trillion dollars from the country’s biggest tech firms.
+TOP STORY
+Google issues new guidelines for its AI chatbot ahead of 2024 elections
+Google has announced in a
+blog post
+that it will “
+restrict the types of election-related queries for which
+Bard and SGE
+will return responses
+”. Bard is Google’s AI chatbot, while SGE (Search Generative Experience) is its AI-powered search tool.
+And
+Google’s not alone
+in tweaking its approach ahead of a big election year: Meta
+says
+it’ll require political advertisers to disclose whether their content was created or altered with AI, while
+Open AI
+is actually paying Politico and other brands for the right to summarise their articles in Chat-GPT responses.
+Zooming out,
+there are two main areas
+when it comes to AI and election risks:
+1) Chatbots
+:
+according to
+Wired
+, Microsoft’s Copilot chatbot responded to election queries with conspiracy theories, misinformation, and just good ol’ fashioned BS.
+2) Deepfakes
+:
+we’ve already seen
+authorised
+fakes appear for Russia’s
+Vladimir Putin
+and Pakistan’s jailed
+Imran Khan
+, while
+un
+authorised fakes have caused confusion in
+Slovakia’s election
+as well as on
+Bangladeshi social media
+ahead of next month’s elections.
+And as the tech keeps evolving, the vulnerabilities will shift: eg, chatbot mistakes should become easier to fix, while deepfakes could get tougher to detect.
+Either way,
+the core risk is that voter trust gets eroded
+, and ultimately this places more of an obligation on companies to safeguard their tech.
+Of course, that opens up a whole other conversation about freedom of speech and safeguarding the safeguards, but the common thread through any effective response seems clear:
+transparency
+.
+And that brings us back to these latest announcements from AI companies, which add a dash of transparency just as we enter the world’s biggest-ever election year, including:
+🇹🇼
+Taiwan
+’s
+presidential election on 13 January
+🇮🇩
+Indonesia
+’s
+elections on 14 February
+🇮🇳
+India
+’s general election sometime between April and May
+🇲🇽
+Mexico
+’s
+election on 2 June
+🇪🇺
+The EU
+’s parliamentary elections on 6-9 June
+🇺🇸
+USA
+’s presidential elections on 5 November
+And
+🇿🇦
+South African
+and
+🇬🇧
+UK
+elections with dates still tbc.
+So, if there was ever a year to reflect on how AI can shape our elections, this is it.
+INTRIGUE’S TAKE
+There are three overlapping time cycles at play here. We mentioned the first above (the world’s epic 2024
+election
+cycle
+).
+The second is the
+tech
+lifecycle
+: we’re currently sitting in what cyber policy guru Kat Duffy
+describes
+as a “
+post-market, pre-norms
+” stage. I.e., the industry has already released some powerful generative AI tools to the market, but we as societies haven’t really figured out our response yet.
+The third is the broader
+business
+cycle
+: i.e., this is all happening right after widespread tech sector layoffs, meaning the tech world’s policy teams aren’t exactly flush with resources to handle these electoral challenges right now.
+And the above three time cycles are all overlapping in 2024.
+Honestly, we’re optimistic we’ll find a healthy equilibrium eventually - there are plenty of good, smart folks (including friends of ours) thinking it all through. But this confluence of time cycles does increase the likelihood of us seeing some white-knuckle moments along the way.
+Also worth noting:
+In its provisional
+AI Act
+, the EU has classified all AI systems that are “
+used to influence the outcome of elections and voter behaviour
+” as high-risk, meaning they’ll be more heavily regulated.
+Albania
+announced
+earlier this month that it’s using ChatGPT to help speed up its EU membership process by automating translation and legal processes.
+Share the Intrigue
+SUPPORTED BY FINANCE BUZZ
+6 legit things to do to help financially…
+These 6
+small (but smart) moves
+can help you supplement your income and earn legit cash – without doing much extra “work”!
+Experts urge Americans to transfer their balances in 2024…
+Some credit cards can actually help you get out of debt. By getting a new 0% intro APR credit card, no interest means you could pay off your debt faster.
+See the full list of cards here
+.
+Amazon hates when you do these 8 things (but they can't stop you)…
+Here are
+8 secret hacks
+that you need to know if you're an Amazon shopper. They can help you save money, cancel unwanted subscriptions, and earn legit cash.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: In a call with his Philippines counterpart, China’s top diplomat has accused Manila of
+"undermining China's legitimate and lawful rights"
+in the
+South China Sea
+. China rejected a 2016 international ruling that invalidated its claim over most of the South China Sea.
+🇵🇱
+Poland
+: President Andrzej Duda said yesterday that newly-inaugurated Prime Minister Donald Tusk’s decision to
+sack the heads of state media
+organisations was tantamount to
+“anarchy”
+.
+Tusk says the firings are designed to restore media impartiality.
+🇲🇾
+Malaysia
+: Malaysia has
+barred Israeli-flagged cargo ships
+from docking at its ports in retaliation for the Israeli government’s actions in Gaza, which it says “
+disregard the basic humanitarian principles
+”. The ban also prohibits Israeli-bound ships from loading cargo at Malaysian ports.
+🇸🇷
+Suriname
+: A court has
+upheld the murder conviction of former president
+Desi Bouterse this week, confirming his 20-year prison sentence. The conviction relates to Bouterse’s role in the execution of 15 government critics while he led a military dictatorship in the 1980s.
+🇦🇴
+Angola
+: State media outlets have reported that
+Angola will leave OPEC
+after 16 years in the cartel of oil-producing countries. Angola was one of several African countries to oppose the organisation’s recent voluntary production cuts, advocated by Russia and Saudi Arabia to boost prices.
+EXTRA INTRIGUE
+Here’s how Team Intrigue will spend our break
+Helen
+:
+The theme around my holiday break will centre on hot pools of water, both to bathe and luxuriate in (at Balian Springs), and to eat delish morsels of food from (at hot pot).
+John
+:
+Is there anything more festive than
+watching Premier League soccer? Of course not (go Chelsea!).
+Ethan
+:
+I'm looking forward to watching the
+Godfather 2
+for the first time (also recently referenced in the newsletter)!
+Aine
+: I’ll be heading to Japan where I plan to eat everything in sight from an omakase meal to a kaiseki, before retiring to an onsen (hot spring).
+Jeremy
+: I’ll be taking my young daughters to see the world’s first live stage show of
+Bluey
+(for my own entertainment as much as theirs).
+Valentina:
+No self-respecting Italian would dare enter the New Year without a bite of
+cotechino and lentils
+, a traditional dish believed to bring luck and prosperity.
+TWEET OF THE DAY
+It’s only fitting that
+the first ultra high-definition video
+beamed into space via laser featured a cat… chasing a laser. The footage travelled a record-setting 31 million km, equivalent to 80 times the distance between the Earth and the Moon.
+QUIZ TIME
+Here’s some trivia about the number 23 to wave goodbye to the year.
+1) 2 is the first prime number. 23 is the ____ prime number.
+4th
+7th
+9th
+11th
+Login
+or
+Subscribe
+to participate
+2) Julius Caesar was stabbed 23 times in the Theatre of Pompey in which year?
+33 CE
+44 BCE
+52 BCE
+58 BCE
+Login
+or
+Subscribe
+to participate
+3) The characters in The Big Lebowski (1998) always bowl at lane 23. What’s the main character’s favourite drink?
+Mint Julep
+Sazerac
+Tom Collins
+White Russian
+Login
+or
+Subscribe
+to participate
+Share the newsletter

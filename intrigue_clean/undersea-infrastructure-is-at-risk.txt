@@ -1,0 +1,205 @@
+URL: https://archives.internationalintrigue.io/p/undersea-infrastructure-risk
+Title: 🌍 Undersea infrastructure is at risk
+
+Hi there {{ First name | Intriguer }}.
+We’ve all had to pull the cushions off the couch to find our phone at some point. But one official in India stepped that up a notch recently, and
+drained an entire dam
+to find his beloved Samsung. It took him three days to pump the two million litres of water, but darnit, he got the job done. If only the phone still worked, it could’ve helped him find a replacement for that other thing he’s now lost (his job).
+Today’s briefing is a 4.6 min read:
+⛓️ Global
+undersea cables
+are at risk.
+🛩️
+China
+’s first-ever commercial jet takes to the skies.
+➕
+Plus:
+A Dutch masterpiece in Ethiopia, how the papers are covering Erdoğan’s election win, and the cost of the global arms race.
+🗺️ AROUND THE WORLD
+🇦🇫
+Afghanistan
+: Iranian and Afghani border guards exchanged heavy fire over the weekend, as a dispute over water rights sours relations between the two parched neighbours.
+🇧🇾
+Belarus
+: In an interview published on Sunday, President Lukashenko offered “
+nuclear weapons for everyone
+” willing to join the Belarus-Russia union. Russia began deploying tactical nukes to Belarus last week.
+🇵🇭
+Philippines
+: The Philippines will host the first-ever
+trilateral Coast Guard exercises with the US and Japan
+later this week amid tensions in the South China Sea. This latest exercise comes a month after the biggest ever US-Philippines war games.
+🇺🇸
+US
+: President Joe Biden announced he’s
+reached an agreement
+with House Speaker Kevin McCarthy to raise the US debt ceiling and avoid a default. The deal still needs to pass a divided Congress this week.
+🇸🇴
+Somalia
+: Designated terrorist group al-Shabaab claimed its attack on an African Union (AU) military base last Friday
+killed over 130 soldiers
+. The AU has maintained a peacekeeping presence in Somalia since 2007.
+⛓️ GLOBAL | TECH & SECURITY
+A partial map of underwater cables. Source: TeleGeography
+The world’s getting worried about undersea cables
+Briefly:
+Various world powers have agreed to cooperate on undersea cable security this month, including pacts between
+the UK and Norway
+, and a new
+partnership
+agreed between Quad leaders (Australia, India, Japan and the US).
+The ocean floor is crisscrossed
+by 1.5 million km of undersea cables, and modern life isn’t possible without them. 552 cables carry 95% of global data and comms, including everything from $10T in daily financial transactions, to encrypted military secrets, to your favourite geopolitics newsletter.
+And these cables already get severed pretty frequently
+, usually due to:
+⛰️ Earthquakes
+⛏️ Dredging
+🎣
+Fishing trawlers, and
+⚓ Ship anchors.
+Thanks to their location, length and girth
+(often no thicker than a garden hose), these cables are tough to protect. And there’s nothing malicious global actors love more than critical yet highly vulnerable infrastructure.
+So global players are manoeuvring to protect their interests:
+Spooked tech giants are building
+vast new cables
+as back-up
+The US is
+blocking
+Chinese firms from some cable projects, and so
+China is now outright
+building
+its own cable infrastructure in parallel.
+Intrigue’s take:
+States have long seen the strategic value and vulnerability of cables. As far back as 1898, the
+USS Zafiro
+cut a cable between Hong Kong and Manila during the Spanish-American war.
+But a lot’s changed since then.
+Much more of our modern world now rests on this global yet mysterious infrastructure. And yet much of our world is also now splintering into mutually suspicious (if not outright hostile) camps.
+So you can see why states are moving into this space. More will follow.
+Also worth noting:
+The first inter-continental undersea cable was
+completed in 1858
+and connected Ireland to Newfoundland, but failed after three weeks.
+Mysteriously cut cables led to a
+Taiwanese island
+going offline earlier this year, and
+Ethiopia
+briefly losing 90% of its connectivity last year.
+France announced plans last year to
+bolster its underwater security
+efforts by investing in drones, robots, and sub-aquatic vessels.
+📰
+GLOBAL PERSPECTIVES
+How different newspapers covered
+: Recep Tayyip Erdoğan’s re-election as Turkish President.
+Links
+:
+Arab News
+,
+BBC
+,
+Daily Sabah
+.
+Today’s briefing is sponsored by
+Policyware
+The Chinese government is building one of the most comprehensive data regimes, and Yale Law School Professor Samm Sacks is here to help you understand it. In this course (that requires no time off work!), you’ll learn:
+The latest developments in China's digital governance, laws and regulations
+How China is approaching privacy online
+How access to and use of data is a central element of US-China economic and broader geostrategic tensions
+And the implications of China’s data governance for other countries.
+Don’t miss out on a chance to learn from an expert.
+Learn more!
+🛩️ CHINA | GEO-ECONOMICS
+China’s new C919 jet set off on its maiden trip on Sunday
+China’s commercial jet industry takes flight
+Briefly:
+China’s first domestically produced passenger jet took to the skies on Sunday for its maiden voyage. Beijing has invested billions to develop a home-grown aircraft industry to reduce its dependence on Western technologies.
+The occasion was celebrated in style
+, with special red boarding passes, a mid-air cake-cutting, and a water cannon salute upon the flight’s landing in Beijing.
+But breaking into the commercial aircraft space won’t be easy.
+Boeing and Airbus dominate the commercial skies, with a combined market share of
+over 90%
+for single-aisle aircraft. So China has a steep climb ahead if it wants to source domestically all 8,000 of the new jets it’ll need over the next 20 years.
+Intrigue’s take:
+Sunday’s flight was an important milestone, but it’s worth keeping in mind that the C919 jet wasn’t entirely
+Made in China
+.
+Core parts
+like the engine and electrical system were supplied by US, French and German firms. And others were
+allegedly
+built using IP theft and forced tech transfer.
+The result is an aircraft that looks pretty similar to the Airbus A-320 and the Boeing 737. So yeah, Boeing and Airbus have one heck of a moat protecting their market share right now. But how many extinct boardrooms once thought the same thing?
+Also worth noting:
+China is the
+world’s largest aviation market
+, with air-passenger traffic forecast to more than double by 2041.
+Both Boeing and Airbus issued
+congratulatory messages
+on Chinese language social media.
+👀
+EXTRA INTRIGUE
+We’re very online, so you don’t have to be.
+How a refugee became mayor of a German town
+The cost of the global arms race
+($)
+Guatemala’s anti-corruption star dims
+($)
+What we owe our trees
+What Erdoğan does n
+ext
+🤩
+INTRIGUE ANNOUNCEMENT!
+The first-ever NATO Youth Summit in the United States
+kicks off in Washington DC, next Monday. Now, we’re as partial to an ocean-based-treaty-hosted summit as the next folks, but this one is
+especially
+dear to our hearts because our co-founder John Fowler will be speaking!
+And if John isn’t enough for you, then we suppose getting to hear from NATO Secretary General Jens Stoltenberg and former US Defense Secretary Robert Gates is pretty okay too.
+Sign up here
+to attend the event online!
+🏡
+EMBASSY OF THE DAY
+The embassy of the Netherlands in Addis Ababa, Ethiopia
+Completed in 2005, the Dutch embassy in Addis Ababa pays homage to Ethiopia’s rock-hewn churches, and shares the same pigmentation as Ethiopian mountain-scapes. It also blends seamlessly into the site’s natural topography. Pretty, pretty, pretty good.
+🗳️ POLL TIME!
+Which infrastructure do you think is most vulnerable right now?
+🌊 Undersea cables
+🚀 Satellites
+🚢 Air / water ports
+💽 Data centres
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who makes the best movies?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇺🇸
+Hollywood (66%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇮🇳
+Bollywood (9%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇳🇬
+Nollywood  (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇰🇷
+Hallyuwood (7%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇲🇽
+Mexiwood (we made this one up) (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (9%)
+Your two cents:
+🇳🇬
+E:
+“As a Nigerian, the comically low quality of special effects in Nollywood movies is entertainment in itself.”
+✍️
+K.F:
+“The best ones come out of Iran.”
+Honourable mentions:
+Cyprus, France, England and Canada.

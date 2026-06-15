@@ -1,0 +1,271 @@
+URL: https://archives.internationalintrigue.io/p/what-top-brands-fear-most
+Title: 🌍 What top brands fear most
+Date: 2026-05-21
+
+Today’s briefing:
+— What top brands fear most
+— US pauses Taiwan arms sale?
+— Stairway to nowhere
+Good morning {{first_name | Intriguer}}
+. Earlier in the week I shared
+my wild tale
+of how a diplomacy career can pursue us into the next life in some truly unexpected ways.
+Here’s another from a senior ex-ambassador: his last tour was to a high-profile capital where one of the biggest and spiciest issues was migration — the host government wanted more work visas for its people. And to his credit, the ambassador made real headway, shortly before heading off into a well-deserved retirement back home.
+Then fast forward a decade and 2,000km (1,240mi) away, and he’s enjoying a glass of white in his lounge room when — CRASH, as a car slams through his front window!
+Everyone’s unharmed, and once the dust settles, it turns out the wayward driver was in town thanks to the exact same visa this ambassador had personally developed. C’mon!
+Anyway, shall we wrap the week with a look at our
+world’s top three brand risks
+?
+🎧 Prefer your Intrigue in audio?
+Become an Insider
+and get the
+podcast version
+!
+Number of the day
+22%
+Per Ember, that’s the combined wind-solar share of global electricity output last month, surpassing gas (20%) for the first time in history after more than doubling in the last five years. Solar alone has now exceeded the IEA’s 2015-era projections by a factor of 19!
+Brand new risks.
+We’re normally a little wary of anyone who swaps their ‘s’ with a ‘z’ to look hip, but we’ll give the latest ‘
+Kantar BrandZ Report
+’ a pass (sorry, ‘pasz’).
+Each year it strips back all the factories, corporate jets, patents, and balance-sheet wizardry to calculate how much each intangible
+brand
+contributes to overall market cap.
+And this year, it's found the world's top 100 most valuable brands are now
+collectively worth $13T
+, up 22% yoy! But while those valuations accelerate, we still see a few big geopolitical icebergs lurking ahead, starting with...
+The splinternet
+Eight of the top ten most valuable brands are
+US tech giants
+(plus China's Tencent debuting at #8). The report credits this dominance to brands that deliver “
+meaningful, different, and salient
+” AI-driven experiences, but the list also hints at danger ahead:
+Eg, the brand-value for
+Nvidia
+(#5) is up 60% yoy, but we've long flagged how this meteoric rise
+could
+mask its heavy exposure to US and China export controls. They’ve already cratered the firm’s China market-dominance from ~95% to ~0% (depending how you count all the smuggling), but the real long-term risk might actually be to Nvidia's
+‘CUDA’ moat
+(its dominant programming ecosystem), as China's forced alternatives slowly erode that unassailable developer lock-in.
+Over on the consumer software side, China's
+Tencent
+(up 45% yoy) is a reminder the splinternet can also splinter the winners: locked out of many Western markets over various natsec concerns, the giant’s WeChat super-app dominance and rapid AI rollout mean it's still clearly thriving alone behind the Great Firewall.
+The backlash
+McDonald's (#10) recorded the slowest brand growth among the top 10 (6% yoy), while other
+iconic US brands
+like Nike (-17%) and Starbucks (-5%) lost ground. Kantar argues brands must stay "
+meaningful
+", but we're seeing how that meaning can cut both ways:
+India
+’s nationalists recently launched US boycott calls in response to Trump's tariffs, pushing '
+swadeshi
+' (buy local) campaigns on WhatsApp and beyond, while...
+The
+Starbucks
+share in China (its #2 market) has now sagged from ~34% in 2019 to ~14%! That partly reflects a price war from local rivals appealing to cost-conscious consumers, but social media chatter has also increasingly framed Starbucks as an American luxury. That might be why the US firm just sold 60% of its China ops to a local private equity shop (co-founded by Party princelings, btw).
+As for
+Nike
+? It just got dethroned by Spain's
+Zara
+as the most valuable apparel brand, as Zara doubles down on its winning formula of AI-fuelled personalisation plus raw speed-to-market. Nike, meanwhile, leans more on retro hits like Jordans.
+The supply chain
+We've long tracked today's supply labyrinths, whether it’s
+Hormuz
+energy hitting Asia, or
+trade wars
+disrupting the Valley (most US iPhones are already now assembled in India).
+But a rare
+good
+news
+story out of Europe is Germany's
+Siemens
+, recording 68% brand growth yoy to a #44 ranking (#3 for Germany after SAP and Telekom / T-Mobile). Kantar credits the surge to the firm's
+repositioning
+as an AI-driven industrial leader focused on real-world problems — think efficient factories, renewable grids, sustainable buildings.
+We’d add Siemens stands to benefit as our world awakens from both a
+financialisation
+and
+digitisation
+fever-dream, and remembers the value of still making actual stuff. Yet the end of a related third fever-dream (
+globalisation
+) poses
+risks
+to the $240B firm, both...
+Abroad
+: China's rare-earths leverage and licensing delays remain a real wild-card for the magnets Siemens uses in wind turbines and industrial motors, while...
+At home
+: the EU's carbon border tax and supply chain due-diligence
+might
+limit the firm’s ability to meet surging AI-driven demand for grid and industrial tech.
+Anyway, while we've barely scratched the surface here, it's all to say that sure, the marketing gurus (rightly) celebrate brands that are "
+meaningful, different, and salient
+". We’d just note history might end up adding a 4th to that list: geopolitical resilience.
+Intrigue’s Take
+[
+Heads-up
+: this Take will soon be for Insiders only, so
+sign up today!
+]
+The big lesson here is maybe the age of effortless global brands is over. These days,
+every global brand now comes with regional asterisks
+:
+Works everywhere!
+* (except China)
+Loved by everyone!
+* (except in India)
+Unbeatable investment!
+* (until the next regulatory hurdle)
+So what’s a brand to do? Many will see a brutal strategic fork ahead:
+You could
+double-down
+on home-market patriotism, though that only works if your home market is big enough (per China’s Tencent, or ‘Made in America’ Walmart). And sometimes, a kind of principled independence might be the winning strategy — look at Anthropic’s run since it called the Pentagon’s bluff.
+Alternatively, you could try to
+distance yourself
+from any traditional roots in hopes of tapping a bigger, more universal pot of gold, though that risks blowback from home (per China’s Manus AI, or even America’s Bud) and feels a bold move in an era of populist revolt against rootless cosmopolitans.
+So our sense is the winning brands in the decades ahead won’t necessarily be the most global nor the most local. Rather, they’ll be the most
+agile
+: figuring out how best to harness a global reach but still fit local tastes and regulations, quenching our thirst for authenticity, but without needlessly treading onto the latest hot-button minefield.
+It’ll be different for each brand and sector, but realistically that involves some mix of supply diversification, selective localisation, and treating geopolitics as seriously as the latest marketing campaignZ
+😎
+(did we do the Z right?).
+From our sponsors
+Winning, on-brand ads—without endless prompting
+Most AI ad tools generate volume, not quality — and refining output means endless prompt rewrites. With Hightouch
+Ad Studio
+, AI gets you 90% of the way there. For the final 10%, use a built-in editor to quickly refine copy and design. Move faster without losing control.
+See how Ad Studio works
+👋
+Prefer ad-free reading from Monday?
+Sign-up to Intrigue Insiders today
+!
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — The latest.
+Iran is reportedly in talks with Oman (which Trump
+1.0
+designated a US Major Non-NATO Ally) on the possibility of slapping a shared toll system on the Strait of Hormuz, though Oman’s views remain unclear. Meanwhile, Iran’s supreme leader has declared Iran’s highly enriched uranium must stay in the country. (
+NYT
+$)
+Comment
+: So… with the regime here openly and defiantly doubling down against DC’s red-lines (nukes and Hormuz), it’s hard to see any imminent offramp.
+🇹🇼
+TAIWAN — Arms sales on hold.
+A senior US official has indicated the US is pausing its pending $14B arms sale to Taiwan, citing a need to prioritise armaments for the war in Iran. (
+The Hill
+)
+Comment
+: This might suggest
+a
+) the Iran war ain’t over (see above),
+b
+) US munitions scarcity is real, and/or
+c
+) Trump wasn’t bluffing when he flagged arms sales to Taiwan could be a “negotiating chip” with China.
+🇨🇳
+CHINA
+-
+North Korea trip?
+Beijing’s advance teams (security and protocol) have been appearing in Pyongyang this week, lending credence to South Korean reports that President Xi could be visiting the hermit North as early as next week. (
+Yonhap
+)
+Comment
+:
+Hot on the heels of this week’s Putin visit, a rare Xi trip to North Korea (the first since 2019) might be a way to project both
+a
+) active management of the peninsula and
+b
+) his own heft as the indispensable power that can talk to all sides.
+🇹🇷
+TURKEY — Opposition leader removed.
+A Turkish court has removed opposition leader Ozgur Ozel as party chair, hobbling Erdoğan’s most recognisable rival (among those not yet in prison). Ozel is vowing to appeal, but Turkish stocks dropped 6% on the ruling, while the central bank intervened (again) to limit the lira’s slide. (
+Al Monitor
+)
+Comment
+:
+This is a familiar playbook: remove a popular opposition figure without attacking the party itself, then watch as the opposition tears itself apart under a more controversial new replacement. Familiar or not, the markets don’t like it.
+🇮🇩
+INDONESIA
+—
+Export expert.
+Palm oil prices have tumbled amid confusion over President Prabowo’s plans to bolster state control over key commodity exports, including the edible oil and coal. Jakarta is expected to clarify via further regulations today (Friday) (
+Bloomberg
+$).
+Comment
+:
+When we first
+flagged
+Prabowo’s speech on Wednesday, we noted it was likely an attempt to tackle tax evasion, bolster Indonesia’s dwindling Hormuz-era reserves and rupiah, and centralise control. But as details emerge, it’s shaping up as a historic state intervention, with key exports getting rerouted through a new state-owned company! And that’s rattled Indonesia’s powerful tycoons, who Prabowo has long accused of plunder. It’s too early to tell whether he’s steering Indonesia back to — or away from — another Asian Financial Crisis (which also triggered a political crisis).
+🇻🇪
+VENEZUELA — Uranium removed.
+The US removed a cargo of enriched uranium last week, but not from Iran. Rather, it turns out the US, UK, and Venezuela relocated the last 13kg of highly enriched uranium to the US from a long-shuttered research reactor. (
+US DoS
+)
+Comment
+:
+The uranium wasn’t weapons-grade, and there was no doubt around its civilian use, so why remove it? It could be
+a
+) removing legacy stockpiles is a core US non-proliferation pillar;
+b
+) it’s another low-cost concession for post-Maduro Venezuela to stabilise US ties;
+c
+) it might also help DC distract from a lack of progress on Iran; and
+d
+) we also wonder if it relates to Hezbollah’s Maduro-era presence.
+🇦🇹
+AUSTRIA
+—
+Spying for Russia.
+A jury has found former intelligence officer Egisto Ott guilty of collecting and handing over to Russia vast reams of state secrets and personal data from police databases from 2015 to 2020. Ott has denied the charges. (
+Reuters
+)
+Comment
+:
+Leaving the Ott specifics aside, insiders will tell you there’s little surprising here: Vienna has long been Europe’s espionage capital, not just as home to key HQs like OPEC and the IAEA, but also due to Austria’s decades of relative acquiescence to foreign intelligence activity on its soil (so long as it’s not directed at Austria).
+Extra Intrigue
+To close the loop on some earlier Intrigue, remember…
+🇷🇺
+The
+Putin-Xi summit
+? The Russian president ended up returning home
+without
+his much-needed deal on the planned
+Power of Siberia 2
+gas pipeline.
+🇳🇱
+The
+hantavirus cruise
+? The ship has now arrived at its final destination in Rotterdam, with the total number of infections stabilising at 11.
+🇵🇭
+And that
+Philippine senator wanted by police
+? He’s now officially a fugitive, after a top court dismissed his bid to block the arrest warrant.
+Auction of the day
+The stairs in question. Credits: Artcurial auction house.
+Next time Barry from accounts or Jenny from HR pings you for an impromptu fun-fact to break the team’s ice at your next company offsite, try this:
+While many think the Eiffel Tower is in Paris, the truth is bits and pieces of the original are now scattered all across the world, from New York to Japan. And a new piece of the Parisian landmark has now just sold at auction!
+A French collector has dropped a cool $523k for the above 3m (~9ft) section of the Tower’s original 1889 spiral staircase. No, there are not now random stair-gaps in the Tower as a result. Rather, authorities removed the original stairs for 1983 renovation works to instead install an elevator, meaning the originals are now a coveted collector piece.
+Friday Quiz
+Yesterday (Thursday) was International Tea Day!
+1) Who is the world's biggest tea exporter?
+China
+Kenya
+Sri Lanka
+Login
+or
+Subscribe
+to participate
+2) The six traditional types of tea (green, black, white etc) come from the same plant
+True
+False
+Login
+or
+Subscribe
+to participate
+3) Tea leaves are used in the national dish of which country?
+Thailand
+Myanmar
+Philippines
+Login
+or
+Subscribe
+to participate

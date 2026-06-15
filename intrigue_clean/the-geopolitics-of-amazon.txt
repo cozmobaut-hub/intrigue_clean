@@ -1,0 +1,247 @@
+URL: https://archives.internationalintrigue.io/p/the-geopolitics-of-amazon-1bef5ca32a5d7a30
+Title: 🌍 The geopolitics of Amazon
+
+Today’s briefing:
+— The geopolitics of Amazon
+— Work for the world’s happiest embassy
+— We bring good news!
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. Readers, I beg your indulgence — this old man needs to yell at a cloud for a minute.
+Yesterday, I was asked if I wanted to tip at the grocery store. A normal neighborhood grocery store where, like every other one, you do 95% of the work yourself. Then the smiling cashier flipped the screen around with a 15% tip pre-selected.
+Time froze as my mind flashed to a pitch deck I saw a few years ago from a point-of-sale tech startup raising capital. Their big play? Targeting “
+transactions where traditionally no tip is paid
+” — arguing they could unlock billions if they could guilt (my word, not theirs) customers into tipping.
+Back at the register, I gave a weak smile and hit “
+OK
+,” too afraid the line behind me would silently judge me if I hit zero (when of course I’d have been their hero).
+So, a question for you, Intriguer: What percentage of the U.S. economy do you think is just… waste?
+Yes, I mean tipping at the grocery store — but also subscriptions you forget to cancel, stuff you don’t need but can’t be bothered to return, and so on… Speaking of which, today’s main story is about
+Amazon Prime Day
+and its surprising geopolitical implications.
+PS
+- Don’t miss our chat tomorrow with Dr Casey Handmer, the physicist, engineer, and fellow Intriguer as seen in
+The Economist
+and beyond, now
+making fuel out of thin air
+. It’s online at
+noon ET tomorrow
+(Thursday).
+Join here!
+Gamble of the day
+$160M
+That’s how much cash is now on the line as netizens bet on whether the outfit worn by Ukraine’s president at last month’s NATO summit was technically a ‘suit’  (in breaking news, apparently it was
+not
+).
+Prime Time
+The weather’s getting unbearably hot, and we’re getting targeted with ads urging us to seize a limited 345% discount to nab that
+rubber chicken handbag
+and pack of
+bacon bandages
+you’ve always wanted. It can only mean one thing: Amazon Prime Day is here.
+For those unfamiliar, it’s like Black Friday for the world’s biggest e-commerce platform. But this year it’s running for
+four days
+and is expected to make Amazon $13B in the US.
+So where’s the Intrigue?
+All the war and rumours of war gazumped our tell-all piece on the Bezos-Sanchez nuptials last week, so we’re now playing catch up. And… whatever happens with one of America’s ‘Magnificent 7’ tech giants has instant global relevance.
+But why Amazon?
+It’s doing ~
+$650B
+in sales, making it bigger than Sweden, Singapore, or the UAE
+It operates and delivers in more than
+70 countries
+, making it bigger than the
+International
+Committee of the Red Cross, and
+It’s enriched founder
+Jeff Bezos
+so much, he not only had (say) the Queen of Jordan at his wedding, but also got to develop some of the world’s most ripped biceps, offering hope for bespectacled and malnourished nerds everywhere.
+So yeah, we’ve got
+our reasons
+. But let’s quickly cannonball into three of them:
+The canary in the e-coal mine
+We keep getting mixed data around
+what’s happening in the US economy
+: the S&P500 has now recovered from its
+Liberation Day
+crashes, hitting record new highs. And while consumer sentiment dropped in May, it duly bounced back in June. But other
+data
+sources suggest most US
+consumers
+still say tariffs are shaping their shopping habits.
+And it’s not just consumers: some
+US businesses
+relying on manufacturing in (say) China and Vietnam are scaling back their Prime Day discounts as tariffs eat their margins, whether on tote bags, ice trays, or skateboards. So the world will be watching Amazon’s Prime Day data for a feel of what’s really going on.
+4D supply chains
+Amazon has never been shy about its global ambitions: with an internal motto of “
+make history
+”, it’s long hustled to embed itself into global supply chains. And sure, that goes to
+its whole schtick
+: promising third-party sellers (60% of its sales) access to a global market, while promising customers the absolute best darn Nicholas Cage pillowcases money can buy. It’s a network effect you get via scale.
+But you get that scale via some
+big investments
+: for example, Amazon gets you that sweet sweet same-day delivery on lobster flip-flops thanks in part to its own internal cargo airline operating 95 jets, making it bigger than JetBlue. Ditto, as governments pull up their drawbridges, Amazon is building more local warehouses to minimise its tariffs.
+And that’s all made the US giant both
+less
+exposed to global shocks (redundancy), but somehow also kinda
+more
+exposed
+(the e-canary above), with any downturn quickly entering its vast global e-commerce arteries, offering a critical heads-up to everyone else. Which leads us to…
+Local pushback
+It’s not all rainbow tortilla blankets and butterfly pet costumes for Amazon: just about anywhere this giant treads, it
+faces claims
+it’s undercutting local retailers, not paying enough tax, or only able to keep prices on its keyboard waffle irons so low because factory and warehouse workers are getting screwed along the way.
+So its sheer ubiquity and profile means other boardrooms are (or should be) watching how governments around the world grapple with Amazon, as that tends to be a reliable straw in the wind for how our world is going about balancing everything else.
+Intrigue’s Take
+We often say tech is a globalising force in a deglobalising world, and it’s hard to think of a better example than Amazon, which
+rode the globalisation wave
+better and more lucratively than just about anyone else. The question now will be whether it can also adapt and stay ahead better than everyone else, and its strategy seems to include aggressive localisation so countries and communities feel they get a stake in the company’s success.
+But while we’ve thoroughly amused ourselves focusing above on Amazon’s same-day yodeling pickles and angry mama microwave cleaners, there are some
+way bigger trends now playing out
+, as Amazon keeps pushing into data centres, entertainment, self-driving cars, satellite internet, AI, and beyond.
+Aside from the specific global significance of each new tech and cultural domain it enters, there’s the unifying significance of how the
+expanding tech and cultural footprint
+of a single corporate entity shapes our world ahead. If you’ve read the work by sci-fi guru William Gibson, you’ll have seen
+his
+vision for where this ends up: he paints a future where (for example) Gucci ends up selling high-end military gear, Adidas sells surveillance kit, Sun Microsystems makes virtual celebrities, Boeing makes private space stations, IBM gets into construction, and Kodak controls influential new forms of art.
+It’s fiction, of course, and we don’t seek to pick on Amazon or question its historic innovations over the years. Rather, it offers a hint at how these continued sectoral expansions might
+blur any lines
+between commerce, culture, tech, and even politics, shaping our world in ways that leave even elected governments looking a little quaint.
+Sound even smarter
+:
+Initial
+reports suggest Prime Day sales might be ~14% down on last year.
+A regulatory filing shows Jeff Bezos just sold Amazon shares worth $665M, as part of a plan he announced earlier this year.
+Today’s newsletter is sponsored by
+The Hustle
+The Hustle is on a mission to deliver the best business-tech daily by focusing on what actually matters: growth, trends, and innovation. Unlike other news sources that bog you down with negativity, The Hustle keeps things fun and engaging while delivering the insights you need to stay ahead. Join over 2 million readers who start their morning with a quick 5-minute read that cuts through the noise and highlights the stories that impact your business and career.
+Sign up free today
+and discover why so many professionals trust The Hustle.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+Tariffs ahoy.
+President Trump has flagged a possible 200% tariff on pharmaceuticals, and a 50% tariff on copper. The copper levy could kick in this month, while drug manufacturers might get an 18-month grace period to relocate factories to the US. (
+USA Today
+)
+Comment:
+These two sectors have been exempt so far, pending investigations by the Commerce Department that are almost finalised. But this news will still spook dozens of nations, whether it’s America’s top copper supplier (Chile) or its top pharma suppliers like Ireland, Switzerland, Germany, Singapore, and India.
+🇮🇹
+ITALY
+-
+Stop right there.
+At DC’s request, Italian authorities have arrested a Chinese national accused of hacking US vaccine research for China’s intelligence back in 2020. (
+DoJ
+)
+Comment:
+Governments at the time were scrambling to get any Covid edge given the stakes. Anyway, this could get awkward for Rome, which will face US pressure to extradite, while China will push for his release. Meanwhile, you can bet Italy’s embassy in Beijing will be wondering if China might pull another Meng Wanzhou (ie, arrest some random Italian in China as leverage), though Meng was way more senior.
+🇹🇯
+TAJIKISTAN
+-
+Hook us up.
+Tajikistan is apparently looking to get in on the new 500km (310mi) China-Kyrgyzstan-Uzbekistan (CKU) railway, which began construction in December. (
+The Times of Central Asia
+)
+Comment:
+Besides the obvious logistical and trade benefits, Tajikistan will be keen to deepen ties with China as a counterweight to Russia’s traditional local influence.
+🇸🇪
+SWEDEN
+-
+Not so fast.
+Local outlets are reporting that Swedish bodyguards protecting the PM and other VIPs have been sharing their running routines via a popular fitness app, in turn exposing the leader’s whereabouts and private residence. (
+Sweden Herald
+)
+🇨🇴
+COLOMBIA
+-
+Bad growth.
+A confidential internal security report seen by Reuters suggests Colombia’s illegal armed groups have expanded their membership and territorial control since President Petro took power in 2022 on a platform pledging
+total peace
+. (
+Reuters
+)
+🇺🇸
+UNITED STATES
+-
+Crank caller.
+The US State Department is warning counterparts to check the authenticity of any messages from Secretary Marco Rubio, after it emerged someone has used AI to impersonate him in outreach to at least three foreign ministers. (
+NBC
+)
+🌍
+WEST AFRICA
+-
+Pack your bags!
+The leaders of Liberia, Senegal, Gabon, Mauritania, and Guinea-Bissau are in DC for a three-day meeting hosted by President Trump, to discuss what the White House has described as
+"commercial opportunities"
+. (
+Africa News
+)
+Comment:
+The US probably hopes to counter the regional influence of China and Russia, as well as the growing presence of jihadi groups in the Sahel.
+Extra Intrigue
+The Intrigue jobs board
+💼
+International Justice Program Intern
+@
+Human Rights Watch
+in NYC, DC or Brussels
+Human Rights Analyst
+@
+UN Women
+in Geneva
+Public Diplomacy Specialist
+@
+Embassy of Finland
+in Canberra
+Director of Policy and Programs
+@
+EqualAI
+in DC
+Travel hack of the day
+Notice something? Amusing image courtesy of the TSA
+If, like us, you’ve spent the past two decades just
+yearning
+for the chance to rock right through airport security in the above all-denim outfit with weirdly built-in boots, well dear Intriguer, we bring
+👠
+👖
+✨
+GOOD NEWS
+✨
+👖
+👠
+!
+Traditionally if you arrived at the terminal in that outfit, the friendly security personnel might’ve said “
+ma’am, please remove your shoes
+”, and then you might’ve responded “
+I can’t, my shoes are also my pants
+”. Hilarity would’ve then ensued.
+But as of yesterday (Tuesday), America’s Transportation Security Administration (TSA) has ditched the ‘no shoes’ requirement at airport security! So ma’am? Strut right on through.
+Today’s poll
+How do you feel about Amazon's impact on the world?
+📦 It's great!
+😳 Eh, but at what cost
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think softball interviews are still useful?
+🎤
+Yep, it's important to hear what world leaders have to say (27%)
+📣
+Nope, they're just political megaphones (71%)
+✍️ Other (write in!)  (2%)
+Your two cents:
+📣
+B.A:
+“Another avenue for political leaders to spew propaganda? No thanks.”
+🎤
+D.B:
+“Understanding how leaders talk about themselves is important, even if what they are saying is misleading or outright wrong”
+✍️
+D.R:
+“With well-known despots like Putin, all interviews are softball interviews already, and a Tucker Carlson interview won’t matter much. With more isolated and less understood leaders like Pezeshkian, people can actually learn something about how Iran sees itself.”
+✍️ R.C.O:
+“No, when they're just megaphones with incurious questioners. Yes, when accompanied by thoughtful analysis of the back story and what was not said.”

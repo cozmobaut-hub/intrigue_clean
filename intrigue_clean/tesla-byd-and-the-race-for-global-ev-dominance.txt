@@ -1,0 +1,279 @@
+URL: https://archives.internationalintrigue.io/p/tesla-byd-race-global-ev-dominance
+Title: 🌍 Tesla, BYD and the race for global EV dominance
+
+IN TODAY’S EDITION
+1️⃣ Tesla, BYD, and the race for EV dominance
+2️⃣ A rare North Korean delegation to Iran
+3️⃣ Photo of the day
+Hi {{ First name | Intriguer }}.
+One of my favourite
+Simpsons
+quotes is also one of the oldest. It’s from 1989, when actor and environmentalist Ed Begley Jr. tells Lisa: “
+I prefer a vehicle that doesn't hurt Mother Earth. It's a go cart, powered by my own sense of self-satisfaction.
+” He then
+zooms
+off at pace.
+In Tesla’s early days, folks joked about the ‘No Ed Begley Rule’: for EVs to really catch on, they’d need to shed their serious Ed Begley vibes. And that seems to have worked - the world’s top-selling car is now the Tesla Model Y.
+But
+Tesla’s latest earnings update
+contains some insights both into today’s broader struggle for EV dominance, and the West’s troubled ties with China.
+THE HEADLINES
+US secretly shipped long-range missiles to Ukraine.
+It turns out Washington
+already sent Ukraine long-range missile systems
+weeks ago without much fanfare, National Security Advisor Jake Sullivan confirmed yesterday (Wednesday). The missiles, which have a range of 300 km (185 mi), have already been used twice on the battlefield, though Kyiv has pledged not to use them to strike targets on Russian soil.
+Spanish PM considers stepping down.
+Prime Minister Pedro Sánchez has said he’s pausing his public duties and
+is considering resigning
+. His announcement comes shortly after a judge opened a preliminary investigation into whether his wife used her political connections to further her business interests. In a letter, Sánchez blamed “
+the right and far-right’s mudslinging
+”.
+Russia vetoes UN vote on space arms race.
+Russia has vetoed a UN Security Council (UNSC) resolution calling on states to
+prevent an arms race in space
+. China abstained. The text, put forward by the US and Japan, reaffirms the 1967 Outer Space Treaty, to which Russia says it is “
+firmly committed
+”. It could all have something to do with reports about Moscow developing a new anti-satellite weapon, or it could just be more UNSC posturing.
+Police arrest pro-Palestinian protesters on US college campuses.
+Police have
+arrested dozens of protesters
+(and one photojournalist) as pro-Palestinian demonstrations continue across US campuses. Student protesters say they won’t leave until universities meet their demands, including divesting from companies connected to Israel’s military campaign in Gaza. Critics say the protests have veered into antisemitism.
+World’s biggest mining company looks to buy competitor.
+Australian-listed mining giant BHP has submitted a
+$39B bid for Anglo American
+in a deal that would concentrate nearly 10% of the world’s copper output in a single company. Anglo, which owns mines in Chile, South Africa, Brazil, Australia, and beyond, says it’s reviewing the unsolicited proposal.
+TOP STORY
+Tesla, BYD and the race for global EV dominance
+BYD’s hexagonal HQ in Shenzhen is home to 100,000 workers.
+Not many companies can issue a
+recall
+on their latest product,
+lay off
+10% of their workforce,
+report
+a 9% drop in revenue, and still somehow ride a 13% bump in share price. But that's what US EV-maker Tesla has just done.
+It's been a rough year for Tesla
+. Its share price dropped
+42%
+between January and Tuesday’s market close, making it the worst performer in the S&P 500.
+So there was a lot of interest in Tuesday evening’s quarterly Tesla earnings update, which delivered even more grim news: profits halved, and deliveries dropped for the first time in four years, despite price cuts to stimulate demand.
+So then,
+why did Tesla's stock still rally?
+Investing is partly about seeking a slice of the future, and CEO Elon Musk made a few comments during Tesla’s investor call that restored hope (for some):
+After Reuters
+reported
+(and Musk
+denied
+) Tesla had canned plans for a cheaper new model at $25k, Musk said the company is now fast-tracking plans for a "
+more affordable
+" car, though the specs are TBC.
+He also reiterated his vision for Tesla as an AI, automation and energy player, while teasing details about his '
+Cybercab
+' plans that’d allow Tesla owners to earn income with their unused EVs through automated ride hailing (regulatory and tech hurdles permitting).
+So where's the intrigue?
+First, Tesla's update opened with some interesting references to
+world events
+, including the Red Sea conflict and arson on its facility in Germany.
+But second, the
+competition
+. There’s plenty now, but China is the biggest by far: its home-grown BYD briefly overtook Tesla as the world’s largest EV-seller late last year, and China alone now accounts for half the world's EV sales.
+But the US, the EU, and others are arguing it
+hasn't always been a fair fight
+. This claim has long been tough to quantify, though Germany’s Kiel Institute just dropped an interesting
+report
+, finding China’s
+state support
+for companies is ("
+conservatively
+") three to nine-times larger than in places like the EU and US.
+And that word “
+conservatively
+” is doing some heavy lifting, because it hints at the difficulty of measuring state support in a nation where it can just come via a call to a bank telling it to issue cheap loans; a visit to a utility telling it to lower energy prices; or a text to a government agency telling it to buy local cars only.
+The other claim -
+IP theft
+- has also been tricky to gauge, though evidence is emerging. German media just
+uncovered
+(
+🇩🇪
+) a years-long, China-based, EV-focused hack on Volkswagen. And Tesla itself has lodged IP
+suits
+, while an
+FBI sting
+just detained the co-founder of a China-based supplier on similar claims.
+So, both the US and
+the EU
+have moved to protect their own auto sectors, with
+calls
+to go even harder. And this has prompted China (notwithstanding its own generous state support) to file a
+WTO complaint
+.
+That’s an awful lot of intrigue for cars.
+INTRIGUE’S TAKE
+The same year (1995) that Elon Musk founded his first company in Silicon Valley, another entrepreneur 11,000km away in Shenzhen set off on his own journey with BYD, making batteries for Motorola. His name was
+Wang Chuanfu
+.
+Both Musk and Wang were ambitious, but it's hard to imagine either thought they'd end up three decades later helming automakers on opposing sides of a
+geopolitical schism
+, fuelled by (and fuelling) national anxieties around manufacturing, the energy transition, advanced tech, subsidies, and tariffs.
+But 'opposing sides' doesn't capture the
+complexity at play
+. Tesla's second-largest market is China. Its largest plant is in China. Its investors include billionaires in China like He Xiaopeng. Meanwhile, BYD's largest external shareholders are US-based (Berkshire Hathaway and Blackrock). It supplied America's largest-ever order for electric buses. It even sells batteries to Tesla.
+These are examples of how it’s not only hard to ‘de-risk’ between two massive, integrated economies, but it’s also hard to know
+who’s ‘winning’
+at any one time. But either way, both Wang and Musk are bullish on what's next.
+And on that note - one way to see Musk’s update this week is as an implicit acknowledgement that beating BYD on price won’t be easy. That means competing on product instead, particularly the higher-margin tech. But Wang clearly has a similar idea - he
+announced
+a $14B bet on tech R&D in January.
+Also worth noting:
+Demand for EVs has cooled globally, as early-adopters get their fix, high interest rates curb spending, and a lagging recovery in China hits consumer confidence. Meanwhile, shares in Japan’s Toyota, which hasn’t prioritised EVs, are up ~33% this year.
+BYD introduced its Blade battery in 2020, using cheaper materials like iron and phosphate to cut costs without cutting too much range. It recently signed a
+deal
+to build the world’s largest battery storage project in Chile.
+A MESSAGE FROM THE DAILY UPSIDE
+Smart, actionable business news trusted by 1M+ subscriber
+If you love getting International Intrigue (we'll assume you do), you must value crisp insights and actionable intel without the BS. The Daily Upside is another great newsletter for globally-minded readers.
+Built with business professionals in mind, The Daily Upside is packed with sharp analysis on finance, economics and markets.
+Join 1 million readers and sign up for free today.
+MEANWHILE, ELSEWHERE…
+🇰🇵
+North Korea
+: A rare North Korean delegation
+has visited Iran
+this week, signalling greater cooperation between two states believed to have secret military ties. External Economic Relations Minister Yun Jong Ho, who also led a delegation to Russia this month, is heading the visit.
+🇪🇺
+EU
+: As part of a subsidies probe, authorities have
+raided the Dutch and Polish offices of a China-based company
+that makes security equipment such as baggage scanners. The China Chamber of Commerce in the EU has accused Brussels of “
+weaponiz[ing] the Foreign Subsidies Regulation as a tool to suppress
+” Chinese companies.
+🇮🇳
+India
+: 30 foreign correspondents in India have written an
+open letter
+objecting to India “
+pushing out
+” an Australian journalist by delaying her visa. Avani Dias says Indian authorities had told her that
+her reporting on India’s Sikh separatist movement
+had “
+crossed a line
+”.
+🇨🇴
+Colombia
+: The government is rolling out
+incentives to reduce electricity
+consumption amid a severe drought that’s hit the country’s hydroelectricity. Colombians rely on dams to provide 70% of their electricity, but this year’s dry season has pushed up fossil fuel imports.
+🇸🇦
+Saudi Arabia
+: US Secretary of State Antony Blinken is planning to travel to Saudi Arabia as part of a
+wider Middle East tour
+after returning from his trip to China. Blinken is expected to meet with Saudi leader Mohammed bin Salman and participate in a World Economic Forum meeting before continuing to Egypt and Israel.
+EXTRA INTRIGUE
+Here’s what some countries around the world are marking today, 25 April
+🇦🇺
+Australia
+and
+🇳🇿
+New Zealand
+both observe
+ANZAC Day
+to commemorate Aussies and Kiwis who’ve fallen in combat.
+🇮🇹
+Italians
+mark
+Liberation Day
+to celebrate the victory of the Italian resistance movement over Nazi and Fascist forces during WWII.
+And the 🌎
+international
+community celebrates
+World Malaria Day
+to recognise efforts to combat one of the world’s most deadly diseases.
+PHOTO OF THE DAY
+📷 Kristoffer Tripplaar
+Thank you to our DC Intriguers who joined last night’s packed-out
+Intrigue IRL
+💡
+event in DC! We hope you enjoyed meeting and hearing from spy-turned-author Jack Beaumont as much as we did. A couple of our top takeaways:
+Spycraft is similar to a game of soccer - it can be slow for a while, until it all happens
+Yes, even spies love DC’s spy museum, and
+Jack has sold the rights to his best-selling novel,
+The Frenchman
+, with
+True Detective
+creator Nic Pizzolatto now developing a potential TV series. We can’t wait to see who plays him on screen.
+We'd love to hear from
+you
+!
+If you have future event ideas or are interested in sponsoring one, reach out to Taylor (Head of Events) at
+events@internationalintrigue.io
+DAILY POLL
+What would convince you to buy an electric vehicle?
+💸 Lower prices
+🔌 More charging stations
+🛣️ Longer battery range
+🏎️ Cooler models
+🙅‍♂️ Absolutely nothing
+🚙 I already have one!
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+If you had to move abroad, where would you go?
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🇨🇦
+Canada (24%)
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+🇫🇷
+France (17%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇰🇪
+Kenya (1%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇧🇷
+Brazil (3%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇦🇪
+UAE (3%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇯🇵
+Japan (9%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇲🇾
+Malaysia (2%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇲🇺
+Mauritius  (2%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🇺🇸
+USA (6%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+✍️ Other (write in!)  (32%)
+Your two cents:
+✍️
+J.R.G:
+“Somewhere tropical with solid internet so I could work from my personal cabana.”
+🇨🇦
+P.N.M:
+“Canada, for family reasons. Otherwise, for lifestyle and cultural considerations, vive la France!”
+Honourable mentions:
+UK,
+Portugal, Australia, Greece, New Zealand, Costa Rica, Mexico, Switzerland, Taiwan, Spain, and many more!
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 85k+ leaders each day.
+It’s free to subscribe
+.

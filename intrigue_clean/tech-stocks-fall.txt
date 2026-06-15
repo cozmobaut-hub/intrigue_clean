@@ -1,0 +1,300 @@
+URL: https://archives.internationalintrigue.io/p/tech-stocks-fall
+Title: 🌍 Tech stocks fall
+
+IN TODAY’S EDITION
+1️⃣ Why tech stocks have plunged
+2️⃣ On this day in history
+3️⃣ Overheard at Meridian
+Hi {{ First name | Intriguer }}.
+During my last few months at Google, there was a company-wide push to throw a tonne of resources at this shiny new thing: artificial general intelligence. Chat GPT had just blown up, there was talk of killer robots, and AI was coming for everyone’s jobs.
+Of course, Google wasn’t alone in its big bet on AI. It joined countless other big tech firms in an ‘AI race’ of sorts to ensure that it wouldn’t fall behind on the tech driving this so-called ‘next Industrial Revolution’.
+But 18 months on, the AI hype seems to be plateauing. Is the market just maturing, or is there something else driving this? We dive into that in our top story today.
+P.S.
+If you’re joining us from our recent acquisition Lykeion, welcome! More information and a note from Tim can be found
+here
+.
+P.P.S.
+- We’ll be on a team retreat from late next week, so our final briefing will hit your inbox on Tues July 30th. But we’ll be back from Wed August 7th!
+THE HEADLINES
+Kamala Harris meets Netanyahu.
+The presumptive Democratic nominee
+met the Israeli prime minister
+a day after missing his address to Congress. Harris insisted “
+it is time for this war to end
+” and that she wouldn’t be silent about the “
+scale of human suffering in Gaza
+”. Harris also reiterated her "
+unwavering commitment
+" to Israel and its right to defend itself. Netanyahu meets Donald Trump today (Friday). Meanwhile,
+Barack and Michelle Obama
+have just
+announced
+they’re endorsing Harris.
+Coordinated attacks hobble French trains at Olympics.
+Authorities say a
+series of “
+malicious
+” attacks
+, including arson, have targeted France’s high-speed train lines on the opening day of the Olympics (today). Multiple services have been cancelled or diverted. Over 300,000 spectators are set to attend tonight’s opening ceremony along the Seine.
+Drug kingpins arrested in the US.
+Two top leaders of Mexico’s Sinaloa Cartel, Ismael Zambada Garcia (aka El Mayo) plus a son of the infamous (and jailed) El Chapo, have been
+arrested in Texas
+after “
+landing in a private plane
+”. Cartel leaders with $15M bounties on their heads don’t typically just fly into US territory, let alone into US custody, so keep an eye out for what will inevitably be a veeeery intriguing backstory here.
+North Korea hacking campaign targets US military secrets.
+In a joint communique, the US, UK and South Korea have accused North Korea of launching a
+cyber espionage campaign
+targeting NASA, US air force bases, and defence firms. They believe the hackers are looking to steal military secrets to help Pyongyang support its nuclear programme.
+Venezuelans prepare for Sunday vote.
+Millions of eligible voters will
+head to the polls on Sunday
+to vote in the country’s presidential election. The race comes down to incumbent strongman Nicolás Maduro and pro-democracy opposition candidate Edmundo Gonzalez Urrutia, though Maduro has a record of tipping the scales in his favour.
+TOP STORY
+Why did tech stocks just plunge?
+It’s been a rough week for big tech and chip-maker stocks:
+US markets wiped a trillion in value from tech stocks on Wednesday
+The ‘Magnificent 7’ alone (Microsoft, Amazon, Alphabet, Tesla, Meta, Nvidia, and Apple) had their worst day since 2012, and
+Tech stocks in Europe and Asia followed suit the very next day.
+What’s going on?
+Markets are sending a few different signals:
+The ‘VIX’
+volatility
+index (imperfect as it is) is still relatively low, but
+Two big
+earnings
+reports (Alphabet and Tesla) missed expectations
+AI-scepticism
+is rising, whether via the Goldman gurus
+doubting
+its progress, or the
+claims
+OpenAI could run out of cash in a year, and
+Strong US
+growth
+and
+rate cut hopes
+are nudging investors to
+pivot
+out of big tech and into smaller, more domestically-focused stocks.
+But this week’s wipe-out looks broader than indices, earnings, nerds, or pivots.
+At risk of sounding like ‘that friend’ who always wants to talk about
+House of the Dragon
+… yes, there are geopolitical drivers at play. And it’s not just us saying this. BoA’s fund survey now lists “
+geopolitical conflict
+" as the top tail risk.
+And this week, in this sector?
+It’s all about China and chips.
+Here’s why.
+Broadly speaking, the
+global semiconductor sector
+rests on the tripod of
+US design
+,
+Dutch lithography
+, and
+Taiwanese manufacturing
+. And at first glance, all three legs look steady, right? According to their latest earnings, profit is way up at
+Nvidia
+🇺🇸
+,
+ASML
+🇳🇱
+, and
+TSMC
+🇹🇼
+.
+But here’s the thing - those three strong results have at least one big factor in common:
+China
+. It’s still the third-biggest market for Nvidia, the
+biggest
+market for both ASML and TSMC, and China sales for all three firms are still
+rising
+.
+And that’s despite the
+US mounting a years-long, full-court press
+to
+limit
+China’s chip access on fears around its possible military uses.
+So
+rumours
+have emerged that the US could resort to
+the nuclear option
+: a
+foreign direct product rule
+that’d allow the US to limit sales of
+foreign
+products if (like most of the global chip sector) they use even a teensy touch of US tech.
+And while the specifics would vary, the signal is clear:
+more US chip controls
+. Throw in some
+rumours
+that Beijing is curbing local Nvidia sales, plus
+comments
+from Donald Trump suggesting TSMC’s home (Taiwan) should pay more for US security support, and it’s enough to wobble all three legs:
+Nvidia is down 20%
+from its June peak, TSMC is down 14% from its July peak, and ASML dropped 14% in the week after the ‘nuclear option’ rumours emerged.
+And those three legs aren’t just propping up any ol’ sector. The global chip sector is critical in both a functional and financial sense:
+Functionally
+, because it has a multiplier effect on other industries like tech, defence, telco, banking, and beyond, but also
+Financially
+, because ASML is Europe’s second-most valued company, TSMC is Asia’s biggest, and Nvidia is the
+world
+’s third largest.
+So stepping back a little, you realise that there’s an awful lot of pension funds, sectors, strategies, and hopes all resting on a single tripod, which just took a wobble not just due to AI scepticism, but also US-China rivalry.
+INTRIGUE’S TAKE
+That’s a lot, but it’s also happening during history’s biggest-ever election year, with dissatisfied voters
+overshooting
+expectations in Mexico,
+undershooting
+them in India,
+inverting
+them in France,
+shooting
+them in the UK and South Africa, or just going full
+M. Night Shyamalan
+in the US with all the plot twists.
+And we’re not even talking about his newer stuff. We’re talking full-blown, 1990s,
+Bruce-Willis-is-a-ghost
+M. Night Shyamalan
+.
+And each of those elections alone opens up a whole new gyre of second-order questions around approaches to debt, tariffs, tech, energy, and war.
+So with all those conflicting signals,
+what’s an investor to do?
+Maybe, just maybe, the most-streamed TV series on the planet,
+Bluey
+, offers an answer.
+A
+recent episode
+opens with a fable called ‘
+The Farmer
+’, originating from China’s Huainanzi text of 139 BC. The farmer faces a series of life events that seem bad (losing a horse), then good (the horse returns with a mate), then bad (the mate injures his son), and so on. And to each trite suggestion that maybe a new event is good or bad news, the farmer simply replies “
+we’ll see
+”.
+How’s that relevant?
+Part of the message here is the need to step back and think longer-term. And when you do that, you hear less of the cyclical noise, and more of the structural roar: we’re entering a more competitive and contested world.
+Also worth noting:
+Five tech firms (Nvidia, Meta, Broadcom, Microsoft and Amazon) have been responsible for ~80% of the Nasdaq 100’s gains this year.
+While ASML and Nvidia have developed trailing edge products for China (to comply with US tech controls), the US is also concerned about ASML engineers still servicing higher-end equipment in China.
+LOVE INTERNATIONAL INTRIGUE? CHECK OUT ELECTION INTRIGUE.
+In our very own
+Election Intrigue
+this week, John and Kristen are diving into just how much Kamala Harris entering the presidential race matters (and the ways it doesn’t). They’ll be looking at her time both as VP and a senator to glean insights into how she views the world and what she would make of it as a president.
+Subscribe with one click.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: The People's Bank of China has
+unexpectedly cut rates
+for commercial banks, citing the need to maintain
+“reasonable and sufficient liquidity”.
+It’s the central bank’s second surprise rate cut in the span of a week, after months of lagging economic data.
+🇺🇦
+Ukraine
+: Foreign Minister Dmytro Kuleba has visited Hong Kong and
+called on its leader John Lee
+to prevent Russia from using the territory to circumvent Western sanctions. The US and others allege Hong Kong and China serve as key routes for Moscow to procure military inputs.
+🇯🇵
+Japan
+: German and French warplanes have taken part in combined exercises with Japan’s F35 fighter jets
+outside Sapporo Japan this week
+. Japan has been courting a stronger European defence presence lately, while rival China recently conducted exercises with Belarus on the edge of the EU.
+🇺🇸
+USA
+: The US economy
+outperformed expectations
+in the last quarter, growing at an annual pace of 2.8% as consumers and businesses kept spending. Combined with easing inflation, these latest figures raise the chances of the US economy achieving a rare
+‘soft landing’
+.
+🇸🇾
+Syria
+: President Bashar al-Assad has
+travelled to Moscow
+to meet Vladimir Putin, who’s reportedly been nudging the Syrian leader to normalise ties with Turkey. Putin has backed Assad during Syria's civil war, but likely wants to stabilise the situation and redirect Russian forces to his stalling invasion of Ukraine.
+EXTRA INTRIGUE
+Some weekend recommendations from Team Intrigue
+Read:
+Join our very own Kristen in reading
+Ambassador's Journal: A Personal Account of the Kennedy Years
+by
+John Kenneth Galbraith, the US ambassador to India during JFK’s tenure.
+Listen:
+Check out
+Normal Gossip
+, a podcast that shares anonymised dramatic tales to make your life seem boring by comparison.
+Watch:
+The
+Olympics opening ceremony
+! It starts at 7.30pm CET on Friday
+🥇
+(10.30am in
+LA
+, 1.30pm in
+NYC
+, 2.30pm in
+Rio
+, 6.30pm in
+London
+, and 8.30pm in
+Athens
+- or 3.30am Saturday in Sydney
+😖
+)
+TODAY IN HISTORY
+Credits: Ahram.
+On this day in 1956, Egyptian President Gamal Abdel Nasser seized the Suez Canal, which was previously under control of the French and British-controlled Suez Canal Company. Egypt’s move was triggered by the US and UK reneging on a promise to finance the construction of a key dam in Egypt (which in turn came after Nasser made several moves that appeared friendly to the communist bloc).
+In response to Nasser’s move to seize the canal, British, French, and Israeli forces cooperated to briefly occupy it before being ousted by US-led diplomatic pressure. The Suez Canal remains owned by the state of Egypt to this day.
+OVERHEARD AT MERIDIAN INTERNATIONAL CENTER
+Attending events around DC can lead to hearing some quite intriguing snippets. Last night, Meridian hosted a 2024 Olympics Reception at the Embassy of France, and here’s what we heard:
+"
+The Olympics have always been political
+, from ancient times to now. Thinking politics have no place in the Games misunderstands their history.
+" - Dr. Damion Thomas, Smithsonian National Museum of African American History and Culture
+“
+In today’s world of geopolitical tensions and conflict,
+the Olympics is an island that rises above all of the world’s divisions
+.
+” - The Honorable Stuart W. Holliday, CEO of Meridian
+“
+Paris has set a new standard for sustainability
+in the world, because the most sustainable building is one that is already built.
+” - Mark Erdly, Studio Director and Practice Area Leader of Cities and Urban Design, Gensler
+Learn more about
+sports diplomacy
+.
+FRIDAY QUIZ
+With July almost in the rearview, let’s test out your knowledge of the month.
+Which world leader was born in July?
+Julius Caesar
+Joseph Stalin
+King George III
+Genghis Khan
+Login
+or
+Subscribe
+to participate
+The world’s first bikini was unveiled in July in which city?
+Miami
+Rio de Janeiro
+Paris
+Phuket
+Login
+or
+Subscribe
+to participate
+What is the birthstone for July?
+Emerald
+Ruby
+Sapphire
+Gold
+Login
+or
+Subscribe
+to participate
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+✍️ Editor’s corner
+Thanks to eagle-eyed Vasja for pointing out a typo in a reference to the red shading in yesterday’s graph: as the graph itself shows, it’s the gap between average temperatures in
+2024 and 2023
+(not 2023 and 2016).

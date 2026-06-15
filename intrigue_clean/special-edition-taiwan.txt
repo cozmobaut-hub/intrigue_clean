@@ -1,0 +1,202 @@
+URL: https://archives.internationalintrigue.io/p/special-edition-india-s-elections-db355fe4a7f8edc1
+Title: 🕵️ Special edition: Taiwan
+
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.
+Hi {{ First name | Intriguer }}.
+I’m quite the conference-bandit, and have been to more than my fair share this past year. They’ve ranged from the peculiar (how we can use fungi to build our future), to the ironic (meeting at a ski resort to discuss ways to prevent climate change), to the scary (here’s looking at you, generative AI and war).
+But by far the most ‘popular’ subject for conferences and roundtables around Washington DC is on the question of Taiwan. Will there be war with China? How will it play out? And if there is war, can l still get my tablet device that’s reliant on Taiwanese semiconductor chips shipped to me in one piece?
+I’ve seen plenty of analysis and participated in many tabletop ‘war-gaming’ exercises around what 2025 might bring for the Taiwan issue. While I don’t think we’ll see war there just yet, there’s certainly no better time to brush up on your Taiwan-China background for if/when that time comes. Happy reading!
+As you gorge on leftover festive ham and eggnog while relaxing by the fire in a soft-knit turtleneck, we thought we’d slide into your DMs with something to really help you relax: a deep dive on whether there’ll be a war over Taiwan. So let’s jump in.
+At the risk of stating the obvious:
+The world is a much different place than it was in
+1997
+, when globalisation was on the rise, China was on the cusp of joining the World Trade Organization, and songs like
+Semi-Charmed Life
+by Third Eye Blind topped global charts.
+The 1990s
+was a period when the West, and especially the U.S, assumed that as globalisation worked its magic, Cold War holdouts like China would gradually give up their modes of government for U.S-style capitalism (this included the assumption that the Chinese Communist Party would give up its designs for Taiwan, and maybe also start listening to
+Third Eye Blind
+).
+As it turns out, that was a naïve sentiment.
+Our world is going multipolar.
+And China is on the rise, aiming to use its resurgent wealth and strength to achieve what President Xi Jinping refers to as his dream for “
+the great renewal of the Chinese nation
+”. Acquiring Taiwan is one of the most important aspects of Xi’s dream (see below for why).
+From Beijing’s perspective, one of the most powerful political figures in the US (
+Nancy Pelosi
+) trampled on that dream when she visited in 2022. The result? Not World War III, despite the breathless coverage from the media. China isn’t powerful enough to conquer Taiwan yet. But that’s not to dismiss the gravity of the situation.
+Though war is unlikely today,
+the odds of war go up with each ‘incident’
+, whether it’s something routine like Taiwan electing its own president, or something spicier like high-level contact between the self-ruling island and the US (its top backer).
+That’s because the tension that now passes for normal – with China conducting regular wargames around Taiwan — means there are
+more chances for mistakes to happen
+, whether an errant missile, or a trigger-happy pilot, or a mid-air collision. Wars often start because of mistakes. And these increasingly normalised ‘Taiwan Strait crises’ also mean more trade tension and potential shipping disruptions in and around the South China Sea, which is still where the vast majority of the world’s semiconductors are produced.
+❝
+China isn’t powerful enough to conquer Taiwan yet. But that’s not to dismiss the gravity of the situation.
+And make no mistake – China is building up its military capabilities in part so that a threat of force against what it sees as a renegade island will carry more weight in the future. But ultimately,
+China still wants Taiwan at the lowest cost possible
+(ie, no war), so it’s been steadily building its economic and political leverage over the island:
+Economically
+, China has built up its ties with Taiwan, from poaching top tech talent to absorbing large parts of Taiwan’s manufacturing base, to the point where today, over 80% of Taiwan’s ICT products are manufactured in China, and
+Politically
+, China has tried to increase its influence by icing out Taiwan’s hawks while embracing the doves, though this has arguably backfired: two thirds of folks in Taiwan now feel Taiwanese, not Chinese, and the more nationalist Democratic Progress Party (DPP) has had a strong political foothold since 2016.
+This
+tense and grey status quo
+arguably empowers the worst angels of our nature on both sides of the Pacific — both in China, where the US is seen as encroaching on legitimate and fundamental Chinese interests, and in the US, where China is seen as an authoritarian dragon that’s degrading democracy globally.
+So, how did we get here and where do we go from here?
+Let’s try to answer those questions, so that the next time you head back to the table to load up on holiday desserts, you can sound like the smartest member of the family.
+A brief history of China and Taiwan
+(
+Note – we’re about to cover a lot of history in not a lot of words, so forgive us if some of the important complexities in this complicated era are lost. Happy to discuss them at length over a few drinks at the next Intrigue event!
+)
+China would have you believe that Taiwan was once part of its territories, and that it’d always exerted political control over the island
+.
+But it’s more complicated than that.
+In fact, for most of China’s dynastic history, it had been
+a land-based power
+:
+The Great Wall of China
+wasn’t built to block invaders from the ocean — it was built to block hordes raiding over the steppes.
+The Silk Road
+was an over-land route that connected China to Rome — China happily took Roman silver for its silk. (If you’ve never read Peter Frankopan’s incredible
+Silk Roads
+, now is a great time to do so.)
+And with all due respect to the indigenous Taiwanese population, the island itself didn’t become globally significant economically until the early 1600s, when the Portuguese explored/conquered the island and named it
+Ilha Formosa
+.
+Taiwan’s a) population density, b) land cover, and c) average rainfall. Credits: Jr-Chuan Huang, Tsung-Yu Lee, Teng-Chiu Lin @ ResearchGate.
+Ilha Formosa (“
+Beautiful Isle
+”) arguably didn’t
+quite
+live up to its name as it was then mostly made up of uninhabitable mountain ranges and malarial plains. Even today, most people in Taiwan live in the western coastal region, facing mainland China.
+But it served Portuguese (and later Dutch) interests as
+a trading post and bridgehead into the Chinese market
+. Thus begins China’s identification of Taiwan not only as a relatively-spartan island it occasionally sent soldiers and exiles to, but as a place where a) foreign imperialists set up bases of operations to take advantage of the Chinese market and even to attack China’s interests, and b) renegade Chinese rebels would seek refuge from the centralised power of the mainland.
+When the Ming Dynasty fell to the Qing in 1644, some Ming loyalists resisted the new Manchu leaders of China. One of the strongest leaders of this resistance was named
+Koxinga
+(aka Zheng Chenggong), and after some success fighting the Manchus up and down China’s coast, he was defeated in a major battle at Nanjing in 1659 and fled to Ilha Formosa, where he besieged the Dutch defenders and eventually conquered the island.
+The Qing Emperor was determined to destroy Koxinga, and in 1683 sent an expeditionary force with
+three hundred warships
+to end his local reign and formally incorporate Taiwan into the Qing Empire. The Qing retained patchy control of the island for the next two centuries, and didn’t even get around to fully mapping it until shortly before it fell into the hands of Japan in 1895. Taiwan then remained under Japanese control until 1945.
+Meanwhile,
+the Qing Dynasty collapsed
+in 1911. What followed is now regarded as the ‘century of humiliation’ China then endured at the hands of foreign powers - including in the Opium Wars against the British, Russia’s seizure of what is today Vladivostok, and Japan’s seizure of Taiwan itself in 1895.
+What replaced the Qing Dynasty on the mainland was essentially an era of feuding warlords, with
+Chiang Kai-shek
+on top. Chiang didn’t prove to be a particularly competent leader, which allowed Japan, whose own imperial ambitions were rising, to seize Manchuria (northeast China) in 1931.
+And of course, one of the reasons China was ineffective at resisting Japan was because it devolved into
+outright civil war around 1927
+between Chiang’s Kuomintang (KMT)-led government (the Republic of China) and the Chinese Communist Party (CCP). It was only the Sino-Japanese war from 1937 that encouraged Chiang and his Communist counterpart — Mao Zedong — to put aside their differences and work together against the Japanese invaders.
+China fears encirclement.
+And here is where the US enters the picture.
+After Imperial Japan bombed
+Pearl Harbour
+in 1941, the US supported what was left of China’s armies — Communist and KMT alike — in their resistance against the Japanese invaders by supplying money, weapons, and even US airmen, the most famous of whom were the Flying Tigers. It was during this time that then-President Franklin Delano Roosevelt developed a very close relationship with Chiang.
+And after
+World War II ended
+, China’s civil war resumed where it left off, with the Communists facing off against Chiang’s KMT. At first, the US offered economic and military support to Chiang, but it soon became clear he wouldn’t prevail. Eventually, Chiang fled with what remained of his forces to Taiwan.
+In 1950,
+US President Harry Truman
+issued a statement that the US had no interest in ‘Formosa’ (choosing not to use the word ‘Taiwan’), and at that point the US believed Taiwan’s fall to China’s Communist Party was inevitable — Truman instead focused on securing the arc of islands stretching from the Aleutians to the Philippines.
+Enter
+the Korean War
+, which started in 1950.
+To this day,
+North Korea’s motives
+to invade the South are unclear, as are the roles Russia and China played in the North’s decision to cross the 38th parallel.
+North Korea would probably have defeated the South if the US hadn’t intervened.
+But the US did intervene
+(under a UN mandate), and eventually built up a force of over 300,000 troops.
+The US forces pushed the North Koreans all the way back to the Yalu River, which marked the border with China. Additionally, President Truman sent the US Seventh Fleet into the Taiwan Strait, much to the dismay of China (whose then-foreign minister Zhou Enlai deemed the deployment as an act of aggression). China felt sufficiently threatened to enter the war in support of North Korea and fought the United States in Korea until 1953, when the war ended in a stalemate almost exactly where it started (though
+three million casualties
+later) — North and South Korea remain divided along the same line to this day.
+From that moment on until
+President Richard Nixon
+opened relations with China in 1972, the US and China were effectively enemies, but Nixon felt the status quo was unsustainable. The US was reeling from the Vietnam War and would soon be dealing with an oil price crisis in 1973 – he knew US energy production had entered decline. The Soviet Union was the bigger threat, and Mao was peeved at the Soviets over ideological differences, so Nixon made a deal with China to normalise relations.
+The Shanghai Communique of 1972
+sealed the deal, and the US acknowledged “
+that all Chinese on either side of the Taiwan Strait maintain there is but one China and that Taiwan is a part of China.
+” But crucially, the US stopped short of explicitly endorsing Beijing’s claims over Taiwan.
+This rather grey arrangement eventually became the
+Taiwan Relations Act in 1979
+, signed by the Jimmy Carter White House and approved by the US Congress, in which the US formally recognised the People’s Republic of China.
+Since 1979, the US has tried to have its Wendy’s and eat it too: it doesn’t recognise Taiwan as a country, but it also doesn’t want China to unilaterally seize Taiwan by force. So to that end, it
+hasn’t
+formally vowed to defend Taiwan if China attacks, but it conspicuously
+hasn’t
+ruled out defending Taiwan, either. It’s called
+strategic ambiguity
+.
+And all the while, US political leaders — like Speakers Pelosi and Gingrich — keep visiting Taiwan to play up their foreign policy credentials, while the US continues to sell weapons for Taiwan to defend itself (as required by America’s Taiwan Relations Act above).
+So why does China care so much about Taiwan?
+There are entire books written about China’s evolving attitude to Taiwan (one of our favourites is
+Why Taiwan
+by Alan M. Wachman), but you could summarise it like this — China cares about Taiwan because of what it is, where it is, and what it does:
+What is it?
+Taiwan is a prosperous, stable, and democratic Chinese-speaking society. And that’s interesting, because one of the Chinese Communist Party’s claims is that this particular combo isn’t possible: rather, the Party’s deal with the Chinese people is that to get stability and economic prosperity, they first need to surrender their political rights.
+Where is it?
+To use the technical term, Taiwan is right up in China’s grill (only ~160km or 100mi off the mainland). And General MacArthur famously described Taiwan as being like an
+“unsinkable aircraft carrier”
+, which is not something you want in your grill (unless you control it).
+What does it do?
+Of all the places our world could’ve put a critical bottleneck for arguably mankind’s most critical technology (advanced semiconductors), we chose Taiwan, which now produces around 90% of the world’s most advanced chips, responsible for driving almost all areas of human advancement.
+So from this quick summary, hopefully you can see how one can reject China’s claims over Taiwan
+and
+intellectually
+understand why Beijing gets so upset by Taiwan’s continued self-rule or any hint of US support.
+Meanwhile,
+the US appears to have seller’s remorse
+for its decision to abandon Taiwan in 1979, after decades of profiting from China becoming the world’s factory. The US now sees value in Taiwan for the same reasons as China above (though in reverse): in today’s competition with China, the US also values what Taiwan is, where it is, and what it does. So with China’s influence over Taiwan growing and its military capability advancing rapidly, the US and its allies see this as a dangerous and intractable situation.
+❝
+China cares about Taiwan because of what it is, where it is, and what it does.
+So where do we go from here?
+We don’t expect any
+immediate
+change to the status quo. China will continue to hold military drills, and shipping in and around Taiwan may be disrupted intermittently (at high economic costs).
+But as with the last (pre-Pelosi) major Taiwan Strait Crisis in 1995-1996,
+China knows that pushing too hard or too aggressively
+against Taiwan is self-defeating. It only empowers those in Taiwan who want to be more assertive in defending Taiwan’s interests. Until China has the capability to conquer Taiwan (likely to be several years out), Beijing’s military moves will be designed to deter the US, Japan, Australia, and others from getting involved. Previous Chinese deterrence obviously didn’t work (see: Pelosi’s visit and subsequent record US arms transfers), so expect China to continue to raise the costs.
+Going forward, we see
+a few potential scenarios
+for how this will play out, ranked in order of likelihood.
+Hong Kong’s past is Taiwan’s future
+. As with Hong Kong (noting major historical differences), China’s goal will not be to conquer Taiwan by military force. Instead, it’ll continue to build political and economic leverage over Taiwan and work its influence within Taiwan’s democratic political system, while increasing its military strength so that when it makes a move, few parties will object (outside of some very strident tweets).
+Korean War 2.0.
+The Korean War arguably started because every actor in the conflict miscalculated the other’s goals: North Korea didn’t think the US would intervene; the US didn’t think China would join; China didn’t think the US would remain in the fight. The war restored the
+status quo ante
+but solved none of the underlying strategic issues and resulted in millions of deaths. The odds of this scenario — a stalemate bought at staggering cost — are rising.
+The People’s Empire of China
+. This would look like China invading Taiwan as part of a broader campaign of conquest in the region to secure its supply lines, given its reliance on energy and food imports (similar to Japan in 1941). Taiwan is necessary but not sufficient to achieve that aim. To fully remedy its insecurity and control bottlenecks, China would also need to project power all the way to the Strait of Malacca. The odds of this scenario are low, but can’t be dismissed.
+The ‘German reunification’ scenario
+. This is unlikely, but national identity is more malleable than you think. Folks had thought reunification impossible, but when the Berlin Wall fell, reunification happened quickly and led to a resurgent German economy. If China softened its approach towards Taiwan, or if Taiwan gets a serious ‘
+One Country, Two Systems
+’ guarantee, or if Xi was replaced by a more benevolent player,
+perhaps
+there’s a world in which a peaceful unification could occur. Possible, but unlikely.
+The ‘Ukraine’ scenario
+. Many had doubted that Russia would invade Ukraine because a military win was not guaranteed. In this case, just because we assess China
+can’t
+conquer Taiwan doesn’t mean Xi has (or is receiving) the same assessment. It also doesn’t mean he won’t try to anyway. This would upend decades of careful Chinese political strategy towards Taiwan. It’s increasingly possible, especially if Xi’s rule and the Chinese economy continues to wobble, but is unlikely for the short term.
+FROM OUR SPONSORS
+AI companies record all your conversations
+Claude and ChatGPT collect and share your thoughts with advertisers and government agencies (OpenAI appointed a former NSA director to their board this year). There’s a better way with
+Venice.ai
+, a private and uncensored AI platform.
+Ask Uncensored AI
+Intrigue’s take?
+The above isn’t a pretty picture and in every scenario, the ultimate loser is neither China nor the US. Rather,
+the ultimate loser in each scenario is Taiwan
+, which just wants the status quo of ‘strategic ambiguity’ and for Taiwanese semiconductor dominance to continue.
+Taiwan’s fate is also a warning for all small and middle powers in the world, especially those bordering great powers like China — together with what Russia is doing to Ukraine, it’s a snapshot of what our multipolar world might look like going forward.
+And as with so much else right now,
+a lot depends on Trump 2.0
+. Yet (as on so many other core issues), mixed messages abound: under Trump 1.0, he was tougher on China than any other president in recent history, and he shocked Xi by upending protocol and taking a congratulatory phone call from Taiwan’s leader. So you could think that’ll all translate to more strident US support for Taiwan under Trump 2.0. You could.
+But on the campaign trail, Trump has suggested Taiwan should pay more for US security, and has expressed resentment at Taiwan’s dominance in the chips sector — something he believes comes at US expense. As a result, his emphasis on solving problems by doing deals has left
+some in Taiwan worried their own future could get traded away
+.
+The 1990s had its problems but it dreamed of a world where geopolitical issues like this didn’t have to be zero sum. That’s why the music feels so nostalgic for those of us who came of age with
+Third Eye Blind
+on the radio — it’s also why our overriding feeling after the last few years is ultimately one of sadness, which despite all the festive ham and eggnog we just jammed, we simply cannot hide.

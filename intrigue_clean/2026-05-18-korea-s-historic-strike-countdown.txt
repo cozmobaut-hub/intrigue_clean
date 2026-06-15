@@ -1,0 +1,240 @@
+URL: https://archives.internationalintrigue.io/p/korea-s-historic-strike-countdown
+Title: 🌍 Korea’s historic strike countdown
+Date: 2026-05-18
+
+Today’s briefing:
+— Korea’s historic strike countdown
+— Why Dominicans are googling Victor
+— Meme of the day
+Good morning {{first_name | Intriguer}}
+. The haters said we couldn't build Intrigue on ad revenue alone. And the haters were right. Honestly great call by the haters.
+So we're excited to launch
+Intrigue Insiders
+!
+For the low low price of just
+$15
+$8 a month, you get…
+Intrigue poured directly into your ears via an exclusive
+podcast
+of each briefing
+Access to the Intrigue
+chat
+group (diplomats and gurus trading intel and memes)
+A tailored
+weekly recap
+plus horizon-scan for busy folks, and… more!
+You also get the
+sense of self-satisfaction
+, strong enough to charge a Tesla, that you're supporting Intrigue to keep taking you beyond the headlines and ahead of the curve.
+So
+sign up today
+— this half-price offer ends soon!
+Now, where were we? Ah yes,
+Korea’s countdown to one of the biggest strikes in history
+.
+Number of the day
+$18M
+That’s how much Asia’s richest man, India’s Gautam Adani, and his nephew Sagar will now pay to settle a US fraud case. The US justice department didn’t mention Gautam’s proposed $10B investment in the US as a rationale for dropping the matter.
+Strike three.
+There’s nothing as tense as watching your bowling ball laze down the slick wooden alley towards those ghastly white pins, while you sip that Dr Pepper hoping for a hit.
+But however high-stakes
+that
+strike is, there’s a bigger one looming over Korea’s Samsung.
+Here are the
+five key numbers you need to know
+, starting with…
+750%
+That’s the profit growth (yoy) Samsung Electronics just reported for Q1, pushing quarterly earnings to ~$38B. To put that into perspective, it’s more than Samsung’s profits for the
+entire
+2025 year
+, and might explain why Samsung stocks are up 350% since last May.
+What’s going on?
+Everyone knows the AI boom is driving insatiable demand for Nvidia’s AI chips to train and run today’s models, but you also need memory chips to feed Nvidia chips data at blistering speeds — that’s where Korea’s Samsung and Hynix dominate. Demand is so high, average prices have soared 90% in just the last three months.
+But was it Gandhi who famously said
+mo’ money, mo’ problems
+?
+18
+That’s how many strike days Samsung’s main union is now threatening from this Thursday, unless the tech giant reaches a deal to better share the above AI windfall:
+The union wants
+15% of operating profits set aside for uncapped bonuses, but…
+Samsung argues
+those terms are too costly in the long run, instead offering 10% plus a one-time windfall package.
+Talks are still ongoing (barely), and a South Korean court has clipped the union’s wings (ensuring certain personnel have to keep working), but this isn’t about one company…
+36.3%
+That’s roughly now the semiconductor share of all South Korean exports, though it’s even sharper when you realise we’re really just talking about
+two firms
+: Samsung and SK Hynix.
+So it’s a reminder Korea’s economic miracle is also its single point of failure, meaning a strike at one firm suddenly seems less your average labour dispute, and more a
+risk to your entire economy
+, already eyeing the Hormuz energy squeeze.
+That’s why there’s now talk of Korea dusting off its legislative bazooka…
+2005
+That’s the last time South Korea triggered its
+emergency arbitration mechanism
+, a last resort it’s
+only used four times
+since 1963. But the prime minister is now openly warning he’ll dust it off again if final talks fail before Thursday.
+It basically allows the government to
+pause all strike action
+for 30 days and force the two sides into more talks. If those fail, a forced arbitration then imposes a final ruling.
+Of course, getting involved could also cost the government:
+This is a union-friendly administration that’ll be seen as betraying its base, and
+That risks broader protests, legal challenges, and electoral pain ahead
+But this story even goes beyond South Korea…
+~30%
+Need we say it, but Samsung is a big deal: that 30% is the firm’s share of
+global
+memory chip sales, as one of only three major suppliers (with Korea’s Hynix and America’s Micron).
+So it won’t take long for an 18-day strike to ripple into our smartphones, laptops, autos and the broader AI rollout— because maybe this isn’t just Korea’s problem anymore.
+Intrigue’s Take
+[
+This section will soon be for Intrigue Insiders only, so
+sign up
+to ensure you can keep getting our unvarnished takes!
+]
+The current standoff is giving an “
+all sides hurting
+” vibe:
+Samsung
+stands to lose ~$700M a day in output if this strike proceeds
+The
+government
+stands to lose public support plus economic growth, and
+The
+workers
+could end up with a court-deal that’s worse than any current offer.
+So when you’ve got that kind of mutual pain, it tends to mean a compromise will emerge.
+If that’s the case, it’s really two other, deeper stories that resonate for us here:
+First
+, there’s the
+classic capital vs labour
+tension, but it’s now supercharged by AI, with a narrative that writes itself: AI stands to make a few obscenely rich while those actually keeping the machines running are told to settle.
+Second
+, there’s the
+limits around friendshoring
+to fix your supply chain risks: sure you can run, but you can never really hide from politics, unions, or the fact that even democratic allies have their wobbles too.
+So right now, it all feels like AI is exposing the same old fault lines, just at hyperspeed. And so maybe the rest of us should see this Korea story as a glimpse into our own future.
+From our sponsors
+Your Dog Deserves This. Now 60% Off
+Spot & Tango's UnKibble
+is the only human-grade dog food with fresh-food benefits that doesn't need the fridge. USDA-grade meats, real veggies, and 99% nutrient retention. 350k+ dog parents switched, 87% saw results. Get 60% off your first order with code
+DESERVES60
+. Risk-free guaranteed.
+Claim 60% Off
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — Pause.
+President Trump has announced a "
+two to three day
+" pause on further strikes, claiming Gulf allies convinced him to delay pre-scheduled action in hopes of peace. But the NYT is
+reporting
+it might’ve been due to a Pentagon warning that Iran is getting better at challenging US air assets. Meanwhile, the US Treasury has again quietly extended a sanctions waiver allowing purchases of stranded Russian oil. (
+Gulf News
+)
+Comment:
+Those two announcements (military pause + waiver extension) are linked: market jitters mean it’s tough to perpetuate one status quo (Hormuz blockade) without also quietly extending another (Russian waivers). And absent regime collapse in Tehran (fading further over the horizon), it’s hard to see a way out of that vice.
+🇺🇸
+UNITED STATES — AI eats its own.
+In a big 24 hours of tech news, a federal jury has rejected Elon Musk’s $150B lawsuit against his one-time business partner Sam Altman at OpenAI, finding Musk waited too long to sue. And across the Bay, Meta is preparing to eliminate 8,000 employees (10% of its workforce) tomorrow, amid record Q1 profits of $27B. (
+NPR
+)
+Comment:
+The Musk ruling clears the last major legal cloud hanging over OpenAI, greenlighting rumoured plans for a historic $1T IPO later this year. As for the Meta news, the fact Zuck is firing so many workers amid record profits relates to his historic AI infrastructure spend: he’s arguably swapping humans for chips.
+🇨🇺
+CUBA — Ninety miles from war?
+President Díaz-Canel has warned that any US military action will trigger an "
+incalculable bloodbath
+", amid leaked US intel claiming Havana has 300 Russian and Iranian attack drones. The threat capped off 24 hours of escalation, including the rumoured US indictment of Raúl Castro over a 1996 plane shoot-down, and the US blacklisting of Cuba’s entire intelligence apparatus (foreshadowing heavy secondary sanctions). (
+Independent
+)
+Comment:
+We’ve seen in Hormuz and elsewhere that even 300 drones are enough to force a superpower to think twice rather than lose a destroyer. That’s the whole point of asymmetrical warfare.
+🇸🇬
+SINGAPORE — Strait jacket.
+The IMF has officially downgraded Singapore's 2026 economic growth forecast to 3.5%, warning that the city-state's highly exposed economy is taking a direct hit from the Middle East energy shock. (
+IMF
+)
+Comment
+: Singapore imports virtually all its energy, sits at a major shipping crossroads, exports key AI components, and models itself as the ultimate hub — so it’s a legit canary in the coal mine for global trade. This 3.5% is solid, but the downward direction is a dash-light for the continued Hormuz drag.
+🇬🇷
+GREECE — A new iron corridor?
+The inaugural, closed-door
+Europe Gulf Forum
+wrapped in Greece yesterday (Monday), featuring names like Italy’s Meloni, Qatar’s Al Thani, Finland’s Stubb, and both the IMF and ECB chiefs. (
+Atlantic Council
+)
+Comment
+: One of the summit’s goals was to match Gulf capital with planned land-and-cable corridors into Europe. These ideas used to be prestige plays for Gulf states, but they now look more like mandatory hedging.
+🇺🇸
+UNITED STATES — Mosque attack.
+Two young men have opened fire at San Diego’s biggest mosque, leaving at least five dead (including the attackers) in what’s being investigated as a hate crime. (
+CNN
+)
+🇵🇭
+PHILIPPINES — We’re involved.
+President Marcos Jr. has made a splash with remarks that his country would likely be involved in a conflict over Taiwan, given both its sheer proximity and the 200,000 Philippine nationals living on the democratic island. (
+Straits Times
+)
+Comment
+:
+This statement is obvious (how do you avoid a war next-door) and familiar (~identical to his August 2025 remarks). But it’s the forum (Japanese media) and timing (just before his historic Japan visit) that’s the key — he’s really signalling alignment as he seeks deeper defence cooperation with Tokyo to counter China. But mindful of Beijing fuming like it did over PM Takaichi’s similar comments last year, Marcos has also reaffirmed the One-China Policy and his preference for peace.
+Extra Intrigue
+Here’s what folks are googling around the world…
+🇫🇷
+Techies in
+France
+are searching for ‘
+LiveRamp
+’ after Paris-based advertising titan Publicis dropped a cool
+$2.2B cash for the US data specialists
+, in a major push towards agentic advertising.
+🇩🇴
+Proud
+Dominicans
+looked up ‘
+Victor Atallah
+’ after their health minister became
+the nation’s first president
+of the World Health Assembly in Geneva.
+🇮🇳
+And citizens in
+India
+want updates on ‘
+Umar Khalid
+’ after their country’s top
+court slammed its own previous ruling
+that kept the prominent activist jailed without trial for over five years.
+Meme of the day
+They say international relations is a high-stakes chess game played by master strategists.
+It’s also a mix of hyper-ambitious climbers, elusive cultural hoarders, folks who’ve typed 'deeply concerned' so often it’s lost all meaning, and true-believers still reading the footnotes.
+Let us know who else we’ve missed! Perhaps the idealist? The warden? The diplo-brat? The political appointee? It’s a cast of characters out there, and we love it.
+Today’s poll
+Do you think worker strikes will help balance out the AI revolution?
+🤝 Yes, it'll force companies into compromise
+💸 No, it'll speed up the move away from humans
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think is the most-likely explanation for Honduras-gate?
+😮
+It's true! (23%)
+🤼
+Some kind of left/right plot (17%)
+🇨🇳
+🇷🇺
+Foreign plot to curb US influence (28%)
+💩
+Pure BS (29%)
+✍️ Other (write us!) (2%)
+Your two cents:
+✍️
+H.L:
+“The best answer would be ‘
+all of the above
+’. All good misinformation campaigns have elements of hard truths in every bite.”
+😮
+F.M:
+“Sometimes, a cigar is a cigar.”

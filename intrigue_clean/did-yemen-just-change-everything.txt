@@ -1,0 +1,251 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-b37acaaa0d51b196
+Title: 🌍 Did Yemen just change everything?
+
+Today’s briefing:
+— Did Yemen just change everything?
+— Why copper just hit new highs
+— A puzzle for the flag-lovers
+Good morning {{first_name | Intriguer}}
+. Every now and then, you encounter content on your socials that really takes your breath away (and no, I’m not talking about the endless Millennial nostalgia stuff that I get fed).
+Recently, friends of mine travelled to Socotra, an island off the coast of Yemen. Their photos depicted otherworldly scenes with bottle tree forests set against dramatic backdrops of white sand dunes and crystal-clear lagoons.
+I didn’t realise how stunning Yemen was, as I often only saw the country through a geopolitical lens. Anyway, our top story today happens to be on
+Yemen
+and its latest geopolitical developments.
+Intrigue Insight: Trump’s China reversal?
+In a shock
+tweet
+, President Trump has announced he’ll now allow Nvidia to sell its cutting-edge H200 AI chips to China after all, in return for a 25% cut payable to Uncle Sam. These chips are ~ten times faster than the throttled H
+20
+chips Trump re-authorised in July.
+Intrigue’s initial take
+:
+This administration has wavered between two rival philosophies:
+One view (pushed by Nvidia and the White House’s David Sacks) argues it’s better to sell top AI chips to China, get it hooked on the US tech stack, undermine China’s self-sufficiency push, and thereby help the US win the tech race.
+But the other view (pushed by everyone else) warns that selling China top US chips is like
+a
+) selling Nikes and Gatorade to your running rival, or
+b
+) letting China into the WTO (the 2001 move that turbo-charged China’s rise), or even
+c
+) Lenin’s quip about capitalists selling the rope that ultimately hangs them.
+And funnily enough, Trump’s own justice department just boosted that
+second
+view,
+arresting
+two of China’s H200 smugglers for “
+funneling cutting-edge AI technology to those who would use it against American interests.
+” Turns out the US will now sell it instead.
+Anyway, poorly-timed DOJ announcements aside, Trump is clearly now siding with that
+first
+view above, hence the 3% bump in Nvidia shares. And while he still nods to the national security risks (Nvidia’s newer Blackwell and Rubin chips won’t be included), we might’ve just witnessed a massive, US-backed expansion in China’s own AI compute.
+The bit we’re left figuring out is what (if anything) the US might get in return.
+Two-state solution…
+Hang around your family long enough this holidays and you’ll start to hear about the
+good old days when unverified folks trudged 12 miles to school. So this is your chance to one-up them with a nuanced 1980s reflection on when Yemen used to be two countries:
+The kingdom of
+North Yemen
+emerged out of the Ottoman Empire in 1918, then
+South
+Yemen
+emerged out of the British Empire as a Marxist state in 1967.
+The two later unified as
+today’s Republic of Yemen
+in 1990 before civil wars broke out in 1994 and 2014 — even the UN’s 2022 ceasefire couldn’t stop Yemen effectively splitting back into a Houthi north (including the capital), and a grab-bag of factions in the south.
+But there’s been a
+massive development over the last week
+: one of those southern factions, sexily named the Southern Transitional Council (STC), just swept across all eight governorates of what used to be South Yemen!
+And here’s why that matters:
+The view from Aden (the south’s de facto capital)
+The STC leader (
+Zubaidi
+) now stands unchallenged from the Arabian Sea to the Omani border, controlling 80% of Yemen’s oil reserves — the engine for any functioning state.
+Now, lest you think it’s all honey and bint al-sahn, he also inherits an economy in freefall, plus locals still angry after (say) his violent crackdown on women protesting unpaid salaries.
+But what does Zubaidi want?
+He’s already hoisting South Yemen’s old blue-and-red flag, so a declaration of independence seems inevitable though a referendum might come first.
+Interestingly, he also just
+told Emirati outlets
+he’d sign any independent South Yemen onto Trump’s Abraham Accords to recognise Israel — a nudge for Trump’s early backing.
+But why speak first to
+Emirati
+media…?
+The view from Abu Dhabi
+This is a
+yuuuuuge win
+for the Emiratis:
+First
+, while the STC has genuine roots (Zubaidi used to be Aden’s governor), the STC is basically
+an Emirati creation
+. We’re talking UAE funding, training, arms, and even salaries.
+Second
+, this means the UAE now not only has de-facto influence over a
+vast, resource-rich region
+(conveniently days after pledging $1B to help Yemen’s oil sector), but also…
+Third
+, the UAE now gets influence over Yemen’s half of one of the
+world’s most strategic chokepoints
+: the Bab El-Mandeb Strait. Before the Houthis started attacking random ships, this narrow stretch carried 10-15% of global seaborne trade!
+But for every ‘winner’, there’s…
+The view from Riyadh
+Guess who effectively created south Yemen’s
+losing
+faction? That’s right, the Saudis were long hosting the leader-in-exile, paying his salary, and even guarding his Aden palace!
+Why?
+Both the Saudis and Emiratis wanted to counter the Iran-backed Houthis up north, but these two regional rivals backed different factions, and eventually pursued different strategies: the young Saudi crown prince ultimately opted for a political settlement with the Houthis to stabilise the borders, while he pursued his big domestic transformation.
+But with Saudi forces retreating, the crown prince’s grand strategy now looks in disarray.
+So Intriguers, we might be witnessing a Yemen rushing back to the 80s.
+Intrigue’s Take
+To call Yemen a failed state almost misses the point: Yemen was, if anything, always more of a state in construction, and now it’s devolving back to
+two
+states in construction.
+But for the rest of us it’s still worth asking…
+does any of this
+really
+matter?
+Sure.
+First
+, Yemen’s state-owned
+oil
+producer has now halted production, fuelling energy market jitters (even if Yemen’s output is pretty modest).
+Second
+,
+Iran
+has always seen Yemen’s Houthis as its cheapest proxy: a few hundred million a year to pin down your Saudi and Emirati rivals, pressure your Israeli foes, and draw
+The Great Satan
+into costly Red Sea patrols. So while this UAE consolidation might pose more of a threat to the Houthis
+longer
+term, these anti-Houthi forces are still busy.
+Then
+third
+, it all hints at our multipolar world’s
+reversion to proxy wars
+: the Emiratis are learning in Yemen what it’s like when a proxy strategy works, while learning the opposite over in Sudan where UAE-backed RSF paramilitaries
+keep committing atrocities
+.
+Then
+finally
+, it’s another reminder how brittle our world order is, with Yemen now joining (say) Syria, Myanmar, the Sahel, and beyond as a stark reminder of just how quickly a seemingly stable stalemate can collapse.
+Sound even smarter:
+The Emiratis already helped yoink the key Yemeni island of Socotra back in 2020 from Saudi-backed factions.
+Meanwhile, elsewhere…
+🇰🇭
+CAMBODIA
+-
+Fighting resumes.
+The recent Trump-brokered peace deal between Thailand and Cambodia now seems to have collapsed, with the two rivals now trading strikes and accusations along their disputed border. Thailand has evacuated 450,000 people from its border, with both sides reporting casualties. (
+France24
+)
+🇦🇺
+AUSTRALIA
+-
+Not so fast.
+Just hours before Australia’s world-first social media ban for under-16s enters force, word is emerging US platform Reddit will challenge the law in Australia’s top court, adding to a separate case lodged earlier by two 15-year-olds. (
+AFR
+$
+)
+Comment:
+We
+explored
+the geopolitics of this big story yesterday.
+🇬🇧
+UNITED KINGDOM
+-
+Another draft.
+Ukraine’s Zelensky has emerged from last-minute London talks with his British, French, and German counterparts, flagging he’ll now share a revised peace plan with the US, while reiterating his refusal to cede land to Putin. Meanwhile, the latest US defence bill before Congress vows to boost support for Ukraine. (
+Al Jazeera
+)
+🇨🇳
+CHINA
+-
+New record.
+China’s trade surplus has surpassed $1T for the first time, and in just 11 months, highlighting its export resilience despite the US trade war. Meanwhile, the Communist Party’s decision-making Politburo has struck a relatively dovish tone, hinting at further easing in 2026. (
+France24
+)
+Comment
+: We’ve often explored the ways China’s export wave is gobbling foreign industry, and the pro-trade folks at the Financial Times recently
+put it
+rather starkly like this: “
+It is now increasingly hard to see how Europe, in particular, can avoid large-scale protection if it is to retain any industry at all.“
+🇮🇩
+INDONESIA
+-
+Rebuild.
+Officials have estimated Indonesia’s Sumatra island alone will need $4B in recovery and reconstruction funds following recent devastating floods and landslides that’ve left 950 dead and another 250 still missing. (
+Strait Times
+)
+Comment
+: We explored the geopolitics of natural disasters
+here
+.
+🇲🇽
+MEXICO
+-
+You can stay.
+Mexico has reportedly shrugged off US calls to boot Russian spies posing as diplomats, according to the New York Times. (
+NYT
+$)
+Comment
+: Russia’s embassy in Mexico City is massive, and it’s not to negotiate tequila tariffs: the various SVR and GRU handlers based there fly US-based sources down for debriefing under the cover of a sweet, sweet Cancun holiday. Ditto the suspiciously big Russian embassies in places like Nicaragua.
+🇮🇶
+IRAQ
+-
+That’s awkward.
+Iraq has apologised after adding the Iran-backed Houthis and Hezbollah to an asset-freeze list, explaining it was only looking to target ISIS and al Qaeda. (
+Reuters
+)
+Comment
+: The US has long worked to curb Iran’s influence in Iraq, but this news suggests there’s still a ways to go.
+Extra Intrigue
+Intrigue’s commodities corner is back
+Copper
+:
+The price of copper
+broke a fresh record
+on Monday, amid a possible supply squeeze and partial optimism around China’s 2026 growth.
+Crypto
+: Almost half of America’s Gen Z-ers say they’d be
+happy to get cryptocurrency
+this Christmas, nearly double the broader US average.
+Coffee
+: Prices for the bean that makes your morning cuppa possible are expected to ease in 2026 thanks to a
+supply recovery in Brazil
+.
+Puzzle of the day
+Credits: Michael Vahrenwald for Bloomberg Markets.
+They say a picture is worth a thousand words, but the photo above contains just one.
+By photographer Frederick Charles, ‘
+A Banner Day
+’ is one of 80 artworks containing a hidden puzzle hanging in the offices of NYC hedge fund PDT Partners. Bloomberg recently did
+a feature
+on them, but the above piece really caught our eye given its Intrigue vibes.
+Can you figure out the five-letter word from the picture?
+Hint
+: You might want to brush up on your flag knowledge!
+(Solution at the bottom)
+Today’s poll
+What do you think will happen with Yemen?
+🤝 A two-state solution
+🔫 Continued conflict
+💩 Direct UAE-Saudi spat
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think about Australia's age limits for social media?
+👍 Good stuff - we've got to protect the kids (69%)
+😠
+It's a mess - unworkable and counter-productive (28%)
+✍️ Other (write in!) (3%)
+Your two cents:
+👍
+P.G:
+“I like that it's a vanguard to more regional sovereign control over social media. I like the specificity of it and I think this is a smart first step toward reining in Big Tech's pernicious global impunity.”
+😠
+E.K.M:
+“Children deserve a safer internet with spaces dedicated to them, not a complete community shut-out that they are incentivized to circumvent.”
+✍️
+B.T:
+“I’d rather see mandatory education on critical thinking and enormous financial penalties for platforms that allow scammers and disinformation to prey on people.”
+Puzzle solution:
+The colours worn by the photo’s subjects each represent a different national flag. From left to right: Germany, Rwanda, Algeria, Thailand, Estonia. Together, they spell the word ‘grate’.

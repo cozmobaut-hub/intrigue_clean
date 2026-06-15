@@ -1,0 +1,262 @@
+URL: https://archives.internationalintrigue.io/p/new-post-2e1d
+Title: 🌍 Move aside, inflation — the IMF is worried about tariffs
+
+IN TODAY’S EDITION
+1️⃣ The top 4 themes in the IMF’s latest update
+2️⃣ The Intrigue jobs board
+3️⃣ Embassy of the day
+Hi {{ First name | Intriguer }}.
+Imagine being so good at something, people don’t even believe you’re real. That’s what happened to Jack Handey. He’s been writing surrealistic one-liner jokes that are so good, and for so many decades, that many folks have long assumed he’s not even a real person, but rather the pen name for a broader collective of comedians. But nope —
+he’s real
+, he’s 75, and he’s hilarious.
+Some of my all time favourite ‘
+Deep Thoughts with Jack Handey
+’ include:
+“
+The face of a child can say it all, especially the mouth part of the face
+”
+“
+It takes a big man to cry, but it takes a bigger man to laugh at that man
+”, and
+“
+The crows seemed to be calling his name, thought Caw.
+”
+Today’s briefing features a bunch of one-liners. They’re not funny. Or at least, not intentionally? But they are written by real people, who are smart, and who have some Deep Thoughts
+TM
+about where our world economy is headed. They’re from
+the IMF
+. So let’s just hear them out, okay?
+P.S. -
+Will you be in DC tomorrow (Thursday) night?
+Don’t miss your last chance to
+join us
+at our next exciting in-person event — '
+Securing Tomorrow: The Future of Cyber Threats and Global Defense
+'.
+THE HEADLINES
+Blinken meets Netanyahu.
+The US Secretary of State has reportedly
+told Israeli leader Benjamin Netanyahu that “
+much more needs to be done
+”
+to boost aid to northern Gaza. He also reportedly pressed Israel to distance itself from the so-called “
+generals’ plan”,
+which has been described as forcibly displacing civilians out of Gaza’s north, then imposing a ‘surrender-or-starve’ tactic on all who remain. Israeli officials reportedly told Blinken the tactic was “
+absolutely not
+” their policy.
+Trump files legal complaint against UK Labour party.
+He’s accused Keir Starmer’s ruling party of “
+illegal foreign campaign contributions and interference
+” in favour of Kamala Harris. The complaint, lodged overnight with the US Federal Election Commission, focuses on a number of Labour strategists and staffers who’ve travelled to the US to help the Harris campaign. In response, Starmer has stated that these individuals were volunteers, not acting in an official capacity, and that it’s been a long-running practice.
+PS
+- don’t miss the next edition of
+Election Intrigue
+, our weekly briefing on what this election means for the world (and vice versa).
+UK chip designer escalates legal row with Qualcomm.
+The UK’s Arm Holdings has
+severed an agreement
+that allows US-based Qualcomm to use Arm’s IP to make chips, according to Bloomberg. While this spat has been running for a couple of years now, Arm’s latest move (which takes effect in 60 days) could impact the smartphone market, as Qualcomm produces chips used in most Android phones.
+Turkey halts some exports to Russia after US warning.
+Turkey has quietly halted the export of US-origin
+military-linked goods to Russia
+after  Washington issued a warning. According to FT, the goods in question include chips, processors, and control systems with military uses.
+TOP STORY
+Move aside, inflation — the IMF is worried about tariffs
+The International Monetary Fund (IMF) — the DC-based 191-nation body that pumps out data, writes cheques, and wrangles governments to work together on economic issues — just dropped its latest six-monthly
+World Economic Outlook
+. And it coincides with the Fund’s fall meetings in DC, drawing ministers, central bankers, and gurus from all corners.
+Now, it’s a hefty 174-paged tome, and you’ve got a lot going on (those episodes of
+Love is Blind
+aren’t going to binge themselves), so here are some of the top themes brewing:
+Recession avoided, inflation tamed
+Let’s start with the good news, shall we? According to the IMF, the global economy has proven surprisingly adaptable, outmanoeuvring Covid-19, supply chain shocks, and interest rate hikes that nearly tipped us into the abyss.
+And we’re not just dialling up the drama here. Remember 2022? Bloomberg’s economists were
+forecasting
+a 100% chance of a US recession, and IMF head Kristalina Georgieva was warning that a
+third of the world would enter a recession in 2023
+.
+By this year, however, the IMF had
+changed its tune
+, warning instead that growth just looked
+“tepid”
+. Then fast forward to this week, and the IMF’s head of research Pierre-Olivier Gourinchas is now cheerily telling reporters that recession worries have nearly evaporated, while the world should hit the common 2% inflation target in 2025.
+Now of course, it’s not all beer and lollipops: some central banks are still worried about inflation (eg in
+Turkey
+), and inflation in services (like communications and health) is still almost double pre-pandemic levels.
+But still, Monsieur Gourinchas says
+“the battle against inflation is almost done”
+. Ask him about global growth, however, and the smile fades ever-so-slightly, because…
+Growth remains stable but meh
+The global growth situation is a real Whitman’s Sampler right now:
+In
+the world’s largest economy (
+the US
+🇺🇸
+), growth is still humming along at 2.8%, up from the 2.6% forecast in July and faster than any other G7 member
+In the world’s second-largest economy (
+China
+🇨🇳
+),
+growth continues to cool from 5.2% last year to 4.8% this year — that’s still solid by world standards, but below the Communist Party’s 5% target
+In
+the eurozone
+🇪🇺
+,
+economies are now limping along with 0.8% growth, though  that’s somehow still much faster than last year
+And over in
+India
+🇮🇳
+? They’re still retaining the title as the world’s fastest growing major economy right now, with a cool 7% growth .
+So while the IMF describes the collective picture as “
+underwhelming
+”, there’s a decent argument you could maybe bump that assessment up to “
+whelming
+”.
+Protectionism is up
+But just as you’re declaring victory over inflation, and patting yourself on the back for some solid whelming, the IMF has another warning in store: tariffs. Specifically, the Fund is warning that if tariffs hit a “
+sizeable swath
+” of global trade, growth could quickly evaporate.
+The big question is really between the US and China, the world’s top two trading nations, which together make up almost half the global economy. And ~300 hours out from election day in the US, both candidates clearly see a critical role for tariffs:
+Harris
+is vowing to continue “
+targeted
+” tariffs on China, while
+Trump
+is calling for much higher tariffs on China, plus a 10-20% tax on all other US imports.
+Now, the IMF warns that “
+an intensification of protectionist policies would exacerbate trade tensions, reduce market efficiency, and further disrupt supply chains.
+” But (as we explore below) it doesn’t say much about the problem both candidates say they’re trying to address: what they describe as China’s unfair trading practices.
+Either way, as wars persist and China and the US teeter towards a trade war, Gourinchas is not only forecasting slower global growth next year, but he’s warning that economies retreating inward could ultimately leave us more vulnerable to…
+“A world dominated by supply shocks, from climate, health and geopolitical tensions”
+While we’re all used to tracking economic developments by referring to prices in a basket of goods or assets in a portfolio, we’re now having to track, say, changes in the climate, Putin’s next move, mind-bending developments in tech, and pirates attacking ships.
+Gourinchas notes this all makes the job of economic policy-making harder. We’d add it also makes the role of international institutions like the IMF more critical.
+INTRIGUE’S TAKE
+Zooming out a little beyond all the data and one-liners, what’s really going on with our global economy right now? Carnegie’s Michael Pettis gave
+an interesting answer
+earlier this year — it’s a lot to condense here, but he’s basically arguing our vast global trade imbalances (particularly between China and the US) are distorting what should be the benefits of free trade for everyone.
+So what’s the solution? Many of the available options for a rebalance simply aren’t politically or economically sustainable. So against that backdrop, Pettis argues that economies like the US either need to a) fix the global trading system, or b) essentially opt out, ideally with as many friends as possible. After years of struggling with option a), the US is now arguably shifting more towards option b).
+This latest IMF report warns of the consequences of that shift, but it doesn’t have too much to say about what’s driving it, beyond noting that China’s measures to date still aren’t enough.
+Also worth noting:
+BRICS leaders happen to be meeting in Russia this very same week. Interestingly, two of the group’s newest members,
+Egypt
+and
+Ethiopia
+, still turned to the IMF for loans this year, rather than the beleaguered BRICS Bank.
+Separately, the IMF just
+warned
+that world government debt is about to break past the $100T mark.
+A MESSAGE FROM INCOGNI
+Keep Your SSN Off The Dark Web
+Every day, data brokers profit from your sensitive info—phone number, DOB, SSN—selling it to the highest bidder. And who’s buying it? Best case: companies target you with ads. Worst case: scammers and identity thieves.
+It's time you check out Incogni. It scrubs your personal data from the web, confronting the world’s data brokers on your behalf. And unlike other services, Incogni helps remove your sensitive information from all broker types, including those tricky People Search Sites.
+Help protect yourself from identity theft, spam calls, and health insurers raising your rates with
+Incogni
+.
+Get 50% Off.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+: India and China have agreed on a series of unspecified
+patrol arrangements to de-escalate tensions
+along their vast disputed border. Relations between Beijing and New Delhi have been tense since a hand-to-hand border skirmish in 2020 left dozens of soldiers dead.
+🇮🇪
+Ireland
+: The Irish government has just deposited
+$4.4B into one of its two new sovereign wealth funds
+, as part of its goal of reaching $108B by 2035. To hit that goal, it’s committing to deposit 0.8% of GDP into the fund each year, “
+to help us meet the challenges we know our country will face
+”.
+🇸🇬
+Singapore
+: The UK has quietly conferred
+refugee status
+on the youngest son of modern Singapore’s revered founder, accepting that he’d be persecuted if he returned to the city-state. Lee Hsien Yang, whose older brother was Singapore’s long-time PM until May, has characterised Singapore as “
+repressive
+” despite its shiny international reputation.
+🇻🇪
+Venezuela
+: Alex Saab, a Colombian businessman previously jailed in the US on money laundering charges, is set to become
+Venezuela’s new industry minister
+. Saab was freed last year as part of a prisoner exchange between Washington and Caracas.
+🇿🇦
+South Africa
+: Taiwan has turned down a request from the South African government to
+move Taiwan’s representative office
+from the administrative capital of Pretoria to the commercial hub of Johannesburg. South Africa’s demand was widely seen as a concession to China, which claims Taiwan as its own.
+EXTRA INTRIGUE
+We’ve rounded up some jobs we thought you might like
+Senior Software Engineer @
+Bloomberg
+in New York
+Marketing Assistant @
+B Lab
+in London
+Finance Manager @
+Boston Consulting Group
+in New Delhi
+Head of Operations @
+Norway Refugee Council
+in Port Sudan
+EMBASSY OF THE DAY
+Photo credits: João Morgado.
+Is there a building material with a more love-hate ride through history than exposed concrete? That humble mixture of cement and sand gets associated with soulless government precincts one decade, then some experimental artist called Yves is showing off his concrete loft in Chelsea between ayahuasca ceremonies the next.
+So, and don’t tell Yves, but he’s now competing with
+Egypt’s embassy in Portugal
+when it comes to hip new concrete structures. The mission above, designed by Portuguese studio Promontorio Architects, features a solid concrete exterior decorated with Egypt-inspired bas-relief patterns, plus huge glass windows.
+The modern vibes extend inside too, with a central atrium lit by a large perforated skylight above, while still maintaining a layout that meets the embassy’s security needs.
+DAILY POLL
+What do you think is the biggest challenge to the world economy?'
+🚢 Looming trade wars
+⚡ Geopolitical tensions
+⚖️ Inequality
+💸 Unsustainable debt
+🌊 Climate change
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How do you think the world should respond to North Korean troops entering the Russo-Ukraine war?
+🟨
+🟨
+⬜️⬜️⬜️⬜️
+💸
+Impose more sanctions (18%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🚀
+Send more military aid to Kyiv  (52%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🪖
+Send troops to Ukraine (10%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ⛔ Do nothing, it's not our business (16%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (4%)
+Your two cents:
+🚀
+B.W
+: “Despite massive losses, Putin is still betting on a war of attrition vs a much smaller country. Allowing the Ukranians to punch above their weight class is the best chance to end the war in an acceptable peace agreement.”
+💸
+D.J.S
+:
+“Send more
+unrestricted
+military aid AND impose more
+real
+sanctions on Russia and North Korea.”
+⛔
+J.C
+:
+“This is a matter for Europe & Ukraine to ultimately deal with until a resolution is in place. By providing more resources the ‘world’ only keeps the conflict going indefinitely.”
+✍️
+D.H
+: “Help Ukraine develop a campaign to encourage North Korean defections similar to the one they currently use to help Russians defect.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

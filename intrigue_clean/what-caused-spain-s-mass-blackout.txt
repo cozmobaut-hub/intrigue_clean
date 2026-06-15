@@ -1,0 +1,261 @@
+URL: https://archives.internationalintrigue.io/p/what-caused-spain-s-mass-blackout-35f33c2b6fd357a6
+Title: 🌍 What caused Spain's mass blackout?
+
+Today’s briefing:
+— What caused Spain’s mass blackout?
+— Why China is stocking up on oil
+— What to do with your spare $400k
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. I had a film school stint between postings, and fondly recall a professor who dunked on “
+the ticking cliché
+” that screenwriters sometimes use to infuse a bit of urgency into their third acts. Get to the chopper!
+But I’m feeling some actual clocks ticking right now, whether it’s President Trump’s 90-day tariff pause (unless he extends); or the risk of tariff-induced empty shelves hitting the US from May (factoring in Shanghai sail times); or, say, the likelihood Putin will run out of armoured vehicles later this year (he’s been losing 6,000 a year in Ukraine).
+All that ticking can (rightly) dominate our attention, but today’s briefing looks at some subtler timeframes — think critical infrastructure, the energy transition, and beyond, all in the mix from yesterday’s
+mass blackout across Spain and Portugal
+. Onwards.
+PS
+— Intrigue co-founder Helen and I are in
+Sydney
+🇦🇺
+to speak at Blackbird’s Sunrise 2025, so come join us for a drink
+this Thursday from 5.30pm
+—
+register here
+!
+Quick update:
+Canada’s elections
+Carney wins on slim margin
+The ruling Liberal Party has won Monday’s election with about
+43%
+of the vote
+That means
+Mark Carney
+(a former central and investment banker) continues as PM on a platform to revive Canada’s economy and stand up to President Trump
+It’s a
+historic comeback
+given the Liberals were headed for wipe-out weeks ago
+Still, it looks like he’s fallen
+just short of a majority
+, so he’ll need a coalition deal
+He’s used his victory speech to urge
+unity
+, and pledge less reliance on the US
+Another vulnerability in Europe
+You thought
+your
+Monday was tough? Spare a thought for the 50-70 million across Portugal and Spain who, at noon, crashed face-first into a mass blackout — phones down, traffic lights out, passengers stuck on trains, kids stranded on rollercoasters, toilet paper panic-buying (always the TP), and government pleas to stay home. For up to 24 hours!
+So, er, what happened?
+Prime Minister Sánchez urged folks not to speculate, but
+the blame game
+kicked in more quickly than the power:
+Sánchez himself quickly threw shade at
+the European grid system
+Others feared sabotage given Russia’s hybrid war on Ukraine’s backers, and
+Still others blamed an over-reliance on renewable energy.
+But Portugal’s grid operator has now
+ruled out a cyberattack
+, instead pointing the finger at a “
+rare atmospheric phenomenon
+” of
+shifting temperatures
+; Spain’s operator has flagged that
+grid vibrations
+played a role; and a European energy industry body has (echoing Sánchez above) blamed “
+an interconnector between France and Spain
+”.
+So… which was it?
+The
+most plausible theory
+we’ve seen kinda blends the above:
+Extreme temperature
+variations hit Spain’s interior
+That caused
+wild oscillations
+along Spain’s high-voltage lines
+This
+instability
+spread to Portugal via their integrated grid
+That all caused ‘
+synchronisation failures
+’ with the broader European network
+Various power assets then
+automatically disconnected
+to avoid damage, leading to a mass blackout and sudden nationwide urge to buy toilet paper.
+So it looks like an extremely rare weather event was
+the initial trigger
+, but there’s now a fierce and nerdy debate on whether
+other factors
+then exacerbated the instability:
+Renewables?
+Both Spain and Portugal have high renewable penetration, implying a weather-dependent supply that
+could
+stress grid stability if not handled properly
+Inertia?
+Renewables can provide less grid inertia (stability from rotating generators), which
+could
+mean less resilience and worse cascade effects, and
+Interconnection stress?
+Renewables can lean on interconnectors to balance supply, which
+could’ve
+contributed to the sudden failure of the Spain-France link.
+But others note that
+a)
+we’re still gathering the facts,
+b)
+the grid operators know how to manage renewable variability,
+c)
+the scale of the outage (15GW lost in seconds) suggests a systemic grid failure, similar to
+d)
+Italy’s mass outage of 2003, which hit a dirtier grid.
+Anyway, based on all this initial and incomplete data, wild weather appears to have been an immediate trigger, and neighbours like France and Morocco appear to have been key to helping get local systems back online.
+Intrigue’s Take
+This remarkable event will ripple through time and space in at least three ways:
+First,
+politics
+: Spain’s shockingly handsome but polarising leader (Sánchez) was already skating on thin ice after barely clinging to power with the help of separatists. His standing then took another hit over his response to Spain’s flash floods that killed 232 people in October. And now this? Ufff….
+Second,
+geopolitics
+: this will accelerate some of the centrifugal forces at the heart of the European project, whether you blame interconnection as the disease or credit it as the cure (initial evidence suggests it might be both), and…
+Third
+, the
+economics
+: you’ll recall we were at
+Houston’s CERAWeek
+last month, where a passionate-if-unsexy contingent of grid operators argued we need a mass grid upgrade to cope with our AI and energy transition. These grid types are kinda like Luke Hemsworth, doing years of underappreciated work across four award-winning seasons of
+Westworld
+, while his more famous brothers Chris and Liam are off flashing their ripped solar panels (
+Avengers
+) and chiselled wind turbines (
+The Hunger Games
+).
+But while those aching grid operators might now get their day,
+another star
+is rising: we have today’s vast and costly grids in part because they were built for 19th Century energy too dirty to just generate next door. So we get the above disease/cure dilemma, with vast grids that can pump distant energy into your home, but also distant blackouts.
+That means, regardless of the specific factors driving each grid collapse (and the world’s now seen quite a few in the last couple of decades), there’ll be more folks arguing not so much for costly grid upgrades, but for something even bigger: grid decentralisation.
+Today’s newsletter is sponsored by
+Cytonics
+Markets in Turmoil. Science in Motion.
+The news cycle is a mess. Inflation, interest rates, and tariffs dominate the headlines—but while the market panics, Cytonics is building.
+We’ve already treated over 10,000 patients with our first-generation biologic therapy for osteoarthritis. Now, our next-gen drug, CYT-108, is preparing to enter Phase 2 trials—and may become the
+first disease-modifying therapy
+for OA.
+This is your chance to invest before Big Pharma catches on. No institutional gatekeeping. No market timing required. Just real science, real patients, and a $393 billion market ripe for disruption.
+Join 6,000+ early investors before the window closes
+Meanwhile, elsewhere…
+🇷🇺
+RUSSIA
+-
+Putin proposes another 72-hour ceasefire.
+Putin’s announced three-day unilateral ceasefire purports to start on May 8 to mark Russia’s WWII commemorations. (
+Al Jazeera
+)
+Comment
+: Putin is likely trying to distract from the fact he’s still refused to accept the Trump-Zelensky 30-day unconditional ceasefire. And that refusal isn’t because he’s winning, but rather because he knows any pause at this stage risks admitting strategic defeat (a million of his own men dead, and all to control less of Ukraine now than he did in March 2022).
+🇮🇱
+ISRAEL
+-
+Ronen Bar to step down.
+The head of Israel’s domestic intelligence service has announced he’s stepping down in June amid a deepening feud with PM Netanyahu. Bar testified their relationship soured after he refused Netanyahu’s requests to spy on Israeli protesters and disrupt a corruption trial against the PM, who denies these claims. (
+Reuters
+)
+🇺🇸
+USA
+-
+Amazon launches first satellites for Starlink rival.
+Amazon has just launched its first 27 low-orbit broadband satellites under Project Kuiper, a presumed rival to the monopoly of Elon Musk’s Starlink. (
+space.com
+)
+Comment
+: Musk’s recent high-profile role in politics and geopolitics has startled a few foreign capitals suddenly realising their dependence on one man. So there’ll be no shortage of folks yearning for another option, even if it’s another US billionaire.
+🇨🇳
+CHINA
+-
+Beijing-backed NGOs infiltrate the UN?
+The Washington Post and the International Consortium of Investigative Journalists (ICIJ) just dropped a spicy joint piece on dozens of Beijing-backed NGOs at UN meetings in Geneva, reportedly trying to paint China in a better light (including via witness intimidation). (
+WP
+$)
+Comment
+: This sounds on-brand for the Communist Party’s ‘United Front Work Department’, which runs influence operations abroad. And indeed, if you dig into the ICIJ’s
+‘FAQ’ page
+, you’ll see the investigators duly point that particular finger.
+🇹🇹
+TRINIDAD & TOBAGO
+-
+Wildcard election.
+Locals hit the polls yesterday (Monday) for one of the Caribbean nation’s least predictable elections in recent history. The winner (centrist ex-PM Kamla Persad-Bissessar
+)
+now inherits rising crime, a cost of living crisis, instability in neighbours like Haiti and Venezuela, plus uncertainty around US intentions. (
+The Guardian
+)
+🇧🇩
+BANGLADESH
+-
+Troops to join Qatari army.
+Bangladesh is now planning to send hundreds of troops to serve in Qatar’s armed forces, adding to the 6,000 already in Kuwait’s military. (
+Arab News
+)
+Comment
+: What these Gulf kingdoms have in riches, they lack in local manpower. But they’re not alone — Australia, the US, the UK, Canada, and Russia are some of the many that’ve turned to non-citizens to help plug military recruitment gaps. It can work, but only after you clear big hurdles like security, cohesion, and training.
+🇾🇪
+YEMEN
+-
+US strike on migrant prison kills dozens?
+Yemen’s armed Houthis are claiming US airstrikes have hit a prison holding African migrants. For now, the US says it’s looking into the claims. (
+CNN
+)
+Comment
+: This whole saga is a reminder how tricky any kinetic response can be, with curveballs across everything from alliance-building (some high-profile absentees), OpSec (Signalgate), force protection (a US jet just fell overboard while dodging Houthis), targeting (if these claims are verified), info-warfare (if they’re not), and effectiveness (through it all, the Houthis are still there, harassing ships).
+Extra Intrigue
+🦺
+Commodities corner
+Oil
+- Amid global volatility, China is
+carpe-ing
+the
+diem
+of four-year-low oil prices to replenish its oil stockpiles.
+LNG
+- Producers are telling the White House they can’t comply with new rules to promote the use of US tankers by taxing China-built ships, arguing it’ll dramatically increase costs.
+Gold
+- Prices have eased back below their $3,500 record, potentially reflecting investor hopes that US-China trade tensions might have an off-ramp.
+From our sponsors
+$10 a Month Can Protect You from Expensive Vet Bills
+We all want the best for our pets, but whether it’s an unexpected emergency or a chronic condition, veterinary costs can pile up fast. That’s where pet insurance comes in—ensuring you can say “yes” to critical treatments and premium care without straining your budget. Check out Money’s top pet insurance picks
+EXPLORE PLANS
+Letter of the day
+The letter in question. Credits: Henry Aldridge & Son
+What do you do with a burning passion for maritime history and a spare $400k?
+As a startup run by ex-diplomats, we don’t feel qualified to answer that question right now, but one cashed-up history buff has decided the answer is to buy a letter written by a Titanic survivor, just days before the ship sank.
+The letter, written by Colonel Archibald Gracie (absolute 10/10 name), has been described as having a prophetic vibe, given the first-class passenger stated he would “
+await my journey's end before I pass judgment
+” on the ship.
+Today’s poll
+If you were an energy minister, what would your top priority be?
+(that'll of course depend where you are, but enlighten us!)
+⚡️ Diversify your energy mix
+🇪🇺 Diversify your cross-border connections
+👋 Expand and upgrade your grid
+👀 Decentralise your grid (more local generation and storage)
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think China's flag raising was all for show?
+📢
+Yep, it's just about sending a message (51%)
+👷
+No, they'll be back with construction equipment (48%)
+✍️ Other (write in!) (1%)
+Your two cents:
+📢
+W.S.J:
+“China's leadership is heavy on building the myth of China and then using that as a tool to later expand. This is part of the narrative.”
+👷
+R.J:
+“They need to break out of the first island chain any way and any where they can.”
+✍️
+Sz.K.B
+: “Testing the waters. The next action depends on the reaction.”

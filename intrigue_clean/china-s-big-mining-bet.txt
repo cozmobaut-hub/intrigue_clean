@@ -1,0 +1,245 @@
+URL: https://archives.internationalintrigue.io/p/reduced-size-template-f4708c0fa93e262c
+Title: 🌍 China’s big mining bet
+
+Today’s briefing:
+— China’s big mining bet
+— Another twist for Ukraine
+— Japan’s fraught farewell
+Sponsored by:
+Good morning {{first_name | Intriguer}}
+. When we started Intrigue, one of our missions was to connect the dots between business deals, tech developments, and how it all relates to geopolitics. We wanted to tell the stories that may have seemed like nothing-burgers but were actually indicative of broader, emerging trends coming out of our world.
+Today’s top story on China’s largest gold mining company
+Zijin’s purchase of Canadian company Allied Gold
+for a cool $4 billion is one of those stories. It’s got all the usual elements of commercial and geopolitical intrigue we love to wade through to help you digest its impact on not just the industry but also the global economy.
+Number of the day
+2 billion
+That’s how many folks will be covered by the “
+mother of all deals
+” finalised by India’s Modi and the EU’s von der Leyen in Delhi today. Covering a reported quarter of global GDP, both partly see this new free trade area as a hedge against Trump’s tariff turbulence.
+Can you dig it?
+🔨
+Whether you’re in Istanbul’s Kapalı Çarşı haggling over those Adidas knock-offs, or on Facebook Marketplace getting a good deal on those jousting sticks, cash is king.
+So when Hong Kong’s
+Zijin Mining Group
+moved yesterday to buy Canada-registered
+Allied Gold
+for $4B in cash, it seemed straightforward, considering…
+a)
+bullion just surged past $5,000 an ounce
+b)
+Allied has mines in Mali, the Ivory Coast, plus a fourth opening in Ethiopia, and
+c)
+in a world as spooked as ours, gold seems destined to always find new buyers.
+But there are still more layers here than a mille-feuille pastry, so shall we
+dig in
+?
+The buyer
+Founded in the 80s by geologist-turned-tycoon
+Chen Jinghe
+, Zijin is now the world’s third-largest miner, clearing $100B in market cap in September (it’s now above $140B!).
+And with only Anglo-Australian giants BHP and Rio Tinto ahead,
+Zijin wants more
+— it’s been on a buying spree these three years, snagging assets from Ghana to the Congo, with this Allied deal now bringing a neat new addition: immediate output from Mali and Ivory Coast, plus imminent growth via Ethiopia’s first industrial-scale gold mine at Kurmuk.
+The product
+Zijin has always been a player in gold, but it’s now doubling down:
+first
+, record prices mean it’s flush with cash to buy rather than develop new streams;
+second
+, gold’s safe-haven status helps hedge against more volatility elsewhere in its portfolio (eg zinc, lithium); and
+third
+, Zijin’s gold-rush also aligns with Beijing’s race not just for gold as a reserve asset, but as an industrial input in sectors like electronics.
+The location
+Africa makes sense, too:
+first
+, it’s home to many of the world’s highest-grade remaining deposits;
+second
+, Western rivals often face higher regulatory hurdles at home and more hostile junta regulators locally; and
+third
+, China’s “
+going out
+” strategy means Zijin and others can often promise integrated infrastructure (road, rail, power), not just the mine.
+The seller
+Meanwhile, rattled Western capitals are now more trigger-happy with the ‘
+national security card
+' to block a transaction, and Canada is no exception: it’s significantly tightened its investment oversight lately, particularly if there’s a China link.
+But while Canadian regulators have
+blocked similar mining bids
+before, this Zijin-Allied deal enjoys one crucial difference: these mines are
+outside Canada
+, rather than (say) in strategically sensitive regions like the Arctic.
+The timing
+The deal stems from Allied’s ongoing strategic review since 2024, but the timing is now
+helpful for both Canada and China
+: with a more confrontational US over the border, Canada is now openly hustling to diversify its partnerships. The result is not just
+that
+Mark Carney speech at Davos, but also the spot he visited en route (China).
+Now, the
+extreme degree of US-Canada economic integration
+arguably makes this move like trying to diversify away from the sun by pivoting your solar panels towards Alpha-Centauri, but this visit yielded some quick outcomes: China dropped its levies on Canadian canola from 85% to 15%, while Canada cut its EV tariffs back from 100% to 6.1%.
+Now waving through this mining deal? It’s another quick signal:
+we’re open for business
+.
+So yes, dear Intriguer. This deal is about cash, it’s about jousting sticks, and it’s about gold. But it’s also about much, much more.
+Intrigue’s Take
+Western players have long dominated the mining sector, but
+China has advantages
+that’ll further erode that gap over time, with several on display in this Zijin-Allied deal: think lower cost of capital, more state backing, and more favourable offtake agreements.
+And that offtake point is key: even where the West dominates the digging,
+China dominates the processing
+, which means it’s still buying (say) three quarters of the world’s iron ore; two thirds of its copper, bauxite, and nickel; half its coal; and a third of its gold.
+So even Western-owned miners are arguably just
+cogs in China’s broader industrial machine
+, an arrangement which keeps teaching us lessons in leverage every other day.
+That’s why the US government is now on its
+most aggressive shopping spree
+in three quarters of a century, quietly buying up key stakes to break China’s leverage, whether it’s
+USA Rare Earth
+this month,
+Korea Zinc
+last month,
+ReElement
+in November,
+Trilogy Metals
+in October, or beyond.
+Sound even smarter:
+Zijin’s largest shareholder (~24%) is a China state-owned fund, with the rest held by public and institutional investors like US giants BlackRock and Vanguard.
+Founder Chen Jinghe formally
+retired
+on 1 January, with some investors worried by the lack of an immediate successor.
+Today’s newsletter is sponsored by
+The Daily Upside
+Join over 1M+ investors who choose clarity over clickbait
+Curious about the latest in finance, economics, and global business? We’ve got the answer: The Daily Upside.
+This fresh, insightful newsletter, created by a team of Wall Street insiders and bankers, delivers deeply valuable insights that go beyond the headlines.
+The best part? It’s completely free. We read it every morning, and
+you should too
+.
+Meanwhile, elsewhere…
+🇺🇸
+UNITED STATES
+-
+ICE chief out?
+The hardline immigration chief leading ICE operations in Minneapolis now looks set to depart in the wake of the agency’s second fatal shooting of a US citizen this month. Certain Trump-aligned senators have now joined calls for an investigation, and federal/state/city officials now seem to be describing talks as positive. (
+BBC
+)
+🇰🇷
+SOUTH KOREA
+-
+More tariffs?
+President Trump has announced he’ll hike certain tariffs on South Korea from 15% to 25%, accusing the US ally’s legislature of slow-walking their trade deal. Korea’s ruling party is aiming to pass the necessary legislation by the end of February — it’ll establish a new state-run firm to manage Seoul’s vaunted $350B investment pledge that formed the guts of July’s US-Korea trade deal. (
+The Hill
+)
+Comment
+: Just yesterday, a top Pentagon official (Colby) was in Seoul reiterating DC’s new strategy to play a “more limited” role in deterring North Korea. Throw in a presidential tariff threat the next day, and you’ve got yourself a pretty clear message.
+🇺🇦
+UKRAINE
+-
+Security guarantees done.
+President Zelensky has announced a deal on US security guarantees to stop Putin from re-invading is “
+100% ready
+”, though the details remain unclear. And in a familiar twist, US special envoy Steve Witkoff is now flagging the US won’t sign unless Ukraine agrees to (more) territorial concessions. (
+AP
+)
+Comments
+: Putin seems less interested in ending his war, and more in framing Ukraine as the obstacle to Trump’s peace — hence Putin’s impossible land demands. We’re also genuinely curious what kind of US security guarantees could ever get Zelensky across the line at this point: both generally, because Putin’s invasion followed big lapses in earlier US security guarantees, but also specifically, given President Trump’s relative antipathy towards Ukraine.
+🇦🇿
+AZERBAIJAN
+-
+Pass the gas.
+Baku says it’s started exporting natural gas to Austria and Germany, though there are still questions if it can hit its pledge to double EU exports by 2027. (
+EurasiaNet
+)
+Comment
+: The deal aims to help wean the EU off Russian gas, but the Europeans are also hoping to wean the Azeris off Russia.
+🇲🇲
+MYANMAR
+-
+Sham election.
+The final sham-round of sham-voting has wrapped in Myanmar’s sham-election, and you’ll never guess who sham-won: the ruling junta’s sham-party. (
+Le Monde
+)
+Comment
+: This is a win for Beijing, which has increasingly backed the junta in hopes of stabilising its own restive border — so much so, China (which famously loves elections) has been openly supporting the junta’s ballot as a tool to achieve “sustainable peace and reconciliation”.
+🇨🇴
+COLOMBIA
+-
+No power for you.
+Colombia has halted energy exports to Ecuador after Ecuador’s President Noboa slapped 30% tariffs over allegations Colombia isn’t partnering enough against criminal groups on their shared border (claims Colombia’s president denies). (
+AA
+)
+🇱🇾
+LIBYA
+-
+Open the spigot.
+Prime Minister Dbeibah has signed a 25-year agreement with France’s TotalEnergies and America’s ConocoPhillips to revive local oil production. (
+AfricaNews
+)
+Comment
+: Libya has Africa’s ~biggest oil reserves, but output has lagged after more than a decade of conflict unleashed by… the French and US-driven NATO operation that ousted Gaddafi! Because nothing says sorry like a lucrative oil deal.
+Extra Intrigue
+Here’s what people around the world are googling:
+🇬🇧
+Brits
+searched for ‘
+Suella Braverman
+’, the former conservative home minister who has now
+defected to Nigel Farage’s populist-right party,
+Reform UK
+.
+Folks in
+🇱🇧
+Lebanon
+looked up ‘
+silver prices
+’, which
+broke a new record
+amid a sky-high gold rally.
+And netizens in
+🇲🇽
+Mexico
+googled ‘
+Nipah
+’, a zoonotic virus
+spreading in India
+.
+Farewell of the day
+Credits: Xinhua via Twitter.
+Goodbyes are so hard. Do you go for the back-slap, the awkward side-hug, the full-frontal embrace, or the frontal-but-distant A-frame? Whatever you pick, it’s wrong. And that’s before kiss protocol: zero, one, two? Wrong. Then they’re like,
+Ma’am? This is a Wendy’s.
+Anyway, thousands still queued outside
+Tokyo’s Ueno zoo
+to farewell twin panda cubs Xiao Xiao and Lei Lei, who return to China today (Tuesday). That’ll leave Japan panda-less for the first time since it normalised ties with Beijing in 1972.
+And that’s not a coincidence — China tends to grant and withhold pandas depending on how your ties are tracking. And given the absolute state of Sino-Japan ties, the only thing surprising about this panda-monium is it took Beijing this long to pull them back.
+Today’s poll
+What do you think is the best hedge in today's world?
+🏆 Gold
+🏡 Real estate
+🏛️ Government bonds
+₿ Crypto
+💸 Forex
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think was Zhang's main sin?
+🤫
+Leaked secrets (4%)
+💼
+Too corrupt (16%)
+🧑‍🤝‍🧑
+Formed a rival clique (40%)
+😨
+Nothing (Xi is just paranoid) (38%)
+✍️ Other (write us!) (2%)
+Your two cents:
+😨
+S.Z.K.B:
+“By ‘nothing’ I mean yes he was corrupt and forming a clique but just like everybody in the game.”
+✍️
+R.C.O:
+“Xi is a personalist dictator, and neutering the military is an essential step to ensure Xi and not the CCP decides on succession.”
+✍️
+M.M:
+“He may not have formed a rival clique, but amassing enough personal power is more than reason enough for him to be excised before he becomes a problem.”

@@ -1,0 +1,245 @@
+URL: https://archives.internationalintrigue.io/p/monday-e286
+Title: 🌍 Is Trump gonna bomb Iran?
+
+IN TODAY’S EDITION
+1️⃣ Is Trump gonna bomb Iran?
+2️⃣ A Swedish journalist jailed in Turkey
+3️⃣ Number plate of the day
+Hi {{ First name | Intriguer }}.
+I finally got around to watching the Caltech
+commencement address
+by Nvidia co-founder Jensen Huang.
+It features a brief but true story about him visiting Kyoto’s Silver Temple and watching as a gardener used tiny bamboo tweezers to pluck pieces of dead moss across a vast green expanse, one by one. When Huang asked what the guy was doing, he answered, “
+I’ve cared for my garden for 25 years. I have plenty of time.
+” Huang said it was a profound life lesson for him: when you focus on what matters, you have plenty of time.
+I love that message and maybe wish I'd lived it a little more when I was still on the inside. Though right now, I’m not sure how (if at all) to square it with some of the urgency in today's look at
+whether Trump might bomb Iran
+.
+THE HEADLINES
+Stocks wobble ahead of US tariffs.
+Japan’s Nikkei 225 closed 4% lower today (Monday) as investors digested Trump’s latest comments that
+Wednesday’s foreshadowed new tariffs will hit
+all
+countries
+. Meanwhile, Goldman Sachs now sees a 35% chance of US recession (up from 20%).
+Trump “
+pissed off
+” with Putin.
+The US president has said he’s
+“
+very angry
+” with Putin after the Russian leader
+claimed Ukraine’s Zelensky lacks legitimacy to sign a peace deal. Trump has also threatened tariffs on Russia’s oil customers if Putin blocks peace, while warning Zelensky will face big problems if he tries to withdraw from the (unsigned) US minerals deal.
+Israel and Hamas talk new ceasefire deal.
+Hamas has reportedly accepted an unspecified new proposal from Egypt and Qatar, while Israel’s Benjamin Netanyahu has said he’s
+committed to reaching a deal
+to free the remaining hostages.
+Trump declines to rule out third term.
+The US president says he’s “
+not joking
+” about the possibility of
+seeking a third term
+, a move that’d require a constitutional convention or a two-thirds vote in Congress.
+Junta continues airstrikes in earthquake-hit Myanmar.
+Myanmar’s junta has defied UN calls for a ceasefire and has
+continued to hit parts of the country
+still recovering from the country’s worst earthquake in a century.
+Le Pen found guilty in embezzlement case.
+A court has just found the French opposition leader guilty of misusing ~$3M in EU funds, and her sentence includes a
+five-year ban on running for office
+.
+TOP STORY
+Is Trump gonna bomb Iran?
+Donald Trump and Iran’s Ayatollah
+Unfortunately nobody's added us to any secret war plan group chats, so we're gonna have to tackle the above question the ol' fashioned way.
+But why are we even asking it?
+First
+, let’s look at
+Iran's nuclear program
+: the UN's latest report suggests Tehran now has 275kg of
+60%-enriched
+uranium. That’s a short technical step from the weapons-grade 90% threshold, and way beyond the
+3-5%
+typically needed for civilian purposes. So Iran could (if it decided) potentially make a nuke in days, and attach it to a missile in months.
+Second
+, look at
+Iran’s leaders
+: there’s no evidence they’ve
+decided
+to make nukes, though hawks elsewhere see little need to wait given the supreme leader's continued pledges to destroy the US and Israel, plus his use of proxy groups like Hezbollah.
+Third
+, look at
+Trump's words
+: he just sent Iran's supreme leader a letter proposing direct talks, backed by unspecified threats. But Iran has now rejected that idea, arguing that the Americans “
+must prove that they can build trust regarding their decisions
+”. That’s a nod to Obama’s
+sanctions-relief-for-nuclear-curbs
+deal, which Trump scrapped in 2018.
+Anyway, Trump has now responded this weekend, telling NBC: "
+If they don't make a deal, there will be bombing. It will be bombing the likes of which they have never seen before.
+"
+Fourth
+, look at
+Trump's actions
+: he's now…
+a)
+Deployed ~five
+5-2 bombers
+(a quarter of his fleet) to Diego Garcia in the Indian Ocean, well within range to hit Iran
+b)
+He’s also expanded
+sanctions
+on refineries processing Iranian oil in China (Iran's top customer), and
+c)
+He’s also just held joint bomber drills and talks with Israel, whose leader Netanyahu is famously hawkish on Iran’s nuclear facilities.
+But is it all just another case of Trump's '
+threaten then negotiate
+' tactic? You can bet Iran’s Ayatollah will be weighing that possibility up against other drivers, including the fact that…
+a)
+Iran is now weaker
+: the Ayatollah’s proxies like Hamas, Hezbollah, and the Houthis are on the back foot, and his own regime is deeply unpopular back home
+b)
+Israel is now stronger
+: Netanyahu has defied the odds against foes like Hezbollah, and now has a staunch ally in the White House, plus…
+c)
+Iran’s ‘breakout’ time is now shorter
+: the Ayatollah can now potentially make a nuke in days, compared to
+a year
+when the Obama-era nuclear deal was in force.
+And those drivers combined now lead to lots more second-guessing on all sides.
+INTRIGUE’S TAKE
+So how do you address a situation like this?
+Obama leaned into
+talks
+, using sanctions as sticks and relief as carrots. The result was what it said on the label — as sanctions eased, Iran's economy recovered, its coffers refilled, the regime stabilised, and it threw its weight around the region some more. But also, its nuclear program slowed, giving the region and the world breathing space.
+Still, Israel's Netanyahu (and others like Trump) always hated that deal because of the way it benefited Iran while only slowing (rather than ending) its nuclear ambitions. And the resultant US flipping might’ve just raised the price Iran will demand to resume talks.
+As for
+bombing
+? It’s not the neat solution some might claim, for three reasons:
+Military
+: Iran's Fordow facility is ~80m (260ft) underground, but America’s ‘Massive Ordnance Penetrator’ has a
+known
+reach of maybe ~60m (200ft).
+Political
+: Sure, a successful strike could set Iran’s program back decades, but a
+failed
+hit could just entrench the Ayatollah, embolden his hardliners, fuel his crackdowns, and spur his first nuke, hastening what everyone fears; and…
+Geopolitical
+: It's also unclear how this would play out in the region. For example, any US-Israeli strike might accelerate the cautious Saudi-Iran rapprochement underway, and raise the threat profile for local US forces, just as Trump wants to re-prioritise US resources
+elsewhere
+(towards China).
+Also worth noting:
+When Biden’s unofficial talks collapsed, his team said Iran was playing hard-ball around UN inspections of uranium traces at sites Iran never declared.
+Iran appears to have hit the accelerator on its uranium enrichment since Trump’s election, from 7kg (16lb) to 34kg (75lb) per month.
+MEANWHILE, ELSEWHERE…
+🇯🇵
+Japan
+: Tokyo has unveiled a plan to
+evacuate over 100,000 people from Japanese islands
+near Taiwan in case of conflict. The government aims to test the plan in the coming year or so.
+🇳🇴
+Norway
+: The conservative opposition leader has pledged to allow Norway’s vast sovereign wealth fund to
+invest in defence companies
+if she wins September’s elections. The ruling Labour party is now back in the race after parachuting Jens Stoltenberg in as finance minister (dubbed ‘Stoltenback’).
+🇵🇬
+Papua New Guinea
+: Port Moresby has
+blocked Facebook
+in what it’s dubbing a “
+test
+” to limit hate speech, misinformation, and explicit material. Opponents say the government is just curbing free speech to stifle opposition.
+🇬🇾
+Guyana
+: US Secretary of State Marco Rubio has warned of
+consequences if Venezuela
+tries to annex the two-thirds of neighbouring Guyana the Maduro regime claims as its own. Venezuela’s dictator held a 2023 referendum in an effort to bolster his claims to his neighbour’s oil-rich region.
+🇹🇷
+Turkey
+: Authorities have
+jailed a Swedish journalist
+covering the ongoing protests in Turkey, hitting him with charges of terrorism and “
+insulting the president
+”. Turkey denies any links to the Swede’s journalism, instead claiming it’s related to his attendance at a Kurdish group’s Stockholm rally in 2023.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+The blobfish, often dubbed the world’s ugliest animal, has won
+New Zealand’s fish of the year
+.
+A couple
+aiming to recreate a viral video
+in China have ended up needing a doctor’s help after the woman’s hand got stuck in her boyfriend’s mouth.
+Authorities have indicted a man in South Korea after he attempted to
+storm China’s embassy dressed as Captain America
+.
+A United Airlines flight to Shanghai has had to turn around after the
+pilot realised he forgot his passport
+.
+And an Aussie science nerd
+trying to collect all elements on the periodic table
+now faces jailtime after his plutonium breached non-proliferation laws.
+NUMBER PLATE OF THE DAY
+The above pic is doing the rounds on social media.
+If you’ve ever passed one of London’s uber-fancy restaurants serving uber-small portions on uber-big plates attracting uber-big prices, you might’ve noticed uber-luxury cars out front rocking uber-short license plates. Those plates (which work just as well as normal ones) are a status symbol, and can go for millions — the ‘F1’ plates fetched $18M!
+Anyway, the owner of the above ‘1M’ plates is… Malaysia’s ambassador to the UK! They were an official gift from the Brits years ago, are non-transferable, and can only adorn a Malaysian embassy vehicle. Just imagine how jealous all the other ambassadors must be.
+DAILY POLL
+Do you think there's a real chance Trump will bomb Iran?
+💣 Yep, he won't accept a nuclear Iran
+🙅 Nope, too risky -- it's just bluster as leverage
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Which of the challenges listed in the latest US intelligence threat assessment do you think the US should prioritise most?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇨🇳
+China (43%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🇷🇺
+Russia (33%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇰🇵
+North Korea (1%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🇮🇷
+Iran (5%)
+🟨
+⬜️⬜️⬜️⬜️⬜️
+🚨
+Organised crime (6%)
+⬜️⬜️⬜️⬜️⬜️⬜️
+🏴
+Terrorism (4%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write us!) (8%)
+Your two cents:
+🇨🇳
+R.V:
+“Long-term, there is no other contender for a leader of the multipolar world: our conflict with China is one of trade, culture, wealth, and influence, not just military power. We would do well to remember that.”
+🇷🇺
+A:
+“Letting Russia have its way will embolden China. The attempt of a ‘reverse Nixon’ will just cause mirth in both countries.”
+✍️
+N.D:
+“The top challenges for the US are its own domestic polarization and threats to the rule of law.”
+🚨
+K.R:
+“Organized crime is the one thing that transcends all boundaries. It also includes all of the choices presented in this question.”
+✍️
+M.D:
+“Not putting climate change as the top priority on every country's agenda is like running a race where the finish line is against a wall.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

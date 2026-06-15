@@ -1,0 +1,298 @@
+URL: https://archives.internationalintrigue.io/p/are-we-ai-bubble
+Title: 🌍 Are we in an AI bubble?
+
+Today’s briefing:
+— Are we in an AI bubble?
+— A Trump-Xi deal…
+— They opened a consulate where?
+Good morning {{first_name | Intriguer}}
+. Many of us will no doubt have patiently bided our time to wait for the housing bubble to burst. Just one more year, and I’ll be able to afford that sweet pad overlooking [insert preferred view of choice].
+Another
+possible bubble is AI
+, dubbed “
+the ultimate bubble that will bust them all.
+”
+Sounds ominous, which is why we’ll spend today’s edition diving into whether that’s true and what it all means.
+P.S.
+— Intrigue loves talking AI so much that we’ll soon be hosting an event on the future of AI and humanity with the Australian Embassy in DC. Stay tuned for more details!
+Intrigue Insight: The Xi-Trump meeting
+Pic shared by China’s foreign ministry.
+Presidents Trump and Xi just wrapped their 100-minute meeting in South Korea with a 25-second handshake, concluding their first in-person chat in six years.
+While China’s initial
+read-out
+avoids specifics, President Trump has told Air Force One reporters the meeting was a “
+twelve out of ten
+”,
+suggesting
+Xi will now…
+Redouble
+fentanyl
+efforts in return for US tariffs dropping from 57% to 47%
+Resume
+rare earth exports
+to the US under an extendable one-year deal
+Resume China’s purchases of US
+soybeans
+, and
+“
+Work together
+” with the US to end
+Russia’s war
+in Ukraine.
+According to Trump, they did discuss
+chips
+(but not Nvidia’s top Blackwell chips). Trump says he also plans to
+visit
+China (APEC hosts) in 2026, followed by a Xi visit to the US (G20 hosts). And interestingly, he says neither
+Taiwan
+nor
+TikTok
+came up.
+Our quick take?
+China’s benchmark Shanghai Composite Index just hit a new decade high, which might be all you need to know: ie, it’s cheering what is really a temporary, transactional de-escalation, rather than any kind of solution to the big structural problems at play (like China’s vast economic imbalance with the rest of the world).
+Separately, President Trump has also flagged he’ll now match Russian and Chinese
+nuclear tests
+, which might
+sound
+fair, but it arguably gives China cover to further close what is still a sizeable technical and numerical gap with America.
+Boom or bust
+America’s Nvidia just became the world’s first firm to break the $5T valuation barrier, three months after it became the first to pass $4T. So the AI chipmaker is now worth…
+More than every GDP besides the US and China
+More than
+two
+Canadas, and
+Believe it or not, roughly
+$5T
+more than Intrigue.
+Why?
+Markets were responding to some spicy remarks, first from
+Nvidia’s Jensen Huang
+, who told a pack of nerds at Nvidia’s DC conference that he’s now sitting on…
+$500B in AI chip orders (including for
+seven
+US government supercomputers), and
+New partnerships with Finland’s Nokia, plus US defence tech player Palantir, while
+Nvidia’s newest Blackwell chip is now in full production and “
+shipping like crazy
+”.
+Second,
+President Trump
+told Air Force One reporters en route to meet China’s Xi in South Korea that his high-stakes Xi chat would cover Nvidia’s “
+super duper
+” Blackwell chips above, again hinting he might approve (downgraded?) Blackwell sales to China!
+Anyway, while this fuels an epic AI boom, there’s another b-word quietly circulating, and we’re almost too scared to whisper it out-loud: it’s
+Ben Affleck’s
+Batman
+reboot
+bubble.
+So… are we in an AI bubble?
+Some quick reasons why you might conclude
+no
+…
+i) Maybe
+this boom is different
+given it rests on real, foundational AI advances (though dot com, housing, and even tulip investors variously said the same thing)
+ii) Nvidia is
+actually profitable
+, posting Q3 revenue of
+$35B
+(though that rests on hyperscalers continuing their reported $600B p/year capex), and so…
+iii) Maybe we’re just seeing a smart, accelerating, capitalist
+flywheel
+.
+But now some quick reasons you might conclude
+there’s a bubble
+:
+There’s
+sobering research
+from places like MIT,
+finding
+95%
+of big corporate AI initiatives still show zero return
+There’s maybe
+circular financing
+rather than a flywheel at play (Nvidia invests in OpenAI, which buys cloud from Oracle, which buys chips from… Nvidia), and so…
+There are
+smart people
+, whether
+Ray Dalio
+or the
+Bank of England
+, now sounding the alarm (though smart people can be wrong — see Affleck above).
+So stir in some hype, some sky-high valuations, and FOMO-fuelled capital chasing uncertain returns, and maybe you’ve got yourself a nice little bubble there, pal.
+But then…
+would a bubble even matter
+to your favourite ex-diplomats? Well, yes.
+First
+, there’s the
+concentration risk
+: US stocks now make up ~56% of the world’s public market cap; America’s Mag7 AI stocks in turn make up a third of the US market cap alone; and their AI infrastructure build-out alone is driving a ~third of all US economic growth.
+So any ‘pop’ might rattle not just the US economy, but
+the world’s
+economy. It’d also hit a key pillar (US tech dominance) now balancing the world’s concerns about US political risk.
+Second
+, an AI pop would have
+downstream impacts
+on other sectors like energy, where there are already countless billions in AI-related energy projects in the US alone.
+And
+third
+, a pop would also shape
+US-China competition
+, which is already in turn shaping this century: Nvidia’s chips are now arguably America’s biggest source of leverage.
+But the result of that leverage is the two rivals are now bifurcating into two parallel, algorithmic blocs built on parallel stacks and supply chains. So any AI pop — inevitably slowing US investments and therefore advances — could end up less like the global 2008 meltdown, and more specifically shifting our world’s centre of gravity even further east.
+Intrigue’s Take
+The fact Nvidia is even hosting a conference in DC is pretty darn revealing about the extent to which the world’s most valuable company also depends massively on the whims of one man, which you could argue only adds to the above concentration risk, even if Trump and Huang do seem to be increasingly aligned lately.
+But that gets us to
+the biggest lingering question right now
+: if Nvidia’s chips are now US leverage over a China throwing its weight around everywhere from Taiwan and the South China Sea to rare earths and automotive supply chains, then why would Trump consider surrendering that kind of technological superiority?
+We’ve previously explored this debate, but by way of quick recap:
+Backers
+like Huang argue
+a
+) China smuggles chips in anyway,
+b
+) keeping China hooked on US tech slows its urgency to develop alternatives, and
+c
+) it’s better to flood the world with US tech than watch China do so (like with 5G). Yet…
+Critics
+argue
+a
+) more chips for China means less for the US,
+b
+) this Blackwell chip is
+12 times
+more powerful than the H20 chips the US already restricts for China, and so if we accept AI’s various national security implications, then…
+c
+) you could argue selling top chips to China is like selling highly-enriched uranium to Iran!
+Oh, and empowering China with top chips also helps China develop — and flood the world with — its own AI advances, undercutting one of the ‘pro’ camp’s reasons above.
+Anyway, it’s unclear what exactly the White House has in mind here — moments ago, Trump told reporters on Air Force One, “
+we’re
+not
+talking about the Blackwell... but a lot of chips, you know, a lot of the chips. And that’s good for us”
+.
+But even if he’s talking about a downgraded Blackwell or something else,
+what’s the US getting in return?
+Will Xi rebalance his lopsided economy that’s rattling global industry? Will he tone things down on Taiwan? Will he stop water-cannoning Philippine marines in Philippine waters? Will he quit sustaining Putin’s dystopian invasion?
+Rather, based on President Trump’s initial read-out (see above), it seems Xi is pledging some
+transactional concessions
+, including resumed purchases of US soybeans.
+So we’re
+possibly
+seeing the US swap this God-tier tech for… beans. And not even magic beans (though the political power of US soybean farmers can seem pretty magical).
+Now, maybe there’s something we don’t know here (DC already snuck trackers into Nvidia shipments to trace China’s smuggling networks, for example). Or maybe this deal just reflects the reality of current US leverage, particularly amid China’s rare earths dominance.
+Meanwhile, elsewhere…
+🇳🇱
+NETHERLANDS
+-
+A centrist surprise.
+Yesterday’s election is still too close to call, but initial results suggest the left-centrist D66 party has made gains against immigration firebrand Geert Wilders. So 38-year-old D66 leader Rob Jetten might be the next Dutch PM. (
+EuroNews
+)
+Comment
+: This could suggest the reversal of a multi-year hollowing out of the political centre. If Jetten can restore political stability at home, we might see a revival in Dutch engagement across the EU and NATO.
+🇯🇲
+JAMAICA
+-
+Path of destruction.
+Hurricane Melissa is now headed towards Bermuda as a Category-2, after leaving at least 30 dead across Cuba, Haiti, Jamaica and beyond. (
+NBC
+)
+Comment
+: We wrote about the geopolitics of natural disasters
+here
+.
+🇸🇩
+SUDAN
+-
+Atrocities.
+As we foreshadowed, the notorious ‘RSF’ paramilitary has now marked its siege-based capture of Darfur’s El Fasher city by ramping up atrocities against indigenous non-Arab locals. There are now fears of another ‘Geneina’ (the Darfur city where the RSF killed as many as 15,000 civilians in 2023). (
+DW
+)
+🇻🇪
+VENEZUELA
+-
+Pilot plot.
+AP journalists have revealed the US once tried to turn Nicolás Maduro’s personal pilot against him, in hopes he’d divert a flight and deliver the despot into US custody. (
+AP
+)
+Comment
+: The plot (initiated under Biden) mirrors last year’s capture of Sinaloa Cartel boss ‘El Mayo’. The decision to leak the details now likely stems from the fact the pilot ultimately refused, and publicising the plot would still fuel Maduro’s paranoia.
+🇷🇴
+ROMANIA
+-
+Departure gate.
+The US will soon cut its troop numbers in NATO’s eastern flank, with Bucharest’s defence ministry revealing ~1,000 of the 1,700 Romania-stationed US troops will remain. (
+BBC
+)
+Comment
+: It’s about the US ‘re-balancing’ to better deter China, and the US says its NATO commitments remain unchanged (there are still ~100,000 US personnel in Europe). But any force reduction will rattle a continent already fretting at Putin’s longer-term ambitions.
+🇵🇰
+PAKISTAN
+-
+Talks fail.
+Istanbul peace talks between neighbours / frenemies Pakistan and the Taliban have broken down, with the Pakistanis still accusing Afghanistan’s rulers of harbouring terrorists. (
+Al Jazeera
+)
+Comment
+: We explored their recent flare-up
+here
+, including the irony of Pakistan’s own ties with those same groups helping the Taliban re-take power in the first place.
+🇻🇳
+VIETNAM
+-
+Journalist stopped.
+The BBC says Vietnamese authorities have questioned and stopped one of its reporters leaving the country. The ruling Communist Party maintains a strong grip on the press, and even banned an edition of
+The Economist
+earlier this year because it featured an unflattering portrayal of a top leader. (
+The Guardian
+)
+Comment
+: It’s a reminder that while Vietnam is booming and offers the West ways to diversify away from China, it’s not exactly
+✌️like-minded✌️
+.
+Extra Intrigue
+Meanwhile, in embassy news:
+🇵🇾
+Paraguay
+will reportedly open a consulate in Moroccan-controlled Western Sahara, further boosting Morocco’s claims against Algeria-backed secessionists.
+🇦🇿
+Azerbaijan
+has formally opened its new embassy in Oman, part of an ongoing (b)romance among Gulf and Central Asian states trying to diversify their friends.
+And
+🇺🇦
+Ukraine
+has announced it’ll downgrade its ties with Cuba and close its Havana embassy amid Cuba’s continued support for Russia.
+Flag of the day
+The trouble with flags these days is they’re so fun, everybody wants one.
+Take that schnazzy banner above: it’s
+the new flag for Cumbria
+, a ceremonial county up in north-western England known for the Lake District National Park. Those green and yellow chevrons represent its rugged terrain, while the crown is a throw-back to Cumbria’s medieval past as an independent Celtic kingdom.
+Anyway, locals chose this flag via a vote last month.
+Intrigue rating
+: 9.1/10
+Today’s poll
+Do you think we're in an AI bubble?
+✅ Yes, and it'll burst
+📉 Yes, but it'll just course correct
+🚀 No, we're on the cusp of machine-god!
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the US should ever accept disaster relief from China (and vice versa)?
+🆘
+Yes, aid is aid (66%)
+👓 No, the optics are too delicate (33%)
+✍️ Other (write in!) (1%)
+Your two cents:
+🆘
+A.F:
+“Only a fool would cut off their nose to spite their face, and for the people on the ground in need of aid, it’s embittering to hear from their own government that they are the ones being sacrificed for optics.”
+👓
+F.G:
+“They can get help and relief from other countries.”
+✍️
+E.K.M:
+“Depends on the type of aid. Basic supplies aren't likely to cause harm, but more complicated projects open the door to espionage, especially among the chaos.”

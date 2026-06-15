@@ -1,0 +1,212 @@
+URL: https://archives.internationalintrigue.io/p/redu
+Title: 🌍 The PNG-Australia treaty: what went wrong?
+
+Today’s briefing:
+— The PNG-Australia treaty: what went wrong?
+— Why US crude inventories just fell
+— Peru’s wild new mascot
+Good morning {{first_name | Intriguer}}
+. Here at Intrigue Media, we try to surface the important global stories that you may have missed, like the #rugbydiplomacy saga that went down between Australia and Papua New Guinea (PNG) last year.
+For those in the know, rugby league is basically Australia and PNG’s national sport. In the face of China seeking a security deal with PNG, Australia had offered to fund a PNG team to play in Australia’s national rugby league competition - on one condition: that PNG did not sign a security or military agreement with any country outside the ‘Pacific family’, aka China. Try time for Australia.
+Fast-forward to today’s top story, and it looks like the
+Australia-PNG
+relationship might have hit another snag, this time in the form of a
+stalled defence treaty
+between the two countries. And so the great Pacific geopolitical game continues…
+Reaction of the day
+“The President gets his interest-rate cut—and all that comes with it.”
+That’s how The Wall Street Journal’s editorial board has
+responded
+to Fed Chair Powell’s widely-anticipated 25 basis point cut on Wednesday. I.e., after months of calling for cuts, the president might now get credit if everything works out fine (inflation cools, the economy soars). Or he gets blamed if voters feel sustained inflation eroding their wages.
+A race in the Indo-Pacific
+Australia’s Anthony Albanese flew into Port Moresby this week expecting a big diplomatic win with his Papua New Guinea (PNG) neighbours:
+a
+long-anticipated
+Pukpuk
+mutual defence treaty
+promising joint security, shared training, cross-enlistment between militaries, plus a US$400M sweetener for things like sprucing up PNG’s parliament.
+In short, it’d upgrade Australia-PNG ties to a full-blown alliance (PNG’s first).
+Instead, Albo (as he’s widely known) returned home with something much more mid: a
+statement
+promising the two neighbours will sign that treaty just as soon as they can.
+Maybe no big deal, right?
+They’ll cross those t’s and dot those lower-case-j’s, then sign.
+Except… it’s the second delay of its kind in as many weeks, after Australia’s other US$330M pact with
+Vanuatu
+got put on ice.
+So what’s going on here?
+In military terms, an Australia-PNG alliance would be a bit like us becoming tennis doubles partners with Roger Federer — half the duo is a fair bit stronger.
+So what’s in it for Australia?
+Canberra talks about how rapidly Australia’s ✌️
+strategic outlook
+✌️ is ✌️
+deteriorating
+✌️, which is
+diplo-speak
+for
+crikey have you seen China’s military build-up
+. Beijing also rattled some in the region via its secretive security pact with Solomon Islands in 2022, and then again when it suddenly conducted live fire drills off Australia’s coast earlier this year.
+But it’s
+not just hard power
+. China has also beefed up its regional influence via more infrastructure, trade, loans, and grants, all with fewer strings around, say, human rights.
+So the Australians, caught out in 2022, have been
+hustling to counter China
+ever since, signing big pacts with Nauru and Tuvalu (and hoping Vanuatu and PNG might join) to avoid a Solomons repeat. They’ve used a mix of tactics, too, with levers across security, migration, and even sport.
+So then… why the delays with Vanuatu and PNG?
+Vanuatu
+has voiced concerns a big pact with Australia could jeopardise ties with China. And
+PNG
+is arguing it’s just a procedural thing, but there’s word it’s now quietly sending its defence minister to Beijing for a quick check-in before signing. Both Pacific nations have also flagged the importance of respecting their own sovereignty (PNG is celebrating its 50th anniversary of independence from Australia this week).
+But the fear in Canberra is Beijing must have
+pressured
+these islands not to sign. Another consideration is the fact that, while Pacific Islands have voiced unease at being treated like pawns, they’re also now very adept at
+milking
+any competition for their own interests: Vanuatu’s deal, for example, is a massive upgrade on one it declined to ratify back in 2022.
+Anyway, the likelihood this was all just a procedural hiccup will shrink with each passing week ahead.
+Intrigue’s Take
+Drawing parallels from history, let alone literature, can be fraught, but indulge us this one chance to reflect on the polarising Rudyard Kipling novel
+Kim
+from 1901. It’s set amid the ‘Great Game’, when the Brits and Russians were competing for influence in colonial India.
+Here are four quotes that come to mind:
+“
+The Game is so large that one sees but a little at a time.
+” — this kind of geopolitical competition is opaque, long-term, and fluid, with each victory potentially only ever a mere morsel sitting within bigger jaws of defeat.
+“
+There is no sin so great as ignorance. Remember this
+” — Australia learned the hard way that decades of partnership (even if flawed) might not be enough to stop a determined rival from out-drawing you when the opportunity arises. You fill the gaps not just with intel, but investment.
+“
+I am Kim. I am Kim. And what is Kim?
+” — there’s an identity crisis at play for all involved, whether it’s Pacific Islands balancing their traditional Western ties against new opportunities out of China, or the West balancing its democratic values against the need for hard-nosed deals to counter authoritarian influence.
+“
+When everyone is dead the Great Game is finished. Not before.
+” —
+it’s a reminder how endless and all-consuming this kind of rivalry can become once it gets entrenched in every capital’s calculations. Like Kim’s
+Great Game
+in India, this escalating game in the Pacific will only end when one side gets exhausted. Not before.
+Sound even smarter:
+Australia and its Pacific neighbours are hoping to co-host next year’s COP climate talks — it’s an issue the Pacific Islands frequently cite as their top concern.
+Meanwhile, elsewhere…
+🇸🇦
+SAUDI ARABIA
+-
+Mutual defence
+.
+Saudi Arabia and nuclear-armed Pakistan have signed a mutual defence agreement, meaning an attack on one is an attack on both. (
+Al Jazeera
+)
+Comment:
+Saudi officials say this has been in the works for a while, but it seems timed in response to last week’s Israeli airstrike on Hamas members in Qatar — ie, with Gulf allies doubting US commitment, they’re signalling a willingness to diversify.
+🇬🇧
+UNITED KINGDOM
+-
+Full pomp
+.
+US tech firms have used President Trump’s UK visit to announce $42B in new investments, including data centres, Nvidia’s biggest chip roll-out in Europe, and Britain’s largest AI supercomputer (with OpenAI and Microsoft). (
+The Guardian
+)
+Comment
+: Starmer is under pressure to revive growth, and he’ll credit his lighter-touch approach to tech regulation (compared to the EU) for this big announcement. Interestingly, however, Nick Clegg (former deputy PM and an ex-exec at Meta) has described the deal as “sloppy seconds”, full of things Big Tech needed to do anyway.
+🇰🇵
+NORTH KOREA
+-
+HackGPT.
+A suspected North Korean state-backed hacker group apparently used ChatGPT to generate a fake military ID as part of a phishing attempt on a South Korean base. (
+Bloomberg
+$)
+Comment
+: As if it were needed, it’s another reminder how AI advances can empower everyone, including Kim’s cyber-Juchists. Earlier this year, there were wild reports of them using Anthropic to help land remote work jobs with Fortune 500 companies. The answer, as ever, revolves around target resilience.
+🇷🇺
+RUSSIA
+-
+Poisoning.
+Yulia Navalnaya, the widow of Russian opposition figure leader Alexei Navalny, is saying two labs found Navalny had been poisoned, contradicting Kremlin claims that he just died naturally while in a Siberian penal colony last year. (
+Independent
+)
+Comment
+: Few believed Moscow’s claims. But even fewer believed the West’s threats that there’d be consequences if Putin killed him. Instead, Putin and other despots continue to exploit the West’s aversion to confrontation.
+🇻🇳
+VIETNAM
+-
+New top dog.
+Vietnam has overtaken Thailand as the top regional destination for China’s travellers, with a 44% spike in numbers out of China helping Vietnam smash its tourism record. (
+Bangkok Times
+)
+Comment
+: Aside from Vietnam’s many pull factors, there’s also the push factor of the
+high-profile kidnapping
+of a Chinese actor by scammers in Thailand earlier this year.
+🇪🇨
+ECUADOR
+-
+Diesel protests.
+President Daniel Noboa has declared a state of emergency in parts of the country amid large-scale protests against his cuts to a $1B diesel subsidy. (
+Yahoo
+)
+Comment
+: Two big tensions on display here: one is the need to respect protest rights without a return to Ecuador’s 2022 chaos; the other is the need to get Quito’s finances back on track without alienating too many key constituencies. Neither balance is easy.
+🇪🇬
+EGYPT
+-
+Missing bracelet.
+Authorities are mounting a large-scale search for a gold bracelet dating back to the days of Pharaoh Amenemope, with all airports, seaports and border crossings now on alert to prevent its possible smuggling abroad. It was housed at the Middle East’s oldest archaeological museum (Cairo’s Egyptian Museum). (
+BBC
+)
+Extra Intrigue
+Intrigue’s commodities corner:
+Gold
+: Deutsche Bank now assesses
+gold could hit $4k/ounce
+next year amid central bank demand, worries surrounding Fed independence, and a weaker USD.
+Oil
+: US
+crude inventories dropped unexpectedly
+last week as
+net
+crude oil imports hit a record low (exports are soaring).
+Bio-fuels
+: The Australian government has pledged to invest
+$735M in next-generation bio-fuels
+as part of its net zero commitments.
+From our sponsors
+You won’t find this stock on CNBC.
+And that’s by design. But the people who know? They’re getting in ahead of tonight’s deadline.
+In fact, 12,000+ have already invested. That includes some of the same big investors who backed companies like Uber and eBay before they IPO’d.
+Get the details before this opportunity closes tonight at midnight PT.
+Mascot of the day
+Via: @congresodelperu via Instagram.
+Legislators and bureaucrats are always thinking of creative ways to enfranchise citizens: ad campaigns, free tours, meet and greets, school group visits - you name it. But Peru has now adopted a strategy as old as time:
+the cute mascot
+.
+Congresito
+(little congress)
+, the building-shaped mascot, is now making its debut across social media. But given the widespread dissatisfaction towards the Peruvian political class after a tumultuous few years, it didn’t take long for local netizens to coin a few other colourful names, like ‘
+Corrupcito
+’ (little corrupt one).
+Today’s poll
+How do you think the 'Great Game' in the Pacific will end?
+🇨🇳 A win for China
+🇺🇸 A win for the West
+🌏 A win for the Pacific
+⚖️ Some kind of balance
+✍️ Other (write us!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Who do you think is winning the AI race today?
+🇺🇸
+The US, with its monopoly on advanced chips (31%)
+🇨🇳
+China, with its talent pool and real-life applications (65%)
+✍️ Other (write in!) (4%)
+Your two cents:
+🇨🇳
+R.C.O:
+“The vast majority of AI doesn't need the latest GPU to be effective. And, algorithms always improve, likely accelerating this trend.”
+🇺🇸
+M.T.M:
+“Brain power is great, but you need the computing power to support it. China's paucity of high-end CPUs will hobble even the best minds.”
+✍️
+X.F:
+“It’s far too early to call.”

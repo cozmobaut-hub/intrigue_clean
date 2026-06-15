@@ -1,0 +1,196 @@
+URL: https://archives.internationalintrigue.io/p/italy-bans-chatgpt-privacy-concerns
+Title: 🌍 Italy bans ChatGPT over privacy concerns
+
+Hi there {{ First name | Intriguer }}.
+Instead of reading about a certain former president, why not read the
+hilarious and true tweet-story
+about the time our managing editor Jeremy met Russell Crowe! It’s got
+quite
+the plot twist and has gone viral. But best of all, you’ll see Big Russ himself responds with his own (limited) recollection of events!
+Today’s briefing is a 4.2 min read:
+🇮🇹
+Italy
+(temporarily) bans ChatGPT.
+🇷🇺
+Why the arrest of a US reporter in
+Russia
+is a big deal.
+➕
+Plus:
+A one-of-a-kind flag, how the papers are covering a huge fire in Bangladesh, and some intriguing stats about AI.
+Note:
+We’ll be taking Friday and Monday off, but we’ll be back in your inboxes on Tuesday 11 April!
+🎧
+Today’s Intrigue Outloud:
+Go deeper on Italy’s decision to ban ChatGPT, and Russia’s decision to arrest American journalist
+Evan Gershkovich
+.
+Listen here!
+🗺️ AROUND THE WORLD
+🇰🇷
+South Korea
+: Japan, the US, and South Korea held
+joint anti-submarine military exercises
+on Monday after a series of underwater missile tests by North Korea.
+🇫🇷
+France
+: President Emmanuel Macron is in Beijing to
+meet his Chinese counterpart
+Xi Jinping. He’s there with EU Commission President Ursula von der Leyen, who warned last week that China has become “more repressive at home and more assertive abroad.”
+🇦🇺
+Australia
+: Canberra has become the latest Western capital to
+ban TikTok from government devices
+, claiming it poses “significant security and privacy risks”. Last month,
+the US Congress grilled TikTok’s CEO
+about the app’s links to China.
+🇦🇷
+Argentina
+: The IMF has
+disbursed $5.4B to Argentina
+, warning the country will likely need to further raise interest rates to bring inflation under control. Argentina’s inflation topped
+100
+% in February.
+🇸🇾
+Syria
+: The US military announced it
+killed a senior ISIS commander
+during a “unilateral strike” on Monday. The man was believed to be responsible for helping plan terror attacks on European soil.
+🇮🇹
+ITALY | TECH
+Italy bans ChatGPT while Brussels watches closely
+Briefly:
+Italy has become the first Western country to
+ban ChatGPT
+, an AI-powered chatbot that’s taken the internet by storm since its launch in November. The Italian privacy watchdog accused the chatbot of unlawfully using personal data to train its algorithm, and failing to have an age verification system.
+At least, that’s what Rome is
+saying
+. But maybe Italian authorities were really just peeved by the chatbot’s declaration that it’s okay to put
+pineapple on pizza
+.
+Governments aren’t the only ones getting nervous
+about the stunning progress in generative AI.
+Last week over 1000 tech leaders, including Twitter CEO Elon Musk, signed
+a letter
+calling for a six-month pause in AI development.
+Intrigue’s take:
+ChatGPT’s owner (OpenAI) still has a few days to come up with solutions to Italy’s concerns, before the ban becomes permanent. But either way, the digital Rubicon has now been crossed.
+Germany, France, and Ireland have already reached out to Italy’s
+Garante
+privacy agency seeking further info, potentially looking to follow Rome’s example. And Brussels, never one to be out-regulated, now smells a chance to sell its own proposed
+‘AI Act’
+to EU member states and the broader public.
+But
+outright bans
+aren’t always the best way to solve a problem. Like Iran’s
+ban on mullets
+, China’s
+ban on reincarnation
+, and Turkmenistan’s
+ban on lip-synching
+, something tells us generative AI will continue unperturbed.
+Also worth noting:
+ChatGPT is
+not available
+in China, North Korea, Russia, or Iran.
+Italy’s privacy watchdog takes children’s privacy very seriously: in February it
+banned the AI ‘virtual friendship’ chatbot, Replika
+.
+📰
+GLOBAL PERSPECTIVES
+How different newspapers covered
+: A devastating fire at a clothing market in Dhaka, Bangladesh.
+Links
+:
+Straits Times
+,
+The Independent
+,
+Daily Star
+.
+Today’s briefing is sponsored by
+Margaritaville
+We’re sending you and one lucky guest to Mexico!
+We are teaming up with a couple of amazing newsletters to send one of our subscribers on an all-expenses-paid trip for two to the Riviera Maya in Mexico! The competition is being run by our friends over at the wonderful women-led sports newsletter, The Gist, and is entirely free to join!
+We’re so jealous that if we could rig the competition to win it ourselves, we absolutely would. Don’t miss out on your chance👇
+Enter today!
+🇷🇺
+RUSSIA
+| GEOPOLITICS
+Gershkovich (r) with fellow Russia correspondents in Moscow, 2019. Source: Francesca Ebel.
+Russia’s detention of an American reporter is a big deal
+Briefly:
+US citizen Evan Gershkovich appealed the Russian espionage charges against him on Monday. The Wall Street Journal reporter is the first American journalist detained in Russia since 1986.
+In detaining Gershkovich,
+Russia likely has two aims:
+Instill a deep sense of fear among journalists (foreign and domestic) that any undesirable reporting is grounds for arrest, and
+Force the US into a prisoner swap for a high-value Russian in US custody.
+You might recall the US
+recently traded
+a notorious Russian arms dealer (‘the Merchant of Death’) for American basketballer Brittney Griner. She’d been sentenced to nine years in prison for bringing less than a gram of hashish oil into Russia.
+Intrigue’s take:
+This kind of ‘hostage diplomacy’ is deplorable. And for autocrats, it’s also effective. They know voters will place
+intense
+pressure on democratic leaders to negotiate the release of a fellow citizen stuck unjustly in some distant dungeon.
+So unfortunately, there
+aren’t any good options
+for the US here. But the
+worst
+option is leaving Gershkovich there in Lefortovo Prison, notorious for its role in Stalin’s purges.
+Also worth noting:
+Gershkovich’s most recent article, published the day before his arrest, was titled
+“Russia’s economy is starting to come undone”
+(free to read).
+US Secretary of State Antony
+Blinken spoke with Russian Foreign Minister
+Sergei Lavrov on Sunday to demand Gershkovich’s release.
+Canada recently marked the second anniversary of its
+Declaration Against Arbitrary Detention
+, launched after China detained two Canadian citizens who were
+widely seen as political prisoners
+.
+👀
+EXTRA INTRIGUE
+Some stunning stats about AI:
+1.5 trillion
+: The projected global market size for AI by 2030 (in USD).
+26%
+: AI’s projected boost to China’s GDP by 2030 (from a 2017 base).
+300 million
+: The number of current full-time jobs that generative AI could expose to automation.
+15%
+:
+The percentage of Americans that feel more excited than concerned about AI in daily life.
+🏁
+FLAG OF THE DAY
+Credits: Shutterstock.
+The flag of Nepal is the only non-rectangular national flag on Earth, apparently designed to optimise its ability to fly in low-wind conditions. The two points depict the Himalayas, and the two symbols represent the harmony of the sun and the moon.
+Our rating:
+9.4/10
+🗳️ POLL TIME!
+What do you think regulators should do with ChatGPT and similar generative AI software?
+⚖️ Regulation is key
+🚫 Ban them all!
+🔨 Both regulation and bans just suppress innovation
+🖋️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll: Do you think the yuan poses much of a threat to the USD's dominance?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💸
+Yes, currencies are a zero sum game and the yuan is rising (24%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💰 No, China's economic controls limit the yuan's attractiveness as a currency (75%)
+⬜️⬜️⬜️⬜️⬜️⬜️ 🖋️ Other (write in!)  (1%)
+Your two cents:
+💰
+E.T:
+“Well, it's important to remember that currency dominance isn't just about economic strength, but also political power and stability. So, while the yuan may be gaining ground economically, the USD's status as the world's reserve currency is deeply entrenched.”

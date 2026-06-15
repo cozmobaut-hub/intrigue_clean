@@ -1,0 +1,203 @@
+URL: https://archives.internationalintrigue.io/p/what-this-latest-assassination-attempt-really-means
+Title: 🌍 What this latest assassination attempt really means
+
+Today’s briefing:
+— What this latest attempt on Trump really means
+— A US-Iran deal?
+— No good Rolex goes unpunished
+Good morning {{first_name | Intriguer}}
+. As we explore
+how foreign ambassadors will interpret this latest assassination attempt in the US
+, I’m reminded of the classic line — whether by Churchill, Kong, or some other character — that diplomacy is the art of telling people to go to hell in such a way that they ask for directions.
+We could all use a little more of that tact right now.
+Champion of the day
+Sabastian Sawe
+That’s the name of Kenya’s champion runner, who just broke the two-hour marathon barrier for the first time in history via a 1:59:30 run in the London Marathon. Ethiopia’s Yomif Kejelcha also broke the two-hour barrier in second place.
+Classified yet obvious?
+After the latest presidential assassination attempt saw Saturday night's White House Correspondents Dinner cancelled, we know at least one G20 ambassador who ended up hosting fellow envoys back at his official DC residence for pizza!
+You think they chatted about the cherry blossom bloom? The latest Nationals MLB wobbles? Or the 'omg have you tried it’ Joia Burger? No.
+You don’t need a top secret clearance to know they and every other foreign ambassador will now be pondering what this latest shooting reveals about America, starting with...
+Rising polarisation
+There've now been
+more actual attempts
+on Trump than on any other US president in modern history — Ford survived two, Reagan and Truman each survived one, and JFK fell to his first. That all sits against hard polarisation metrics, like the Pew data suggesting two-thirds of Americans now view the opposing party as a "
+serious threat to the United States
+".
+Our point?
+No foreign ambassador will be chalking Saturday night's events to random bad luck. Rather, it’s a reflection not just of deep fractures across US society, but also
+a structural risk
+at the heart of US power.
+And that leads us to...
+Declining trust
+Even before Saturday's incident, polls suggested barely 30% of Americans trusted the Secret Service to protect candidates, while maybe ~5%
+privately trust
+the federal government or legacy media (not Intrigue!) to tell the truth about what's going on.
+With trust so low, can you guess what fills the void? Yes,
+nearly half
+of all Americans now hear
+conspiracy theories
+(and up to a ~third believe them) within days of each incident.
+Compare that to 1981, when authorities told folks via America’s three TV channels that someone tried to kill the US president due to
+*checks notes*…
+an obsession with Jodie Foster? Everyone pondered the news then got back to work, which takes us to...
+Eroding bandwidth
+With a political class focused inwards, and a media class focused on the political class, it doesn't leave much bandwidth for a sensible and nuanced discussion on (say) the end-game with Iran, or countering a revisionist China, or even budget repair: DC just racked up another trillion in debt in just 71 days, its quickest in non-Covid history.
+You can see
+priority cannibalisation
+in the data, too — as our world gets wilder,
+just 25%
+of Americans cite foreign policy as a top priority, down from 35% from a year earlier.
+And that takes us to...
+Spinning rivals
+As usual, the Kremlin has milked this latest incident, with state outlets
+amplifying anything
+from weird conspiracies and alleged Secret Service incompetence, through to the shooter's own manifesto.
+Why? It all
+a
+) reassures Russians that a stable dictatorship is better than chaotic democracy,
+b
+) helps weaken US soft power and credibility across the Global South, and
+c
+) erodes US reliability among its allies, which takes us to wrap this up with...
+Fretting allies
+Friends and allies are broadcasting public statements of support, but their
+private debates around US reliability and predictability
+will continue: how long can they bank on American security guarantees when (say) DC is so consumed with its own drama?
+Now, nobody's going to ditch an alliance over this, but with allied publics already
+voicing doubts
+, it'll add weight to those abroad already quietly arguing for a careful, pragmatic hedge: think more defence spending, and more strategic autonomy.
+Intrigue’s Take
+Maybe the deeper long-term risk here isn’t so much that one of these attempts ever succeeds, so much as that all the political violence and apocalyptic rhetoric gets normalised as some kind of US background radiation. That’s how you end up a banana republic with fearful and disconnected leaders atop a cynical public no longer believing differences even
+can
+— let alone must — be resolved via the ballot box.
+Yet buried in the same facts is a tiny kernel of hope: this is all fundamentally an American problem, so you can still add it to the list of other problems this republic has tamed over the centuries: human flight, World Wars, the Great Depression, polio, the Moon. It’s a democracy that’s regenerated and reconciled after far darker chapters than this.
+So Intriguers, go take a walk, catch a fish, eat a burger, help a neighbour, then figure it out.
+Today’s briefing is presented by…
+Say user_id. Get user_id.
+Wispr Flow recognizes variable names, file references, and framework syntax mid-dictation. Speak your prompt, get developer-ready text for GitHub, Jira, or your editor. No mangled syntax. Ever.
+Try Wispr Flow free
+Meanwhile, elsewhere…
+🇮🇷
+IRAN — The latest.
+Axios claims Iran has offered the US a deal to end the war and reopen the Strait of Hormuz, while deferring nuclear talks for later. (
+Bloomberg
+)
+Comment
+:
+You could argue this is Iran blinking first. Or you could argue Iran is just testing whether Trump is willing to decouple Hormuz from nuclear talks. Either way, oil prices jumped 2% on the news, suggesting markets don’t think this is enough to ease the blockade — the whole war was about de-fanging Iran’s nuclear ambitions, not kicking that can back down the road.
+🇮🇱
+ISRAEL — Merged.
+Israel has continued to hit what it’s describing as Hezbollah targets in Lebanon, killing a reported 14 on the deadliest single day since the US-brokered ceasefire took effect. Meanwhile, former Israeli prime ministers Lapid (centrist) and Bennett (conservative) have announced they’ll merge their parties in an attempt to unseat Benjamin Netanyahu in elections due later this year. (
+NYT
+$)
+🇨🇳
+CHINA — Block that.
+Beijing has blocked Meta’s acquisition of Singapore-based but China-founded AI startup Manus, asking both companies to unwind their $2B transaction. (
+CNBC
+)
+Comment
+:
+It’s an illustration of how far Beijing is willing to go to stop China’s tech ending up in US hands — even ‘Singapore-washing’ is no longer enough. It all seems likely to have a chilling effect on China’s tech sector: why risk building that $2B startup if the Party can block your sale and bar your founders from leaving town?
+🇰🇿
+KAZAKHSTAN — Drink to that.
+Leaders of five ‘Stans (Kazakh, Kyrgyz, Tajik, Turkmen, and Uzbek) have gathered in Astana for their region’s first-ever dedicated ecological summit. (
+Times of Central Asia
+)
+Comment:
+The summit’s water focus makes sense for a largely landlocked region, and offers them a safe, unifying vector — but it’s also a reminder how Kazakhstan tries to carve out non-security issues where it can lead without stepping on Russian toes.
+🇮🇹
+ITALY — To USA you go.
+Rome is extraditing a suspected Beijing-backed hacker to the US, where he’ll face allegations he stole Covid vaccine research for China’s lead intelligence agency. (
+Reuters
+)
+Comment:
+Amid under-delivery on China’s earlier investment promises, it’s been easier for Italy’s Meloni government to push back on China’s intelligence activities.
+🇦🇺
+AUSTRALIA
+— Another round.
+Canberra has agreed to sell an undisclosed number of Bushmaster armoured vehicles to the Netherlands, which already runs a fleet of ~100. (
+ABC
+)
+Comment:
+The deal helps the Dutch re-arm amid Russian aggression and US ally-scepticism, using Aussie kit the Ukrainians have already battle-tested against Russia.
+🇵🇦
+PANAMA — Appreciate it!
+Cuba has released the three women among 10 Panamanian citizens it accused of creating anti-regime propaganda for ‘external forces’ back in February. (
+AP
+)
+Comment:
+This is a low-cost concession the regime hopes might stop Panama’s conservative government from joining any anti-regime sentiment across the Americas.
+🇲🇱
+MALI — Teetering.
+Coordinated attacks by al-Qaeda-linked groups and ethnic Tuareg rebels have hit multiple Malian cities over the weekend, and even killed the junta’s pro-Moscow defense minister just outside the capital Bamako. (
+Guardian
+)
+Comment:
+Recall Mali’s junta seized power via a 2020 coup, then spent years ousting both the UN and Western anti-jihadi forces while asking for Putin’s help instead. The junta now seems on the verge of losing the capital. We explored this one
+here
+.
+Extra Intrigue
+🤣
+Your weekly roundup of the world’s lighter news…
+Singapore has jailed an Italian citizen for
+attempted
+cheating
+after he sold a fake Rolex that turned out to be real.
+Pasta sauce brand Prego has
+unveiled a lid-shaped device
+to record and preserve family-table memories.
+In a classic if
+amusing tale of corporate restructuring
+, Bosch just bought Bosch from Bosch and Bosch.
+A British nature festival has
+offered refunds to folks
+who mistakenly thought it was for
+naturists
+.
+And an Aussie has been
+trapped in poo
+after her outback toilet collapsed.
+Photo of the day
+Screenshot via YouTube.
+A candidate list wouldn’t ordinarily grab our attention, except this one just appeared in Gaza, where folks haven’t had a vote since Hamas won in 2006 then seized power in 2007.
+What’s going on?
+The Palestinian Authority (PA) held municipal elections on Saturday, not just across the West Bank but also, intriguingly, in the central Gazan city of Deir al‑Balah!
+The PA says it chose this city because it was among the least devastated by the Israel-Hamas war and — even amid low turnout — it showcases both Palestinian unity and PA credibility to international partners, who’ve often conditioned support on PA reforms.
+Perhaps more intriguingly,
+why did
+Hamas
+allow
+(if still boycott and dispute) this small vote in Gaza?
+Probably because the vote was
+a
+) low-stakes,
+b
+) allowed Hamas to appear cooperative on Palestinian unity, and
+c
+) positions Hamas to eventually push the unpopular PA for
+national
+elections, which Mahmoud Abbas hasn’t held since he won back in 2005.
+Today’s poll
+What do you think poses the bigger long-term risk to the US?
+🤼 Internal divisions
+👾 Rising foes
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Last Thursday’s poll:
+Do you think national service should be a universal duty?
+🧑‍🤝‍🧑
+Yes, our liberties depend on it (64%)
+⛓️ No, it weakens our liberties (30%)
+✍️ Other (write in!) (5%)
+Your two cents:
+🧑‍🤝‍🧑
+E.P:
+“I was an AmeriCorps VISTA and I think if national service becomes mandatory, we should include AmeriCorps within that definition.”
+⛓️
+E.K.H:
+“Coming from the techbro oligarchs, it reads a lot like, ‘
+why aren't more poor people willing to kill and die for our bottom line?
+’ If the military can't get recruits, maybe that's a sign that what they're doing isn't actually that popular. And the elites will find a way to dodge it anyway — just ask President Bone Spurs.”

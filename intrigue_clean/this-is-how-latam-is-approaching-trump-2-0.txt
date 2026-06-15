@@ -1,0 +1,236 @@
+URL: https://archives.internationalintrigue.io/p/this-is-how-latam-is-approaching-trump-2-0304c
+Title: 🌍 This is how LatAm is approaching Trump 2.0
+
+IN TODAY’S EDITION
+1️⃣ LatAm and Trump 2.0
+2️⃣ Burner phones to visit the US?
+3️⃣ Flag of the day
+Hi {{ First name | Intriguer }}.
+El Salvador’s ultra-popular leader Nayib Bukele had a funny run-in with AI the other day, though in retrospect, he was really tempting fate:
+He coyly
+asked
+an AI bot to name the world’s most popular leader, but…
+The bot promptly awarded that title to Mexico’s Claudia Sheinbaum instead.
+That’s maybe what I fear most about our AI future: a brutal public takedown.
+Anyway, both popular leaders (alongside others like Argentina’s Milei and Brazil’s Lula) feature in today’s briefing on
+how Latin America is adapting to Trump 2.0
+.
+PS
+- As seen on
+The Rest is Politics
+, don’t miss our candid chat with Taiwan’s superstar ambassador-at-large for cyber affairs, Audrey Tang. It’s
+tomorrow
+(Wed) at 8pm EST —
+register here
+!
+THE HEADLINES
+Trump accuses Ukraine of starting war.
+The US president has again
+accused his Ukrainian counterpart of starting Russia’s invasion
+, a day after Zelensky told
+60 Minutes
+that Russian narratives are prevailing.
+South Korea expands chipmaker support.
+Seoul has announced it’ll
+expand its chipmaker support by 25% to $23B
+, citing uncertainty triggered by Trump’s tariffs and increased competition from China. And speaking of China, it’s
+reportedly
+just halted airline jet deliveries from Boeing.
+Russia to place long-range bombers in Indonesia?
+There are reports Russia has asked permission to
+house long-range bombers in the Indonesian province of Papua
+, a ~two-hour flight from the US military footprint in Australia’s Darwin. Indonesia’s defence minister has reportedly dismissed the claims.
+Saudi Arabia to repay Syria’s debt.
+Riyadh is reportedly offering to
+repay Syria’s $15M debt
+to the World Bank, a move that could allow the country to apply for additional grants to rebuild its economy.
+Richard Armitage, US diplomacy heavyweight, dies.
+George W Bush’s deputy secretary of state, instrumental in strengthening US ties with Asia (particularly Japan), has
+passed away at the age of 79
+.
+TOGETHER WITH LONDON SCHOOL OF ECONOMICS
+Learn how to address policy challenges in a data-driven world
+How can we harness quantitative tools and programming skills to design and implement better public policies? The MPA in Data Science for Public Policy (MPA-DSPP) degree programme at the London School of Economics and Political Science (LSE) is designed to train the next generation of policymakers to address policy challenges in a data-driven world.
+Recently ranked as the top university in the UK and University of the Year 2025, LSE welcomes students from around the world to its central London campus to develop the tools and new perspectives to tackle pressing policy issues.
+We are seeking applicants for the MPA-DSPP programme who share a passion for policy and data to be a part of our incoming class in London in September 2025.
+Find out more and apply
+TOP STORY
+This is how LatAm is approaching Trump 2.0
+Some major bromance on display between El Salvador’s Nayib Bukele and Trump.
+Love him or not, there’s been no recent US president like Donald Trump.
+And that puts world leaders in a bind — how do you respond?
+So let’s take a quick regional tour across Latin America:
+🇸🇻
+Nayib Bukele — the helper
+El Salvador
+’s president read the room — he saw the returning US president was both
+a)
+more transactional, and
+b)
+more focused on unlawful migration and gangs. And nowhere has seen a more spectacular (if scrutinised) success against gangs than El Salvador.
+So Bukele has played his one card, offering to host US deportees, and even declining to return a wrongful deportee at the centre of a unanimous US Supreme Court decision.
+As for what he gets in return?
+While he’s now the region’s first to score Trump’s Oval Office invite, he still copped Trump’s same 10% baseline tariffs despite their free trade deal.
+Anyway, while Trump hosted Bukele, Trump’s treasury secretary (Bessent) was visiting…
+🇦🇷
+Javier Milei — the bromance
+What Bukele has done with El Salvador’s security, Milei is trying to do with
+Argentina
+’s economy: achieve the impossible. And 16 months into his term, Milei’s cuts have indeed helped stabilise things, earning Bessent’s praise plus a $20B extension deal from the IMF.
+But interestingly, the very same day Trump’s historic
+liberation day
+tariffs rocked markets,
+Milei was actually in Mar-a-Lago
+, reiterating his support for the US president despite copping the same 10% baseline tariff. Like Bukele above, his response was a mixture of:
+a)
+hope that his close Trump ties will bear fruit in ongoing negotiations, plus
+b)
+relief that the 10% slap could’ve been worse.
+But while Bukele and Milei have emphasised their Trump alignment, there’s...
+🇲🇽
+Claudia Sheinbaum — tough
+‘Tough’ is
+Trump
+’s word for
+Mexico
+’s Sheinbaum, not ours. And it’s been interesting to watch that quiet regard emerge, despite Trump’s fiery rhetoric on Mexico plus the fact they come from opposite ends of the political spectrum.
+Like her populist predecessor (‘AMLO’), she’s avoided public spats where possible, instead emphasising her willingness to talk and address Trump’s border and trade concerns.
+The result is she’s avoided the 10% baseline tariffs altogether without Milei’s chainsaw or Bukele’s prison, though she’s still grappling with Trump’s higher fentanyl-linked tariffs.
+🇧🇷
+Luiz Inácio Lula da Silva — under the radar
+Lula isn’t known for avoiding the limelight, but he’s not been in a rush to engage Trump either — they’ve seemingly never even met. So why would Lula avoid Trump?
+Because Lula can
+: One of Trump’s few major trade surpluses is with Brazil, and
+Because Lula must
+: His predecessor (Bolsonaro) is close to Trump, still enjoys some popular support, and now faces charges for his role in Brazil’s own version of January 6th. So it’s hard to see a Trump-Lula meeting running smoothly.
+Anyway, Lula’s low-key approach seems to be working — while Trump’s global steel and aluminium tariffs will hurt, Lula otherwise got the same 10% baseline as the more Trump-aligned Bukele and Milei above.
+INTRIGUE’S TAKE
+So what to make of all this?
+Maybe it doesn’t matter
+whether you play friend, cheerleader, tough gal, or low key — the results all look pretty similar. Even Colombia, whose leftist leader (Petro) got in an early repatriation spat with Trump, has still walked away with the same 10% tariffs. Panama’s Trump-friendly Mulino? 10% Ecuador’s Trump-friendly Noboa? Also 10%.
+So what’s Trump’s play here?
+While in Buenos Aires, Bessent argued that Trump 2.0 wants to bring the region
+“away from what has happened on the African continent”,
+where
+China
+has signed what he dubbed
+“rapacious deals.”
+And that jives with another theory doing the rounds, which is that Trump 2.0 is seemingly reviving
+the Monroe Doctrine
+— it’s the principle articulated in James Monroe’s 1823 State of the Union address, declaring the Western Hemisphere off-limits to foreign powers. Not only do Trump’s moves on Panama fit that model, but even his moves on Greenland (
+geographically
+part of the Americas).
+But you can bet US allies beyond the Americas will be wondering where this leaves them.
+MEANWHILE, ELSEWHERE…
+🇨🇳
+China
+:
+Xi Jinping has wrapped his visit to Vietnam
+and now heads to Malaysia and Cambodia. He’s a regular visitor across the region, though this latest tour takes on new meaning as Xi seeks a joint response to US tariffs.
+🇪🇺
+EU
+: The EU Commission is now issuing
+burner phones to staff travelling to the US
+, citing espionage risks. It’s a common practice, though usually reserved for
+rival
+capitals where espionage risks run high (think Beijing or Moscow).
+🇧🇩
+Bangladesh
+: Authorities have issued an
+arrest warrant for British MP
+Tulip Siddiq on corruption allegations that she denies. She’s the niece of Bangladeshi authoritarian leader Sheik Hasina, who protestors ousted from power last year.
+🇨🇺
+Cuba
+: Trump has moved to
+withdraw the visas of foreign officials
+whose governments host Cuba’s medical missions. Havana has long deployed (and under-paid) doctors as a diplomatic tool plus a way to earn foreign currency.
+🇩🇿
+Algeria
+: Algiers has
+expelled French embassy staff
+after Paris arrested an Algerian consular official over the kidnapping of an Algerian dissident. French-Algerian ties were just starting to recover after years of mutual recriminations.
+FROM OUR SPONSORS
+Explore Foreign Affairs Today
+Expert essays on today’s most pressing geopolitical debates curated by the editors of Foreign Affairs. Delivered directly to your inbox every weekday.
+Sign up for free.
+EXTRA INTRIGUE
+Here’s what people around the world are googling
+Folks in
+🇨🇺
+Cuba
+looked up ‘
+Mario Vargas Llosa
+’ after news broke that the
+Peruvian novelist and Nobel laureate died
+at the age of 89.
+🇳🇴
+Norwegians
+searched for ‘
+Katy Perry space
+’ after the US pop star joined a
+brief space flight
+on a Jeff Bezos-owned Blue Origin rocket.
+And
+🇦🇺
+Australian
+sports fans googled ‘
+Rory McIlroy
+’ after the Northern Irish golfer won the
+2025 Masters
+, completing the coveted career Grand Slam.
+FLAG OF THE DAY
+You think you know everything there is to know about flags and
+bam
+, it turns out
+planets
+have flags, and you have to rethink your entire flag-based belief system.
+The tricolour above is the unofficial flag of Mars, designed in 1998 by NASA scientist Pascal Lee during an arctic expedition. The three colours represent the hope for the planet’s eventual evolution from a desert planet (red) to one filled with vegetation (green) and water (blue).
+Extra fun fact:
+The flag's design also references Kim Stanley Robinson's legendary science-fiction trilogy:
+Red Mars
+,
+Green Mars
+, and
+Blue Mars
+.
+Intrigue’s rating
+: Out of this world/10.
+DAILY POLL
+Do you think this US approach to LatAm will curb China's influence in the region?
+👍 Yes, it's blunt but effective
+👎 No, strong-arming your neighbours is counterproductive
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+What do you think is going on with this 'triple yasu' in US assets?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+😎
+Chill, it'll blow over (23%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💥
+Something's broken (73%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (4%)
+Your two cents:
+💥
+S.B:
+“Confidence is what has driven US growth, and confidence is now broken.”
+😎
+L.D:
+“While investors may wish to exit the USA altogether, there's no place else to go. So unless they move into gold, they're kinda stuck.”
+✍️ C.O.T.E:
+“I doubt this panic will last, given the reality of the USA's financial position in the world.”
+✍️
+R.L:
+“Trust will need to be rebuilt, but people have short-term memory (even investors), so if Trump keeps things steady on his end, we could forget about this turbulence by next year.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 120k+ leaders each day.
+It’s free to subscribe
+.

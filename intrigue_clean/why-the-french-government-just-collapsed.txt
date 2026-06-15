@@ -1,0 +1,205 @@
+URL: https://archives.internationalintrigue.io/p/why-the-french-government-just-collapsed
+Title: 🌍 Why the French government just collapsed
+
+IN TODAY’S EDITION
+1️⃣ What just happened in France
+2️⃣ Diplomats on the move
+3️⃣ Soup of the day
+Hi {{ First name | Intriguer }}.
+Politics can be a fickle game. One minute your fortunes are up, nek minnit you’re out of the game with your political career being compared to the lifespan of a lettuce (spare a thought for Liz Truss).
+The latest victim claimed by the game of politics is France’s prime minister. He was only appointed into the role in September, and has now been ousted in a historic no-confidence vote. What went wrong? Another day, another intriguing top story. Let’s dive in.
+THE HEADLINES
+South Korea’s defence minister resigns, police open investigation.
+Defence Minister Kim Yong-hyun has
+resigned over his role in President Yoon’s failed martial law decree
+earlier this week. The decree was reportedly Kim’s idea. He’s now been replaced by South Korea’s ambassador to Saudi Arabia, Choi Byung-hyuk (a former general). Meanwhile, police have opened an investigation into President Yoon for alleged "
+insurrection
+". The opposition could lead a vote to impeach President Yoon as early as tomorrow (Friday), but Yoon’s own party is now vowing to oppose such a move.
+Trump selects Peter Navarro as senior economic advisor.
+Navarro, an economist and senior advisor during Trump 1.0, will now be
+Senior Counselor for Trade and Manufacturing
+under Trump 2.0. He recently served four months in prison for refusing to testify before a congressional investigation into January 6th. It’s unclear how his new gig will interact with Trump’s US Trade Representative — Trump’s nominee for that role is trade lawyer and former first-term aide, Jamieson Greer.
+US and Russian military chiefs speak.
+The US chair of the joint chiefs (Brown) has
+spoken with his Russian counterpart
+(Gerasimov) for the first time in over a year — it’s unclear what exactly they discussed, though it was likely an attempt to maintain dialogue as tensions spike. Meanwhile, there are reports Russia is (again)
+gathering forces close to Kherson
+in hopes of gaining a foothold over the key Dnipro River before Trump takes office.
+Bitcoin passes $100,000.
+Bitcoin has hit a new record
+, hours after Donald Trump announced he would appoint the crypto-friendly Paul Atkins to lead a key regulator, the Securities and Exchange Commission (SEC). Atkins is a former SEC commissioner.
+ICC prosecutor seeks arrest warrant for Myanmar military leader.
+Karim Khan is looking to bring Myanmar’s military junta leader,
+Min Aung Hlaing, before the International Criminal Court
+for alleged crimes against humanity perpetrated against the Rohingya minority.
+Health insurance CEO assassinated in Manhattan.
+A masked assailant
+has shot and killed UnitedHealthcare CEO Brian Thompson
+outside his company’s investor conference in New York. The shooter remains at large and there’s no official word on a motive, though there are reports it may have been related to grievances over health coverage.
+TOP STORY
+Why the French government just collapsed
+Lawmakers have toppled Michel Barnier’s government.
+Thought you’d get a break from Western political turmoil? Think again!
+As we foreshadowed earlier this week, 331 of France’s 577 legislators cast ballots overnight (Wednesday) to oust the government of President Macron’s hand-picked prime minister, Michel Barnier.
+The last time something like this happened in France? All the way back in 1962, when a government collapsed amid the fallout from the Algerian War of Independence.
+But France’s latest political woes didn’t start this week.
+Quick recap: France’s populist-right
+National Assembly
+party (think Marine Le Pen) delivered a real beating to President Macron’s centrists at the EU’s parliamentary elections in June, so Macron then shocked everyone by
+calling his own snap parliamentary
+elections
+— he was basically betting voters wouldn’t pull that stunt again closer to home.
+And was he right?
+Yes and no. Voters didn’t put the
+National Assembly
+in power, but they didn’t put his own centrists back in power either. In fact, they put nobody in power, delivering an almost three-way tie between the left (182), centre (168), and right (143).
+So Macron (whose own term runs until 2027) then had to figure out who could cobble the numbers together to form a new government. He went with centre-right former Brexit negotiator
+Michel Barnier
+, achieving the difficult balance of equally irking everyone
+just
+enough to keep the show on the road. But the left (who won the most seats and so wanted the top job) were particularly peeved, and rejected Barnier from the outset.
+The result?
+Barnier’s only hope was the continued support of the right, and that’s what changed this week: Le Pen finally pulled her support, and Barnier’s government collapsed 90 days after he formed it. For those playing at home, that’s a crisp 8.1 Scaramuccis, and the shortest-lived government in France’s modern history.
+Why did Le Pen pull her support?
+Barnier is an old-school fiscal hawk and Le Pen is an old-school populist: so while Barnier was desperate to raise taxes and cut spending to get France’s yawning deficits back on a more sustainable track, Le Pen demanded that Barnier (for example) drop a proposed tax hike on electricity, and continue reimbursements for certain types of drugs.
+Barnier kept playing ball, making $10.5B or so in concessions, until he drew the line at Le Pen’s last costly demand:
+keeping pensions in line with inflation
+. So she withdrew her party’s support, describing Barnier’s budget as “
+dangerous, unfair, and punitive
+”.
+So, what’s next?
+Macron now has to find
+a new prime minister
+who might cobble together the numbers to survive, but that’s not easy when you remember Garnier’s government was not only France’s shortest-ever, but also only emerged after France’s
+longest
+-ever negotiations.
+So you might think okay, Macron should just call fresh parliamentary elections again to let the people decide, right? But France’s constitution only lets the president pull that stunt once a year, so he’s gotta wait until next summer.
+Alternatively,
+fresh elections
+could happen if Macron resigns, something he’s already ruled out - but there’s a growing list of lawmakers (including Le Pen) now calling on him to go.
+Meanwhile,
+Macron
+himself has just returned from a state visit to Saudi Arabia and will deliver a national address tonight (Thursday), though he doesn’t have many options:
+a) Find another centrist, but they’ll just bump up against Le Pen again
+b) Hand the reins to his rivals on the left or right, who see the world very differently, or
+c) Resign and trigger elections, which Le Pen could then win anyway.
+Word is Macron wants to go with option a) again, with a new PM in place before the Notre Dame Cathedral’s reopening ceremony on Saturday.
+INTRIGUE’S TAKE
+So what does all this palace intrigue mean for the rest of us?
+First
+, there’s a risk this political crisis could metastasise into a broader financial one. France’s projected deficit of 6.1% of GDP has already spooked investors, and startled the EU (which now limits deficits to 3% of GDP).
+But
+second
+, a national crisis in France can quickly evolve into a regional one — with each day that Europe’s key powers (France and Germany) are both mired in domestic turmoil, the chances of them driving solutions to Europe’s challenges get slimmer.
+Also worth noting:
+Barnier is scheduled to visit Elysée Palace this morning (Thursday) at 10am local time to formally present his government's resignation. While he could stay on in a caretaker role, it’ll be up to his successor to solve the budget crisis.
+If France’s lawmakers can’t approve a new budget for 2025, the old budget basically gets repeated as an emergency measure — this averts a US-style government shutdown, but allows France’s financial woes to worsen.
+MEANWHILE, ELSEWHERE…
+🇧🇩
+Bangladesh
+: Protestors have
+attempted to breach two Bangladeshi consulates
+in neighbouring India this week after Bangladeshi authorities arrested a Hindu monk. Hindu-majority India has expressed concern about the treatment of Hindus under Bangladesh’s interim government.
+🇳🇴
+Norway
+: Norway’s $1.8T sovereign wealth fund (the world’s largest) has decided to sell its stake in
+Israeli telecom group, Bezeq
+. The fund’s ethics watchdog said Bezeq was
+“helping to facilitate the maintenance and expansion”
+of unlawful Israeli settlements in the West Bank
+by providing telecom services.
+🇦🇺
+Australia
+: Sydney-based defence company DroneShield has
+accepted an $8.2M repeat order
+from an unspecified European military, expecting to deliver its counter-drone systems in the next three months. DroneShield’s stock has more than doubled over the past year as demand for counter-drone tech grows.
+🇲🇽
+Mexico
+: Starting from next year, cruise ships
+will have to fork over $42 per passenger daily
+while docking in Mexico, according to new legislation passed by the senate this week. The tourism industry has criticised the move, arguing Mexico could now lose business to other Caribbean ports.
+🇳🇪
+Niger
+: The ruling junta in Niger has
+seized control of a majority French state-owned uranium mine
+that’s developing one of the world’s largest deposits. The junta has long pushed for a greater share of mining profits, and there’s speculation that with France sidelined, Russian or Turkish firms could be invited to take the project forward instead.
+EXTRA INTRIGUE
+Diplomats on the move ✈️
+In the Middle East
+,
+Mongolian leader Oyun-Erdene Luvsannamsrai has now
+landed in Bahrain
+after attending a UN meeting on desertification
+in Saudi Arabia
+.
+In Russia
+,
+the Malaysian and Belarussian ambassadors
+met this week
+to discuss organising a business summit to drive more trade between Minsk and Kuala Lumpur.
+In the Americas
+,
+Donald Trump has named Adam Boehler (former chief of the US International Development Finance Corporation) as his next
+special presidential envoy for hostage affairs
+.
+And in Central Asia
+,
+after 33 years of negotiations, Kyrgyzstan and Tajikistan say they’ve come to an
+agreement over their shared border
+after their respective national security chiefs met in Batken.
+FROM OUR FRIENDS
+Underpriced stories at the intersection of climate and business
+If you like International Intrigue and want to learn more about global climate and energy dynamics, check out
+Keep Cool
+. Keep Cool covers underpriced stories, trends, and technologies at the intersection of climate and business, taking care to go beyond stories about EVs and renewables.
+Sign up and read here.
+SOUP OF THE DAY
+Credits: Tourism Authority of Thailand, via Bangkok Post
+UNESCO has added the famous Tom Yum Kung prawn soup to its list of Thailand’s intangible
+cultural heritage
+. The spicy, citrusy dish joins an elite club that already includes Thai massage, the Khon Mask dance, and the splashing Songkran Festival. So, wanna try the soup? The Thai government actually runs a program to guarantee the authenticity of thousands of Thai restaurants all around the world —
+find one near you
+.
+Extra fun fact:
+UNESCO also added Japan’s
+sake brewing to its list
+.
+DAILY POLL
+What do you think Macron should do next?
+🤝 Appoint another centrist
+👈 Appoint a PM from the left
+👉 Appoint a PM from the right
+💊 Resign and trigger fresh elections
+🧊 Wait and let tensions cool
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+How would you characterise Yoon's martial law gambit?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🪖
+A failed self-coup  (56%)
+🟨
+🟨
+🟨
+🟨
+⬜️⬜️
+🔨
+A misguided attempt to impose order  (40%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (3%)
+Your two cents:
+🪖
+R.C:
+“A failed self-coup, but with more desperation than ambition or strategic foresight.”
+🔨
+J.S:
+“A failed attempt to take control via a 'wake up call' — instead it'll lead to the end of his presidency which will be remembered for handbags and this martial law order.”
+✍️ H.C.:
+“None of this happens without hubris… an echo chamber of bad advice, and a lack of strategic chops.”

@@ -1,0 +1,220 @@
+URL: https://archives.internationalintrigue.io/p/what-just-happened-in-south-korea
+Title: 🌎 What just happened in South Korea
+
+IN TODAY’S EDITION
+1️⃣ What just happened in South Korea
+2️⃣ The Intrigue jobs board
+3️⃣ Word of the day
+Hi {{ First name | Intriguer }}.
+During my posting in Beijing, I took a weekend trip to hike Changbaishan, a large volcano that straddles the Chinese-North Korean border. North Korean state mythology claims Kim Il-sung launched his communist revolution from its crater lake (the mountain is known as Paektu in Korean).
+Since Kim Il-sung’s revolution, the two Koreas have run a rather stark natural experiment: the North has receded into an impoverished, militarised, family dictatorship while the South has become an increasingly wealthy, free and modern democratic state.
+Even more importantly, Seoul has become one of my favourite cities with incredible food and drink, amazing locals, and just enough cultural sights to keep you busy without getting swamped by tourists in the warm months.
+That’s why it was such a shock when South Korean President Yoon Suk Yeol declared martial law during an unscheduled televised address yesterday. It was the kind of thing we’ve come to expect from his counterpart in the north, and even though he’s since withdrawn his decree, the ramifications of his remarkable gambit are likely to ripple out for weeks to come. That’s our main story today.
+THE HEADLINES
+Intel starts hunt for new CEO.
+Interestingly, Reuters is reporting that the board’s
+short-list includes Lip-Bu Tan
+, the industry veteran who stepped down from the board in August just two years after he was first brought in to help with the turnaround. He had become increasingly critical of the last CEO’s manufacturing strategy, and wanted steeper staff cuts. You can check out our take on the Intel turmoil
+here
+. And speaking of chips, Beijing has responded to Washington’s latest chip industry export controls by further restricting its own
+gallium, germanium, and antimony
+exports to the US. China dominates the global supply of the critical minerals, which have widespread military applications.
+Mixed economic data out of China.
+The latest Caixin/S&P Global services purchasing managers' index (PMI) has fallen to 51.5 from 52.0, suggesting
+China’s services sector is cooling
+(though anything above the 50-mark indicates there’s no contraction). Official PMI data painted a similar picture over the weekend, as Donald Trump's tariff threats add an extra dash of uncertainty for the world's second-biggest economy.
+Zelensky calls for reinforcement of his eastern flank.
+Ukraine’s president has used
+his nightly video address
+to call for major reinforcements in parts of eastern Ukraine, where Russian forces have been advancing (at staggering cost) at the fastest rate since the early days of Putin’s full-scale invasion.
+Namibia elects new president.
+Bucking the anti-incumbent trend, electoral authorities have declared current vice president Netumbo Nandi-Ndaitwah, the
+winner of last week’s presidential election
+. Her ruling Swapo party has held power since Namibia’s independence from apartheid South Africa in 1990. Meanwhile next door in Angola, US President Joe Biden has delivered
+a landmark address
+, acknowledging the history of slavery, highlighting US investment in a major rail project, and urging continued US partnership across the continent.
+Oil prices edge up on geopolitical wobbles.
+The shaky Israel-Hezbollah ceasefire, South Korea political turmoil, a rebel breakthrough in Syria, and US sanctions targeting Iranian oil transport, have all sent
+Brent crude up by 2.5%
+, curbed slightly by weaker demand from China.
+A MESSAGE FROM THE LONDON SCHOOL OF ECONOMICS
+Enhance your policy skills with the Master of Public Policy (MPP)
+Are you ready for the next step in your career?
+Designed for professionals with 5+ years experience, the Master of Public Policy (MPP) programme at London School of Economics’ School of Public Policy gives professionals the opportunity to be a part of a global cohort and enhance their academic and professional skills in just 9 months.
+MPP students will join LSE’s expert faculty and a cohort of policy professionals from around the world to develop new perspectives, explore possible new horizons, and build the confidence to use their studies to tackle the big public policy problems of today and tomorrow.
+Applications are open for our 2025 intake, and we are seeking applicants who want to be a part of a diverse learning community and develop the academic and practical skills to make a positive change in global governance.
+Find out more
+TOP STORY
+What just happened in South Korea
+Pictured: South Korean President Yoon with the National Assembly vote in the background
+Thousands of South Koreans hit the hay last night (Tuesday), blissfully unaware that by sunrise, the country would have flirted with martial law then quickly hit ctrl-z.
+South Korea’s president, Yoon Suk Yeol, kicked things off with an unexpected late-night national address declaring martial law, citing
+“threats posed by North Korea's communist forces”
+and a need to
+“eliminate anti-state elements.”
+Here’s a quick timeline:
+⏰
+10:23pm
+—
+President Yoon announces emergency martial law
+⏰
+11:00pm
+—
+Martial law kicks in
+⏰
+11pm
+-
+midnight
+—
+Lawmakers
+scramble
+to the legislature, jumping over perimeters and wrestling through police barricades
+⏰
+Midnight-3:00am
+— Anti-president protestors rally outside
+⏰
+12:48am
+— Enough
+lawmakers make it inside to meet the minimum 150 threshold, while fending off military attempts to break in and block any vote
+⏰
+1:04am
+—
+Legislature
+unanimously
+(190-0) declares the martial law invalid
+⏰
+4:26am
+— President Yoon accepts the rebuke and withdraws his decree
+Never mind, then?
+President Yoon’s move was, ahem, bold considering his 19% approval rating and his party’s minority in the legislature. But it was also a major shift from South Korea’s modern political norms: martial law was common for much of the 1960s and 70s, leaving a bitter legacy (which Nobel Prize winner Han Kang
+has chronicled
+) — so to suddenly have martial law again for the first time since Korea’s 1980s democratisation will have been a tough pill for many to swallow this morning.
+So why’d he do it?
+There was no sudden threat from Pyongyang. That’s right, no en masse trash balloons, no military manoeuvres, and no missile tests. Instead, Yoon seemed to be linking the persistent threat from the hermit North (they’re still technically at war) with his own political woes back home in the South (fervent opposition at every turn).
+And sure, Seoul’s opposition-led legislature has been absolutely firing lately, pushing legislation that’s
+Moved to impeach top prosecutors
+Rejected a government budget proposal, and
+Thrice voted to investigate first lady Kim Keon-hee.
+In response, President Yoon has skipped budgetary sessions (a first in over a decade) and launched character attacks against Korea’s opposition leader for alleged money laundering into North Korea.
+It’s all become pretty unworkable.
+Yoon barely won power in 2022 with Korea’s slimmest-ever margin. He ran on a platform of tackling the belligerent North head-on, firming up ties with the US plus Japan (in a historic conciliation that not everyone welcomed) in order to end
+“the regime”
+. That was a big shift from his predecessor (Moon), who signed pacts with the North and even visited.
+So when you take that big shift, tight margin, and frame it all against a backdrop of rolling doctor strikes, inflation, clashes with the media, an abrasive style, and deteriorating ties with the North, you end up with a resurgent opposition absolutely crushing April’s parliamentary elections with the highest turnout in 32 years.
+So, after months of gridlock, President Yoon figured he’d try his luck by lighting a match —  arguing he needed a state of emergency to break the impasse, which was benefiting the North. But it seems his manoeuvre backfired pretty spectacularly, with many describing it as an attempted ‘self-coup’.
+So what’s next for Yoon?
+Lighting that match was a gamble, and he’s now burnt: protesters last night were chanting
+“lift martial law, protect democracy, impeach President Yoon”,
+and there’s a solid chance those calls will echo in Seoul’s historic
+Gwanghwamun Square for weeks to come. Yoon’s single five-year term technically doesn’t end until 2027, but if 200 of the National Assembly’s 300 lawmakers vote to impeach him, the 63-year-old leader is done.
+And remember how many lawmakers voted against his martial law decree? All 190 of the folks who managed to get inside.
+A coalition of opposition parties is already drafting up the articles of impeachment for treason.
+INTRIGUE’S TAKE
+Staying put in Korea for a moment, you could argue this was
+a stress test
+for a relatively young democracy, and it passed. But there are warning lights on the dash: while lawmakers were quick to reject Yoon’s decree, Korea’s security establishment was quick to obey it — his defence minister (a former classmate) quickly tapped the army chief to lead arrangements, and in a society that’s technically still at war, with mandatory two-year conscription, that set our spidey senses tingling.
+Then zooming out a little, Intriguers will know several of the world’s leading free powers are now stuck in
+varying degrees of political turmoil
+back home: Germany, France, the UK, Korea, Japan, and more.
+And that’s not a coincidence, by the way — after decades of relative peace and prosperity, our new multipolar world is placing new kinds of pressure on a relatively untested political class. And as they all scramble to respond at home, they end up leaving more space for problems to metastasise abroad.
+Also worth noting:
+The President's chief of staff and senior aides have resigned. If Yoon resigns or is removed, Prime Minister Han Duck-soo will fill in as leader until a new election is held within 60 days.
+The top Korean conglomerates (‘chaebols’) have all held emergency meetings this morning (Wednesday), weighing up foreign exchange and other risks stemming from the political turmoil (the won has stabilised after an initial fall).
+The autocratic North hasn’t yet commented, but it’ll welcome a distracted and divided South, and might use the chaotic scenes to highlight to its own people the alleged failings of any democratic alternatives.
+Sweden’s prime minister has postponed his scheduled visit to Seoul, while the US (Korea’s key ally) has postponed various military talks and exercises. It’s unclear what’ll happen to next week’s defence minister talks in Seoul with the US and Japan.
+MEANWHILE, ELSEWHERE…
+🇳🇵
+Nepal
+: The landlocked country’s new PM (KP Sharma Oli) has signed a
+nine-point agreement
+with China’s leader Xi Jinping to deepen their economic, industrial, and infrastructure ties. Oli bucked a long-term trend by visiting Beijing instead of New Delhi on his first foreign trip since taking office in July.
+🇷🇴
+Romania
+: TikTok officials testifying before the EU Parliament have confirmed the social media platform recently
+took down several networks
+seeking to influence the Romanian elections. Scrutiny of the platform has intensified after hard-right dark-horse candidate and TikTok aficionado Călin Georgescu made a surprise appearance in first place (runoffs are this weekend).
+🇵🇭
+Philippines
+: Manila has deployed its navy and air-force to
+shadow a Russian submarine
+passing through its exclusive economic zone (EEZ). The sub said it was heading home after last week’s joint exercises with Malaysia, though it then popped up again in Malaysia’s EEZ, claiming it was awaiting better weather to continue its journey.
+🇺🇸
+USA
+: US-based tech giant Meta (Instagram, WhatsApp, Facebook) is planning a massive
+$10B underwater cable circling the globe
+, in hopes that sole ownership will help it manage geopolitical risks. Meta hasn’t released details, though there’s speculation the cable may terminate in India to take advantage of the country’s lower-cost data centres.
+🇳🇬
+Nigeria
+: Africa’s most-populous nation (Nigeria) has officially requested South Africa's endorsement to
+join the G20 club of systemically important economies
+, days after South Africa took over the G20’s rotating presidency for 2025. Nigeria has also expressed interest in joining BRICS.
+A message from our sponsor
+Struggling with Stress? Use your FSA/HSA Dollars to Start Therapy Today with BetterHelp
+Do you find yourself stuck in a loop of worry and self-doubt? You’re not alone. Millions struggle with these thoughts, but you don’t have to.  Answer a free 5-minute quiz to get matched with a therapist today. Plus, use your FSA/HSA dollars to cover therapy and enjoy 30% off your first three months.  Act now—all new users receive an additional one (1) free month of therapy.
+Reclaim Your Calm
+EXTRA INTRIGUE
+We’ve rounded up some jobs we thought you might like:
+Risk analyst @
+S&P Global
+in London
+Admin intern @
+Political Intelligence
+in Brussels
+Fintech Analytics Tech Lead @
+Vodafone
+in Giza, Egypt
+Deputy Press and Communications Attaché @
+French Embassy
+in Wellington, NZ
+WORD OF THE DAY
+Credits: Oxford University Press.
+It’s official. We now have a new
+Oxford Dictionary word of the year
+, and it’s got something to do with our founding mission.
+‘
+Brain rot
+’ is defined as being the “
+Supposed deterioration of a person’s mental or intellectual state, especially viewed as a result of overconsumption of material (now particularly online content) considered to be trivial or unchallenging
+”.
+To clarify, we at Intrigue want to help
+prevent
+brain rot. Anyway, hopefully we can do that *without* resorting to the 2024 word of the year over at Macquarie Dictionary:
+They’ve defined ‘
+enshittification
+’ as “
+the gradual deterioration of a service or product brought about by a reduction in the quality of service provided, especially of an online platform, and as a consequence of profit-seeking.
+”
+DAILY POLL
+How would you characterise Yoon's martial law gambit?
+🪖 A failed self-coup
+🔨 A misguided attempt to impose order
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Do you think the semiconductor industry should ever be subsidised?
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+💪
+Yes, if it's critical to national security (66%)
+🟨
+🟨
+⬜️⬜️⬜️⬜️ ⚖️ No, let the market decide (27%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (8%)
+Your two cents:
+💪
+D.D:
+“Usually, I'd say let the markets decide, but having all the most advanced chip manufacturing concentrated on an island off mainland China that isn't even recognized by the US as a sovereign country is very risky.”
+⚖️ A:
+“Subsidies generally do not strengthen companies. Much like protectionist strategies, they tend to become a crutch.”
+✍️ C.D:
+“For now, this is something the market should normally drive, but don't be surprised that the US government subsidises the industry if a) Great Power conflict is imminent, or b) the US industry teeters and needs a shot of capital to avoid collapse.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

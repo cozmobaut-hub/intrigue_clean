@@ -1,0 +1,248 @@
+URL: https://archives.internationalintrigue.io/p/did-china-just-dethrone-openai
+Title: 🌍 Did China just dethrone OpenAI?
+
+IN TODAY’S EDITION
+1️⃣ Has China dethroned OpenAI?
+2️⃣ Another undersea cable cut
+3️⃣ Debut of the day
+Hi {{ First name | Intriguer }}.
+There was once a cabinet minister from a country that’ll remain anonymous. He wanted to cut regulations — sure, partly because he felt many were just stifling the economy and daily life. But also, he saw each regulation as a potential corruption risk: Need that permit? Just slip the regulator a bribe.
+So the minister launched a nation-wide competition inviting citizens to submit the most annoying, least necessary regulations — the best example would win a cash prize. And sure enough, he was soon swamped with tens of thousands of submissions, most of which indeed pointed to needless rules that this government subsequently ditched.
+But the winner? It was a mother who shared how she needed ~30 official signatures
+each month
+to secure ongoing medical treatment for her young daughter: a silly and heart-breaking problem, with an innovative, transparent, and user-driven solution.
+Anyway, let’s get you the latest on
+China’s latest AI model
+, and why it’s rattling folks across Silicon Valley, Wall St, and DC.
+THE HEADLINES
+Gazans return north after deal reached.
+Israel has agreed to allow thousands of Gazans to return north after
+Hamas agreed to release a hostage
+(held by Islamic Jihad) who was due to be returned already. Meanwhile, both Egypt and Jordan have
+rejected
+an idea floated by Donald Trump to resettle over a million Palestinians in either country.
+US halts Colombia tariffs after deportation deal.
+The Trump Administration has held off
+imposing 25% tariffs on Colombia
+after the country agreed (following an initial refusal) to accept deportation flights of Colombian citizens. The White House says the potential tariffs will still be “
+held in reserve
+”.
+China factory activity contracts.
+Manufacturing activity
+declined in January
+for the first time in four months as workers returned home for Lunar New Year. Meanwhile, there are reports of
+a new US bid
+to buy TikTok, that’d see the US government owning 50% of a new entity merging TikTok’s US business with US startup Perplexity. There’s been no immediate word from TikTok or China.
+DR Congo severs ties with Rwanda as rebel group advances.
+The Democratic Republic of the Congo (DRC) has
+severed ties with neighbouring Rwanda
+as the Rwanda-backed M23 rebels advance towards DRC’s regional hub of Goma. DRC and Rwandan leaders will reportedly soon meet for talks brokered by Kenya.
+Belarus election ends predictably.
+To nobody’s surprise, long-time Belarusian dictator Aleksandr
+Lukashenko
+✌️
+won
+✌️
+his seventh five-year term
+over the weekend. Western governments have labelled the vote a sham, given all real opponents have either been jailed or exiled.
+TOP STORY
+Did China just dethrone OpenAI?
+OpenAI dropped the world's first-ever 'reasoning' AI chatbot back in September, called 'o1'. The Silicon Valley-based pioneer spent vast amounts of cash and time to release this AI bot that can ‘reason’ its way through more complex problems. And notwithstanding OpenAI’s name and founding philosophy, it again kept its coding secret.
+But last week, China-based AI startup DeepSeek dropped its own rival called ‘R1’, which apparently took only 60 days to build, less than $6M to train (<10% what US firms spend), and now costs ~98% less than US rivals to run. Oh, and the entire code is now free online.
+That’s all rattled not only Silicon Valley, but also Wall St and DC. So let's take a quick tour:
+Why Silicon Valley is rattled
+First
+, DeepSeek basically just released a legit
+Ferrari at the price of a Daihatsu
+— building off existing US open-source models, it used sweet software tricks to radically reduce AI's reliance on expensive hardware (chips). So, who's gonna pay for a US-based OpenAI Ferrari now there’s a China-based equivalent for a tiny fraction of the cost?
+Second
+, there are now real questions around Silicon Valley’s moat strategy — i.e. relying on sheer cost and complexity to keep your competitors at bay. Sure, you can try to keep the '
+how
+' a secret, but once you announce the '
+what
+' (AI reasoning, in this case), the DeepSeek story suggests your moat might only last days. That might mean...
+Third
+, by lowering the
+cost barrier
+to entry, DeepSeek has now opened the field for countless smaller firms to start driving more AI-based disruption across more industries, and at a faster pace. That potentially means the Valley’s reward leans less on any moat, and more on the 'final mile' of connecting the underlying AI to end users.
+But
+fourth
+, this also raises the prospect of a China-based firm now setting the
+standards
+for how AI progresses — DeepSeek’s open-source model is twice as big as Meta’s, potentially entrenching its role in AI's future by making it twice as attractive for developers. And that takes us to...
+Why Wall St is rattled
+This was all made possible because DeepSeek figured out how to weaken the link between AI progress and AI chips. And yet right now, America’s '
+magnificent 7’
+(Google, Amazon, Meta, Microsoft, Apple, Tesla, NVIDIA) are variously investing staggering amounts of cash in those very same world-leading AI chips from Nvidia.
+Considering these 'Mag 7' now make up almost a third of the entire S&P 500 market cap, a chunk of the US market now arguably rests on
+a big bet
+on Nvidia chips. And yet by reducing AI's reliance on those same chips, DeepSeek
+might
+'ve just popped a bubble.
+Now,
+Jevons paradox
+suggests that as tech efficiency improves and costs collapse, usage actually goes
+up
+— ie, longer term, maybe DeepSeek merely just delayed rather than destroyed part of America's AI moat. But it only takes a flash of uncertainty to spook markets, who've already shaved 5% off Nvidia's share price in just the fast few hours.
+And then there's...
+Why DC is rattled
+First
+, maybe US
+export controls simply don't work
+— when Biden first started tightening US rules in 2022, DeepSeek didn't even exist. Now, even with shrinking access to the top US tech, DeepSeek has still closed an AI gap in days.
+Second
+, even factoring in DeepSeek’s pre-existing stash of chips from its CEO's quant hedge fund, he's
+been open
+(
+🇨🇳
+) about the fact that the US cutting off China's
+access
+to chips just motivated him to cut
+China's
+dependence
+on them
+.
+Third
+, this might also prompt a DC rethink around the role of
+tech monopolies
+— a top US official long
+argued
+they harm US competitiveness by reducing innovation, but that puts Trump in a bind: truly helping his Silicon Valley allies might mean cutting them loose.
+And
+finally
+, this will all revive US fears about
+China-based tech
+,
+a la
+TikTok
+: ask DeepSeek about Taiwan and you'll get
+Communist Party propaganda
+. Ask it about Xi Jinping, and it'll
+refuse
+to even acknowledge his existence. You can even watch the bot type out answers, then suddenly
+hit delete
+once it realises it's crossed a Party line.
+Sure, someone will eventually just tweak DeepSeek’s open-source code to ditch this kind of censorship. But it's still a reminder of what's ultimately at stake here: AI is arguably a race to shape what humans see, think, feel, and believe.
+INTRIGUE’S TAKE
+There are so many ways to think about this. For example, the sheer shock has
+spawned theories
+, like maybe DeepSeek has secretly and illegally used a huge stash of America’s top Nvidia chips. But the beauty of open-source coding is that an independent lab can now just check DeepSeek’s low-chip claims itself, though most US competitors are now too busy
+adopting
+DeepSeek’s advancements.
+Another way to think about this story is as a modern
+Sputnik moment
+for the US — ie, a shock to its complacency around any technological, economic, or military edge, while also highlighting China's perceived advantages (huge datasets, state support, and an open-source tech culture). So maybe the US will now just redouble its own AI efforts.
+But here’s a third way to think about this: DeepSeek licensed its impressive gains via America’s MIT, published its findings on US-based academic platforms, and did so in English, after building on US open-source coding, which all still sits atop a hardware tripod that’s
+still dominated by the US
+and its partners: chip design (US), manufacturing (Taiwan), and extreme ultraviolet lithography (the Netherlands).
+Anyway, we’d love to hear your thoughts in today’s poll below.
+Also worth noting:
+DeepSeek's CEO reportedly just told China's Premier Li that US chip controls are still a bottleneck for China’s AI progress.
+Meanwhile, Microsoft's CEO just
+quoted
+the Jevons paradox in justifying his big bet on new AI chips, while Meta’s Mark Zuckerberg has now
+promised
+a forthcoming version of his own open-source AI model will soon retake the lead.
+Ditto, OpenAI’s Sam Altman has promised his own new version in the coming weeks, after
+tweeting
+that, “
+It is (relatively) easy to copy something that you know works. It is extremely hard to do something new, risky, and difficult when you don’t know if it will work.
+”
+MEANWHILE, ELSEWHERE…
+🇹🇯
+Tajikistan
+: The head of Russia’s answer to NATO (the Collective Security Treaty Organization, or CSTO) has said the alliance will start
+reinforcing the Tajik-Afghan border
+this year. The 100km border has become a growing source of concern due to various kidnappings and other security incidents involving local armed groups.
+🇱🇻
+Latvia
+: The Latvian Navy has
+deployed a warship to the Baltic Sea
+after the mysterious severing of yet another undersea cable, this time connecting Sweden and Latvia. Authorities have identified the Malta-flagged
+Michalis San
+as a
+“suspect vessel”,
+given it was near the location and was headed towards Russia.
+🇲🇾
+Malaysia
+: Malaysian officials in an operation called
+Ops Airways have uncovered a vape smuggling syndicate
+netting corrupt officials a cool $45-60k a month. The syndicate mostly just smuggled the vapes in via trucks, evading millions in taxes since at least 2023.
+🇧🇷
+Brazil
+: Brasilia has criticised what it says is a “
+degrading
+” and “
+flagrant disregard
+” for passenger rights after
+more than 80 Brazilian deportees arrived
+from the US
+handcuffed. This particular flight was apparently not directly linked to Trump 2.0, but rather stemmed from a 2017 bilateral agreement.
+🇸🇦
+Saudi Arabia
+: Riyadh has announced that foreigners will now be allowed to invest in publicly traded companies that
+own property in Makkah and Madinah
+, considered holy cities in Islam. The move is just the latest in Saudi Arabia’s efforts to attract overseas investment and diversify its economy.
+EXTRA INTRIGUE
+🤣
+Your weekly roundup of the world’s lighter news
+A Maine cat has
+become an accidental frequent flyer
+after being left on a plane, making three Australia-New Zealand trips in 24 hours.
+iPhones with TikTok already installed are being
+sold for record prices in the US
+following the video app’s removal from app stores.
+Poland has fired one of its generals after a batch of
+anti-tank mines somehow showed up at an Ikea warehouse
+.
+Someone has returned an Ernest Hemingway book
+to a local library
+, 56 years after first borrowing it.
+And a China-based fitness influencer has broken the world record for pull-ups,
+completing 44 in one minute
+.
+DEBUT OF THE DAY
+Giant panda Bao Li at Friday’s public debut at the Smithsonian's National Zoo in DC
+Zoo-lovers were saddened when the National Zoo in DC returned three giant pandas (including a cub born in 2020) to China back in 2023 — but the very next year, the Smithsonian and the China Wildlife Conservation Association announced a new agreement to bring pandas back to DC.
+So three-year-old Bao Li and Qing Bao arrived on a FedEx jet last October and, after several months of getting settled in, made their public debut this past Friday. Can’t see them in person? The National Zoo has relaunched its
+Panda Cam
+.
+DAILY POLL
+What do you think DeepSeek means for the US?
+🚀 It'll push the US tech sector to innovate harder
+💨 It'll leave US companies in the dust
+🤷 Meh, DeekSeek still leans on US tech
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Thursday’s poll:
+What do you think President Trump is looking to get out of Panama?
+🟨
+⬜️⬜️⬜️⬜️⬜️
+💸
+Lower transit fees (16%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🇨🇳
+Less influence from China (59%)
+🟨
+⬜️⬜️⬜️⬜️⬜️ 🏗️ End the Hutchison port deal early (19%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!)  (1%)
+Your two cents:
+🇨🇳
+H.S:
+“If an adversary wanted to damage the US economy, disrupting the canal might be the easiest and most effective play.”
+💸
+C.A:
+“With President Trump, it's all about the greenback.”
+✍️ M.N:
+“The canal is no longer nearly as critical to the US Navy as it was in the past. The US Navy is large enough to operate in both oceans without the need to constantly use the canal.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 100k+ leaders each day.
+It’s free to subscribe
+.

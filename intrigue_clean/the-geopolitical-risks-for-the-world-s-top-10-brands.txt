@@ -1,0 +1,226 @@
+URL: https://archives.internationalintrigue.io/p/geopolitical-risks-worlds-top-10-brands
+Title: 🌍 The geopolitical risks for the world’s top 10 brands
+
+IN TODAY’S EDITION
+1️⃣ Geopolitical risks for 5 global brands
+2️⃣ Zelenskyy makes a surprise Saudi visit
+3️⃣ Meal of the day
+Hi {{ First name | Intriguer }}.
+When we founded Intrigue back in 2022, we really just wanted to inject some much needed lols into the usual foreign policy content.
+But we also had a hunch that we were onto something. We felt that geopolitics and the need to understand our world would become more critical in the coming years.
+Especially as global issues increasingly become more entangled (yet ‘de-coupled’), more nuanced (yet starkly polarised), and more universally applicable (yet localised).
+You’ll see what I mean in our lead story today, which dives into the
+geopolitical risks
+impacting something closer to home: our
+top global consumer brands
+.
+THE HEADLINES
+US responds to Hamas counterproposal.
+US Secretary of State Antony Blinken has said some of the
+amendments requested by Hamas
+on the US-sponsored ceasefire plan go “
+beyond positions that it had previously taken and accepted
+”, but that other requests are “
+workable
+”. Blinken says he’ll continue negotiations despite mixed responses from both Hamas and Israel. Meanwhile, the UN has added the Israeli military, Hamas, and the Palestinian Islamic Jihad (plus the warring parties in Sudan) to its list of those violating
+children’s rights
+.
+Russia halts USD and euro trade after new sanctions hit.
+Responding to a new round of US sanctions
+against the Moscow Exchange
+, local authorities have halted all trade and settlements in US dollars and euros on Russia’s leading financial marketplace. This means companies and investors will have to trade over the counter, bringing higher costs and lower oversight.
+Senators vote on Milei reforms amid protests.
+President Milei’s cost-cutting package has received a
+provisional pass
+from Argentina’s senate, but voting on the details will continue today (Thursday), and it then needs to go back to the lower house. Meanwhile, thousands of protesters have gathered outside the legislature, with reports of clashes with the authorities.
+Iranian and UAE drones in Sudan war.
+Evidence has emerged that the warring parties in Sudan’s ongoing civil war are using
+weapons from Iran and the UAE
+, in breach of a UN arms embargo. Both Iran and the UAE are looking to expand their regional influence. After more than a year of war, at least 16,000 civilians have been killed, and nine million have been displaced.
+G7 meeting kicks off.
+Western leaders have
+kicked off this year’s G7 meeting
+in the southern Italian sun today. They’re expected to announce a series of new initiatives, including reconstruction loans for Ukraine financed by frozen Russian assets.
+TOP STORY
+The geopolitical risks for the world’s top 10 brands
+Credits: Kantar BrandZ.
+We’re normally pretty suspicious of anyone who substitutes their ‘s’ with a ‘z’ to look cool, but we’ll give the UK-based ‘
+Kantar BrandZ Report 2024
+’ a pass (or is it ‘pasz’?).
+Kantar, a market research agency, publishes an annual report ranking companies by their
+brand
+value (i.e. how much a brand contributes to the overall value of its parent company) as opposed to that company’s hard assets or total market cap.
+Intrigued, we dug a little deeper.
+So here are five of the top 10 most valuable brands worldwide, and some of the
+main geopolitical headwinds they and their parent companies face today
+:
+Apple (ranked
+#1
+at $1.02T)
+US-China ties
+- Apple’s ‘
+Designed in California assembled in China
+’ needs no introduction. But as US-China rivalry heats up, companies (especially tech ones) risk getting caught in the crossfire. That’s why a smiling Tim Cook led a delegation of US CEOs to meet Xi Jinping earlier this year, but also why a smiling Tim Cook has been calling on leaders in Vietnam, Indonesia and elsewhere: you gotta diversify.
+Competition
+-
+China is Apple’s third-largest market but Apple has lost its top spot there this year, with local iPhone sales down 19% in Q1.
+It’s partly
+due to stiff competition from local rivals offering solid products at better prices to spendthrift consumers. So Apple has cut its own prices to lure customers back, but that might not be enough: some folks in China now simply prefer to buy from a national champion.
+Amazon (ranked
+#4
+at $577B)
+Trade chokepoints
+- When you build a brand on your ability to deliver a Steve Buscemi pillowcase in eight hours, supply chains can become a major brand risk. And despite deploying robots, chartering ships, and building out a fleet of 85 aircraft, Covid-era Amazon still delivered more ‘out-of-stock’ alerts, higher prices, and lower profits. So supply chains are hard, and made harder by factors like drought across the Panama Canal and Houthis along the Red Sea.
+Suppliers
+- Amazon has also deployed blockchain and IoT to better track and trace across its supply chain, but there are still
+reports
+of, say, tomato pastes made with Xinjiang forced labour slipping through.
+Government partnerships
+- Amazon (with Google) also won Israel’s ‘
+Project Nimbus
+’ tender last August to help transition the government onto the cloud. But critics highlight that the beneficiaries include Israel’s military, which continues to generate controversy over its war in Gaza. Amazon has (like other tech giants) also copped criticism for bowing to censorship policies imposed by states like China and the UAE.
+McDonald’s (ranked
+#5 at
+$223B)
+Boycotts
+-
+There are 42,000 McDonald’s stores across 120 countries, and around 93% of them are owned by local franchisees. But it’s an American brand, and recent Israel boycotts have highlighted the risks this can now entail. But as an inverse reminder of the brand’s power, look at what happens when McDonalds
+isn’t
+present: you still get ‘Mash Donalds’ in Iran, ‘Big Hit’ (Big Mac) in Russia, and ‘McDunalds’ in Cuba (there’s also a real McDonalds in Guantanamo Bay but that’s another story).
+Environment
+- Many have warned about extreme weather events and changes in our climate, but McDonald’s customers in Asia have already had a taste: floods in Canada triggered a historic drop in potato yields and - combined with Covid chaos - caused stores in Japan, Malaysia and Indonesia to pull large-sized french fries from their menus in 2022.
+Visa (ranked #7 at $189B)
+Sanctions
+- Just when you think the global business environment couldn’t get any trickier, Russia invades its neighbour and triggers retaliatory sanctions. So Visa has duly blocked international transactions from Russian Visa cards and is booting Russian entities from its systems to comply with US and EU sanctions. But it’s been interesting to watch local payment rivals seek to fill the gap, as China, Russia, and others try to insulate themselves against this kind of US firepower.
+Tencent (ranked #10 at $135B)
+Regulatoooooors
+-
+The only non-US brand to make this particular UK-based list, Tencent owns China’s super-app (WeChat), is the world’s largest video game publisher (with stakes in hits like Fortnite), and also owns a fifth of Universal Music (which publishes everyone from Warren G to Taylor Swift). But with so much of its business online, it’s vulnerable to new regulatory scrutiny at home and abroad. Eg, Beijing hit it with a surprise video game crackdown in 2021, and Tencent built one of the world’s largest AI chip stockpiles ahead of US export controls last year. It’s now hoping it can switch to domestic chips without losing its edge.
+And this is just the tiniest snapshot of global brandz (
+😎
+), and the ways they now bump up against this wild world of ours.
+INTRIGUE’S TAKE
+So what’s a brand to do? Heck, what’s a consumer to do?
+There’s a natural temptation for more
+consumers to turn inwards
+and buy local, which is certainly a viable option for some products, like if you live in Florida and want to pick up some oranges. But those oranges likely grew with a little help from ammonium sulphate, which is produced in the US, though not enough to meet demand (US imports hit a new record in March).
+Likewise, there’s a natural temptation for more
+companies to pull up the drawbridge
+and focus on their home markets. And that’s a viable option if you’re, say, a Czech microbrewery serving one of the beer halls in Prague. But while the Czechs produce their own barley, hops, yeast, water, and even beer bottles, those darn bottles need silica, and the Czechs don’t make enough.
+So these local urges are noble, but eventually many will bump up against global realities of some kind. And so
+the winners in that world
+will be those who figure out how to harness a global reach, but in a way that respects local tastes and regulations, caters to those yearnings for authentic connections, but while somehow also hedging against supply risks.
+That sounds hard, but it might look like more decentralisation and localisation for some global brands, but for others, more accumulation and conglomeration of local brands under an arms-length HQ.
+It’s riches in niches (which only rhymes for Americans).
+YOU LOVE INTERNATIONAL INTRIGUE, NOW MEET ELECTION INTRIGUE
+It’s no secret 2024 is a big election year…
+…And yet, no media outlet is clearly and accurately explaining how US foreign policy is shaping the November US election result and how that result will shape the world.
+So, check out our very own
+Election Intrigue
+, and we can promise you this:
+A weekly briefing
+delivered every Thursday right to your inbox (
+subscribe to the newsletter!
+)
+A weekly podcast with Kristen and John
+diving a little deeper into that week’s newsletter (
+subscribe to the podcast!
+), and
+Absolutely ZERO partisan politics
+. If you want your political preferences regurgitated, may we suggest cable TV or Twitter
+😘
+Sign up now
+MEANWHILE, ELSEWHERE…
+🇦🇲
+Armenia
+: Prime Minister Pashinyan has
+told parliament his country will leave
+the Russia-led Collective Security Treaty Organization (CSTO), with the timing to be decided later. He says the CSTO, Russia’s answer to NATO, didn’t fulfil its
+“contractual obligations”
+when
+Russia
+failed to come to Armenia’s aid
+in territorial disputes with Azerbaijan.
+🇦🇹
+Austria
+: Chancellor Karl Nehammer has
+announced Austria
+will hold general elections on September 29th. The announcement follows the populist opposition Freedom Party’s win in Sunday’s European elections, momentum the party hopes will now carry over to the national ballots.
+🇳🇨
+New Caledonia
+: As promised during his emergency visit last month, French President Emmanuel Macron has now
+suspended a controversial voting reform
+in the French territory of New Caledonia. It would’ve given more French citizens local voting rights, but it triggered weeks of unrest and renewed calls for independence, particularly among indigenous Kanaks.
+🇨🇺
+Cuba
+: Havana has
+welcomed a small number of Russian warships
+as the two countries prepare for planned military exercises in the Caribbean. US officials are monitoring but downplaying the visit, noting Russia paid similar annual visits between 2013 and 2020.
+🇸🇦
+Saudi Arabia
+: Ukrainian President Volodymyr Zelenskyy has
+made a surprise visit to Riyadh
+, marking his second trip to the kingdom this year. He’s hoping to lift numbers for this weekend’s peace summit in Switzerland, with reports 78 governments are now confirmed to attend.
+EXTRA INTRIGUE
+Here’s what’s happening in other worlds
+Science
+: Gen X members are
+getting cancer in higher numbers
+than their Baby Boomer parents, according to US and Brazilian researchers.
+Sport
+: Spanish tennis star Rafael Nadal
+will miss Wimbledon
+next month to prepare for the Olympics, where he’s partnered up with Carlos Alcaraz for the doubles.
+Architecture
+: Fumihiko Maki, one of Japan’s famed Pritzker laureates (like the Nobel prize for architecture),
+has passed away in Tokyo aged 95
+, leaving a modernist legacy including the new 4 World Trade Center.
+MEAL OF THE DAY
+Chicken McDo with McSpaghetti. Credits: McDonald’s
+We’ve probably talked enough about McDonald’s but… the Chicago-based food giant says it’s planning to open another 9,000 stores abroad (and 900 at home) by 2027, including a big bet on China.
+And while it’s built a global brand by flipping more burgers and salting more fries from Tokyo to Tbilisi, it has
+occasionally
+tweaked its menu to reflect local tastes. For example, the McSpaghetti has been a hit in the Philippines since 1986.
+If anyone’s wondering why an Italian prime minister has only visited the Philippines once since 1986, well there’s your answer.
+DAILY POLL
+What do you think is the biggest risk ahead for global brands?
+🏗️ Supply chain logistics
+⛔ Supply chain ethics
+🔥 Conflict
+🏛️ Government decisions
+🌿 Environment
+✍️ Other (write in!)
+Login
+or
+Subscribe
+to participate
+Yesterday’s poll:
+Will Macron become a lame duck president after July?
+🟨
+🟨
+🟨
+⬜️⬜️⬜️
+📣
+Yes, the people have spoken  (34%)
+🟩
+🟩
+🟩
+🟩
+🟩
+🟩
+🙅
+No, the EU elections don't fully reflect national vibes (63%)
+⬜️⬜️⬜️⬜️⬜️⬜️ ✍️ Other (write in!) (3%)
+Your two cents:
+📣
+K.M:
+“The disapproval runs deep…and this election is local... and personal.”
+🙅
+A.D:
+“If he's willing to roll the dice, he probably has good reason to think it'll turn out in his favor.”
+✍️
+B.S:
+“One idea is to put the far-right under pressure, challenge the other parties to work together, and also show the far-right can’t run the show as a minority government.”
+Was this forwarded to you? We're a team of ex-diplomats producing a concise and engaging geopolitical briefing for 90k+ leaders each day.
+It’s free to subscribe
+.
