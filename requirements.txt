@@ -4,5 +4,6 @@ datasets
 peft
 accelerate
 duckduckgo-search
+cloudscraper
 tqdm
 readline; platform_system=="Linux"
